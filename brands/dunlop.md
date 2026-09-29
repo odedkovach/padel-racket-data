@@ -1,0 +1,11 @@
+# Dunlop padel rackets: published specifications
+
+3 rackets. Every figure was read from the page linked in the last column. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+
+| Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Published at |
+|---|---|---|---|---|---|---|---|---|---|---|
+| [Dunlop Aerostar](https://padeltrue.com/rackets/dunlop-aerostar) |  | Diamond | 365 g | Medium | Pro EVA | €269.99 | 68 | 26 | 40 | [source](https://dunlopsports.com/en-gb/padel/rackets/aerostar) |
+| [Dunlop FX Start](https://padeltrue.com/rackets/dunlop-fx-start) |  | Hybrid | 360 g | Medium | Soft, Pro EVA | €89.99 | 43 | 57 | 67 | [source](https://dunlopsports.com/en-gb/padel/rackets/fx-start) |
+| [Dunlop Galactica Pro](https://padeltrue.com/rackets/dunlop-galactica-pro) |  | Hybrid | 370 g | High | Pro EVA | €279.99 | 60 | 41 | 31 | [source](https://dunlopsports.com/en-gb/padel/rackets/galactica-pro) |
+
+Full records with the quoted wording of every specification are in [rackets.json](../rackets.json). Compare any two of these at [padeltrue.com/compare](https://padeltrue.com/compare/).

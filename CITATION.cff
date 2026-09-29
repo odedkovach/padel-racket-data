@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Padel racket data: published specifications with sources"
+type: dataset
+authors:
+  - name: "PadelTrue"
+    website: "https://padeltrue.com/"
+url: "https://padeltrue.com/data"
+repository-code: "https://github.com/odedkovach/padel-racket-data"
+license: CC-BY-4.0
+date-released: "2026-09-29"
