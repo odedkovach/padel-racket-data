@@ -8,6 +8,8 @@ Address: `https://padeltrue.com/mcp` (streamable HTTP, plain JSON answers, no se
 |---|---|
 | `search_rackets` | Search the catalogue by model name and explicit filters: brand, exact year, shape, a budget with its currency, a lowest rating, ordered by one rating. Default 3 results, at most 10 |
 | `get_racket` | Every published specification of one racket, each with the address it was read from and the wording used there |
+| `search` | For ChatGPT connectors and deep research: find rackets by words of the name, returns id, title and page address |
+| `fetch` | For ChatGPT: one racket as a document, every figure with its source, by the id from `search` |
 | `compare_rackets` | Two exact models side by side, with a caution when a rating difference may come from a missing input. Names no winner |
 
 Every answer names its sources, the version of the rating model, and says that ratings are calculated from published specifications and are not play tests. No answer contains a retailer link.

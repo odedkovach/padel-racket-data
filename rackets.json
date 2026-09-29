@@ -1455,6 +1455,13 @@
     "balance",
     "core"
    ],
+   "inputConflicts": {
+    "balance": {
+     "text": "gives two conflicting balance categories on its source page, head-heavy in the table and medium in the description",
+     "source": "https://www.babolat.com/es/counter-veron-2.6/150181.html",
+     "verbatim": "Tipo de equilibrio: Cabeza pesada / con un equilibrio medio y un peso bien distribuido"
+    }
+   },
    "profile": [
     "control",
     "forgiving"
