@@ -1,6 +1,6 @@
 # Specification coverage in this PadelTrue snapshot
 
-Export date: 2026-09-29. Model version: 1.0. Records: 120.
+Export date: 2026-09-29. Model version: 1.0. Records: 142.
 
 This measures the records collected by PadelTrue, not the whole market or the quality of a brand. A missing field here does not establish that a manufacturer never published it. Small and unequal brand samples are not a brand ranking.
 
@@ -11,6 +11,7 @@ Each cell shows records with the field / records for that brand. Numerical balan
 | Adidas | 14 | 14/14 | 0/14 | 13/14 | 12/14 |
 | Babolat | 10 | 10/10 | 7/10 | 10/10 | 2/10 |
 | Bullpadel | 15 | 15/15 | 8/15 | 15/15 | 8/15 |
+| Cork Padel | 8 | 0/8 | 0/8 | 0/8 | 0/8 |
 | Drop Shot | 2 | 2/2 | 0/2 | 2/2 | 0/2 |
 | Dunlop | 3 | 3/3 | 0/3 | 2/3 | 0/3 |
 | Head | 13 | 10/13 | 1/13 | 13/13 | 7/13 |
@@ -18,6 +19,7 @@ Each cell shows records with the field / records for that brand. Numerical balan
 | Kuikma | 3 | 3/3 | 1/3 | 3/3 | 2/3 |
 | Nox | 26 | 26/26 | 0/26 | 26/26 | 10/26 |
 | Oxdog | 7 | 7/7 | 0/7 | 7/7 | 4/7 |
+| Royal Padel | 14 | 10/14 | 0/14 | 12/14 | 3/14 |
 | Siux | 13 | 7/13 | 0/13 | 13/13 | 5/13 |
 | StarVie | 3 | 3/3 | 0/3 | 3/3 | 3/3 |
 | Tecnifibre | 2 | 2/2 | 0/2 | 2/2 | 1/2 |

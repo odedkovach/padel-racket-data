@@ -5,7 +5,7 @@
  "built": "2026-09-29",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 120,
+ "count": 142,
  "rackets": [
   {
    "slug": "adidas-arrow-hit-2026",
@@ -3379,6 +3379,516 @@
      "checkedOn": "2026-09-28",
      "verbatim": "Precio habitual: 319,99 € (25% de descuento) Precio: 239,99 €",
      "source": "https://www.bullpadel.com/es/5682-pala-bullpadel-xplo-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "cork-padel-classic-ii",
+   "name": "Cork Padel Classic II",
+   "brand": "Cork Padel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/cork-padel-classic-ii",
+   "productUrl": "https://www.corkpadel.com/produto/classic-ii/",
+   "level": "iniciante / intermédio",
+   "player": null,
+   "ratings": {
+    "power": 36,
+    "control": 66,
+    "handling": 70,
+    "forgiveness": 57,
+    "comfort": 66,
+    "value": 16
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "all-round",
+    "easy to move",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma: Lágrima",
+     "source": "https://www.corkpadel.com/produto/classic-ii/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balanço: Baixo",
+     "source": "https://www.corkpadel.com/produto/classic-ii/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-soft, Bio-soft Foam",
+     "value": "medium-soft",
+     "material": "Bio-soft Foam",
+     "verbatim": "Rigidez: Média/soft",
+     "source": "https://www.corkpadel.com/produto/classic-ii/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€330",
+     "value": 330,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "330 EUR (schema.org offer)",
+     "source": "https://www.corkpadel.com/produto/classic-ii/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "cork-padel-extreme-deus-ii",
+   "name": "Cork Padel Extreme Deus II",
+   "brand": "Cork Padel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/cork-padel-extreme-deus-ii",
+   "productUrl": "https://www.corkpadel.com/en/product/extreme-deus-ii/",
+   "level": "advanced to professional",
+   "player": null,
+   "ratings": {
+    "power": 45,
+    "control": 57,
+    "handling": 50,
+    "forgiveness": 41,
+    "comfort": 34,
+    "value": 8
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Shape: Hybrid",
+     "source": "https://www.corkpadel.com/en/product/extreme-deus-ii/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance: Medium",
+     "source": "https://www.corkpadel.com/en/product/extreme-deus-ii/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Hard, Extreme foam",
+     "value": "hard",
+     "material": "Extreme foam",
+     "verbatim": "Stiffness: Hard",
+     "source": "https://www.corkpadel.com/en/product/extreme-deus-ii/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Surface: Rough",
+     "source": "https://www.corkpadel.com/en/product/extreme-deus-ii/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€499",
+     "value": 499,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "499 EUR (schema.org offer)",
+     "source": "https://www.corkpadel.com/en/product/extreme-deus-ii/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "cork-padel-premium-control-iii",
+   "name": "Cork Padel Premium Control III",
+   "brand": "Cork Padel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/cork-padel-premium-control-iii",
+   "productUrl": "https://www.corkpadel.com/produto/premium-control-iii/",
+   "level": "iniciante / intermédio",
+   "player": null,
+   "ratings": {
+    "power": 36,
+    "control": 66,
+    "handling": 70,
+    "forgiveness": 50,
+    "comfort": 58,
+    "value": 14
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "all-round",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma: Lágrima",
+     "source": "https://www.corkpadel.com/produto/premium-control-iii/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balanço: Baixo",
+     "source": "https://www.corkpadel.com/produto/premium-control-iii/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium",
+     "value": "medium",
+     "material": null,
+     "verbatim": "Rigidez: Média",
+     "source": "https://www.corkpadel.com/produto/premium-control-iii/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superfície: Rugosa",
+     "source": "https://www.corkpadel.com/produto/premium-control-iii/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€360",
+     "value": 360,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "360 EUR (schema.org offer)",
+     "source": "https://www.corkpadel.com/produto/premium-control-iii/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "cork-padel-premium-hybrid-iii",
+   "name": "Cork Padel Premium Hybrid III",
+   "brand": "Cork Padel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/cork-padel-premium-hybrid-iii",
+   "productUrl": "https://www.corkpadel.com/produto/premium-hybrid-iii/",
+   "level": "iniciante / intermédio",
+   "player": null,
+   "ratings": {
+    "power": 45,
+    "control": 57,
+    "handling": 50,
+    "forgiveness": 55,
+    "comfort": 50,
+    "value": 12
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Forma:  Híbrida",
+     "source": "https://www.corkpadel.com/produto/premium-hybrid-iii/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balanço: Médio",
+     "source": "https://www.corkpadel.com/produto/premium-hybrid-iii/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, Bio-soft Foam",
+     "value": "medium",
+     "material": "Bio-soft Foam",
+     "verbatim": "Rigidez: Média",
+     "source": "https://www.corkpadel.com/produto/premium-hybrid-iii/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superfície: Rugosa",
+     "source": "https://www.corkpadel.com/produto/premium-hybrid-iii/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€360",
+     "value": 360,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "360 EUR (schema.org offer)",
+     "source": "https://www.corkpadel.com/produto/premium-hybrid-iii/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "cork-padel-premium-woman",
+   "name": "Cork Padel Premium Woman",
+   "brand": "Cork Padel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/cork-padel-premium-woman",
+   "productUrl": "https://www.corkpadel.com/en/product/premium-woman/",
+   "level": "beginner / intermediate",
+   "player": null,
+   "ratings": {
+    "power": 45,
+    "control": 57,
+    "handling": 50,
+    "forgiveness": 55,
+    "comfort": 50,
+    "value": 12
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Shape: Hybrid",
+     "source": "https://www.corkpadel.com/en/product/premium-woman/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance: Medium",
+     "source": "https://www.corkpadel.com/en/product/premium-woman/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium",
+     "value": "medium",
+     "material": null,
+     "verbatim": "Stiffness: Medium",
+     "source": "https://www.corkpadel.com/en/product/premium-woman/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Surface: Rough",
+     "source": "https://www.corkpadel.com/en/product/premium-woman/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€360",
+     "value": 360,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "360 EUR (schema.org offer)",
+     "source": "https://www.corkpadel.com/en/product/premium-woman/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "cork-padel-supreme-control-iv",
+   "name": "Cork Padel Supreme Control IV",
+   "brand": "Cork Padel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/cork-padel-supreme-control-iv",
+   "productUrl": "https://www.corkpadel.com/produto/supreme-control-iv/",
+   "level": "intermédio a avançado",
+   "player": null,
+   "ratings": {
+    "power": 36,
+    "control": 66,
+    "handling": 70,
+    "forgiveness": 43,
+    "comfort": 50,
+    "value": 12
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "all-round",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma: Lágrima",
+     "source": "https://www.corkpadel.com/produto/supreme-control-iv/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balanço: Baixo",
+     "source": "https://www.corkpadel.com/produto/supreme-control-iv/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, Extreme foam",
+     "value": "medium-hard",
+     "material": "Extreme foam",
+     "verbatim": "Rigidez: Média/dura",
+     "source": "https://www.corkpadel.com/produto/supreme-control-iv/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superfície: Rugosa",
+     "source": "https://www.corkpadel.com/produto/supreme-control-iv/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€440",
+     "value": 440,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "440 EUR (schema.org offer)",
+     "source": "https://www.corkpadel.com/produto/supreme-control-iv/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "cork-padel-supreme-hybrid-iv",
+   "name": "Cork Padel Supreme Hybrid IV",
+   "brand": "Cork Padel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/cork-padel-supreme-hybrid-iv",
+   "productUrl": "https://www.corkpadel.com/produto/supreme-hybrid-iv/",
+   "level": "intermédio a avançado",
+   "player": null,
+   "ratings": {
+    "power": 45,
+    "control": 57,
+    "handling": 50,
+    "forgiveness": 48,
+    "comfort": 42,
+    "value": 9
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Forma:  Híbrida",
+     "source": "https://www.corkpadel.com/produto/supreme-hybrid-iv/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balanço: Médio",
+     "source": "https://www.corkpadel.com/produto/supreme-hybrid-iv/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard",
+     "value": "medium-hard",
+     "material": "",
+     "verbatim": "Rigidez: Média/dura",
+     "source": "https://www.corkpadel.com/produto/supreme-hybrid-iv/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superfície: Rugosa",
+     "source": "https://www.corkpadel.com/produto/supreme-hybrid-iv/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€440",
+     "value": 440,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "440 EUR (schema.org offer)",
+     "source": "https://www.corkpadel.com/produto/supreme-hybrid-iv/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "cork-padel-supreme-power-iv",
+   "name": "Cork Padel Supreme Power IV",
+   "brand": "Cork Padel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/cork-padel-supreme-power-iv",
+   "productUrl": "https://www.corkpadel.com/produto/supreme-power-iv/",
+   "level": "intermédio a avançado",
+   "player": null,
+   "ratings": {
+    "power": 82,
+    "control": 10,
+    "handling": 30,
+    "forgiveness": 25,
+    "comfort": 34,
+    "value": 10
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma:  Diamante",
+     "source": "https://www.corkpadel.com/produto/supreme-power-iv/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balanço: alto",
+     "source": "https://www.corkpadel.com/produto/supreme-power-iv/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, Extreme foam",
+     "value": "medium-hard",
+     "material": "Extreme foam",
+     "verbatim": "Toque Médio/duro",
+     "source": "https://www.corkpadel.com/produto/supreme-power-iv/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superfície: Rugosa",
+     "source": "https://www.corkpadel.com/produto/supreme-power-iv/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€440",
+     "value": 440,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "440 EUR (schema.org offer)",
+     "source": "https://www.corkpadel.com/produto/supreme-power-iv/",
      "sourceType": "manufacturer"
     }
    }
@@ -7958,6 +8468,1165 @@
      "verbatim": "259,00 €",
      "source": "https://oxdogpadel.com/en-int/products/ultimate-tour-x",
      "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "royal-padel-36-aniversario-light",
+   "name": "Royal Padel 36 Aniversario Light",
+   "brand": "Royal Padel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/royal-padel-36-aniversario-light",
+   "productUrl": "https://royalpadel.com/product/royal-padel-36-aniversario-light/",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 34,
+    "control": 66,
+    "handling": 76,
+    "forgiveness": 72,
+    "comfort": 86,
+    "value": 19
+   },
+   "inputsPublished": 5,
+   "profile": [
+    "all-round",
+    "easy to move",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "forma de lágrima",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-light/",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 365 g",
+     "min": 350,
+     "max": 365,
+     "verbatim": "entre 350 y 365 gramos",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-light/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance bajo",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-light/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, Polietileno",
+     "value": "soft",
+     "material": "Polietileno",
+     "verbatim": "tacto suave",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-light/",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "fibra de vidrio aluminizado Fiber Tech",
+     "material": "fibra de vidrio aluminizado Fiber Tech",
+     "verbatim": "tejido de fibra de vidrio aluminizado “Fiber Tech”",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-light/",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "fibra de vidrio con refuerzos de carbono",
+     "material": "fibra de vidrio con refuerzos de carbono",
+     "verbatim": "Tubular bidireccional de fibra de vidrio con refuerzos de carbono",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-light/",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38MM",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-light/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "acabados en relieve",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-light/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€320",
+     "value": 320,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "320 EUR (schema.org offer)",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-light/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "royal-padel-36-aniversario-poly",
+   "name": "Royal Padel 36 Aniversario Poly",
+   "brand": "Royal Padel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/royal-padel-36-aniversario-poly",
+   "productUrl": "https://royalpadel.com/product/royal-padel-36-aniversario-poly/",
+   "level": "Competicion",
+   "player": null,
+   "ratings": {
+    "power": 38,
+    "control": 66,
+    "handling": 66,
+    "forgiveness": 64,
+    "comfort": 73,
+    "value": 17
+   },
+   "inputsPublished": 4,
+   "profile": [
+    "all-round",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "forma de lágrima",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-poly/",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 380 g",
+     "min": 360,
+     "max": 380,
+     "verbatim": "entre 360 y 380 gramos",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-poly/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance bajo",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-poly/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, Polietileno blando de alta absorción",
+     "value": "soft",
+     "material": "Polietileno blando de alta absorción",
+     "verbatim": "tacto blando",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-poly/",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibertech",
+     "material": "Fibertech",
+     "verbatim": "Fibertech en la superficie",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-poly/",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38MM",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-poly/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "acabados en relieve",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-poly/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€320",
+     "value": 320,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "320 EUR (schema.org offer)",
+     "source": "https://royalpadel.com/product/royal-padel-36-aniversario-poly/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "royal-padel-fury-2026",
+   "name": "Royal Padel FURY 2026",
+   "brand": "Royal Padel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/royal-padel-fury-2026",
+   "productUrl": "https://royalpadel.com/product/royal-padel-fury-2026/",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 66,
+    "control": 34,
+    "handling": 24,
+    "forgiveness": 42,
+    "comfort": 30,
+    "value": 12
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "weight": {
+     "display": "365 to 380 g",
+     "min": 365,
+     "max": 380,
+     "verbatim": "entre 365 y 380 gramos",
+     "source": "https://royalpadel.com/product/royal-padel-fury-2026/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://royalpadel.com/product/royal-padel-fury-2026/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Goma Eva MID HARD",
+     "value": null,
+     "material": "Goma Eva MID HARD",
+     "verbatim": "Núcleo de Goma Eva MID HARD",
+     "source": "https://royalpadel.com/product/royal-padel-fury-2026/",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbono 12K",
+     "material": "Carbono 12K",
+     "verbatim": "superficie 100 % en Carbono 12K",
+     "source": "https://royalpadel.com/product/royal-padel-fury-2026/",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono 3K 3D Hexcel Twill Aeronautical",
+     "material": "Carbono 3K 3D Hexcel Twill Aeronautical",
+     "verbatim": "100% de Carbono 3K 3D Hexcel Twill Aeronautical",
+     "source": "https://royalpadel.com/product/royal-padel-fury-2026/",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38MM",
+     "source": "https://royalpadel.com/product/royal-padel-fury-2026/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "El acabado rugoso",
+     "source": "https://royalpadel.com/product/royal-padel-fury-2026/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€350",
+     "value": 350,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "350 EUR (schema.org offer)",
+     "source": "https://royalpadel.com/product/royal-padel-fury-2026/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "royal-padel-jpn-pro-blue-2026",
+   "name": "Royal Padel JPN Pro Blue 2026",
+   "brand": "Royal Padel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/royal-padel-jpn-pro-blue-2026",
+   "productUrl": "https://royalpadel.com/product/royal-padel-jpn-pro-blue-2026/",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 82,
+    "control": 10,
+    "handling": 30,
+    "forgiveness": 46,
+    "comfort": 58,
+    "value": 17
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "power"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma de diamante oversize",
+     "source": "https://royalpadel.com/product/royal-padel-jpn-pro-blue-2026/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://royalpadel.com/product/royal-padel-jpn-pro-blue-2026/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, Polietileno",
+     "value": "soft",
+     "material": "Polietileno",
+     "verbatim": "tacto suave",
+     "source": "https://royalpadel.com/product/royal-padel-jpn-pro-blue-2026/",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Tejido 3D Hex",
+     "material": "Tejido 3D Hex",
+     "verbatim": "Con sistema \"Tejido 3D Hex\"",
+     "source": "https://royalpadel.com/product/royal-padel-jpn-pro-blue-2026/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "superficie rugosa",
+     "source": "https://royalpadel.com/product/royal-padel-jpn-pro-blue-2026/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€319",
+     "value": 319,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "319 EUR (schema.org offer)",
+     "source": "https://royalpadel.com/product/royal-padel-jpn-pro-blue-2026/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "royal-padel-jpn-pro-red-2026",
+   "name": "Royal Padel JPN Pro Red 2026",
+   "brand": "Royal Padel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/royal-padel-jpn-pro-red-2026",
+   "productUrl": "https://royalpadel.com/product/royal-padel-jpn-pro-red/",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 82,
+    "control": 10,
+    "handling": 30,
+    "forgiveness": 46,
+    "comfort": 58,
+    "value": 17
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "power"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma de diamante oversize",
+     "source": "https://royalpadel.com/product/royal-padel-jpn-pro-red/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://royalpadel.com/product/royal-padel-jpn-pro-red/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, Polietileno",
+     "value": "soft",
+     "material": "Polietileno",
+     "verbatim": "tacto suave",
+     "source": "https://royalpadel.com/product/royal-padel-jpn-pro-red/",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Tejido 3D Hex",
+     "material": "Tejido 3D Hex",
+     "verbatim": "Con sistema \"Tejido 3D Hex\"",
+     "source": "https://royalpadel.com/product/royal-padel-jpn-pro-red/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "superficie rugosa",
+     "source": "https://royalpadel.com/product/royal-padel-jpn-pro-red/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€319",
+     "value": 319,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "319 EUR (schema.org offer)",
+     "source": "https://royalpadel.com/product/royal-padel-jpn-pro-red/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "royal-padel-m27-light-2026",
+   "name": "Royal Padel M27 Light 2026",
+   "brand": "Royal Padel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/royal-padel-m27-light-2026",
+   "productUrl": "https://royalpadel.com/product/royal-padel-m27-light-2026/",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 30,
+    "control": 74,
+    "handling": 56,
+    "forgiveness": 82,
+    "comfort": 68,
+    "value": 17
+   },
+   "inputsPublished": 4,
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "forma redonda",
+     "source": "https://royalpadel.com/product/royal-padel-m27-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 365 g",
+     "min": 350,
+     "max": 365,
+     "verbatim": "rango de pesos entre 350 y 365 gramos",
+     "source": "https://royalpadel.com/product/royal-padel-m27-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance medio",
+     "source": "https://royalpadel.com/product/royal-padel-m27-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, Polietileno de alta densidad",
+     "value": "soft",
+     "material": "Polietileno de alta densidad",
+     "verbatim": "goma blanda de Polietileno de alta densidad",
+     "source": "https://royalpadel.com/product/royal-padel-m27-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38MM",
+     "source": "https://royalpadel.com/product/royal-padel-m27-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€350",
+     "value": 350,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "350 EUR (schema.org offer)",
+     "source": "https://royalpadel.com/product/royal-padel-m27-light-2026/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "royal-padel-m27-poly-2026",
+   "name": "Royal Padel M27 Poly 2026",
+   "brand": "Royal Padel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/royal-padel-m27-poly-2026",
+   "productUrl": "https://royalpadel.com/product/royal-padel-m27-poly-2026/",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 34,
+    "control": 74,
+    "handling": 46,
+    "forgiveness": 74,
+    "comfort": 55,
+    "value": 16
+   },
+   "inputsPublished": 5,
+   "profile": [
+    "control",
+    "forgiving"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "forma redonda",
+     "source": "https://royalpadel.com/product/royal-padel-m27-poly-2026/",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 380 g",
+     "min": 360,
+     "max": 380,
+     "verbatim": "rango de pesos entre 360 y 380 gramos",
+     "source": "https://royalpadel.com/product/royal-padel-m27-poly-2026/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance medio",
+     "source": "https://royalpadel.com/product/royal-padel-m27-poly-2026/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, polietileno",
+     "value": "soft",
+     "material": "polietileno",
+     "verbatim": "Núcleo de polietileno Soft",
+     "source": "https://royalpadel.com/product/royal-padel-m27-poly-2026/",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbono 3K",
+     "material": "Carbono 3K",
+     "verbatim": "Carbono 3K en marco y caras",
+     "source": "https://royalpadel.com/product/royal-padel-m27-poly-2026/",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38MM",
+     "source": "https://royalpadel.com/product/royal-padel-m27-poly-2026/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€350",
+     "value": 350,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "350 EUR (schema.org offer)",
+     "source": "https://royalpadel.com/product/royal-padel-m27-poly-2026/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "royal-padel-r-ace-2026",
+   "name": "Royal Padel R ACE 2026",
+   "brand": "Royal Padel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/royal-padel-r-ace-2026",
+   "productUrl": "https://royalpadel.com/product/royal-padel-race-2026/",
+   "level": null,
+   "player": "Roger Aromí",
+   "ratings": {
+    "power": 84,
+    "control": 10,
+    "handling": 24,
+    "forgiveness": 24,
+    "comfort": 30,
+    "value": 12
+   },
+   "inputsPublished": 4,
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma de diamante",
+     "source": "https://royalpadel.com/product/royal-padel-race-2026/",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 380 g",
+     "min": 365,
+     "max": 380,
+     "verbatim": "entre 365 y 380 gramos",
+     "source": "https://royalpadel.com/product/royal-padel-race-2026/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "el balance alto",
+     "source": "https://royalpadel.com/product/royal-padel-race-2026/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Goma EVA MID HARD",
+     "value": null,
+     "material": "Goma EVA MID HARD",
+     "verbatim": "Núcleo de Goma EVA MID HARD",
+     "source": "https://royalpadel.com/product/royal-padel-race-2026/",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbono 3K",
+     "material": "Carbono 3K",
+     "verbatim": "100% Carbono 3K en caras y marco",
+     "source": "https://royalpadel.com/product/royal-padel-race-2026/",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono 3K",
+     "material": "Carbono 3K",
+     "verbatim": "100% Carbono 3K en caras y marco",
+     "source": "https://royalpadel.com/product/royal-padel-race-2026/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie con sistema \"Total Rough Spin\"",
+     "source": "https://royalpadel.com/product/royal-padel-race-2026/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€350",
+     "value": 350,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "350 EUR (schema.org offer)",
+     "source": "https://royalpadel.com/product/royal-padel-race-2026/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "royal-padel-r-ace-light-2025",
+   "name": "Royal Padel R ACE Light 2025",
+   "brand": "Royal Padel",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/royal-padel-r-ace-light-2025",
+   "productUrl": "https://royalpadel.com/product/royal-padel-r-ace-light-2025/",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 82,
+    "control": 10,
+    "handling": 30,
+    "forgiveness": 24,
+    "comfort": 32,
+    "value": 21
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "mantenemos la forma de diamante",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2025/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "el balance alto",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2025/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Goma EVA MID HARD",
+     "value": null,
+     "material": "Goma EVA MID HARD",
+     "verbatim": "Núcleo de Goma EVA MID HARD",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2025/",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbono 3K",
+     "material": "Carbono 3K",
+     "verbatim": "Las caras y el marco de la pala están fabricados 100% en Carbono 3K",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2025/",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono 3K",
+     "material": "Carbono 3K",
+     "verbatim": "Las caras y el marco de la pala están fabricados 100% en Carbono 3K",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2025/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie con sistema \"Total Rough Spin\"",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2025/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€209",
+     "value": 209,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "209 EUR (schema.org offer)",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2025/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "royal-padel-r-ace-light-2026",
+   "name": "Royal Padel R ACE Light 2026",
+   "brand": "Royal Padel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/royal-padel-r-ace-light-2026",
+   "productUrl": "https://royalpadel.com/product/royal-padel-r-ace-light-2026/",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 80,
+    "control": 10,
+    "handling": 36,
+    "forgiveness": 24,
+    "comfort": 34,
+    "value": 13
+   },
+   "inputsPublished": 4,
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma de diamante",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 365 g",
+     "min": 350,
+     "max": 365,
+     "verbatim": "entre 350 y 365 gramos",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Goma EVA MID HARD",
+     "value": null,
+     "material": "Goma EVA MID HARD",
+     "verbatim": "Núcleo de Goma EVA MID HARD",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbono 3K",
+     "material": "Carbono 3K",
+     "verbatim": "Sus caras y marco están fabricados 100% en Carbono 3K",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono 3K",
+     "material": "Carbono 3K",
+     "verbatim": "Sus caras y marco están fabricados 100% en Carbono 3K",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie con sistema \"Total Rough Spin\"",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€350",
+     "value": 350,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "350 EUR (schema.org offer)",
+     "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2026/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "royal-padel-r30-golden-white",
+   "name": "Royal Padel R30 Golden White",
+   "brand": "Royal Padel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/royal-padel-r30-golden-white",
+   "productUrl": "https://royalpadel.com/product/royal-padel-r30-golden-white/",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 66,
+    "control": 34,
+    "handling": 26,
+    "forgiveness": 64,
+    "comfort": 57,
+    "value": 16
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "weight": {
+     "display": "360 to 380 g",
+     "min": 360,
+     "max": 380,
+     "verbatim": "entre 360 y 380 gramos",
+     "source": "https://royalpadel.com/product/royal-padel-r30-golden-white/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://royalpadel.com/product/royal-padel-r30-golden-white/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, Polietileno",
+     "value": "soft",
+     "material": "Polietileno",
+     "verbatim": "núcleo de Polietileno blando",
+     "source": "https://royalpadel.com/product/royal-padel-r30-golden-white/",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "marcos reforzados en Carbono",
+     "source": "https://royalpadel.com/product/royal-padel-r30-golden-white/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "superficie rugosa",
+     "source": "https://royalpadel.com/product/royal-padel-r30-golden-white/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€319",
+     "value": 319,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "319 EUR (schema.org offer)",
+     "source": "https://royalpadel.com/product/royal-padel-r30-golden-white/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "royal-padel-rp-whip-extreme-2026",
+   "name": "Royal Padel RP Whip Extreme 2026",
+   "brand": "Royal Padel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/royal-padel-rp-whip-extreme-2026",
+   "productUrl": "https://royalpadel.com/product/rp-whip-extreme-2026/",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 52,
+    "control": 50,
+    "handling": 46,
+    "forgiveness": 58,
+    "comfort": 59,
+    "value": 15
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "weight": {
+     "display": "360 to 380 g",
+     "min": 360,
+     "max": 380,
+     "verbatim": "rango de pesos comprendido entre 360 y 380 gramos",
+     "source": "https://royalpadel.com/product/rp-whip-extreme-2026/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance medio",
+     "source": "https://royalpadel.com/product/rp-whip-extreme-2026/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Polietileno",
+     "value": null,
+     "material": "Polietileno",
+     "verbatim": "núcleo de Polietileno de alta recuperación",
+     "source": "https://royalpadel.com/product/rp-whip-extreme-2026/",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "fibra de vidrio aluminizada",
+     "material": "fibra de vidrio aluminizada",
+     "verbatim": "caras en fibra de vidrio aluminizada",
+     "source": "https://royalpadel.com/product/rp-whip-extreme-2026/",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "fibra de vidrio con refuerzos de carbono",
+     "material": "fibra de vidrio con refuerzos de carbono",
+     "verbatim": "Tubular bidireccional de fibra de vidrio \" Fibertech\" con refuerzos de carbono.",
+     "source": "https://royalpadel.com/product/rp-whip-extreme-2026/",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38MM",
+     "source": "https://royalpadel.com/product/rp-whip-extreme-2026/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie con sistema \"rough surface\"",
+     "source": "https://royalpadel.com/product/rp-whip-extreme-2026/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€290",
+     "value": 290,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "290 EUR (schema.org offer)",
+     "source": "https://royalpadel.com/product/rp-whip-extreme-2026/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "royal-padel-whip-light-2026",
+   "name": "Royal Padel Whip Light 2026",
+   "brand": "Royal Padel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/royal-padel-whip-light-2026",
+   "productUrl": "https://royalpadel.com/product/royal-padel-whip-light-2026/",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 18,
+    "control": 90,
+    "handling": 70,
+    "forgiveness": 90,
+    "comfort": 84,
+    "value": 26
+   },
+   "inputsPublished": 4,
+   "profile": [
+    "control",
+    "easy to move",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "forma redonda",
+     "source": "https://royalpadel.com/product/royal-padel-whip-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance bajo",
+     "source": "https://royalpadel.com/product/royal-padel-whip-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, Polietileno",
+     "value": "soft",
+     "material": "Polietileno",
+     "verbatim": "tacto suave y confortable",
+     "source": "https://royalpadel.com/product/royal-padel-whip-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "fibra de vidrio aluminizado Fiber Tech",
+     "material": "fibra de vidrio aluminizado Fiber Tech",
+     "verbatim": "dos capas de tejido de fibra de vidrio aluminizado “Fiber Tech”",
+     "source": "https://royalpadel.com/product/royal-padel-whip-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "fibra de vidrio con refuerzos de carbono",
+     "material": "fibra de vidrio con refuerzos de carbono",
+     "verbatim": "Tubular bidireccional de fibra de vidrio con refuerzos de carbono.",
+     "source": "https://royalpadel.com/product/royal-padel-whip-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38MM",
+     "source": "https://royalpadel.com/product/royal-padel-whip-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie con sistema \"rough surface\"",
+     "source": "https://royalpadel.com/product/royal-padel-whip-light-2026/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€260",
+     "value": 260,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "260 EUR (schema.org offer)",
+     "source": "https://royalpadel.com/product/royal-padel-whip-light-2026/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "royal-padel-whip-polietileno-2026",
+   "name": "Royal Padel Whip Polietileno 2026",
+   "brand": "Royal Padel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/royal-padel-whip-polietileno-2026",
+   "productUrl": "https://royalpadel.com/product/royal-padel-whip-polietileno-2026/",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 20,
+    "control": 90,
+    "handling": 66,
+    "forgiveness": 90,
+    "comfort": 83,
+    "value": 26
+   },
+   "inputsPublished": 5,
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "una forma redonda",
+     "source": "https://royalpadel.com/product/royal-padel-whip-polietileno-2026/",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 380 g",
+     "min": 360,
+     "max": 380,
+     "verbatim": "entre 360 y 380 gramos",
+     "source": "https://royalpadel.com/product/royal-padel-whip-polietileno-2026/",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "un balance bajo",
+     "source": "https://royalpadel.com/product/royal-padel-whip-polietileno-2026/",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, goma polietileno",
+     "value": "soft",
+     "material": "goma polietileno",
+     "verbatim": "Núcleo de goma ultra suave polietileno",
+     "source": "https://royalpadel.com/product/royal-padel-whip-polietileno-2026/",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "tejido de fibra de vidrio aluminizado Fiber Tech",
+     "material": "tejido de fibra de vidrio aluminizado Fiber Tech",
+     "verbatim": "dos capas de tejido de fibra de vidrio aluminizado “Fiber Tech”",
+     "source": "https://royalpadel.com/product/royal-padel-whip-polietileno-2026/",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "fibra de vidrio con refuerzos de carbono",
+     "material": "fibra de vidrio con refuerzos de carbono",
+     "verbatim": "Tubular bidireccional de fibra de vidrio con refuerzos de carbono.",
+     "source": "https://royalpadel.com/product/royal-padel-whip-polietileno-2026/",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38MM",
+     "source": "https://royalpadel.com/product/royal-padel-whip-polietileno-2026/",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie con sistema \"rough surface\"",
+     "source": "https://royalpadel.com/product/royal-padel-whip-polietileno-2026/",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€260",
+     "value": 260,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "260 EUR (schema.org offer)",
+     "source": "https://royalpadel.com/product/royal-padel-whip-polietileno-2026/",
+     "sourceType": "manufacturer"
     }
    }
   },
