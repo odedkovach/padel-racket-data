@@ -1,10 +1,13 @@
 # Bullpadel padel rackets: published specifications
 
-15 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+18 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
+| [Bullpadel Elite 02 2027](https://padeltrue.com/rackets/bullpadel-elite-02-2027) | 2027 | Hybrid | 350 to 360 g | 25.5 cm | Medium, Multieva | €294.99 | 41 | 57 | 52 | [product page](https://www.bullpadel.com/gb/6843-pala-bullpadel-elite-02-27.html) |
+| [Bullpadel Hack 05 2027](https://padeltrue.com/rackets/bullpadel-hack-05-2027) | 2027 | Diamond | 365 to 375 g | 26.5 cm | Medium-hard, Multieva | €349.99 | 70 | 26 | 31 | [product page](https://www.bullpadel.com/gb/6828-pala-bullpadel-hack-05-27.html) |
 | [Bullpadel Vertex 05 2027](https://padeltrue.com/rackets/bullpadel-vertex-05-2027) | 2027 | Diamond | 365 to 375 g | 25.5 cm | Medium, MultiEVA | €349.99 | 70 | 26 | 39 | [product page](https://www.bullpadel.com/es/6831-pala-bullpadel-vertex-05-27.html) |
+| [Bullpadel XPLO 2027](https://padeltrue.com/rackets/bullpadel-xplo-2027) | 2027 |  | 365 to 375 g |  | Medium-hard, Multieva | €329.99 | 52 | 50 | 31 | [product page](https://www.bullpadel.com/gb/6839-pala-bullpadel-xplo-27.html) |
 | [Bullpadel Elite W 2026](https://padeltrue.com/rackets/bullpadel-elite-w-2026) | 2026 | Hybrid | 350 to 360 g | 25.8 cm | Medium, MultiEVA | €199.98 | 41 | 57 | 52 | [product page](https://www.bullpadel.com/es/5688-pala-bullpadel-elite-w-26.html) |
 | [Bullpadel Flow Legend 2026](https://padeltrue.com/rackets/bullpadel-flow-legend-2026) | 2026 | Diamond | 350 to 360 g | 26 cm | Medium, MultiEVA | €189.99 | 65 | 26 | 52 | [product page](https://www.bullpadel.com/es/5687-pala-bullpadel-flow-legend.html) |
 | [Bullpadel Hack 04 2026](https://padeltrue.com/rackets/bullpadel-hack-04-2026) | 2026 | Diamond | 365 to 375 g | 26.4 cm | Medium-hard, MultiEVA | €239.99 | 70 | 26 | 31 | [product page](https://www.bullpadel.com/es/5674-pala-bullpadel-hack-04-26.html) |

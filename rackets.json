@@ -5,7 +5,7 @@
  "built": "2026-09-29",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 148,
+ "count": 151,
  "rackets": [
   {
    "slug": "adidas-arrow-hit-2026",
@@ -2173,6 +2173,96 @@
    }
   },
   {
+   "slug": "bullpadel-elite-02-2027",
+   "name": "Bullpadel Elite 02 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-elite-02-2027",
+   "productUrl": "https://www.bullpadel.com/gb/6843-pala-bullpadel-elite-02-27.html",
+   "level": "Professional",
+   "player": "Gemma Triay",
+   "ratings": {
+    "power": 41,
+    "control": 57,
+    "handling": 58,
+    "forgiveness": 55,
+    "comfort": 52,
+    "value": 15
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Shape: Hybrid",
+     "source": "https://www.bullpadel.com/gb/6843-pala-bullpadel-elite-02-27.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g",
+     "min": 350,
+     "max": 360,
+     "verbatim": "Weight: 350 -360 gr",
+     "source": "https://www.bullpadel.com/gb/6843-pala-bullpadel-elite-02-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "25.5 cm",
+     "value": null,
+     "mm": null,
+     "cm": 25.5,
+     "verbatim": "Balance: approx. 25,5 cm",
+     "source": "https://www.bullpadel.com/gb/6843-pala-bullpadel-elite-02-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, Multieva",
+     "value": "medium",
+     "material": "Multieva",
+     "verbatim": "Inner composition: Multieva. Touch: Intermediate",
+     "source": "https://www.bullpadel.com/gb/6843-pala-bullpadel-elite-02-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "Outer composition: Fibrix",
+     "source": "https://www.bullpadel.com/gb/6843-pala-bullpadel-elite-02-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "Profile: 38",
+     "source": "https://www.bullpadel.com/gb/6843-pala-bullpadel-elite-02-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Rough finish: 3D grain",
+     "source": "https://www.bullpadel.com/gb/6843-pala-bullpadel-elite-02-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€294.99",
+     "value": 294.99,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "294.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/gb/6843-pala-bullpadel-elite-02-27.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-elite-w-2026",
    "name": "Bullpadel Elite W 2026",
    "brand": "Bullpadel",
@@ -2550,6 +2640,96 @@
      "verbatim": "174.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-hack-04-hybrid-26",
      "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-hack-05-2027",
+   "name": "Bullpadel Hack 05 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-hack-05-2027",
+   "productUrl": "https://www.bullpadel.com/gb/6828-pala-bullpadel-hack-05-27.html",
+   "level": "Professional",
+   "player": "Paquito Navarro",
+   "ratings": {
+    "power": 70,
+    "control": 26,
+    "handling": 46,
+    "forgiveness": 17,
+    "comfort": 31,
+    "value": 13
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Shape: Diamond",
+     "source": "https://www.bullpadel.com/gb/6828-pala-bullpadel-hack-05-27.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Weight: 365 - 375 grs.",
+     "source": "https://www.bullpadel.com/gb/6828-pala-bullpadel-hack-05-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26.5 cm",
+     "value": null,
+     "mm": null,
+     "cm": 26.5,
+     "verbatim": "Balance: approx. 26.5 cm",
+     "source": "https://www.bullpadel.com/gb/6828-pala-bullpadel-hack-05-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, Multieva",
+     "value": "medium-hard",
+     "material": "Multieva",
+     "verbatim": "Inner composition: Multieva. Touch: Intermediate / Hard",
+     "source": "https://www.bullpadel.com/gb/6828-pala-bullpadel-hack-05-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Tricarbon 18K",
+     "material": "Tricarbon 18K",
+     "verbatim": "Outer composition: Tricarbon 18K",
+     "source": "https://www.bullpadel.com/gb/6828-pala-bullpadel-hack-05-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "Profile: 38",
+     "source": "https://www.bullpadel.com/gb/6828-pala-bullpadel-hack-05-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Rough finish: 3D grain",
+     "source": "https://www.bullpadel.com/gb/6828-pala-bullpadel-hack-05-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€349.99",
+     "value": 349.99,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "349.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/gb/6828-pala-bullpadel-hack-05-27.html",
+     "sourceType": "manufacturer"
     }
    }
   },
@@ -3468,6 +3648,87 @@
      "checkedOn": "2026-09-28",
      "verbatim": "Precio habitual: 319,99 € (25% de descuento) Precio: 239,99 €",
      "source": "https://www.bullpadel.com/es/5682-pala-bullpadel-xplo-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-xplo-2027",
+   "name": "Bullpadel XPLO 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-xplo-2027",
+   "productUrl": "https://www.bullpadel.com/gb/6839-pala-bullpadel-xplo-27.html",
+   "level": "Professional",
+   "player": "Martin di Nenno",
+   "ratings": {
+    "power": 52,
+    "control": 50,
+    "handling": 46,
+    "forgiveness": 35,
+    "comfort": 31,
+    "value": 12
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "balance"
+   ],
+   "inputConflicts": {
+    "balance": {
+     "text": "gives its balance as \"Aprox. 27 cm²\", which is a unit of area and not a distance",
+     "source": "https://www.bullpadel.com/gb/6839-pala-bullpadel-xplo-27.html",
+     "verbatim": "Balance: Aprox. 27 cm²"
+    }
+   },
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "weight": {
+     "display": "365 to 375 g",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Weight: 365 - 375 grs.",
+     "source": "https://www.bullpadel.com/gb/6839-pala-bullpadel-xplo-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, Multieva",
+     "value": "medium-hard",
+     "material": "Multieva",
+     "verbatim": "Inner composition: Multieva. Touch: Intermediate / Hard",
+     "source": "https://www.bullpadel.com/gb/6839-pala-bullpadel-xplo-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 3K in the specification block, XtendCarbon 12K in the technology list",
+     "material": "X-Tend Carbon 3K in the specification block, XtendCarbon 12K in the technology list",
+     "verbatim": "Outer composition: X-Tend Carbon 3K / XtendCarbon 12K",
+     "source": "https://www.bullpadel.com/gb/6839-pala-bullpadel-xplo-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "Profile: 38",
+     "source": "https://www.bullpadel.com/gb/6839-pala-bullpadel-xplo-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Rough finish: 3D grain",
+     "source": "https://www.bullpadel.com/gb/6839-pala-bullpadel-xplo-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€329.99",
+     "value": 329.99,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "329.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/gb/6839-pala-bullpadel-xplo-27.html",
      "sourceType": "manufacturer"
     }
    }
