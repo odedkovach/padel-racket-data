@@ -13,6 +13,7 @@ Export date: 2026-09-29. An automated job publishes data changes. This date does
 | [brands/](brands/) | One readable table per brand |
 | [DATA_DICTIONARY.md](DATA_DICTIONARY.md) | Field definitions, units, missing values, CSV mapping and rating limitations |
 | [examples/](examples/) | A runnable example: [specification coverage by brand](examples/coverage.md), made by [coverage_by_brand.py](examples/coverage_by_brand.py) |
+| [mcp/](mcp/) | The same data as questions an assistant can ask: a remote, read only MCP server at https://padeltrue.com/mcp, and plain JSON addresses described at https://padeltrue.com/agents |
 
 | Brand | Rackets |
 |---|---|

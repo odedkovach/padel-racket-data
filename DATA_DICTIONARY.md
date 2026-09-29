@@ -29,6 +29,7 @@ This describes `rackets.json` and `rackets.csv` as published in [padel-racket-da
 | `player` | string or null | Player name associated with the model in the record; not endorsement of PadelTrue |
 | `ratings` | object | Calculated model outputs, described below |
 | `inputsPublished` | integer | Number of usable inputs among shape, balance category, core category, face family and weight, from 0 to 5; not total specification count |
+| `inputsMissing` | list of text | The rating inputs counted as missing for this racket, from shape, balance, core, face and weight. Its length is 5 minus `inputsPublished`. Added 2026-09-29. Missing here means missing from this record, not proof that no source publishes it |
 | `profile` | array of strings | Labels derived from ratings, not independent observations of player fit |
 | `specs` | object | Available specification objects, with provenance |
 

@@ -25,6 +25,9 @@
     "value": 13
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
    "profile": [
     "power"
    ],
@@ -96,6 +99,7 @@
     "value": 18
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power"
    ],
@@ -176,6 +180,7 @@
     "value": 13
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control"
    ],
@@ -261,6 +266,7 @@
     "value": 17
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control"
    ],
@@ -346,6 +352,7 @@
     "value": 79
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control",
     "forgiving",
@@ -426,6 +433,10 @@
     "value": 75
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "balance"
+   ],
    "profile": [
     "all-round",
     "forgiving",
@@ -491,6 +502,7 @@
     "value": 13
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power"
    ],
@@ -576,6 +588,7 @@
     "value": 22
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control",
     "forgiving"
@@ -655,6 +668,7 @@
     "value": 14
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control",
     "forgiving"
@@ -734,6 +748,7 @@
     "value": 12
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -813,6 +828,7 @@
     "value": 12
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power"
    ],
@@ -900,6 +916,7 @@
     "value": 15
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power"
    ],
@@ -994,6 +1011,7 @@
     "value": 29
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "arm-friendly"
@@ -1073,6 +1091,7 @@
     "value": 53
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control",
     "forgiving",
@@ -1155,6 +1174,10 @@
     "value": 18
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -1242,6 +1265,10 @@
     "value": 28
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
    "profile": [
     "all-round",
     "arm-friendly"
@@ -1328,6 +1355,10 @@
     "value": 13
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -1420,6 +1451,10 @@
     "value": 23
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
    "profile": [
     "control",
     "forgiving"
@@ -1506,6 +1541,9 @@
     "value": 14
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -1599,6 +1637,7 @@
     "value": 38
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "arm-friendly"
@@ -1685,6 +1724,10 @@
     "value": 21
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
    "profile": [
     "all-round",
     "demanding"
@@ -1771,6 +1814,9 @@
     "value": 12
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -1864,6 +1910,7 @@
     "value": 16
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -1959,6 +2006,9 @@
     "value": 11
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -2045,6 +2095,7 @@
     "value": 99
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power"
    ],
@@ -2132,6 +2183,10 @@
     "value": 22
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
    "profile": [
     "all-round"
    ],
@@ -2225,6 +2280,10 @@
     "value": 25
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
    "profile": [
     "all-round",
     "demanding"
@@ -2319,6 +2378,9 @@
     "value": 18
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -2413,6 +2475,7 @@
     "value": 27
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round",
     "demanding"
@@ -2501,6 +2564,7 @@
     "value": 64
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "arm-friendly"
@@ -2588,6 +2652,9 @@
     "value": 27
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -2682,6 +2749,7 @@
     "value": 22
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round",
     "demanding"
@@ -2770,6 +2838,9 @@
     "value": 16
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "all-round",
     "demanding"
@@ -2864,6 +2935,7 @@
     "value": 43
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -2959,6 +3031,7 @@
     "value": 18
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -3053,6 +3126,9 @@
     "value": 13
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -3140,6 +3216,7 @@
     "value": 21
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -3228,6 +3305,7 @@
     "value": 18
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round"
    ],
@@ -3315,6 +3393,10 @@
     "value": 16
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "balance"
+   ],
    "profile": [
     "all-round"
    ],
@@ -3401,6 +3483,10 @@
     "value": 16
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "face",
+    "weight"
+   ],
    "profile": [
     "all-round",
     "easy to move",
@@ -3460,6 +3546,10 @@
     "value": 8
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "face",
+    "weight"
+   ],
    "profile": [
     "all-round"
    ],
@@ -3524,6 +3614,10 @@
     "value": 14
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "face",
+    "weight"
+   ],
    "profile": [
     "all-round",
     "easy to move"
@@ -3589,6 +3683,10 @@
     "value": 12
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "face",
+    "weight"
+   ],
    "profile": [
     "all-round"
    ],
@@ -3653,6 +3751,10 @@
     "value": 12
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "face",
+    "weight"
+   ],
    "profile": [
     "all-round"
    ],
@@ -3717,6 +3819,10 @@
     "value": 12
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "face",
+    "weight"
+   ],
    "profile": [
     "all-round",
     "easy to move"
@@ -3782,6 +3888,10 @@
     "value": 9
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "face",
+    "weight"
+   ],
    "profile": [
     "all-round"
    ],
@@ -3846,6 +3956,10 @@
     "value": 10
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "face",
+    "weight"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -3911,6 +4025,9 @@
     "value": 20
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -3990,6 +4107,9 @@
     "value": 27
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "all-round",
     "demanding"
@@ -4068,6 +4188,9 @@
     "value": 17
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "all-round",
     "demanding"
@@ -4147,6 +4270,9 @@
     "value": 58
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
    "profile": [
     "all-round",
     "forgiving",
@@ -4227,6 +4353,9 @@
     "value": 15
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -4298,6 +4427,10 @@
     "value": 18
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -4369,6 +4502,7 @@
     "value": 22
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -4448,6 +4582,7 @@
     "value": 100
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round",
     "easy to move",
@@ -4529,6 +4664,10 @@
     "value": 27
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -4609,6 +4748,7 @@
     "value": 22
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -4688,6 +4828,9 @@
     "value": 25
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -4769,6 +4912,7 @@
     "value": 21
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -4848,6 +4992,9 @@
     "value": 46
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "all-round",
     "arm-friendly"
@@ -4920,6 +5067,7 @@
     "value": 41
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control",
     "easy to move",
@@ -5009,6 +5157,9 @@
     "value": 57
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
    "profile": [
     "control",
     "easy to move",
@@ -5091,6 +5242,9 @@
     "value": 32
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -5169,6 +5323,7 @@
     "value": 44
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round",
     "easy to move",
@@ -5249,6 +5404,7 @@
     "value": 26
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round"
    ],
@@ -5327,6 +5483,10 @@
     "value": 24
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -5397,6 +5557,7 @@
     "value": null
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round"
    ],
@@ -5489,6 +5650,7 @@
     "value": null
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control",
     "easy to move",
@@ -5577,6 +5739,9 @@
     "value": null
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "all-round"
    ],
@@ -5661,6 +5826,9 @@
     "value": 17
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "all-round"
    ],
@@ -5745,6 +5913,9 @@
     "value": 17
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "all-round"
    ],
@@ -5829,6 +6000,7 @@
     "value": 21
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -5924,6 +6096,7 @@
     "value": 22
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -6017,6 +6190,9 @@
     "value": 37
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "all-round",
     "forgiving",
@@ -6103,6 +6279,7 @@
     "value": 52
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control"
    ],
@@ -6195,6 +6372,7 @@
     "value": 41
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control"
    ],
@@ -6288,6 +6466,7 @@
     "value": 43
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control",
     "forgiving"
@@ -6382,6 +6561,9 @@
     "value": 10
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "all-round"
    ],
@@ -6467,6 +6649,9 @@
     "value": 13
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "all-round"
    ],
@@ -6551,6 +6736,9 @@
     "value": 10
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "all-round"
    ],
@@ -6635,6 +6823,7 @@
     "value": 11
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -6730,6 +6919,7 @@
     "value": 11
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -6825,6 +7015,9 @@
     "value": 42
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "control",
     "forgiving",
@@ -6912,6 +7105,9 @@
     "value": 42
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "control",
     "forgiving",
@@ -6998,6 +7194,9 @@
     "value": 43
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "control",
     "forgiving",
@@ -7084,6 +7283,7 @@
     "value": 28
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control"
    ],
@@ -7176,6 +7376,10 @@
     "value": 22
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -7260,6 +7464,9 @@
     "value": 28
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "all-round",
     "forgiving",
@@ -7346,6 +7553,7 @@
     "value": 12
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -7440,6 +7648,9 @@
     "value": 16
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "control"
    ],
@@ -7524,6 +7735,9 @@
     "value": 11
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "all-round"
    ],
@@ -7609,6 +7823,7 @@
     "value": 14
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round"
    ],
@@ -7702,6 +7917,9 @@
     "value": 11
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "all-round"
    ],
@@ -7786,6 +8004,9 @@
     "value": 92
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "control",
     "forgiving",
@@ -7866,6 +8087,9 @@
     "value": 92
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "control",
     "forgiving",
@@ -7945,6 +8169,9 @@
     "value": 13
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -8017,6 +8244,7 @@
     "value": 12
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round",
     "demanding"
@@ -8096,6 +8324,7 @@
     "value": 19
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round"
    ],
@@ -8176,6 +8405,9 @@
     "value": 35
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
    "profile": [
     "all-round",
     "forgiving",
@@ -8256,6 +8488,9 @@
     "value": 14
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -8329,6 +8564,7 @@
     "value": 12
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -8408,6 +8644,7 @@
     "value": 18
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round",
     "demanding"
@@ -8489,6 +8726,7 @@
     "value": null
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -8576,6 +8814,7 @@
     "value": 19
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round",
     "easy to move",
@@ -8672,6 +8911,9 @@
     "value": 17
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
    "profile": [
     "all-round",
     "arm-friendly"
@@ -8759,6 +9001,10 @@
     "value": 12
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -8845,6 +9091,10 @@
     "value": 17
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "face",
+    "weight"
+   ],
    "profile": [
     "power"
    ],
@@ -8916,6 +9166,10 @@
     "value": 17
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "face",
+    "weight"
+   ],
    "profile": [
     "power"
    ],
@@ -8987,6 +9241,9 @@
     "value": 17
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
    "profile": [
     "control",
     "forgiving",
@@ -9061,6 +9318,7 @@
     "value": 16
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control",
     "forgiving"
@@ -9141,6 +9399,9 @@
     "value": 12
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -9228,6 +9489,10 @@
     "value": 21
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -9307,6 +9572,9 @@
     "value": 13
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -9394,6 +9662,10 @@
     "value": 16
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "face"
+   ],
    "profile": [
     "all-round"
    ],
@@ -9466,6 +9738,10 @@
     "value": 15
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -9552,6 +9828,9 @@
     "value": 26
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
    "profile": [
     "control",
     "easy to move",
@@ -9640,6 +9919,7 @@
     "value": 26
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control",
     "forgiving",
@@ -9735,6 +10015,9 @@
     "value": 17
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
    "profile": [
     "all-round",
     "demanding"
@@ -9820,6 +10103,10 @@
     "value": 41
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
    "profile": [
     "control",
     "easy to move",
@@ -9885,6 +10172,10 @@
     "value": 25
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
    "profile": [
     "all-round"
    ],
@@ -9956,6 +10247,7 @@
     "value": 22
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round"
    ],
@@ -10036,6 +10328,9 @@
     "value": 11
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -10108,6 +10403,7 @@
     "value": 11
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round",
     "demanding"
@@ -10188,6 +10484,9 @@
     "value": 11
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -10274,6 +10573,10 @@
     "value": 16
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "weight"
+   ],
    "profile": [
     "all-round"
    ],
@@ -10336,6 +10639,7 @@
     "value": 12
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -10409,6 +10713,9 @@
     "value": 17
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -10474,6 +10781,10 @@
     "value": 12
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
    "profile": [
     "power",
     "demanding"
@@ -10538,6 +10849,7 @@
     "value": 11
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round",
     "demanding"
@@ -10611,6 +10923,10 @@
     "value": 23
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
    "profile": [
     "control",
     "easy to move"
@@ -10675,6 +10991,7 @@
     "value": 17
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control",
     "easy to move"
@@ -10748,6 +11065,7 @@
     "value": 63
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control",
     "easy to move",
@@ -10829,6 +11147,7 @@
     "value": 12
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round"
    ],
@@ -10914,6 +11233,7 @@
     "value": 15
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -11000,6 +11320,7 @@
     "value": 17
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round"
    ],
@@ -11087,6 +11408,9 @@
     "value": 18
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -11174,6 +11498,10 @@
     "value": 14
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
    "profile": [
     "all-round",
     "demanding"
@@ -11244,6 +11572,9 @@
     "value": null
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "control",
     "easy to move",
@@ -11339,6 +11670,10 @@
     "value": null
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
    "profile": [
     "control",
     "forgiving"
@@ -11417,6 +11752,10 @@
     "value": 16
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
    "profile": [
     "control"
    ],
@@ -11486,6 +11825,7 @@
     "value": 18
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round"
    ],
@@ -11572,6 +11912,9 @@
     "value": 13
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -11650,6 +11993,7 @@
     "value": 31
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round"
    ],
@@ -11736,6 +12080,7 @@
     "value": 29
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "power",
     "demanding"
@@ -11831,6 +12176,10 @@
     "value": 14
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "face"
+   ],
    "profile": [
     "all-round"
    ],
@@ -11887,6 +12236,10 @@
     "value": 23
    },
    "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
    "profile": [
     "all-round"
    ],
@@ -11965,6 +12318,7 @@
     "value": 24
    },
    "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "all-round"
    ],
@@ -12044,6 +12398,9 @@
     "value": 44
    },
    "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
    "profile": [
     "control",
     "easy to move"
