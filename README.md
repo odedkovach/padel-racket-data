@@ -2,7 +2,7 @@
 
 Published specifications of 120 padel rackets from 15 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
 
-Last update: 2026-09-29. The data is refreshed by a scheduled job and this repository follows it.
+Export date: 2026-09-29. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
 
 ## What is in it
 
@@ -11,6 +11,8 @@ Last update: 2026-09-29. The data is refreshed by a scheduled job and this repos
 | [rackets.json](rackets.json) | The full record of every racket: 904 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
 | [rackets.csv](rackets.csv) | One row per racket, for a spreadsheet |
 | [brands/](brands/) | One readable table per brand |
+| [DATA_DICTIONARY.md](DATA_DICTIONARY.md) | Field definitions, units, missing values, CSV mapping and rating limitations |
+| [examples/](examples/) | A runnable example: [specification coverage by brand](examples/coverage.md), made by [coverage_by_brand.py](examples/coverage_by_brand.py) |
 
 | Brand | Rackets |
 |---|---|
@@ -60,21 +62,23 @@ Last update: 2026-09-29. The data is refreshed by a scheduled job and this repos
 
 ## What the ratings are, and what they are not
 
-The ratings are calculated from the published specifications with a formula that is printed in full at [padeltrue.com/methodology](https://padeltrue.com/methodology), model version 1.0. They describe what a build favours on paper. They are not court tests, laboratory measurements or customer reviews. When a maker does not publish an input, the model uses a neutral midpoint and the record says how many inputs were published (`inputsPublished`).
+The ratings are calculated from the published specifications with a formula that is printed in full at [padeltrue.com/methodology](https://padeltrue.com/methodology), model version 1.0. They describe what a build favours on paper. They are not court tests, laboratory measurements or customer reviews. When a usable input is missing from a record, the model uses a neutral midpoint. `inputsPublished` counts usable inputs out of five; a missing input here does not prove that no source has published it.
 
-Carbon K count, surface texture and thickness are recorded where published and are never scored, because independent measurements contradict maker claims about them.
+Carbon K count, surface texture and thickness are recorded where available and are excluded from the scoring formula. The methodology explains the evidence and limits behind the model.
 
 ## What is not in it
 
 - No photographs.
 - No specification without a source. A racket with too little published is held back and listed at [padeltrue.com/methodology](https://padeltrue.com/methodology#held-back).
-- Prices are the price seen on the source page on the date in `price_checked`. They are not live prices.
+- Prices are snapshots from the linked source, dated in JSON `specs.price.checkedOn` and CSV `price_checked`. They are not live prices or confirmation of availability.
 
 ## Use it
 
 ```
 curl -L https://raw.githubusercontent.com/odedkovach/padel-racket-data/main/rackets.json
 ```
+
+For reproducible work, replace `main` in the download URL with a commit SHA and record `modelVersion`. Use JSON when you need each specification's source; the CSV is a summary and omits field-level provenance.
 
 The same files are served at [padeltrue.com/data](https://padeltrue.com/data).
 
