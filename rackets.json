@@ -5,7 +5,7 @@
  "built": "2026-09-29",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 142,
+ "count": 148,
  "rackets": [
   {
    "slug": "adidas-arrow-hit-2026",
@@ -8472,6 +8472,93 @@
    }
   },
   {
+   "slug": "padelsmith-1",
+   "name": "Padelsmith #1",
+   "brand": "Padelsmith",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/padelsmith-1",
+   "productUrl": "https://padelsmith.co.uk/products/padel-racket-padelsmith",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 77,
+    "control": 10,
+    "handling": 42,
+    "forgiveness": 31,
+    "comfort": 44,
+    "value": null
+   },
+   "inputsPublished": 5,
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Shape: diamond",
+     "source": "https://padelsmith.co.uk/products/padel-racket-padelsmith",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 g",
+     "min": 350,
+     "max": 350,
+     "verbatim": "Weight: around 350 g",
+     "source": "https://padelsmith.co.uk/products/padel-racket-padelsmith",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "high balance",
+     "source": "https://padelsmith.co.uk/products/padel-racket-padelsmith",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-soft, EVA Soft Black 28",
+     "value": "medium-soft",
+     "material": "EVA Soft Black 28",
+     "verbatim": "An advanced medium-soft core",
+     "source": "https://padelsmith.co.uk/products/padel-racket-padelsmith",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "European 12K carbon fibre",
+     "material": "European 12K carbon fibre",
+     "verbatim": "Face: European 12K carbon fibre",
+     "source": "https://padelsmith.co.uk/products/padel-racket-padelsmith",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38 mm dual tubular",
+     "source": "https://padelsmith.co.uk/products/padel-racket-padelsmith",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Embossed 3D texture",
+     "source": "https://padelsmith.co.uk/products/padel-racket-padelsmith",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "£320",
+     "value": 320,
+     "currency": "GBP",
+     "checkedOn": "2026-09-29",
+     "verbatim": "\"price\":\"320.00\"",
+     "source": "https://padelsmith.co.uk/products/padel-racket-padelsmith.json",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "royal-padel-36-aniversario-light",
    "name": "Royal Padel 36 Aniversario Light",
    "brand": "Royal Padel",
@@ -9626,6 +9713,91 @@
      "checkedOn": "2026-09-29",
      "verbatim": "260 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/royal-padel-whip-polietileno-2026/",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "shooter-stealth",
+   "name": "Shooter Stealth",
+   "brand": "Shooter",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/shooter-stealth",
+   "productUrl": "https://shooterpadel.com/gb/palas-de-padel/154-racket-stealth-shooter-padel.html",
+   "level": "Avanzado-Profesional",
+   "player": null,
+   "ratings": {
+    "power": 67,
+    "control": 26,
+    "handling": 52,
+    "forgiveness": 24,
+    "comfort": 40,
+    "value": 17
+   },
+   "inputsPublished": 4,
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "NUEVO MOLDE DIAMANTE",
+     "source": "https://shooterpadel.com/gb/palas-de-padel/154-racket-stealth-shooter-padel.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "351 to 375 g",
+     "min": 351,
+     "max": 375,
+     "verbatim": "351-355gr",
+     "source": "https://shooterpadel.com/gb/palas-de-padel/154-racket-stealth-shooter-padel.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, Goma híbrida",
+     "value": "medium",
+     "material": "Goma híbrida",
+     "verbatim": "goma híbrida de tacto medio",
+     "source": "https://shooterpadel.com/gb/palas-de-padel/154-racket-stealth-shooter-padel.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbono 12k / Basalto",
+     "material": "Carbono 12k / Basalto",
+     "verbatim": "Carbono 12k / Basalto",
+     "source": "https://shooterpadel.com/gb/palas-de-padel/154-racket-stealth-shooter-padel.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "CARBONO-KEVLAR",
+     "material": "CARBONO-KEVLAR",
+     "verbatim": "CARBONO-KEVLAR",
+     "source": "https://shooterpadel.com/gb/palas-de-padel/154-racket-stealth-shooter-padel.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38 mm",
+     "source": "https://shooterpadel.com/gb/palas-de-padel/154-racket-stealth-shooter-padel.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso HEXASPIN",
+     "source": "https://shooterpadel.com/gb/palas-de-padel/154-racket-stealth-shooter-padel.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€260",
+     "value": 260,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "260 EUR (product meta tag)",
+     "source": "https://shooterpadel.com/gb/palas-de-padel/154-racket-stealth-shooter-padel.html",
      "sourceType": "manufacturer"
     }
    }
@@ -10985,6 +11157,76 @@
    }
   },
   {
+   "slug": "varlion-bourne-cube-elbowcare-w",
+   "name": "Varlion Bourne Cube Elbowcare W",
+   "brand": "Varlion",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/varlion-bourne-cube-elbowcare-w",
+   "productUrl": "https://www.varlion.com/es/padel/palas/rega-category/bourne-cube-elbowcare-w-25.html",
+   "level": "Profesional",
+   "player": null,
+   "ratings": {
+    "power": 65,
+    "control": 26,
+    "handling": 58,
+    "forgiveness": 24,
+    "comfort": 42,
+    "value": 14
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/bourne-cube-elbowcare-w-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g",
+     "min": 350,
+     "max": 360,
+     "verbatim": "Peso Desde 350 a 360 gr.",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/bourne-cube-elbowcare-w-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon Cube",
+     "material": "Carbon Cube",
+     "verbatim": "Material principal Carbon Cube",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/bourne-cube-elbowcare-w-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Prisma frame",
+     "material": "Prisma frame",
+     "verbatim": "Marco Marco Prisma",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/bourne-cube-elbowcare-w-25.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Textura rugosa en el plano Sí, textura SLICE. Muy notable e incrustada en el propio molde de la pala",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/bourne-cube-elbowcare-w-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€327.19",
+     "value": 327.19,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "327.19 EUR (schema.org offer)",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/bourne-cube-elbowcare-w-25.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "varlion-lw-8-8",
    "name": "Varlion LW 8.8",
    "brand": "Varlion",
@@ -11153,6 +11395,239 @@
      "checkedOn": "2026-09-28",
      "verbatim": "267,94 $ (Fuera de stock)",
      "source": "https://www.varlion.com/es/padel/palas/pro-prisma/lw-carbon-3-summum-25.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "varlion-lw-cube-elbowcare-w",
+   "name": "Varlion LW Cube Elbowcare W",
+   "brand": "Varlion",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/varlion-lw-cube-elbowcare-w",
+   "productUrl": "https://www.varlion.com/es/padel/palas/rega-category/lw-cube-elbowcare-w-25.html",
+   "level": "Profesional",
+   "player": null,
+   "ratings": {
+    "power": 29,
+    "control": 74,
+    "handling": 58,
+    "forgiveness": 60,
+    "comfort": 42,
+    "value": 16
+   },
+   "inputsPublished": 3,
+   "profile": [
+    "control"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Forma Redonda",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/lw-cube-elbowcare-w-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g",
+     "min": 350,
+     "max": 360,
+     "verbatim": "Peso Desde 350 a 360 gr.",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/lw-cube-elbowcare-w-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon Cube",
+     "material": "Carbon Cube",
+     "verbatim": "Material principal Carbon Cube",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/lw-cube-elbowcare-w-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Prisma frame",
+     "material": "Prisma frame",
+     "verbatim": "Marco Marco Prisma",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/lw-cube-elbowcare-w-25.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Textura rugosa en el plano Sí, textura SLICE. Muy notable e incrustada en el propio molde de la pala",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/lw-cube-elbowcare-w-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€327.19",
+     "value": 327.19,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "327.19 EUR (schema.org offer)",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/lw-cube-elbowcare-w-25.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "varlion-maxima-carbon-rose-25",
+   "name": "Varlion Maxima Carbon Rose 25",
+   "brand": "Varlion",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/varlion-maxima-carbon-rose-25",
+   "productUrl": "https://www.varlion.com/es/padel/palas/rega-category/maxima-carbon-rose-25.html",
+   "level": "Profesional",
+   "player": null,
+   "ratings": {
+    "power": 44,
+    "control": 50,
+    "handling": 66,
+    "forgiveness": 42,
+    "comfort": 45,
+    "value": 18
+   },
+   "inputsPublished": 5,
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma Lágrima",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-carbon-rose-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "340 to 350 g",
+     "min": 340,
+     "max": 350,
+     "verbatim": "Peso Desde 340 a 350 gr.",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-carbon-rose-25.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance Medio",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-carbon-rose-25.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium",
+     "value": "medium",
+     "material": "",
+     "verbatim": "Tipo de goma Tacto medio",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-carbon-rose-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon Carrera 20",
+     "material": "Carbon Carrera 20",
+     "verbatim": "Material principal Carbon Carrera 20",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-carbon-rose-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Prisma frame",
+     "material": "Prisma frame",
+     "verbatim": "Marco Marco Prisma",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-carbon-rose-25.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Textura rugosa en el plano Sí, textura SLICE. Muy notable e incrustada en el propio molde de la pala",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-carbon-rose-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€250",
+     "value": 250,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "250.0 EUR (schema.org offer)",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-carbon-rose-25.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "varlion-maxima-cube-elbowcare-w",
+   "name": "Varlion Maxima Cube Elbowcare W",
+   "brand": "Varlion",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/varlion-maxima-cube-elbowcare-w",
+   "productUrl": "https://www.varlion.com/es/padel/palas/rega-category/maxima-cube-elbowcare-w.html",
+   "level": "Profesional",
+   "player": null,
+   "ratings": {
+    "power": 47,
+    "control": 50,
+    "handling": 58,
+    "forgiveness": 42,
+    "comfort": 42,
+    "value": 13
+   },
+   "inputsPublished": 4,
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma Lágrima",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-cube-elbowcare-w.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g",
+     "min": 350,
+     "max": 360,
+     "verbatim": "Peso Desde 350 a 360 gr.",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-cube-elbowcare-w.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance Medio",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-cube-elbowcare-w.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon Cube",
+     "material": "Carbon Cube",
+     "verbatim": "Material principal Carbon Cube",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-cube-elbowcare-w.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Prisma frame",
+     "material": "Prisma frame",
+     "verbatim": "Marco Marco Prisma",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-cube-elbowcare-w.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Textura rugosa en el plano Sí, textura SLICE. Muy notable e incrustada en el propio molde de la pala",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-cube-elbowcare-w.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€327.19",
+     "value": 327.19,
+     "currency": "EUR",
+     "checkedOn": "2026-09-29",
+     "verbatim": "327.19 EUR (schema.org offer)",
+     "source": "https://www.varlion.com/es/padel/palas/rega-category/maxima-cube-elbowcare-w.html",
      "sourceType": "manufacturer"
     }
    }
