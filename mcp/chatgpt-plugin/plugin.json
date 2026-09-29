@@ -1,0 +1,104 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "padeltrue",
+  "version": "1.0.0",
+  "description": "Find and compare padel rackets using published specifications, observed prices and transparent calculated ratings. Build a shortlist by budget and playing priorities, compare exact models and inspect the sources behind each recommendation.",
+  "author": {
+    "name": "PadelTrue",
+    "email": "hello@padeltrue.com",
+    "url": "https://padeltrue.com"
+  },
+  "homepage": "https://padeltrue.com/agents",
+  "repository": "https://github.com/odedkovach/padel-racket-data",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "padel",
+    "padel rackets",
+    "specifications",
+    "comparison",
+    "open data"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "PadelTrue Racket Finder",
+        "shortDescription": "Sourced padel racket specs",
+        "longDescription": "PadelTrue gives you the published specifications of padel rackets, each with the page it was read from and the wording used there, so you can check a claim before you buy.\n\nAsk it to find a racket by name, to shortlist rackets by an explicit budget and priority, or to compare two exact models and years. Shortlists state the filters and ordering rule. Individual records and comparisons show the published evidence and the limits of calculated ratings.\n\nWhat it covers: the PadelTrue catalogue, not the whole market. The ratings for power, control, handling, forgiveness and comfort are calculated from five published specifications with a formula printed on the website. They are not play tests, laboratory measurements, customer reviews or a personal fitting. When a rating input is missing the app says so, because a rating built on fewer inputs is less certain. When a maker's own page contradicts itself, the app reports the contradiction instead of choosing one side.\n\nWhat it does not do: it does not sell rackets, take payments, hold accounts or give medical advice. A price is the price seen on the source page on the date shown. It does not tell you whether a racket is in stock or delivered to your country.\n\nThe app is read only and needs no sign-in. The app operates on the tool arguments sent for your request and does not request access to your full conversation or an account profile. Service request metadata and retention are described in our privacy policy.\n\nPadelTrue may earn from eligible retailer links on its website. Commissions do not change ratings or result order. The data is open under CC BY 4.0.",
+        "developerName": "PadelTrue",
+        "category": "Shopping",
+        "capabilities": [
+          "Find padel rackets",
+          "Read specifications with sources",
+          "Compare two rackets"
+        ],
+        "websiteURL": "https://padeltrue.com/",
+        "supportURL": "https://padeltrue.com/contact",
+        "privacyPolicyURL": "https://padeltrue.com/privacy",
+        "termsOfServiceURL": "https://padeltrue.com/terms",
+        "defaultPrompt": [
+          "Compare the Babolat Counter Viper 2.6 and Counter Veron 2.6, with sources.",
+          "Find forgiving padel rackets under 150 euros.",
+          "Show the published specs of the Nox AT10 18K Alum 2026."
+        ],
+        "brandColor": "#0B4FD8",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/logo.png"
+      },
+      "review": {
+        "test_cases": {
+          "positive": [
+            {
+              "description": "Find one named model and show its published specifications with their sources",
+              "prompt": "Show me the published specs of the Nox AT10 Luxury Genius 18K Alum 2026, with the source of each figure.",
+              "tools_triggered": "search_rackets, get_racket",
+              "expected_behavior": "Finds the exact 2026 model, not a neighbouring year, and lists shape, weight, balance, core and face, each with the address of the page it was read from. States that the ratings are calculated and are not play tests. Links to the racket page on padeltrue.com."
+            },
+            {
+              "description": "Shortlist by an explicit budget and priority",
+              "prompt": "Find forgiving padel rackets that cost 150 euros or less.",
+              "tools_triggered": "search_rackets",
+              "expected_behavior": "Returns rackets with a published EUR price of 150 or less, ordered by the calculated forgiveness rating, and states that selection rule, the number of matches and that the list covers the PadelTrue catalogue only. Each racket shows its observed price with the date it was seen."
+            },
+            {
+              "description": "Compare two exact models and report a contradiction in the source",
+              "prompt": "Compare the Babolat Counter Viper 2.6 and the Babolat Counter Veron 2.6. Is the Veron lighter?",
+              "tools_triggered": "search_rackets, compare_rackets",
+              "expected_behavior": "Reports that both list the same weight, 355 to 375 g, so the Veron is not lighter on the published specification. Reports that the maker's page for the Veron gives two conflicting balance categories and that no value was recorded. Names no overall winner and links to the comparison page."
+            },
+            {
+              "description": "Filter by model year and order by one rating",
+              "prompt": "Which 2027 padel rackets in your catalogue have the highest control rating?",
+              "tools_triggered": "search_rackets",
+              "expected_behavior": "Returns only rackets of model year 2027, ordered by the calculated control rating, and says that the result covers the catalogue and not every 2027 racket on the market. Does not state that a racket is in stock."
+            },
+            {
+              "description": "A model that is not in the catalogue",
+              "prompt": "Find the specifications of the Wilson Blade Pro 2031 padel racket.",
+              "tools_triggered": "search_rackets",
+              "expected_behavior": "Reports that no racket with that name and year is in the catalogue. Does not substitute a similar model and does not invent specifications."
+            }
+          ],
+          "negative": [
+            {
+              "description": "A purchase. The app sells nothing and takes no payment",
+              "prompt": "Buy the Nox AT10 18K for me and pay with my saved card."
+            },
+            {
+              "description": "A medical question. The app gives no medical advice and the comfort rating is not a health claim",
+              "prompt": "Which padel racket will cure my tennis elbow?"
+            },
+            {
+              "description": "A change to the data. The app is read only",
+              "prompt": "Change the price of the Nox AT10 18K in your database to 99 euros."
+            }
+          ]
+        },
+        "commerce": false,
+        "commerce_description": "The app sells nothing and processes no payment. Its answers contain no retailer link and no checkout link. They link to information pages on padeltrue.com. Some of those pages carry disclosed affiliate links to retailers, which never affect a rating or the order of results."
+      },
+      "publication": {
+        "release_notes": "First release. Find padel rackets, read one racket with the source of every figure, and compare two rackets. Read only, no sign-in."
+      }
+    }
+  }
+}

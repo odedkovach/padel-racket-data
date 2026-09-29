@@ -24,5 +24,9 @@ Data licence CC BY 4.0, credit PadelTrue with a link to https://padeltrue.com/
 
 ## Registry listings
 
-`server.json` is the manifest for the official MCP registry. Nothing has been submitted to any registry.
-Each submission is an outward step and waits for the owner's word.
+Listed in the official MCP registry as `io.github.odedkovach/padeltrue`, version 1.0.0, since 29 September 2026. `server.json` is its manifest.
+A listing describes the server. It is not evidence of use.
+
+## ChatGPT
+
+`chatgpt-plugin/` holds the package prepared for the ChatGPT app directory. It has not been submitted.
