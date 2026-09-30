@@ -5,7 +5,7 @@
  "built": "2026-09-30",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 151,
+ "count": 182,
  "rackets": [
   {
    "slug": "adidas-arrow-hit-2026",
@@ -6099,6 +6099,82 @@
    }
   },
   {
+   "slug": "nox-at10-genius-ultra-light-2026",
+   "name": "Nox AT10 Genius Ultra Light By Agustín Tapia 2026",
+   "brand": "Nox",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/nox-at10-genius-ultra-light-2026",
+   "productUrl": "https://noxsport.com/products/pala-at10-genius-ultralight-by-agustin-tapia-2026",
+   "level": "Iniciación, Intermedio",
+   "player": "Agustín Tapia",
+   "ratings": {
+    "power": 42,
+    "control": 50,
+    "handling": 70,
+    "forgiveness": 72,
+    "comfort": 82,
+    "value": 74
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "all-round",
+    "easy to move",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "FORMA:  Lágrima",
+     "source": "https://noxsport.com/products/pala-at10-genius-ultralight-by-agustin-tapia-2026",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "310 to 325 g",
+     "min": 310,
+     "max": 325,
+     "verbatim": "PESO:  310 - 325g",
+     "source": "https://noxsport.com/products/pala-at10-genius-ultralight-by-agustin-tapia-2026",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, HR2",
+     "value": "soft",
+     "material": "HR2",
+     "verbatim": "Soft",
+     "source": "https://noxsport.com/products/pala-at10-genius-ultralight-by-agustin-tapia-2026",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fiber Glass",
+     "material": "Fiber Glass",
+     "verbatim": "CARA:  Fiber Glass",
+     "source": "https://noxsport.com/products/pala-at10-genius-ultralight-by-agustin-tapia-2026",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "ANCHO:  38 mm",
+     "source": "https://noxsport.com/products/pala-at10-genius-ultralight-by-agustin-tapia-2026",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€79.99",
+     "value": 79.99,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "79.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-at10-genius-ultralight-by-agustin-tapia-2026",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "nox-at10-luxury-genius-12k-alum-xtreme-2026",
    "name": "Nox AT10 Luxury Genius 12K Alum Xtreme 2026 by Agustín Tapia",
    "brand": "Nox",
@@ -6458,6 +6534,93 @@
      "checkedOn": "2026-09-30",
      "verbatim": "199,99 € 359,99 € -44%",
      "source": "https://noxsport.com/products/pala-at10-genius-attack-18k-alum-2026-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-at10-pro-cup-hard-2026",
+   "name": "Nox AT10 Pro Cup HARD 2026 by Agustín Tapia",
+   "brand": "Nox",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/nox-at10-pro-cup-hard-2026",
+   "productUrl": "https://noxsport.com/products/pala-at10-pro-cup-hard-2026-by-agustin-tapia",
+   "level": "Avanzado",
+   "player": "Agustín Tapia",
+   "ratings": {
+    "power": 51,
+    "control": 50,
+    "handling": 48,
+    "forgiveness": 51,
+    "comfort": 51,
+    "value": 26
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "FORMA: Gota / Lágrima",
+     "source": "https://noxsport.com/products/pala-at10-pro-cup-hard-2026-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 375 g",
+     "min": 360,
+     "max": 375,
+     "verbatim": "PESO: 360 - 375g",
+     "source": "https://noxsport.com/products/pala-at10-pro-cup-hard-2026-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, HR3 HARD EVA",
+     "value": "medium-hard",
+     "material": "HR3 HARD EVA",
+     "verbatim": "Intermedio-Duro",
+     "source": "https://noxsport.com/products/pala-at10-pro-cup-hard-2026-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibra Vidrio Alum",
+     "material": "Fibra Vidrio Alum",
+     "verbatim": "CARA: Fibra Vidrio Alum",
+     "source": "https://noxsport.com/products/pala-at10-pro-cup-hard-2026-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "MARCO: Carbono",
+     "source": "https://noxsport.com/products/pala-at10-pro-cup-hard-2026-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/pala-at10-pro-cup-hard-2026-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "dos tipos de acabado rugoso en la superficie de la cara",
+     "source": "https://noxsport.com/products/pala-at10-pro-cup-hard-2026-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€149.99",
+     "value": 149.99,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "149.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-at10-pro-cup-hard-2026-by-agustin-tapia",
      "sourceType": "manufacturer"
     }
    }
@@ -7649,6 +7812,174 @@
    }
   },
   {
+   "slug": "nox-nextgen-pro-attack-12k-nfa-series",
+   "name": "Nox NextGen Pro Attack 12K NFA Series",
+   "brand": "Nox",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/nox-nextgen-pro-attack-12k-nfa-series",
+   "productUrl": "https://noxsport.com/products/pala-nextgen-pro-attack-12k-nfa-series",
+   "level": "Intermedio, Avanzado",
+   "player": null,
+   "ratings": {
+    "power": 69,
+    "control": 26,
+    "handling": 48,
+    "forgiveness": 17,
+    "comfort": 31,
+    "value": 22
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "FORMA: Diamante",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-attack-12k-nfa-series",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 375 g",
+     "min": 360,
+     "max": 375,
+     "verbatim": "PESO: 360 - 375g",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-attack-12k-nfa-series",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, MLD BLACK EVA",
+     "value": "medium-hard",
+     "material": "MLD BLACK EVA",
+     "verbatim": "Intermedio-Duro",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-attack-12k-nfa-series",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon 12K",
+     "material": "Carbon 12K",
+     "verbatim": "CARA: Carbon 12K",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-attack-12k-nfa-series",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbon",
+     "material": "Carbon",
+     "verbatim": "MARCO: Carbon",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-attack-12k-nfa-series",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "ANCHO: 38mm",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-attack-12k-nfa-series",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Combinación de dos técnicas de superficie rugosa",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-attack-12k-nfa-series",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€199.99",
+     "value": 199.99,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "199.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-attack-12k-nfa-series",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-nextgen-pro-hybrid-12k-nfa-series",
+   "name": "Nox NextGen Pro Hybrid 12K NFA Series",
+   "brand": "Nox",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/nox-nextgen-pro-hybrid-12k-nfa-series",
+   "productUrl": "https://noxsport.com/products/pala-nextgen-pro-hybrid-12k-nfa-series",
+   "level": "Intermedio, Avanzado",
+   "player": null,
+   "ratings": {
+    "power": 51,
+    "control": 50,
+    "handling": 48,
+    "forgiveness": 35,
+    "comfort": 31,
+    "value": 19
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "FORMA : Lágrima",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-hybrid-12k-nfa-series",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 375 g",
+     "min": 360,
+     "max": 375,
+     "verbatim": "PESO: 360 - 375g",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-hybrid-12k-nfa-series",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, MLD BLACK EVA",
+     "value": "medium-hard",
+     "material": "MLD BLACK EVA",
+     "verbatim": "Intermedio-Duro",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-hybrid-12k-nfa-series",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon 12K",
+     "material": "Carbon 12K",
+     "verbatim": "CARA : Carbon 12K",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-hybrid-12k-nfa-series",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbon",
+     "material": "Carbon",
+     "verbatim": "MARCO : Carbon",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-hybrid-12k-nfa-series",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "ANCHO : 38MM",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-hybrid-12k-nfa-series",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€199.99",
+     "value": 199.99,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "199.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-nextgen-pro-hybrid-12k-nfa-series",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "nox-pro-cup-hard-2027",
    "name": "Nox Pro Cup HARD by Agustín Tapia 2027",
    "brand": "Nox",
@@ -8024,21 +8355,23 @@
     "comfort": 31,
     "value": 11
    },
-   "inputsPublished": 4,
+   "inputsPublished": 3,
    "inputsMissing": [
+    "shape",
     "balance"
    ],
+   "inputConflicts": {
+    "shape": {
+     "text": "states two shapes on its maker page, teardrop in the technical table and round in the description; no shape was chosen between the two statements",
+     "source": "https://noxsport.com/products/pala-ventus-control-3k-miguel-lamperti-2027",
+     "verbatim": "FORMA: Lágrima / Su forma redonda y el núcleo HR3 Black EVA",
+     "readOn": "2026-09-30"
+    }
+   },
    "profile": [
     "all-round"
    ],
    "specs": {
-    "shape": {
-     "display": "Teardrop",
-     "value": "teardrop",
-     "verbatim": "FORMA: Lágrima",
-     "source": "https://noxsport.com/products/pala-ventus-control-3k-miguel-lamperti-2027",
-     "sourceType": "manufacturer"
-    },
     "weight": {
      "display": "360 to 375 g",
      "min": 360,
@@ -8091,6 +8424,96 @@
      "checkedOn": "2026-09-30",
      "verbatim": "349,99 €",
      "source": "https://noxsport.com/products/pala-ventus-control-3k-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-ventus-hybrid-12k-lite-2026",
+   "name": "Nox Ventus Hybrid 12K Lite 2026",
+   "brand": "Nox",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/nox-ventus-hybrid-12k-lite-2026",
+   "productUrl": "https://noxsport.com/products/pala-ventus-12k-hybrid-lite",
+   "level": "Profesional",
+   "player": null,
+   "ratings": {
+    "power": 48,
+    "control": 50,
+    "handling": 54,
+    "forgiveness": 42,
+    "comfort": 41,
+    "value": 22
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "core"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "weight": {
+     "display": "355 to 365 g",
+     "min": 355,
+     "max": 365,
+     "verbatim": "PESO: 355 - 365g",
+     "source": "https://noxsport.com/products/pala-ventus-12k-hybrid-lite",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance medio",
+     "source": "https://noxsport.com/products/pala-ventus-12k-hybrid-lite",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "MLD Black Eva",
+     "value": null,
+     "material": "MLD Black Eva",
+     "verbatim": "NÚCLEO: MLD Black Eva",
+     "source": "https://noxsport.com/products/pala-ventus-12k-hybrid-lite",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon Fiber 12K",
+     "material": "Carbon Fiber 12K",
+     "verbatim": "CARA: Carbon Fiber 12K",
+     "source": "https://noxsport.com/products/pala-ventus-12k-hybrid-lite",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "MARCO: Carbono",
+     "source": "https://noxsport.com/products/pala-ventus-12k-hybrid-lite",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/pala-ventus-12k-hybrid-lite",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Combinación de dos técnicas de superficie rugosa",
+     "source": "https://noxsport.com/products/pala-ventus-12k-hybrid-lite",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€179.99",
+     "value": 179.99,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "179.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-ventus-12k-hybrid-lite",
      "sourceType": "manufacturer"
     }
    }
@@ -8277,6 +8700,93 @@
    }
   },
   {
+   "slug": "nox-vk10-ventus-control-12k-2026",
+   "name": "Nox VK10 Ventus Control 12K 2026 by Aranzazu Osoro",
+   "brand": "Nox",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/nox-vk10-ventus-control-12k-2026",
+   "productUrl": "https://noxsport.com/products/pala-vk10-ventus-12k-by-aranzazu-osoro",
+   "level": "Profesional",
+   "player": "Aranzazu Osoro",
+   "ratings": {
+    "power": 33,
+    "control": 74,
+    "handling": 48,
+    "forgiveness": 53,
+    "comfort": 31,
+    "value": 27
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "FORMA: Redonda",
+     "source": "https://noxsport.com/products/pala-vk10-ventus-12k-by-aranzazu-osoro",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 375 g",
+     "min": 360,
+     "max": 375,
+     "verbatim": "PESO: 360 - 375g",
+     "source": "https://noxsport.com/products/pala-vk10-ventus-12k-by-aranzazu-osoro",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, MLD Black Eva",
+     "value": "medium-hard",
+     "material": "MLD Black Eva",
+     "verbatim": "Intermedio-Duro",
+     "source": "https://noxsport.com/products/pala-vk10-ventus-12k-by-aranzazu-osoro",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon Fiber 12K",
+     "material": "Carbon Fiber 12K",
+     "verbatim": "CARA: Carbon Fiber 12K",
+     "source": "https://noxsport.com/products/pala-vk10-ventus-12k-by-aranzazu-osoro",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "MARCO: Carbono",
+     "source": "https://noxsport.com/products/pala-vk10-ventus-12k-by-aranzazu-osoro",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/pala-vk10-ventus-12k-by-aranzazu-osoro",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Combinación de dos técnicas de superficie rugosa",
+     "source": "https://noxsport.com/products/pala-vk10-ventus-12k-by-aranzazu-osoro",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€179.99",
+     "value": 179.99,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "179.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-vk10-ventus-12k-by-aranzazu-osoro",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "nox-x-hero-blue",
    "name": "Nox X-Hero Blue",
    "brand": "Nox",
@@ -8355,6 +8865,170 @@
      "checkedOn": "2026-09-30",
      "verbatim": "64,99 €",
      "source": "https://noxsport.com/products/pala-x-hero-blue",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-x-one",
+   "name": "Nox X-ONE",
+   "brand": "Nox",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/nox-x-one",
+   "productUrl": "https://noxsport.com/products/pala-x-one",
+   "level": "Iniciación",
+   "player": null,
+   "ratings": {
+    "power": 32,
+    "control": 74,
+    "handling": 50,
+    "forgiveness": 82,
+    "comfort": 66,
+    "value": 75
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "FORMA : Redonda",
+     "source": "https://noxsport.com/products/pala-x-one",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 370 g",
+     "min": 360,
+     "max": 370,
+     "verbatim": "PESO : 360 - 370g",
+     "source": "https://noxsport.com/products/pala-x-one",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, HR3",
+     "value": "soft",
+     "material": "HR3",
+     "verbatim": "Soft",
+     "source": "https://noxsport.com/products/pala-x-one",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fiber Glass 3K",
+     "material": "Fiber Glass 3K",
+     "verbatim": "CARA : Fiber Glass 3K",
+     "source": "https://noxsport.com/products/pala-x-one",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbon",
+     "material": "Carbon",
+     "verbatim": "MARCO : Carbon",
+     "source": "https://noxsport.com/products/pala-x-one",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "ANCHO : 38 mm",
+     "source": "https://noxsport.com/products/pala-x-one",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "acabado rugoso tipo arena",
+     "source": "https://noxsport.com/products/pala-x-one",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€79.99",
+     "value": 79.99,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "79.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-x-one",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-x-one-silhouette",
+   "name": "Nox X-ONE Silhouette",
+   "brand": "Nox",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/nox-x-one-silhouette",
+   "productUrl": "https://noxsport.com/products/pala-x-one-silhouette",
+   "level": "Iniciación",
+   "player": null,
+   "ratings": {
+    "power": 32,
+    "control": 74,
+    "handling": 50,
+    "forgiveness": 82,
+    "comfort": 66,
+    "value": 70
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "weight"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "FORMA : Redonda oversized",
+     "source": "https://noxsport.com/products/pala-x-one-silhouette",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, HR3",
+     "value": "soft",
+     "material": "HR3",
+     "verbatim": "Soft",
+     "source": "https://noxsport.com/products/pala-x-one-silhouette",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fiber Glass 3K",
+     "material": "Fiber Glass 3K",
+     "verbatim": "CARA : Fiber Glass 3K",
+     "source": "https://noxsport.com/products/pala-x-one-silhouette",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbon",
+     "material": "Carbon",
+     "verbatim": "MARCO : Carbon",
+     "source": "https://noxsport.com/products/pala-x-one-silhouette",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/pala-x-one-silhouette",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€84.99",
+     "value": 84.99,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "84.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-x-one-silhouette",
      "sourceType": "manufacturer"
     }
    }
@@ -10520,6 +11194,76 @@
    }
   },
   {
+   "slug": "siux-beat-control-2-2025",
+   "name": "Siux Beat Control 2 2025",
+   "brand": "Siux",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/siux-beat-control-2-2025",
+   "productUrl": "https://siuxpadel.com/products/siux-beat-control-2",
+   "level": "INICIACION",
+   "player": null,
+   "ratings": {
+    "power": 18,
+    "control": 90,
+    "handling": 70,
+    "forgiveness": 90,
+    "comfort": 84,
+    "value": 98
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "control",
+    "easy to move",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Forma redonda, balance bajo",
+     "source": "https://siuxpadel.com/products/siux-beat-control-2",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Forma redonda, balance bajo",
+     "source": "https://siuxpadel.com/products/siux-beat-control-2",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft",
+     "value": "soft",
+     "material": null,
+     "verbatim": "tacto blando (3,5/10)",
+     "source": "https://siuxpadel.com/products/siux-beat-control-2",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "fibra de vidrio",
+     "material": "fibra de vidrio",
+     "verbatim": "Superficie de fibra de vidrio",
+     "source": "https://siuxpadel.com/products/siux-beat-control-2",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€70.25",
+     "value": 70.25,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "70.25 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/siux-beat-control-2",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "siux-diablo-elite-6",
    "name": "Siux Diablo Elite 6",
    "brand": "Siux",
@@ -10757,6 +11501,88 @@
    }
   },
   {
+   "slug": "siux-electra-pro-it-2026",
+   "name": "Siux Electra Pro IT 2026",
+   "brand": "Siux",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/siux-electra-pro-it-2026",
+   "productUrl": "https://siuxpadel.com/products/siux-electra-pro-it-2026",
+   "level": "Avanzado – Profesional",
+   "player": null,
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 42,
+    "comfort": 40,
+    "value": 11
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de pala: Lágrima",
+     "source": "https://siuxpadel.com/products/siux-electra-pro-it-2026",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala: MEDIO",
+     "source": "https://siuxpadel.com/products/siux-electra-pro-it-2026",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA",
+     "value": null,
+     "material": "EVA",
+     "verbatim": "Núcleo: EVA",
+     "source": "https://siuxpadel.com/products/siux-electra-pro-it-2026",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbono 12K",
+     "material": "Carbono 12K",
+     "verbatim": "Caras: Carbono 12K",
+     "source": "https://siuxpadel.com/products/siux-electra-pro-it-2026",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono 3K",
+     "material": "Carbono 3K",
+     "verbatim": "Marco: Carbono 3K",
+     "source": "https://siuxpadel.com/products/siux-electra-pro-it-2026",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado de pala: ARENOSO",
+     "source": "https://siuxpadel.com/products/siux-electra-pro-it-2026",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€350",
+     "value": 350,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "350 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/siux-electra-pro-it-2026",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "siux-electra-pro-rl-2-0-2026",
    "name": "Siux Electra Pro RL 2.0 2026",
    "brand": "Siux",
@@ -10841,6 +11667,164 @@
      "checkedOn": "2026-09-30",
      "verbatim": "350 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-electra-pro-rl-2-0",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "siux-electra-st2-flex-2026",
+   "name": "Siux Electra ST2 Flex 2026",
+   "brand": "Siux",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/siux-electra-st2-flex-2026",
+   "productUrl": "https://siuxpadel.com/products/siux-electra-st2-flex-2026",
+   "level": "Principiante",
+   "player": null,
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 65,
+    "comfort": 68,
+    "value": 15
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "all-round",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Lágrima",
+     "source": "https://siuxpadel.com/products/siux-electra-st2-flex-2026",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance medio",
+     "source": "https://siuxpadel.com/products/siux-electra-st2-flex-2026",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-soft, EVA Soft",
+     "value": "medium-soft",
+     "material": "EVA Soft",
+     "verbatim": "tacto medio-blando",
+     "source": "https://siuxpadel.com/products/siux-electra-st2-flex-2026",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibra de vidrio",
+     "material": "Fibra de vidrio",
+     "verbatim": "Caras: Fibra de vidrio",
+     "source": "https://siuxpadel.com/products/siux-electra-st2-flex-2026",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Fibra de vidrio",
+     "material": "Fibra de vidrio",
+     "verbatim": "Marco: Fibra de vidrio",
+     "source": "https://siuxpadel.com/products/siux-electra-st2-flex-2026",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "ARENOSO",
+     "source": "https://siuxpadel.com/products/siux-electra-st2-flex-2026",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€350",
+     "value": 350,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "350 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/siux-electra-st2-flex-2026",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "siux-electra-stupa-pro-st3",
+   "name": "Siux Electra Stupa Pro ST3",
+   "brand": "Siux",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/siux-electra-stupa-pro-st3",
+   "productUrl": "https://siuxpadel.com/products/siux-electra-stupa-pro-st3",
+   "level": "avanzado y competición",
+   "player": "Franco Stupaczuk",
+   "ratings": {
+    "power": 45,
+    "control": 57,
+    "handling": 50,
+    "forgiveness": 47,
+    "comfort": 40,
+    "value": 16
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Forma híbrida",
+     "source": "https://siuxpadel.com/products/siux-electra-stupa-pro-st3",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "355 to 375 g",
+     "min": 355,
+     "max": 375,
+     "verbatim": "Peso 355-375 g",
+     "source": "https://siuxpadel.com/products/siux-electra-stupa-pro-st3",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance medio",
+     "source": "https://siuxpadel.com/products/siux-electra-stupa-pro-st3",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Hard",
+     "value": null,
+     "material": "EVA Hard",
+     "verbatim": "núcleo EVA Hard",
+     "source": "https://siuxpadel.com/products/siux-electra-stupa-pro-st3",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "carbono 15K Textreme",
+     "material": "carbono 15K Textreme",
+     "verbatim": "Caras de carbono 15K Textreme",
+     "source": "https://siuxpadel.com/products/siux-electra-stupa-pro-st3",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€250",
+     "value": 250,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "250 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/siux-electra-stupa-pro-st3",
      "sourceType": "manufacturer"
     }
    }
@@ -10986,6 +11970,74 @@
    }
   },
   {
+   "slug": "siux-fenix-pro-5",
+   "name": "Siux Fenix Pro 5",
+   "brand": "Siux",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/siux-fenix-pro-5",
+   "productUrl": "https://siuxpadel.com/products/siux-fenix-pro-5",
+   "level": "PROFESIONAL",
+   "player": null,
+   "ratings": {
+    "power": 82,
+    "control": 10,
+    "handling": 30,
+    "forgiveness": 10,
+    "comfort": 16,
+    "value": 17
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma diamante",
+     "source": "https://siuxpadel.com/products/siux-fenix-pro-5",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://siuxpadel.com/products/siux-fenix-pro-5",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Hard",
+     "value": "hard",
+     "material": null,
+     "verbatim": "tacto duro (10/10)",
+     "source": "https://siuxpadel.com/products/siux-fenix-pro-5",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "carbono 24K",
+     "material": "carbono 24K",
+     "verbatim": "Superficie de carbono 24K",
+     "source": "https://siuxpadel.com/products/siux-fenix-pro-5",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€250",
+     "value": 250,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "250 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/siux-fenix-pro-5",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "siux-fenix-pro-5-black",
    "name": "Siux Fenix Pro 5 Black",
    "brand": "Siux",
@@ -11054,6 +12106,74 @@
    }
   },
   {
+   "slug": "siux-fenix-pro-mad-se",
+   "name": "Siux Fenix Pro MAD SE",
+   "brand": "Siux",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/siux-fenix-pro-mad-se",
+   "productUrl": "https://siuxpadel.com/products/siux-fenix-pro-mad-se",
+   "level": "Avanzado – Profesional",
+   "player": null,
+   "ratings": {
+    "power": 82,
+    "control": 10,
+    "handling": 30,
+    "forgiveness": 10,
+    "comfort": 16,
+    "value": 12
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "diseño diamante",
+     "source": "https://siuxpadel.com/products/siux-fenix-pro-mad-se",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://siuxpadel.com/products/siux-fenix-pro-mad-se",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Hard, EVA",
+     "value": "hard",
+     "material": "EVA",
+     "verbatim": "núcleo EVA de alta dureza",
+     "source": "https://siuxpadel.com/products/siux-fenix-pro-mad-se",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "CARBON 12K HONEYCOMB",
+     "material": "CARBON 12K HONEYCOMB",
+     "verbatim": "CARBON 12K HONEYCOMB",
+     "source": "https://siuxpadel.com/products/siux-fenix-pro-mad-se",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€350",
+     "value": 350,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "350 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/siux-fenix-pro-mad-se",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "siux-fenix-pro-se-2-0",
    "name": "Siux Fenix Pro SE 2.0",
    "brand": "Siux",
@@ -11117,6 +12237,148 @@
      "checkedOn": "2026-09-30",
      "verbatim": "350 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-fenix-pro-se-2-0",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "siux-gea",
+   "name": "Siux Gea",
+   "brand": "Siux",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/siux-gea",
+   "productUrl": "https://siuxpadel.com/products/siux-gea",
+   "level": "AVANZADO",
+   "player": null,
+   "ratings": {
+    "power": 18,
+    "control": 90,
+    "handling": 70,
+    "forgiveness": 60,
+    "comfort": 48,
+    "value": 41
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "control",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "forma redonda",
+     "source": "https://siuxpadel.com/products/siux-gea",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance bajo",
+     "source": "https://siuxpadel.com/products/siux-gea",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium",
+     "value": "medium",
+     "material": null,
+     "verbatim": "tacto medio",
+     "source": "https://siuxpadel.com/products/siux-gea",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "3K Amplitex con fibras naturales",
+     "material": "3K Amplitex con fibras naturales",
+     "verbatim": "Superficie 3K Amplitex con fibras naturales",
+     "source": "https://siuxpadel.com/products/siux-gea",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€150",
+     "value": 150,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "150 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/siux-gea",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "siux-pegasus-3-2025",
+   "name": "Siux Pegasus 3 2025",
+   "brand": "Siux",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/siux-pegasus-3-2025",
+   "productUrl": "https://siuxpadel.com/products/siux-pegasus-3",
+   "level": "Avanzado / Profesional",
+   "player": null,
+   "ratings": {
+    "power": 45,
+    "control": 57,
+    "handling": 50,
+    "forgiveness": 40,
+    "comfort": 32,
+    "value": 16
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "forma híbrida",
+     "source": "https://siuxpadel.com/products/siux-pegasus-3",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance medio",
+     "source": "https://siuxpadel.com/products/siux-pegasus-3",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, goma EVA",
+     "value": "medium-hard",
+     "material": "goma EVA",
+     "verbatim": "tacto medio-duro",
+     "source": "https://siuxpadel.com/products/siux-pegasus-3",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "carbono 12K",
+     "material": "carbono 12K",
+     "verbatim": "caras de carbono 12K",
+     "source": "https://siuxpadel.com/products/siux-pegasus-3",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "carbono 12K",
+     "material": "carbono 12K",
+     "verbatim": "tubular de carbono 12K",
+     "source": "https://siuxpadel.com/products/siux-pegasus-3",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€250",
+     "value": 250,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "250 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/siux-pegasus-3",
      "sourceType": "manufacturer"
     }
    }
@@ -11264,6 +12526,67 @@
    }
   },
   {
+   "slug": "siux-trilogy-pro-2026-ash-green",
+   "name": "Siux Trilogy Pro 2026 Ash Green",
+   "brand": "Siux",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/siux-trilogy-pro-2026-ash-green",
+   "productUrl": "https://siuxpadel.com/products/siux-trilogy-pro-2026-ash-green",
+   "level": "Avanzado – Profesional",
+   "player": null,
+   "ratings": {
+    "power": 18,
+    "control": 90,
+    "handling": 70,
+    "forgiveness": 60,
+    "comfort": 48,
+    "value": 17
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "control",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Forma de pala: Redonda",
+     "source": "https://siuxpadel.com/products/siux-trilogy-pro-2026-ash-green",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala: BAJO",
+     "source": "https://siuxpadel.com/products/siux-trilogy-pro-2026-ash-green",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "CARBON 24K",
+     "material": "CARBON 24K",
+     "verbatim": "Superficie de pala: CARBON 24K",
+     "source": "https://siuxpadel.com/products/siux-trilogy-pro-2026-ash-green",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€350",
+     "value": 350,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "350 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/siux-trilogy-pro-2026-ash-green",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "siux-trilogy-pro-2026-noir-fog",
    "name": "Siux Trilogy Pro 2026 Noir Fog",
    "brand": "Siux",
@@ -11333,6 +12656,613 @@
      "checkedOn": "2026-09-30",
      "verbatim": "350€",
      "source": "https://www.siuxpadel.com/en/products/siux-trilogy-pro-2026-noir-fog",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-arkos",
+   "name": "StarVie Arkos",
+   "brand": "StarVie",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/starvie-arkos",
+   "productUrl": "https://www.starvie.com/products/arkos",
+   "level": "Principiante",
+   "player": null,
+   "ratings": {
+    "power": 16,
+    "control": 90,
+    "handling": 76,
+    "forgiveness": 90,
+    "comfort": 86,
+    "value": 65
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "control",
+    "easy to move",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Pala de forma redonda",
+     "source": "https://www.starvie.com/products/arkos",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 366 g",
+     "min": 350,
+     "max": 366,
+     "verbatim": "358 (+/- 8 g)",
+     "source": "https://www.starvie.com/products/arkos",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance bajo",
+     "source": "https://www.starvie.com/products/arkos",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, S-EVA FLEX",
+     "value": "soft",
+     "material": "S-EVA FLEX",
+     "verbatim": "de densidad blanda",
+     "source": "https://www.starvie.com/products/arkos",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Glass Tech",
+     "material": "X-Glass Tech",
+     "verbatim": "superficie en fibra X-Glass Tech",
+     "source": "https://www.starvie.com/products/arkos",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/arkos",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€105",
+     "value": 105,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "105 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/arkos",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-astrum-plus-2026",
+   "name": "StarVie Astrum + 2026",
+   "brand": "StarVie",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/starvie-astrum-plus-2026",
+   "productUrl": "https://www.starvie.com/products/astrum",
+   "level": "Alto Nivel",
+   "player": null,
+   "ratings": {
+    "power": 48,
+    "control": 50,
+    "handling": 54,
+    "forgiveness": 42,
+    "comfort": 41,
+    "value": 19
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "forma lágrima",
+     "source": "https://www.starvie.com/products/astrum",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "352 to 368 g",
+     "min": 352,
+     "max": 368,
+     "verbatim": "360 (+/- 8 g)",
+     "source": "https://www.starvie.com/products/astrum",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Medio",
+     "source": "https://www.starvie.com/products/astrum",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "M-EVA BALANCE",
+     "value": null,
+     "material": "M-EVA BALANCE",
+     "verbatim": "Goma media-dura",
+     "source": "https://www.starvie.com/products/astrum",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "12K CARBON HYPER",
+     "material": "12K CARBON HYPER",
+     "verbatim": "12K CARBON HYPER",
+     "source": "https://www.starvie.com/products/astrum",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/astrum",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie rugosa",
+     "source": "https://www.starvie.com/products/astrum",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€209.30",
+     "value": 209.3,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "209.3 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/astrum",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-astrum-plus-black-2027",
+   "name": "StarVie Astrum+ Black 2027",
+   "brand": "StarVie",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/starvie-astrum-plus-black-2027",
+   "productUrl": "https://www.starvie.com/products/pala-astrum-black",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 48,
+    "control": 50,
+    "handling": 54,
+    "forgiveness": 42,
+    "comfort": 41,
+    "value": 14
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Su forma lágrima",
+     "source": "https://www.starvie.com/products/pala-astrum-black",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 370 g",
+     "min": 350,
+     "max": 370,
+     "verbatim": "350-370 gr",
+     "source": "https://www.starvie.com/products/pala-astrum-black",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Medio",
+     "source": "https://www.starvie.com/products/pala-astrum-black",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "M-EVA BALANCE",
+     "value": null,
+     "material": "M-EVA BALANCE",
+     "verbatim": "M-EVA BALANCE",
+     "source": "https://www.starvie.com/products/pala-astrum-black",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "12K CARBON HYPER",
+     "material": "12K CARBON HYPER",
+     "verbatim": "su plano en 12K Carbon Hyper",
+     "source": "https://www.starvie.com/products/pala-astrum-black",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/pala-astrum-black",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie rugosa que facilita el efecto",
+     "source": "https://www.starvie.com/products/pala-astrum-black",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€280",
+     "value": 280,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "280 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/pala-astrum-black",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-black-titan",
+   "name": "StarVie Black Titan",
+   "brand": "StarVie",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/starvie-black-titan",
+   "productUrl": "https://www.starvie.com/products/black-titan",
+   "level": "Profesional y Semi Pro",
+   "player": null,
+   "ratings": {
+    "power": 60,
+    "control": 41,
+    "handling": 28,
+    "forgiveness": 47,
+    "comfort": 31,
+    "value": 18
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Híbrida",
+     "source": "https://www.starvie.com/products/black-titan",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 376 g",
+     "min": 360,
+     "max": 376,
+     "verbatim": "368 (+/- 8 g)",
+     "source": "https://www.starvie.com/products/black-titan",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Alto",
+     "source": "https://www.starvie.com/products/black-titan",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "H-EVA POWER",
+     "value": null,
+     "material": "H-EVA POWER",
+     "verbatim": "H-EVA POWER",
+     "source": "https://www.starvie.com/products/black-titan",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "24K Carbon",
+     "material": "24K Carbon",
+     "verbatim": "24K Carbon",
+     "source": "https://www.starvie.com/products/black-titan",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/black-titan",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie rugosa que facilita el efecto y mejora el control.",
+     "source": "https://www.starvie.com/products/black-titan",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€224",
+     "value": 224,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "224 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/black-titan",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-black-titan-blue-2027",
+   "name": "StarVie Black Titan Blue 2027",
+   "brand": "StarVie",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/starvie-black-titan-blue-2027",
+   "productUrl": "https://www.starvie.com/products/pala-black-titan-blue",
+   "level": "Profesional y Semi Pro",
+   "player": null,
+   "ratings": {
+    "power": 57,
+    "control": 41,
+    "handling": 34,
+    "forgiveness": 33,
+    "comfort": 17,
+    "value": 12
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "forma híbrida",
+     "source": "https://www.starvie.com/products/pala-black-titan-blue",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 370 g",
+     "min": 350,
+     "max": 370,
+     "verbatim": "350-370 gr",
+     "source": "https://www.starvie.com/products/pala-black-titan-blue",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://www.starvie.com/products/pala-black-titan-blue",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Hard, H-EVA POWER",
+     "value": "hard",
+     "material": "H-EVA POWER",
+     "verbatim": "conserva la densidad dura",
+     "source": "https://www.starvie.com/products/pala-black-titan-blue",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "24K Carbon Master",
+     "material": "24K Carbon Master",
+     "verbatim": "24K Carbon Master",
+     "source": "https://www.starvie.com/products/pala-black-titan-blue",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/pala-black-titan-blue",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie rugosa que facilita el efecto",
+     "source": "https://www.starvie.com/products/pala-black-titan-blue",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€310",
+     "value": 310,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "310 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/pala-black-titan-blue",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-drax-plus-2027",
+   "name": "StarVie Drax + 2027",
+   "brand": "StarVie",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/starvie-drax-plus-2027",
+   "productUrl": "https://www.starvie.com/products/drax",
+   "level": "Intermedio",
+   "player": null,
+   "ratings": {
+    "power": 48,
+    "control": 50,
+    "handling": 54,
+    "forgiveness": 35,
+    "comfort": 33,
+    "value": 18
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Pala en forma lágrima",
+     "source": "https://www.starvie.com/products/drax",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 370 g",
+     "min": 350,
+     "max": 370,
+     "verbatim": "350-370 g",
+     "source": "https://www.starvie.com/products/drax",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Medio",
+     "source": "https://www.starvie.com/products/drax",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, M-EVA BALANCE",
+     "value": "medium-hard",
+     "material": "M-EVA BALANCE",
+     "verbatim": "de densidad media-dura",
+     "source": "https://www.starvie.com/products/drax",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "12K CARBON HYPER",
+     "material": "12K CARBON HYPER",
+     "verbatim": "12K CARBON HYPER",
+     "source": "https://www.starvie.com/products/drax",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/drax",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie rugosa que facilita el efecto y mejora el control.",
+     "source": "https://www.starvie.com/products/drax",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€220",
+     "value": 220,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "220 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/drax",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-eternal-2027",
+   "name": "StarVie Eternal by Sanyo Gutiérrez 2027",
+   "brand": "StarVie",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/starvie-eternal-2027",
+   "productUrl": "https://www.starvie.com/products/pala-eternal-sanyo-gutierrez",
+   "level": "Profesional y Semi Pro",
+   "player": "Sanyo Gutiérrez",
+   "ratings": {
+    "power": 43,
+    "control": 57,
+    "handling": 54,
+    "forgiveness": 55,
+    "comfort": 51,
+    "value": 13
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Híbrida",
+     "source": "https://www.starvie.com/products/pala-eternal-sanyo-gutierrez",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 370 g",
+     "min": 350,
+     "max": 370,
+     "verbatim": "350-370 gr",
+     "source": "https://www.starvie.com/products/pala-eternal-sanyo-gutierrez",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Medio",
+     "source": "https://www.starvie.com/products/pala-eternal-sanyo-gutierrez",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "M-EVA BALANCE",
+     "value": null,
+     "material": "M-EVA BALANCE",
+     "verbatim": "Goma\n M-EVA BALANCE",
+     "source": "https://www.starvie.com/products/pala-eternal-sanyo-gutierrez",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "18K Carbon Hybrid",
+     "material": "18K Carbon Hybrid",
+     "verbatim": "18K Carbon Hybrid",
+     "source": "https://www.starvie.com/products/pala-eternal-sanyo-gutierrez",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/pala-eternal-sanyo-gutierrez",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€330",
+     "value": 330,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "330 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/pala-eternal-sanyo-gutierrez",
      "sourceType": "manufacturer"
     }
    }
@@ -11415,6 +13345,357 @@
      "checkedOn": "2026-09-30",
      "verbatim": "€110,00",
      "source": "https://starvie.com/en/products/padel-racket-kyra",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-metheora-plus-2027",
+   "name": "StarVie Metheora+ 2027",
+   "brand": "StarVie",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/starvie-metheora-plus-2027",
+   "productUrl": "https://www.starvie.com/products/pala-metheora",
+   "level": "Intermedio",
+   "player": null,
+   "ratings": {
+    "power": 43,
+    "control": 57,
+    "handling": 54,
+    "forgiveness": 47,
+    "comfort": 41,
+    "value": 16
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Híbrida",
+     "source": "https://www.starvie.com/products/pala-metheora",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 370 g",
+     "min": 350,
+     "max": 370,
+     "verbatim": "350-370 g",
+     "source": "https://www.starvie.com/products/pala-metheora",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Medio",
+     "source": "https://www.starvie.com/products/pala-metheora",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "M-EVA BALANCE",
+     "value": null,
+     "material": "M-EVA BALANCE",
+     "verbatim": "M-EVA BALANCE",
+     "source": "https://www.starvie.com/products/pala-metheora",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "12K CARBON HYPER",
+     "material": "12K CARBON HYPER",
+     "verbatim": "12K CARBON HYPER",
+     "source": "https://www.starvie.com/products/pala-metheora",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/pala-metheora",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie rugosa",
+     "source": "https://www.starvie.com/products/pala-metheora",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€270",
+     "value": 270,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "270 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/pala-metheora",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-nyra",
+   "name": "StarVie Nyra",
+   "brand": "StarVie",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/starvie-nyra",
+   "productUrl": "https://www.starvie.com/products/nyra",
+   "level": "Principiante",
+   "player": null,
+   "ratings": {
+    "power": 12,
+    "control": 90,
+    "handling": 84,
+    "forgiveness": 90,
+    "comfort": 88,
+    "value": 65
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "control",
+    "easy to move",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "en forma redonda",
+     "source": "https://www.starvie.com/products/nyra",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "340 to 355 g",
+     "min": 340,
+     "max": 355,
+     "verbatim": "340-355 g",
+     "source": "https://www.starvie.com/products/nyra",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance bajo",
+     "source": "https://www.starvie.com/products/nyra",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, S-EVA FLEX",
+     "value": "soft",
+     "material": "S-EVA FLEX",
+     "verbatim": "goma S-Eva Flex, de densidad blanda",
+     "source": "https://www.starvie.com/products/nyra",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Glass Tech",
+     "material": "X-Glass Tech",
+     "verbatim": "fibra X-Glass Tech",
+     "source": "https://www.starvie.com/products/nyra",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/nyra",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€105",
+     "value": 105,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "105 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/nyra",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-phantom-2027",
+   "name": "StarVie Phantom 2027",
+   "brand": "StarVie",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/starvie-phantom-2027",
+   "productUrl": "https://www.starvie.com/products/pala-phantom",
+   "level": "Intermedio",
+   "player": null,
+   "ratings": {
+    "power": 15,
+    "control": 90,
+    "handling": 77,
+    "forgiveness": 60,
+    "comfort": 50,
+    "value": 25
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "control",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "en forma redonda",
+     "source": "https://www.starvie.com/products/pala-phantom",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "347 to 365 g",
+     "min": 347,
+     "max": 365,
+     "verbatim": "347-365 gr",
+     "source": "https://www.starvie.com/products/pala-phantom",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance bajo",
+     "source": "https://www.starvie.com/products/pala-phantom",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "S-EVA FLEX",
+     "value": null,
+     "material": "S-EVA FLEX",
+     "verbatim": "goma S-Eva Flex, de densidad blanda",
+     "source": "https://www.starvie.com/products/pala-phantom",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "12K CARBON HYPER",
+     "material": "12K CARBON HYPER",
+     "verbatim": "plano en 12K Carbon Hyper",
+     "source": "https://www.starvie.com/products/pala-phantom",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/pala-phantom",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie rugosa que facilita el efecto",
+     "source": "https://www.starvie.com/products/pala-phantom",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€255",
+     "value": 255,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "255 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/pala-phantom",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-raptor-plus-2026",
+   "name": "StarVie Raptor + 2026",
+   "brand": "StarVie",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/starvie-raptor-plus-2026",
+   "productUrl": "https://www.starvie.com/products/raptor",
+   "level": "Profesional y Semi Pro",
+   "player": null,
+   "ratings": {
+    "power": 51,
+    "control": 50,
+    "handling": 48,
+    "forgiveness": 42,
+    "comfort": 39,
+    "value": 18
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Pala en forma lágrima",
+     "source": "https://www.starvie.com/products/raptor",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 376 g",
+     "min": 360,
+     "max": 376,
+     "verbatim": "368 (+/- 8 g)",
+     "source": "https://www.starvie.com/products/raptor",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Medio",
+     "source": "https://www.starvie.com/products/raptor",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "M-EVA BALANCE",
+     "value": null,
+     "material": "M-EVA BALANCE",
+     "verbatim": "Goma\n M-EVA BALANCE",
+     "source": "https://www.starvie.com/products/raptor",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "3D Carbon",
+     "material": "3D Carbon",
+     "verbatim": "Su plano con 3D Carbon",
+     "source": "https://www.starvie.com/products/raptor",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/raptor",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie rugosa",
+     "source": "https://www.starvie.com/products/raptor",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€220.50",
+     "value": 220.5,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "220.5 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/raptor",
      "sourceType": "manufacturer"
     }
    }
@@ -11506,6 +13787,170 @@
    }
   },
   {
+   "slug": "starvie-shade-2027",
+   "name": "StarVie Shade 2027",
+   "brand": "StarVie",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/starvie-shade-2027",
+   "productUrl": "https://www.starvie.com/products/pala-shade",
+   "level": "Principiante",
+   "player": null,
+   "ratings": {
+    "power": 16,
+    "control": 90,
+    "handling": 74,
+    "forgiveness": 90,
+    "comfort": 85,
+    "value": 49
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "control",
+    "easy to move",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "forma redonda",
+     "source": "https://www.starvie.com/products/pala-shade",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 370 g",
+     "min": 350,
+     "max": 370,
+     "verbatim": "350-370 gr",
+     "source": "https://www.starvie.com/products/pala-shade",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance bajo",
+     "source": "https://www.starvie.com/products/pala-shade",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, S-EVA FLEX",
+     "value": "soft",
+     "material": "S-EVA FLEX",
+     "verbatim": "goma S-Eva Flex, de densidad blanda",
+     "source": "https://www.starvie.com/products/pala-shade",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Aluminized X-Glass",
+     "material": "Aluminized X-Glass",
+     "verbatim": "superficie en Aluminized X-Glass",
+     "source": "https://www.starvie.com/products/pala-shade",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/pala-shade",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€140",
+     "value": 140,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "140 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/pala-shade",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-triton-balance-plus-2027",
+   "name": "StarVie Tritón Balance + 2027",
+   "brand": "StarVie",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/starvie-triton-balance-plus-2027",
+   "productUrl": "https://www.starvie.com/products/triton-balance",
+   "level": "Alto Nivel",
+   "player": null,
+   "ratings": {
+    "power": 66,
+    "control": 26,
+    "handling": 56,
+    "forgiveness": 17,
+    "comfort": 34,
+    "value": 16
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma diamante",
+     "source": "https://www.starvie.com/products/triton-balance",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 366 g",
+     "min": 350,
+     "max": 366,
+     "verbatim": "358 (+/- 8 g)",
+     "source": "https://www.starvie.com/products/triton-balance",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, M-EVA BALANCE",
+     "value": "medium-hard",
+     "material": "M-EVA BALANCE",
+     "verbatim": "Goma media-dura",
+     "source": "https://www.starvie.com/products/triton-balance",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "18K CARBON",
+     "material": "18K CARBON",
+     "verbatim": "18K CARBON",
+     "source": "https://www.starvie.com/products/triton-balance",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/triton-balance",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie rugosa",
+     "source": "https://www.starvie.com/products/triton-balance",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€295",
+     "value": 295,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "295 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/triton-balance",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "starvie-triton-power-plus",
    "name": "StarVie Triton Power +",
    "brand": "StarVie",
@@ -11588,6 +14033,89 @@
      "checkedOn": "2026-09-30",
      "verbatim": "€295,00",
      "source": "https://starvie.com/en/products/triton-power",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-triton-t-one-2027",
+   "name": "StarVie Tritón T-One by Tamara Icardo 2027",
+   "brand": "StarVie",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/starvie-triton-t-one-2027",
+   "productUrl": "https://www.starvie.com/products/pala-triton-t-one-by-tamara-icardo",
+   "level": "Profesional y Semi Pro",
+   "player": "Tamara Icardo",
+   "ratings": {
+    "power": 65,
+    "control": 26,
+    "handling": 57,
+    "forgiveness": 32,
+    "comfort": 52,
+    "value": 15
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma diamante",
+     "source": "https://www.starvie.com/products/pala-triton-t-one-by-tamara-icardo",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "347 to 366 g",
+     "min": 347,
+     "max": 366,
+     "verbatim": "rango de peso ligero de entre 347-366 g",
+     "source": "https://www.starvie.com/products/pala-triton-t-one-by-tamara-icardo",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance medio",
+     "source": "https://www.starvie.com/products/pala-triton-t-one-by-tamara-icardo",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "M-EVA BALANCE",
+     "value": null,
+     "material": "M-EVA BALANCE",
+     "verbatim": "goma M-Eva Balance",
+     "source": "https://www.starvie.com/products/pala-triton-t-one-by-tamara-icardo",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "18K Carbon Hybrid",
+     "material": "18K Carbon Hybrid",
+     "verbatim": "plano en 18K Carbon Hybrid",
+     "source": "https://www.starvie.com/products/pala-triton-t-one-by-tamara-icardo",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/pala-triton-t-one-by-tamara-icardo",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€310",
+     "value": 310,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "310 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/pala-triton-t-one-by-tamara-icardo",
      "sourceType": "manufacturer"
     }
    }

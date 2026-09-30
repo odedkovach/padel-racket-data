@@ -1,6 +1,6 @@
 # Specification coverage in this PadelTrue snapshot
 
-Export date: 2026-09-30. Model version: 1.0. Records: 151.
+Export date: 2026-09-30. Model version: 1.0. Records: 182.
 
 This measures the records collected by PadelTrue, not the whole market or the quality of a brand. A missing field here does not establish that a manufacturer never published it. Small and unequal brand samples are not a brand ranking.
 
@@ -17,13 +17,13 @@ Each cell shows records with the field / records for that brand. Numerical balan
 | Head | 13 | 11/13 | 2/13 | 13/13 | 7/13 |
 | Joma | 1 | 1/1 | 0/1 | 1/1 | 0/1 |
 | Kuikma | 3 | 3/3 | 1/3 | 3/3 | 2/3 |
-| Nox | 26 | 26/26 | 0/26 | 26/26 | 10/26 |
+| Nox | 34 | 33/34 | 0/34 | 34/34 | 10/34 |
 | Oxdog | 7 | 7/7 | 0/7 | 7/7 | 4/7 |
 | Padelsmith | 1 | 1/1 | 0/1 | 1/1 | 1/1 |
 | Royal Padel | 14 | 10/14 | 0/14 | 12/14 | 3/14 |
 | Shooter | 1 | 1/1 | 0/1 | 1/1 | 0/1 |
-| Siux | 13 | 7/13 | 0/13 | 13/13 | 5/13 |
-| StarVie | 3 | 3/3 | 0/3 | 3/3 | 3/3 |
+| Siux | 22 | 8/22 | 0/22 | 22/22 | 5/22 |
+| StarVie | 17 | 17/17 | 0/17 | 17/17 | 8/17 |
 | Tecnifibre | 2 | 2/2 | 0/2 | 2/2 | 1/2 |
 | Varlion | 6 | 6/6 | 0/6 | 6/6 | 1/6 |
 | Wilson | 6 | 6/6 | 0/6 | 5/6 | 3/6 |
