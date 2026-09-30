@@ -4924,18 +4924,25 @@
    "level": "Advanced / Competition",
    "player": "Paula Josemaría",
    "ratings": {
-    "power": 82,
+    "power": 80,
     "control": 10,
-    "handling": 30,
+    "handling": 34,
     "forgiveness": 24,
-    "comfort": 32,
+    "comfort": 33,
     "value": 27
    },
-   "inputsPublished": 3,
+   "inputsPublished": 4,
    "inputsMissing": [
-    "core",
-    "weight"
+    "core"
    ],
+   "inputConflicts": {
+    "surface": {
+     "text": "states two face materials on its maker page, UD Carbon in the Facts panel and Hybrid Woven in the Specifications section, while the retailer page says unidirectional carbon fibre; the recorded value is the retailer wording and no material was chosen between the maker's two statements",
+     "source": "https://www.head.com/en_FI/product/extreme-motion-2025-223135",
+     "verbatim": "Hitting Surface: UD Carbon / Hitting Surface: Hybrid Woven / A perfect mix of carbon fiber and fiberglass",
+     "readOn": "2026-09-30"
+    }
+   },
    "profile": [
     "power",
     "demanding"
@@ -4948,14 +4955,22 @@
      "source": "https://www.padelnuestro.com/int/head-extreme-motion-2025",
      "sourceType": "retailer"
     },
+    "weight": {
+     "display": "360 g",
+     "min": 360,
+     "max": 360,
+     "verbatim": "Weight: 360 g / 12.7 oz",
+     "source": "https://www.head.com/en_FI/product/extreme-motion-2025-223135",
+     "sourceType": "manufacturer"
+    },
     "balance": {
-     "display": "High",
+     "display": "High, 270 mm, 27 cm",
      "value": "high",
-     "mm": null,
-     "cm": null,
-     "verbatim": "Balance: High",
-     "source": "https://www.padelnuestro.com/int/head-extreme-motion-2025",
-     "sourceType": "retailer"
+     "mm": 270,
+     "cm": 27,
+     "verbatim": "Balance: 270.0 mm / Balance: High balance / 270.0",
+     "source": "https://www.head.com/en_FI/product/extreme-motion-2025-223135",
+     "sourceType": "manufacturer"
     },
     "core": {
      "display": "Power Foam",
@@ -4978,6 +4993,13 @@
      "verbatim": "The frame integrates a new layer of unidirectional carbon, which increases stiffness",
      "source": "https://www.padelnuestro.com/int/head-extreme-motion-2025",
      "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "Beam: 38 mm / 1.5 in",
+     "source": "https://www.head.com/en_FI/product/extreme-motion-2025-223135",
+     "sourceType": "manufacturer"
     },
     "roughSurface": {
      "display": "Yes",
