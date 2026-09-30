@@ -11837,7 +11837,7 @@
     "handling": 84,
     "forgiveness": 76,
     "comfort": 72,
-    "value": null
+    "value": 67
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -11910,13 +11910,23 @@
      "sourceType": "manufacturer"
     },
     "price": {
-     "display": "$101.49",
-     "value": 101.49,
-     "currency": "USD",
-     "checkedOn": "2026-09-28",
-     "verbatim": "101,49 $",
+     "display": "€99.92",
+     "value": 99.92,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "99,92 €",
      "source": "https://www.varlion.com/es/padel/palas/itsv/lw-88.html",
-     "sourceType": "manufacturer"
+     "sourceType": "manufacturer",
+     "market": {
+      "country": "NL",
+      "selector": "Países Bajos",
+      "currency": "EUR",
+      "structuredData": "\"price\": \"99.92\", \"priceCurrency\": \"EUR\", availability InStock",
+      "stockLine": "En stock - Envío inmediato",
+      "observedAt": "2026-09-30 between 05:43:16Z and 2026-09-30T05:44:04Z",
+      "readWith": "real Chrome, profile oded private, country selector as the shop set it; a switch to España did not persist",
+      "note": "This is the price the shop shows a visitor it places in the Netherlands. It is not labelled a Spanish price."
+     }
     }
    }
   },
@@ -11935,7 +11945,7 @@
     "handling": 64,
     "forgiveness": 68,
     "comfort": 54,
-    "value": null
+    "value": 22
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -11992,13 +12002,23 @@
      "sourceType": "manufacturer"
     },
     "price": {
-     "display": "$267.94",
-     "value": 267.94,
-     "currency": "USD",
-     "checkedOn": "2026-09-28",
-     "verbatim": "267,94 $ (Fuera de stock)",
+     "display": "€243.72",
+     "value": 243.72,
+     "currency": "EUR",
+     "checkedOn": "2026-09-30",
+     "verbatim": "243,72 €",
      "source": "https://www.varlion.com/es/padel/palas/pro-prisma/lw-carbon-3-summum-25.html",
-     "sourceType": "manufacturer"
+     "sourceType": "manufacturer",
+     "market": {
+      "country": "NL",
+      "selector": "Países Bajos",
+      "currency": "EUR",
+      "structuredData": "\"price\": \"243.72\", \"priceCurrency\": \"EUR\", availability BackOrder",
+      "stockLine": "Fuera de stock",
+      "observedAt": "2026-09-30 between 05:43:16Z and 2026-09-30T05:44:04Z",
+      "readWith": "real Chrome, profile oded private, country selector as the shop set it; a switch to España did not persist",
+      "note": "This is the price the shop shows a visitor it places in the Netherlands. It is not labelled a Spanish price."
+     }
     }
    }
   },
