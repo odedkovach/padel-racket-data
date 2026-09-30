@@ -1,6 +1,6 @@
 # Specification coverage in this PadelTrue snapshot
 
-Export date: 2026-09-29. Model version: 1.0. Records: 151.
+Export date: 2026-09-30. Model version: 1.0. Records: 151.
 
 This measures the records collected by PadelTrue, not the whole market or the quality of a brand. A missing field here does not establish that a manufacturer never published it. Small and unequal brand samples are not a brand ranking.
 
@@ -10,7 +10,7 @@ Each cell shows records with the field / records for that brand. Numerical balan
 |---|---:|---:|---:|---:|---:|
 | Adidas | 14 | 14/14 | 0/14 | 13/14 | 12/14 |
 | Babolat | 10 | 10/10 | 7/10 | 10/10 | 2/10 |
-| Bullpadel | 18 | 18/18 | 10/18 | 18/18 | 8/18 |
+| Bullpadel | 18 | 18/18 | 11/18 | 18/18 | 8/18 |
 | Cork Padel | 8 | 0/8 | 0/8 | 0/8 | 0/8 |
 | Drop Shot | 2 | 2/2 | 0/2 | 2/2 | 0/2 |
 | Dunlop | 3 | 3/3 | 0/3 | 2/3 | 0/3 |

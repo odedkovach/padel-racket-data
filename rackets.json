@@ -2,7 +2,7 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-09-29",
+ "built": "2026-09-30",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
  "count": 151,
@@ -3484,17 +3484,17 @@
    "level": "Profesional",
    "player": null,
    "ratings": {
-    "power": 46,
-    "control": 57,
-    "handling": 46,
+    "power": 32,
+    "control": 73,
+    "handling": 66,
     "forgiveness": 47,
-    "comfort": 39,
-    "value": 18
+    "comfort": 47,
+    "value": 25
    },
    "inputsPublished": 5,
    "inputsMissing": [],
    "profile": [
-    "all-round"
+    "control"
    ],
    "specs": {
     "shape": {
@@ -3513,13 +3513,13 @@
      "sourceType": "retailer"
     },
     "balance": {
-     "display": "Medium",
-     "value": "medium",
+     "display": "Low, 25 cm",
+     "value": "low",
      "mm": null,
-     "cm": null,
-     "verbatim": "Balance: Medio",
-     "source": "https://www.padelnuestro.com/bullpadel-vertex-05-hybrid",
-     "sourceType": "retailer"
+     "cm": 25,
+     "verbatim": "Balance: Bajo, Aprox. 25 cm",
+     "source": "https://www.bullpadel.com/es/5679-pala-bullpadel-vertex-05-hyb.html",
+     "sourceType": "manufacturer"
     },
     "core": {
      "display": "Medium, MultiEva",
