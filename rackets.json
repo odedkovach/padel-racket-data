@@ -5,7 +5,7 @@
  "built": "2026-10-01",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 185,
+ "count": 191,
  "rackets": [
   {
    "slug": "adidas-arrow-hit-2026",
@@ -6374,6 +6374,93 @@
    }
   },
   {
+   "slug": "nox-at10-genius-18k-alum-argentina-exclusive-edition",
+   "name": "Nox AT10 Genius 18K Alum Argentina Exclusive Edition",
+   "brand": "Nox",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/nox-at10-genius-18k-alum-argentina-exclusive-edition",
+   "productUrl": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia-bsas",
+   "level": "Profesional",
+   "player": "Agustín Tapia",
+   "ratings": {
+    "power": 51,
+    "control": 50,
+    "handling": 48,
+    "forgiveness": 42,
+    "comfort": 39,
+    "value": 10
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "FORMA: Gota / Lágrima",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia-bsas",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 375 g",
+     "min": 360,
+     "max": 375,
+     "verbatim": "PESO: 360 - 375g",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia-bsas",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MLD Black Eva",
+     "value": "medium",
+     "material": "MLD Black Eva",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia-bsas",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon Fiber 18K Alum",
+     "material": "Carbon Fiber 18K Alum",
+     "verbatim": "CARA: Carbon Fiber 18K Alum",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia-bsas",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "MARCO: Carbono",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia-bsas",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia-bsas",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Combinación de dos técnicas de superficie rugosa",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia-bsas",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€389.99",
+     "value": 389.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-01",
+     "verbatim": "389.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia-bsas",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "nox-at10-genius-ultra-light-2026",
    "name": "Nox AT10 Genius Ultra Light By Agustín Tapia 2026",
    "brand": "Nox",
@@ -6532,6 +6619,93 @@
      "checkedOn": "2026-10-01",
      "verbatim": "229,99 € 389,99 € -41%",
      "source": "https://noxsport.com/products/pala-at10-genius-12k-alum-xtrem-2026-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-at10-luxury-genius-18k-alum-2025",
+   "name": "Nox AT10 Luxury GENIUS 18K Alum 2025 by Agustín Tapia",
+   "brand": "Nox",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/nox-at10-luxury-genius-18k-alum-2025",
+   "productUrl": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia",
+   "level": "Profesional",
+   "player": "Agustín Tapia",
+   "ratings": {
+    "power": 51,
+    "control": 50,
+    "handling": 48,
+    "forgiveness": 42,
+    "comfort": 39,
+    "value": 20
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "FORMA: Gota / Lágrima",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 375 g",
+     "min": 360,
+     "max": 375,
+     "verbatim": "PESO: 360 - 375g",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MLD Black Eva",
+     "value": "medium",
+     "material": "MLD Black Eva",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon Alum 18K",
+     "material": "Carbon Alum 18K",
+     "verbatim": "CARA: Carbon Alum 18K",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% carbono",
+     "material": "100% carbono",
+     "verbatim": "MARCO: 100% carbono",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "SUPERFICIE: Patrón exclusivo SPIN 3D y rugoso de arena",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€189.99",
+     "value": 189.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-01",
+     "verbatim": "189.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia",
      "sourceType": "manufacturer"
     }
    }
@@ -6985,6 +7159,101 @@
      "checkedOn": "2026-10-01",
      "verbatim": "149,99 € 199,99 € -25%",
      "source": "https://noxsport.com/products/pala-at10-pro-cup-soft-2026-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-ea10-ventus-attack-12k-xtreme-2026",
+   "name": "Nox EA10 Ventus Attack 12K XTREME 2026 by Edu Alonso",
+   "brand": "Nox",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/nox-ea10-ventus-attack-12k-xtreme-2026",
+   "productUrl": "https://noxsport.com/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso",
+   "level": "Profesional",
+   "player": "Edu Alonso",
+   "ratings": {
+    "power": 83,
+    "control": 10,
+    "handling": 28,
+    "forgiveness": 17,
+    "comfort": 23,
+    "value": 24
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "FORMA: Diamante",
+     "source": "https://noxsport.com/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 375 g",
+     "min": 360,
+     "max": 375,
+     "verbatim": "PESO: 360 - 375g",
+     "source": "https://noxsport.com/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "un balance alto para el ataque",
+     "source": "https://noxsport.com/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, MLD Black Eva",
+     "value": "medium-hard",
+     "material": "MLD Black Eva",
+     "verbatim": "Intermedio-Duro",
+     "source": "https://noxsport.com/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon Fiber 12K Xtrem",
+     "material": "Carbon Fiber 12K Xtrem",
+     "verbatim": "CARA: Carbon Fiber 12K Xtrem",
+     "source": "https://noxsport.com/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "MARCO: Carbono",
+     "source": "https://noxsport.com/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Combinación de dos técnicas de superficie rugosa",
+     "source": "https://noxsport.com/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€179.99",
+     "value": 179.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-01",
+     "verbatim": "179.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso",
      "sourceType": "manufacturer"
     }
    }
@@ -9154,6 +9423,177 @@
    }
   },
   {
+   "slug": "nox-x-hero-red-2026",
+   "name": "Nox X-Hero Red 2026",
+   "brand": "Nox",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/nox-x-hero-red-2026",
+   "productUrl": "https://noxsport.com/products/pala-x-hero-red",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 29,
+    "control": 74,
+    "handling": 58,
+    "forgiveness": 82,
+    "comfort": 68,
+    "value": 92
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "FORMA: Redonda",
+     "source": "https://noxsport.com/products/pala-x-hero-red",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g",
+     "min": 350,
+     "max": 360,
+     "verbatim": "PESO: 350 - 360g",
+     "source": "https://noxsport.com/products/pala-x-hero-red",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, HR3 WHITE EVA",
+     "value": "soft",
+     "material": "HR3 WHITE EVA",
+     "verbatim": "Soft",
+     "source": "https://noxsport.com/products/pala-x-hero-red",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fiber Glass 3K",
+     "material": "Fiber Glass 3K",
+     "verbatim": "CARA: Fiber Glass 3K",
+     "source": "https://noxsport.com/products/pala-x-hero-red",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "MARCO: Carbono",
+     "source": "https://noxsport.com/products/pala-x-hero-red",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/pala-x-hero-red",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "No",
+     "value": false,
+     "verbatim": "SUPERFICIE: Brillo",
+     "source": "https://noxsport.com/products/pala-x-hero-red",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€64.99",
+     "value": 64.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-01",
+     "verbatim": "64.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-x-hero-red",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-x-hero-white-2026",
+   "name": "Nox X-Hero White 2026",
+   "brand": "Nox",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/nox-x-hero-white-2026",
+   "productUrl": "https://noxsport.com/products/pala-x-hero-white",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 29,
+    "control": 74,
+    "handling": 58,
+    "forgiveness": 82,
+    "comfort": 68,
+    "value": 92
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "FORMA: Redonda",
+     "source": "https://noxsport.com/products/pala-x-hero-white",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g",
+     "min": 350,
+     "max": 360,
+     "verbatim": "PESO: 350 - 360g",
+     "source": "https://noxsport.com/products/pala-x-hero-white",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, HR3 WHITE EVA",
+     "value": "soft",
+     "material": "HR3 WHITE EVA",
+     "verbatim": "Soft",
+     "source": "https://noxsport.com/products/pala-x-hero-white",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fiber Glass 3K",
+     "material": "Fiber Glass 3K",
+     "verbatim": "CARA: Fiber Glass 3K",
+     "source": "https://noxsport.com/products/pala-x-hero-white",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "MARCO: Carbono",
+     "source": "https://noxsport.com/products/pala-x-hero-white",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/pala-x-hero-white",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€64.99",
+     "value": 64.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-01",
+     "verbatim": "64.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-x-hero-white",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "nox-x-one",
    "name": "Nox X-ONE",
    "brand": "Nox",
@@ -9395,6 +9835,88 @@
      "checkedOn": "2026-10-01",
      "verbatim": "64,99 €",
      "source": "https://noxsport.com/products/pala-x-zero-blue",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-x-zero-red-2026",
+   "name": "Nox X-Zero Red 2026",
+   "brand": "Nox",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/nox-x-zero-red-2026",
+   "productUrl": "https://noxsport.com/products/pala-x-zero-red",
+   "level": "Iniciación",
+   "player": null,
+   "ratings": {
+    "power": 29,
+    "control": 74,
+    "handling": 58,
+    "forgiveness": 82,
+    "comfort": 68,
+    "value": 92
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "FORMA: Redonda",
+     "source": "https://noxsport.com/products/pala-x-zero-red",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g",
+     "min": 350,
+     "max": 360,
+     "verbatim": "PESO: 350 - 360g",
+     "source": "https://noxsport.com/products/pala-x-zero-red",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, HR3 WHITE EVA",
+     "value": "soft",
+     "material": "HR3 WHITE EVA",
+     "verbatim": "Tacto Soft",
+     "source": "https://noxsport.com/products/pala-x-zero-red",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fiber Glass 3K",
+     "material": "Fiber Glass 3K",
+     "verbatim": "CARA: Fiber Glass 3K",
+     "source": "https://noxsport.com/products/pala-x-zero-red",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "MARCO: Carbono",
+     "source": "https://noxsport.com/products/pala-x-zero-red",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/pala-x-zero-red",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€64.99",
+     "value": 64.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-01",
+     "verbatim": "64.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-x-zero-red",
      "sourceType": "manufacturer"
     }
    }
