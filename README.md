@@ -1,14 +1,14 @@
 # Padel racket data
 
-Published specifications of 182 padel rackets from 19 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
+Published specifications of 185 padel rackets from 19 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
 
-Export date: 2026-09-30. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
+Export date: 2026-10-01. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
 
 ## What is in it
 
 | File | What it holds |
 |---|---|
-| [rackets.json](rackets.json) | The full record of every racket: 1328 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
+| [rackets.json](rackets.json) | The full record of every racket: 1353 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
 | [rackets.csv](rackets.csv) | One row per racket, for a spreadsheet |
 | [brands/](brands/) | One readable table per brand |
 | [DATA_DICTIONARY.md](DATA_DICTIONARY.md) | Field definitions, units, missing values, CSV mapping and rating limitations |
@@ -19,12 +19,12 @@ Export date: 2026-09-30. An automated job publishes data changes. This date does
 | Brand | Rackets |
 |---|---|
 | [Adidas](brands/adidas.md) | 14 |
-| [Babolat](brands/babolat.md) | 10 |
+| [Babolat](brands/babolat.md) | 12 |
 | [Bullpadel](brands/bullpadel.md) | 18 |
 | [Cork Padel](brands/cork-padel.md) | 8 |
 | [Drop Shot](brands/drop-shot.md) | 2 |
 | [Dunlop](brands/dunlop.md) | 3 |
-| [Head](brands/head.md) | 13 |
+| [Head](brands/head.md) | 14 |
 | [Joma](brands/joma.md) | 1 |
 | [Kuikma](brands/kuikma.md) | 3 |
 | [Nox](brands/nox.md) | 34 |
