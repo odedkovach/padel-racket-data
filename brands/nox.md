@@ -1,6 +1,6 @@
 # Nox padel rackets: published specifications
 
-40 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+43 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -36,9 +36,12 @@
 | [Nox X-Hero Blue](https://padeltrue.com/rackets/nox-x-hero-blue) | 2026 | Round | 350 to 360 g |  | Soft, HR3 White EVA | €64.99 | 29 | 74 | 68 | [product page](https://noxsport.com/products/pala-x-hero-blue) |
 | [Nox X-Hero Red 2026](https://padeltrue.com/rackets/nox-x-hero-red-2026) | 2026 | Round | 350 to 360 g |  | Soft, HR3 WHITE EVA | €64.99 | 29 | 74 | 68 | [product page](https://noxsport.com/products/pala-x-hero-red) |
 | [Nox X-Hero White 2026](https://padeltrue.com/rackets/nox-x-hero-white-2026) | 2026 | Round | 350 to 360 g |  | Soft, HR3 WHITE EVA | €64.99 | 29 | 74 | 68 | [product page](https://noxsport.com/products/pala-x-hero-white) |
+| [Nox X-One Silhouette 2026](https://padeltrue.com/rackets/nox-x-one-silhouette-2026) | 2026 | Round |  | Medium | Soft, Hr3 | €70.95 | 32 | 74 | 66 | [product page](https://www.padelnuestro.com/pala-nox-x-one-silhoutte-psilhouet26) |
 | [Nox X-Zero Blue 2026](https://padeltrue.com/rackets/nox-x-zero-blue-2026) | 2026 | Round | 350 to 360 g |  | Soft, HR3 White EVA | €64.99 | 29 | 74 | 68 | [product page](https://noxsport.com/products/pala-x-zero-blue) |
 | [Nox X-Zero Red 2026](https://padeltrue.com/rackets/nox-x-zero-red-2026) | 2026 | Round | 350 to 360 g |  | Soft, HR3 WHITE EVA | €64.99 | 29 | 74 | 68 | [product page](https://noxsport.com/products/pala-x-zero-red) |
+| [Nox AT10 Genius 12K By Agustín Tapia 2025](https://padeltrue.com/rackets/nox-at10-genius-12k-2025) | 2025 | Teardrop | 360 to 375 g | Medium | MLD Black EVA | €154.95 | 51 | 50 | 39 | [product page](https://www.padelnuestro.com/nox-at10-genius-12k-by-agustin-tapia-2025-113539-p) |
 | [Nox AT10 Luxury GENIUS 18K Alum 2025 by Agustín Tapia](https://padeltrue.com/rackets/nox-at10-luxury-genius-18k-alum-2025) | 2025 | Teardrop | 360 to 375 g |  | Medium, MLD Black Eva | €189.99 | 51 | 50 | 39 | [product page](https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia) |
+| [Nox AT10 Genius 18K Agustín Tapia 2024](https://padeltrue.com/rackets/nox-at10-genius-18k-agustin-tapia-2024) | 2024 | Teardrop |  | Medium | Medium, MLD Black EVA | €169.95 | 50 | 50 | 40 | [product page](https://www.padelnuestro.com/nox-at10-genius-18k-agustin-tapia-2024-110805-p) |
 | [Nox AT10 Genius 18K Alum Argentina Exclusive Edition](https://padeltrue.com/rackets/nox-at10-genius-18k-alum-argentina-exclusive-edition) |  | Teardrop | 360 to 375 g |  | Medium, MLD Black Eva | €389.99 | 51 | 50 | 39 | [product page](https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia-bsas) |
 | [Nox NextGen Pro Attack 12K NFA Series](https://padeltrue.com/rackets/nox-nextgen-pro-attack-12k-nfa-series) |  | Diamond | 360 to 375 g |  | Medium-hard, MLD BLACK EVA | €199.99 | 69 | 26 | 31 | [product page](https://noxsport.com/products/pala-nextgen-pro-attack-12k-nfa-series) |
 | [Nox NextGen Pro Hybrid 12K NFA Series](https://padeltrue.com/rackets/nox-nextgen-pro-hybrid-12k-nfa-series) |  | Teardrop | 360 to 375 g |  | Medium-hard, MLD BLACK EVA | €199.99 | 51 | 50 | 31 | [product page](https://noxsport.com/products/pala-nextgen-pro-hybrid-12k-nfa-series) |

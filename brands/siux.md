@@ -1,6 +1,6 @@
 # Siux padel rackets: published specifications
 
-22 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+23 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Siux Beat Control 2 2025](https://padeltrue.com/rackets/siux-beat-control-2-2025) | 2025 | Round |  | Low | Soft | €70.25 | 18 | 90 | 84 | [product page](https://siuxpadel.com/products/siux-beat-control-2) |
 | [Siux Electra Stupa Pro ST4 2025](https://padeltrue.com/rackets/siux-electra-stupa-pro-st4-2025) | 2025 | Hybrid |  |  | Medium-hard | €250 | 45 | 57 | 32 | [product page](https://siuxpadel.com/products/siux-electra-stupa-pro-st4) |
 | [Siux Pegasus 3 2025](https://padeltrue.com/rackets/siux-pegasus-3-2025) | 2025 | Hybrid |  | Medium | Medium-hard, goma EVA | €250 | 45 | 57 | 32 | [product page](https://siuxpadel.com/products/siux-pegasus-3) |
+| [Siux Trilogy Pro 5 2025](https://padeltrue.com/rackets/siux-trilogy-pro-5-2025) | 2025 | Round |  | Low | Hard, goma EVA | €109.95 | 18 | 90 | 32 | [product page](https://www.padelnuestro.com/siux-trilogy-pro-5) |
 | [Siux Electra Stupa Pro ST3](https://padeltrue.com/rackets/siux-electra-stupa-pro-st3) |  | Hybrid | 355 to 375 g | Medium | EVA Hard | €250 | 45 | 57 | 40 | [product page](https://siuxpadel.com/products/siux-electra-stupa-pro-st3) |
 | [Siux Fenix Pro 5](https://padeltrue.com/rackets/siux-fenix-pro-5) |  | Diamond |  | High | Hard | €250 | 82 | 10 | 16 | [product page](https://siuxpadel.com/products/siux-fenix-pro-5) |
 | [Siux Fenix Pro 5 Black](https://padeltrue.com/rackets/siux-fenix-pro-5-black) |  | Diamond |  | High | Hard | €250 | 82 | 10 | 16 | [product page](https://siuxpadel.com/products/siux-fenix-pro-5-black) |

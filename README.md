@@ -1,6 +1,6 @@
 # Padel racket data
 
-Published specifications of 191 padel rackets from 19 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
+Published specifications of 227 padel rackets from 21 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
 
 Export date: 2026-10-02. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
 
@@ -8,7 +8,7 @@ Export date: 2026-10-02. An automated job publishes data changes. This date does
 
 | File | What it holds |
 |---|---|
-| [rackets.json](rackets.json) | The full record of every racket: 1399 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
+| [rackets.json](rackets.json) | The full record of every racket: 1659 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
 | [rackets.csv](rackets.csv) | One row per racket, for a spreadsheet |
 | [brands/](brands/) | One readable table per brand |
 | [DATA_DICTIONARY.md](DATA_DICTIONARY.md) | Field definitions, units, missing values, CSV mapping and rating limitations |
@@ -18,23 +18,25 @@ Export date: 2026-10-02. An automated job publishes data changes. This date does
 
 | Brand | Rackets |
 |---|---|
-| [Adidas](brands/adidas.md) | 14 |
-| [Babolat](brands/babolat.md) | 12 |
-| [Bullpadel](brands/bullpadel.md) | 18 |
+| [Adidas](brands/adidas.md) | 21 |
+| [Babolat](brands/babolat.md) | 16 |
+| [Black Crown](brands/black-crown.md) | 1 |
+| [Bullpadel](brands/bullpadel.md) | 32 |
 | [Cork Padel](brands/cork-padel.md) | 8 |
 | [Drop Shot](brands/drop-shot.md) | 2 |
-| [Dunlop](brands/dunlop.md) | 3 |
-| [Head](brands/head.md) | 14 |
+| [Dunlop](brands/dunlop.md) | 4 |
+| [Head](brands/head.md) | 17 |
 | [Joma](brands/joma.md) | 1 |
 | [Kuikma](brands/kuikma.md) | 3 |
-| [Nox](brands/nox.md) | 40 |
+| [Nox](brands/nox.md) | 43 |
 | [Oxdog](brands/oxdog.md) | 7 |
 | [Padelsmith](brands/padelsmith.md) | 1 |
 | [Royal Padel](brands/royal-padel.md) | 14 |
 | [Shooter](brands/shooter.md) | 1 |
-| [Siux](brands/siux.md) | 22 |
+| [Siux](brands/siux.md) | 23 |
 | [StarVie](brands/starvie.md) | 17 |
 | [Tecnifibre](brands/tecnifibre.md) | 2 |
+| [Vairo](brands/vairo.md) | 2 |
 | [Varlion](brands/varlion.md) | 6 |
 | [Wilson](brands/wilson.md) | 6 |
 
@@ -61,7 +63,7 @@ Export date: 2026-10-02. An automated job publishes data changes. This date does
     "handling": 28,
     "forgiveness": 46,
     "comfort": 57,
-    "value": 13
+    "value": 10
   }
 }
 ```

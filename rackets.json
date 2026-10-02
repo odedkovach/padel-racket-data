@@ -5,7 +5,7 @@
  "built": "2026-10-02",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 191,
+ "count": 227,
  "rackets": [
   {
    "slug": "adidas-arrow-hit-2026",
@@ -22,7 +22,7 @@
     "handling": 28,
     "forgiveness": 46,
     "comfort": 57,
-    "value": 13
+    "value": 10
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -96,7 +96,7 @@
     "handling": 28,
     "forgiveness": 38,
     "comfort": 47,
-    "value": 18
+    "value": 13
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -177,7 +177,7 @@
     "handling": 48,
     "forgiveness": 46,
     "comfort": 23,
-    "value": 13
+    "value": 10
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -263,7 +263,7 @@
     "handling": 60,
     "forgiveness": 60,
     "comfort": 43,
-    "value": 17
+    "value": 12
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -335,6 +335,87 @@
    }
   },
   {
+   "slug": "adidas-cross-it-light-3-4-2025",
+   "name": "Adidas Cross IT Light 3.4 2025",
+   "brand": "Adidas",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/adidas-cross-it-light-3-4-2025",
+   "productUrl": "https://www.padelnuestro.com/pala-adidas-cross-lt-light-3-4-ar1ca6u11",
+   "level": null,
+   "player": "Marta Ortega",
+   "ratings": {
+    "power": 14,
+    "control": 90,
+    "handling": 80,
+    "forgiveness": 60,
+    "comfort": 51,
+    "value": 29
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "control",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "forma redonda",
+     "source": "https://www.padelnuestro.com/pala-adidas-cross-lt-light-3-4-ar1ca6u11",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "345 to 360 g",
+     "min": 345,
+     "max": 360,
+     "verbatim": "345-360 gramos",
+     "source": "https://www.padelnuestro.com/pala-adidas-cross-lt-light-3-4-ar1ca6u11",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Bajo",
+     "source": "https://www.padelnuestro.com/pala-adidas-cross-lt-light-3-4-ar1ca6u11",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Medium",
+     "value": "medium",
+     "material": null,
+     "verbatim": "Media",
+     "source": "https://www.padelnuestro.com/pala-adidas-cross-lt-light-3-4-ar1ca6u11",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbono Aluminizado 24K",
+     "material": "Carbono Aluminizado 24K",
+     "verbatim": "Planos de Carbono Aluminizado 24K",
+     "source": "https://www.padelnuestro.com/pala-adidas-cross-lt-light-3-4-ar1ca6u11",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "superficie rugosa",
+     "source": "https://www.padelnuestro.com/pala-adidas-cross-lt-light-3-4-ar1ca6u11",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€164.95",
+     "value": 164.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "164.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-adidas-cross-lt-light-3-4-ar1ca6u11",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "adidas-drive-black-2026",
    "name": "Adidas Drive Black 2026",
    "brand": "Adidas",
@@ -349,7 +430,7 @@
     "handling": 48,
     "forgiveness": 90,
     "comfort": 75,
-    "value": 79
+    "value": 57
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -430,7 +511,7 @@
     "handling": 48,
     "forgiveness": 72,
     "comfort": 75,
-    "value": 75
+    "value": 54
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -485,6 +566,75 @@
    }
   },
   {
+   "slug": "adidas-match-light-2026",
+   "name": "Adidas Match Light 2026",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-match-light-2026",
+   "productUrl": "https://www.padelnuestro.com/pala-adidas-match-light-2026-ar5ga5u88",
+   "level": "Principiante / Intermedio",
+   "player": null,
+   "ratings": {
+    "power": 46,
+    "control": 50,
+    "handling": 60,
+    "forgiveness": 72,
+    "comfort": 79,
+    "value": 70
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "balance"
+   ],
+   "profile": [
+    "all-round",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "weight": {
+     "display": "345 to 360 g",
+     "min": 345,
+     "max": 360,
+     "verbatim": "peso reducido entre 345 y 360 gramos",
+     "source": "https://www.padelnuestro.com/pala-adidas-match-light-2026-ar5ga5u88",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Blanda",
+     "source": "https://www.padelnuestro.com/pala-adidas-match-light-2026-ar5ga5u88",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fibra De Vidrio",
+     "material": "Fibra De Vidrio",
+     "verbatim": "Fibra De Vidrio",
+     "source": "https://www.padelnuestro.com/pala-adidas-match-light-2026-ar5ga5u88",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "No",
+     "value": false,
+     "verbatim": "Lisa",
+     "source": "https://www.padelnuestro.com/pala-adidas-match-light-2026-ar5ga5u88",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€59.95",
+     "value": 59.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "59.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-adidas-match-light-2026-ar5ga5u88",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "adidas-metalbone-2026",
    "name": "Adidas Metalbone 2026",
    "brand": "Adidas",
@@ -499,7 +649,7 @@
     "handling": 40,
     "forgiveness": 38,
     "comfort": 51,
-    "value": 13
+    "value": 9
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -571,6 +721,167 @@
    }
   },
   {
+   "slug": "adidas-metalbone-carbon-3-3-2024",
+   "name": "Adidas Metalbone Carbon 3.3 2024",
+   "brand": "Adidas",
+   "year": 2024,
+   "url": "https://padeltrue.com/rackets/adidas-metalbone-carbon-3-3-2024",
+   "productUrl": "https://www.padelnuestro.com/adidas-metalbone-carbon-3-3-2024-110142-p",
+   "level": "Avanzado / Competición",
+   "player": "Pablo Cardona",
+   "ratings": {
+    "power": 82,
+    "control": 10,
+    "handling": 30,
+    "forgiveness": 38,
+    "comfort": 48,
+    "value": 27
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "power"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Una pala de formato diamante oversize",
+     "source": "https://www.padelnuestro.com/adidas-metalbone-carbon-3-3-2024-110142-p",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "con un balance alto",
+     "source": "https://www.padelnuestro.com/adidas-metalbone-carbon-3-3-2024-110142-p",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, goma EVA Soft Performance",
+     "value": "soft",
+     "material": "goma EVA Soft Performance",
+     "verbatim": "Blanda",
+     "source": "https://www.padelnuestro.com/adidas-metalbone-carbon-3-3-2024-110142-p",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbono 6k",
+     "material": "Carbono 6k",
+     "verbatim": "Carbono 6k",
+     "source": "https://www.padelnuestro.com/adidas-metalbone-carbon-3-3-2024-110142-p",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "fibra de carbono",
+     "material": "fibra de carbono",
+     "verbatim": "El marco de la pala se ha construido con fibra de carbono",
+     "source": "https://www.padelnuestro.com/adidas-metalbone-carbon-3-3-2024-110142-p",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "el acabado de las caras es rugoso",
+     "source": "https://www.padelnuestro.com/adidas-metalbone-carbon-3-3-2024-110142-p",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€134.95",
+     "value": 134.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "134.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/adidas-metalbone-carbon-3-3-2024-110142-p",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-metalbone-carbon-3-4-2025",
+   "name": "Adidas Metalbone Carbon 3.4 2025",
+   "brand": "Adidas",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/adidas-metalbone-carbon-3-4-2025",
+   "productUrl": "https://www.padelnuestro.com/pala-adidas-metalbone-carbon-3-4-ar1aa2u42",
+   "level": "Avanzado / Competición",
+   "player": null,
+   "ratings": {
+    "power": 83,
+    "control": 10,
+    "handling": 28,
+    "forgiveness": 38,
+    "comfort": 47,
+    "value": 24
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma de diamante",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-carbon-3-4-ar1aa2u42",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g",
+     "min": 360,
+     "max": 375,
+     "verbatim": "oscila entre los 360 y los 375 gramos",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-carbon-3-4-ar1aa2u42",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-carbon-3-4-ar1aa2u42",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Soft Eva",
+     "value": "soft",
+     "material": "Soft Eva",
+     "verbatim": "Blanda",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-carbon-3-4-ar1aa2u42",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbono 6K",
+     "material": "Carbono 6K",
+     "verbatim": "Superficie de Carbono 6K",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-carbon-3-4-ar1aa2u42",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Planos con rugosidad",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-carbon-3-4-ar1aa2u42",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€149.95",
+     "value": 149.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "149.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-carbon-3-4-ar1aa2u42",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "adidas-metalbone-carbon-ctrl-2026",
    "name": "Adidas Metalbone Carbon Ctrl 2026",
    "brand": "Adidas",
@@ -585,7 +896,7 @@
     "handling": 48,
     "forgiveness": 74,
     "comfort": 55,
-    "value": 22
+    "value": 16
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -665,7 +976,7 @@
     "handling": 60,
     "forgiveness": 74,
     "comfort": 59,
-    "value": 14
+    "value": 11
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -731,6 +1042,87 @@
    }
   },
   {
+   "slug": "adidas-metalbone-ctrl-3-4-2025",
+   "name": "Adidas Metalbone CTRL 3.4 2025",
+   "brand": "Adidas",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/adidas-metalbone-ctrl-3-4-2025",
+   "productUrl": "https://www.padelnuestro.com/adidas-metalbone-ctrl-3-4-2025",
+   "level": "Profesional",
+   "player": null,
+   "ratings": {
+    "power": 14,
+    "control": 90,
+    "handling": 80,
+    "forgiveness": 60,
+    "comfort": 51,
+    "value": 24
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "control",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "forma redonda y balance bajo",
+     "source": "https://www.padelnuestro.com/adidas-metalbone-ctrl-3-4-2025",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "345 to 360 g",
+     "min": 345,
+     "max": 360,
+     "verbatim": "peso modulable que oscila entre los 345 y los 360 gramos",
+     "source": "https://www.padelnuestro.com/adidas-metalbone-ctrl-3-4-2025",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance bajo",
+     "source": "https://www.padelnuestro.com/adidas-metalbone-ctrl-3-4-2025",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Medium, Soft Performance EVA",
+     "value": "medium",
+     "material": "Soft Performance EVA",
+     "verbatim": "Media",
+     "source": "https://www.padelnuestro.com/adidas-metalbone-ctrl-3-4-2025",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbono Aluminizado 16K",
+     "material": "Carbono Aluminizado 16K",
+     "verbatim": "Caras fabricadas con Carbono Aluminizado 16K",
+     "source": "https://www.padelnuestro.com/adidas-metalbone-ctrl-3-4-2025",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "planos rugosos",
+     "source": "https://www.padelnuestro.com/adidas-metalbone-ctrl-3-4-2025",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€199.95",
+     "value": 199.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "199.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/adidas-metalbone-ctrl-3-4-2025",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "adidas-metalbone-hrd-plus-2026",
    "name": "Adidas Metalbone HRD+ 2026",
    "brand": "Adidas",
@@ -745,7 +1137,7 @@
     "handling": 40,
     "forgiveness": 10,
     "comfort": 19,
-    "value": 12
+    "value": 8
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -811,6 +1203,87 @@
    }
   },
   {
+   "slug": "adidas-metalbone-hrd-plus-3-4-2025",
+   "name": "Adidas Metalbone HRD+ 3.4 2025",
+   "brand": "Adidas",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/adidas-metalbone-hrd-plus-3-4-2025",
+   "productUrl": "https://www.padelnuestro.com/pala-adidas-metalbone-hrd-3-4-ar1aa1u22",
+   "level": "Avanzado / Competición",
+   "player": "Alejandro Galán",
+   "ratings": {
+    "power": 78,
+    "control": 10,
+    "handling": 40,
+    "forgiveness": 10,
+    "comfort": 19,
+    "value": 16
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "El formato diamante",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-hrd-3-4-ar1aa1u22",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "345 to 360 g",
+     "min": 345,
+     "max": 360,
+     "verbatim": "Con un peso ajustable entre 345 y 360 gramos",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-hrd-3-4-ar1aa1u22",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-hrd-3-4-ar1aa1u22",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Hard, Eva High Memory",
+     "value": "hard",
+     "material": "Eva High Memory",
+     "verbatim": "Dura",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-hrd-3-4-ar1aa1u22",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbono Aluminizado 16K",
+     "material": "Carbono Aluminizado 16K",
+     "verbatim": "Caras fabricadas con Carbono Aluminizado 16K",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-hrd-3-4-ar1aa1u22",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Planos rugosos",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-hrd-3-4-ar1aa1u22",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€199.95",
+     "value": 199.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "199.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-hrd-3-4-ar1aa1u22",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "adidas-metalbone-pro-edt-2026",
    "name": "Adidas Metalbone Pro EDT 2026",
    "brand": "Adidas",
@@ -825,7 +1298,7 @@
     "handling": 40,
     "forgiveness": 38,
     "comfort": 51,
-    "value": 12
+    "value": 8
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -913,7 +1386,7 @@
     "handling": 28,
     "forgiveness": 38,
     "comfort": 47,
-    "value": 15
+    "value": 11
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -994,6 +1467,94 @@
    }
   },
   {
+   "slug": "adidas-metalbone-superlight",
+   "name": "Adidas Metalbone Superlight",
+   "brand": "Adidas",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/adidas-metalbone-superlight",
+   "productUrl": "https://www.padelnuestro.com/pala-adidas-metalbone-superlight",
+   "level": "Principiante / Intermedio",
+   "player": null,
+   "ratings": {
+    "power": 74,
+    "control": 10,
+    "handling": 50,
+    "forgiveness": 54,
+    "comfort": 74,
+    "value": 36
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma diamante oversize",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-superlight",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "315 to 330 g",
+     "min": 315,
+     "max": 330,
+     "verbatim": "315&ndash;330 gramos",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-superlight",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-superlight",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-superlight",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fibra De Vidrio",
+     "material": "Fibra De Vidrio",
+     "verbatim": "Fibra De Vidrio",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-superlight",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbono",
+     "material": "carbono",
+     "verbatim": "Marco tubular de carbono para mayor rigidez.",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-superlight",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "No",
+     "value": false,
+     "verbatim": "Lisa",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-superlight",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€114.95",
+     "value": 114.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "114.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-adidas-metalbone-superlight",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "adidas-metalbone-team-2026",
    "name": "Adidas Metalbone Team 2026",
    "brand": "Adidas",
@@ -1008,7 +1569,7 @@
     "handling": 28,
     "forgiveness": 54,
     "comfort": 67,
-    "value": 29
+    "value": 21
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -1088,7 +1649,7 @@
     "handling": 48,
     "forgiveness": 90,
     "comfort": 75,
-    "value": 53
+    "value": 38
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -1157,6 +1718,95 @@
    }
   },
   {
+   "slug": "babolat-air-crest-2026",
+   "name": "Babolat Air Crest 2026",
+   "brand": "Babolat",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/babolat-air-crest-2026",
+   "productUrl": "https://www.padelnuestro.com/pala-babolat-air-crest-155039-100-smu",
+   "level": "Principiante / Intermedio",
+   "player": null,
+   "ratings": {
+    "power": 44,
+    "control": 50,
+    "handling": 66,
+    "forgiveness": 72,
+    "comfort": 81,
+    "value": 61
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "all-round",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Lágrima",
+     "source": "https://www.padelnuestro.com/pala-babolat-air-crest-155039-100-smu",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "345 g",
+     "min": 345,
+     "max": 345,
+     "verbatim": "Peso de 345 gramos",
+     "source": "https://www.padelnuestro.com/pala-babolat-air-crest-155039-100-smu",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Medio",
+     "source": "https://www.padelnuestro.com/pala-babolat-air-crest-155039-100-smu",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Soft Eva",
+     "value": "soft",
+     "material": "Soft Eva",
+     "verbatim": "Blanda",
+     "source": "https://www.padelnuestro.com/pala-babolat-air-crest-155039-100-smu",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fibra De Vidrio",
+     "material": "Fibra De Vidrio",
+     "verbatim": "Fibra De Vidrio",
+     "source": "https://www.padelnuestro.com/pala-babolat-air-crest-155039-100-smu",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbono y fibra de vidrio",
+     "material": "carbono y fibra de vidrio",
+     "verbatim": "combina carbono y fibra de vidrio",
+     "source": "https://www.padelnuestro.com/pala-babolat-air-crest-155039-100-smu",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "No",
+     "value": false,
+     "verbatim": "Lisa",
+     "source": "https://www.padelnuestro.com/pala-babolat-air-crest-155039-100-smu",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€69.95",
+     "value": 69.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "69.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-babolat-air-crest-155039-100-smu",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "babolat-air-veron-2-6",
    "name": "Babolat Air Veron 2.6",
    "brand": "Babolat",
@@ -1171,7 +1821,7 @@
     "handling": 58,
     "forgiveness": 50,
     "comfort": 52,
-    "value": 18
+    "value": 13
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -1262,7 +1912,7 @@
     "handling": 66,
     "forgiveness": 58,
     "comfort": 65,
-    "value": 28
+    "value": 20
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -1352,7 +2002,7 @@
     "handling": 58,
     "forgiveness": 42,
     "comfort": 42,
-    "value": 13
+    "value": 9
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -1434,6 +2084,91 @@
    }
   },
   {
+   "slug": "babolat-counter-crest",
+   "name": "Babolat Counter Crest",
+   "brand": "Babolat",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/babolat-counter-crest",
+   "productUrl": "https://www.padelnuestro.com/pala-babolat-counter-crest-155041-smu",
+   "level": "Principiante / Intermedio",
+   "player": null,
+   "ratings": {
+    "power": 27,
+    "control": 73,
+    "handling": 78,
+    "forgiveness": 69,
+    "comfort": 76,
+    "value": 61
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
+   "profile": [
+    "control",
+    "easy to move",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Híbrida",
+     "source": "https://www.padelnuestro.com/pala-babolat-counter-crest-155041-smu",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "355 g",
+     "min": 355,
+     "max": 355,
+     "verbatim": "peso aproximado de 355 gramos",
+     "source": "https://www.padelnuestro.com/pala-babolat-counter-crest-155041-smu",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance bajo orientado al control",
+     "source": "https://www.padelnuestro.com/pala-babolat-counter-crest-155041-smu",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Soft Eva",
+     "value": "soft",
+     "material": "Soft Eva",
+     "verbatim": "Blanda",
+     "source": "https://www.padelnuestro.com/pala-babolat-counter-crest-155041-smu",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "perfil de 38 mm",
+     "source": "https://www.padelnuestro.com/pala-babolat-counter-crest-155041-smu",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "No",
+     "value": false,
+     "verbatim": "Superficie lisa con acabado mate",
+     "source": "https://www.padelnuestro.com/pala-babolat-counter-crest-155041-smu",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€69.95",
+     "value": 69.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "69.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-babolat-counter-crest-155041-smu",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "babolat-counter-veron-2-6",
    "name": "Babolat Counter Veron 2.6",
    "brand": "Babolat",
@@ -1448,7 +2183,7 @@
     "handling": 50,
     "forgiveness": 68,
     "comfort": 50,
-    "value": 23
+    "value": 16
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -1545,7 +2280,7 @@
     "handling": 30,
     "forgiveness": 60,
     "comfort": 32,
-    "value": 14
+    "value": 10
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -1835,7 +2570,7 @@
     "handling": 38,
     "forgiveness": 54,
     "comfort": 70,
-    "value": 38
+    "value": 28
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -1908,6 +2643,87 @@
    }
   },
   {
+   "slug": "babolat-technical-veron-2025",
+   "name": "Babolat Technical Veron 2025",
+   "brand": "Babolat",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/babolat-technical-veron-2025",
+   "productUrl": "https://www.padelnuestro.com/pala-babolat-technical-veron-150162-100",
+   "level": "Avanzado / Competición",
+   "player": null,
+   "ratings": {
+    "power": 82,
+    "control": 10,
+    "handling": 30,
+    "forgiveness": 24,
+    "comfort": 32,
+    "value": 23
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma de diamante",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-veron-150162-100",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "365 g",
+     "min": 365,
+     "max": 365,
+     "verbatim": "peso modulable de 365 gramos",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-veron-150162-100",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-veron-150162-100",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Medium, X-EVA",
+     "value": "medium",
+     "material": "X-EVA",
+     "verbatim": "Media",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-veron-150162-100",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbon Flex",
+     "material": "Carbon Flex",
+     "verbatim": "Planos rugosos de Carbon Flex",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-veron-150162-100",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Rugosa",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-veron-150162-100",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€134.95",
+     "value": 134.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "134.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-veron-150162-100",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "babolat-technical-veron-3-0-2026",
    "name": "Babolat Technical Veron 3.0 2026",
    "brand": "Babolat",
@@ -1922,7 +2738,7 @@
     "handling": 54,
     "forgiveness": 24,
     "comfort": 41,
-    "value": 21
+    "value": 15
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -1998,6 +2814,94 @@
    }
   },
   {
+   "slug": "babolat-technical-viper-2025",
+   "name": "Babolat Technical Viper 2025",
+   "brand": "Babolat",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/babolat-technical-viper-2025",
+   "productUrl": "https://www.padelnuestro.com/pala-babolat-technical-viper-150159-100",
+   "level": "Avanzado / Competición",
+   "player": null,
+   "ratings": {
+    "power": 82,
+    "control": 10,
+    "handling": 30,
+    "forgiveness": 24,
+    "comfort": 32,
+    "value": 22
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma de diamante",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-viper-150159-100",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "365 g",
+     "min": 365,
+     "max": 365,
+     "verbatim": "peso aproximado de 365 gramos",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-viper-150159-100",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-viper-150159-100",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Medium, X-EVA",
+     "value": "medium",
+     "material": "X-EVA",
+     "verbatim": "Media",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-viper-150159-100",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbono 12k",
+     "material": "Carbono 12k",
+     "verbatim": "Carbono 12k",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-viper-150159-100",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbono",
+     "material": "carbono",
+     "verbatim": "Marco de carbono",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-viper-150159-100",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "con planos rugosos",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-viper-150159-100",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€142.95",
+     "value": 142.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "142.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-babolat-technical-viper-150159-100",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "babolat-technical-viper-3-0-2026",
    "name": "Babolat Technical Viper 3.0 2026",
    "brand": "Babolat",
@@ -2012,7 +2916,7 @@
     "handling": 46,
     "forgiveness": 10,
     "comfort": 23,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -2108,7 +3012,7 @@
     "handling": 30,
     "forgiveness": 24,
     "comfort": 32,
-    "value": 16
+    "value": 11
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -2204,7 +3108,7 @@
     "handling": 46,
     "forgiveness": 10,
     "comfort": 23,
-    "value": 12
+    "value": 8
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -2279,6 +3183,88 @@
    }
   },
   {
+   "slug": "black-crown-piton",
+   "name": "Black Crown Piton",
+   "brand": "Black Crown",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/black-crown-piton",
+   "productUrl": "https://www.padelnuestro.com/black-crown-piton-1675-p",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 18,
+    "control": 90,
+    "handling": 70,
+    "forgiveness": 60,
+    "comfort": 48,
+    "value": 45
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "control",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Su forma redonda",
+     "source": "https://www.padelnuestro.com/black-crown-piton-1675-p",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance bajo",
+     "source": "https://www.padelnuestro.com/black-crown-piton-1675-p",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Medium, goma EVA",
+     "value": "medium",
+     "material": "goma EVA",
+     "verbatim": "Dureza Media",
+     "source": "https://www.padelnuestro.com/black-crown-piton-1675-p",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "fibra de carbono",
+     "material": "fibra de carbono",
+     "verbatim": "Cara fabricada con fibra de carbono",
+     "source": "https://www.padelnuestro.com/black-crown-piton-1675-p",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbono",
+     "material": "carbono",
+     "verbatim": "Carbono en el marco",
+     "source": "https://www.padelnuestro.com/black-crown-piton-1675-p",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "No",
+     "value": false,
+     "verbatim": "Superfície Lisa",
+     "source": "https://www.padelnuestro.com/black-crown-piton-1675-p",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€97.95",
+     "value": 97.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "97.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/black-crown-piton-1675-p",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-discover-pwr",
    "name": "Bullpadel Discover PWR",
    "brand": "Bullpadel",
@@ -2293,7 +3279,7 @@
     "handling": 30,
     "forgiveness": 47,
     "comfort": 60,
-    "value": 99
+    "value": 72
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -2381,7 +3367,7 @@
     "handling": 58,
     "forgiveness": 55,
     "comfort": 52,
-    "value": 15
+    "value": 11
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -2457,6 +3443,89 @@
    }
   },
   {
+   "slug": "bullpadel-elite-light-w-mujer-2023",
+   "name": "Bullpadel Elite Light W Mujer 2023",
+   "brand": "Bullpadel",
+   "year": 2023,
+   "url": "https://padeltrue.com/rackets/bullpadel-elite-light-w-mujer-2023",
+   "productUrl": "https://www.padelnuestro.com/bullpadel-elite-light-w-mujer-2023-32433-p",
+   "level": "Avanzado / Competición",
+   "player": "Gemma Triay",
+   "ratings": {
+    "power": 47,
+    "control": 50,
+    "handling": 58,
+    "forgiveness": 50,
+    "comfort": 52,
+    "value": 41
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "face"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Tiene forma de lágrima",
+     "source": "https://www.padelnuestro.com/bullpadel-elite-light-w-mujer-2023-32433-p",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "350 to 360 g",
+     "min": 350,
+     "max": 360,
+     "verbatim": "está por 350-360 gramos",
+     "source": "https://www.padelnuestro.com/bullpadel-elite-light-w-mujer-2023-32433-p",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "un balance medio",
+     "source": "https://www.padelnuestro.com/bullpadel-elite-light-w-mujer-2023-32433-p",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "MultiEVA",
+     "value": null,
+     "material": "MultiEVA",
+     "verbatim": "El núcleo interno está compuesto por goma MultiEVA",
+     "source": "https://www.padelnuestro.com/bullpadel-elite-light-w-mujer-2023-32433-p",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "CarbonTube, carbono 100%",
+     "material": "CarbonTube, carbono 100%",
+     "verbatim": "marco CarbonTube",
+     "source": "https://www.padelnuestro.com/bullpadel-elite-light-w-mujer-2023-32433-p",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "acabado rugoso 3D Grain",
+     "source": "https://www.padelnuestro.com/bullpadel-elite-light-w-mujer-2023-32433-p",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€74.95",
+     "value": 74.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "74.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/bullpadel-elite-light-w-mujer-2023-32433-p",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-elite-w-2026",
    "name": "Bullpadel Elite W 2026",
    "brand": "Bullpadel",
@@ -2471,7 +3540,7 @@
     "handling": 58,
     "forgiveness": 55,
     "comfort": 52,
-    "value": 22
+    "value": 16
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -2568,7 +3637,7 @@
     "handling": 58,
     "forgiveness": 32,
     "comfort": 52,
-    "value": 25
+    "value": 18
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -2652,6 +3721,330 @@
    }
   },
   {
+   "slug": "bullpadel-game-ctr-negro",
+   "name": "Bullpadel Game CTR Negro",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-game-ctr-negro",
+   "productUrl": "https://www.padelnuestro.com/pala-bullpadel-game-ctr-005-494315-smu",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 18,
+    "control": 90,
+    "handling": 70,
+    "forgiveness": 76,
+    "comfort": 68,
+    "value": 92
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "control",
+    "easy to move",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "forma redonda",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-ctr-005-494315-smu",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance bajo",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-ctr-005-494315-smu",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft Eva",
+     "value": null,
+     "material": "Soft Eva",
+     "verbatim": "Soft Eva",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-ctr-005-494315-smu",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fibra De Vidrio",
+     "material": "Fibra De Vidrio",
+     "verbatim": "Fibra De Vidrio",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-ctr-005-494315-smu",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "No",
+     "value": false,
+     "verbatim": "Lisa",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-ctr-005-494315-smu",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€49.95",
+     "value": 49.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "49.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-ctr-005-494315-smu",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-game-pwr-gris-2025",
+   "name": "Bullpadel Game PWR Gris 2025",
+   "brand": "Bullpadel",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/bullpadel-game-pwr-gris-2025",
+   "productUrl": "https://www.padelnuestro.com/pala-bullpadel-game-pwr-006-494318-smu",
+   "level": "Principiante / Intermedio",
+   "player": null,
+   "ratings": {
+    "power": 68,
+    "control": 26,
+    "handling": 50,
+    "forgiveness": 40,
+    "comfort": 60,
+    "value": 71
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma de diamante",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-pwr-006-494318-smu",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 370 g",
+     "min": 360,
+     "max": 370,
+     "verbatim": "Peso: 360-370 gramos",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-pwr-006-494318-smu",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft Eva",
+     "value": null,
+     "material": "Soft Eva",
+     "verbatim": "Soft Eva",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-pwr-006-494318-smu",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "fibra de vidrio Polyglass",
+     "material": "fibra de vidrio Polyglass",
+     "verbatim": "caras de fibra de vidrio Polyglass",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-pwr-006-494318-smu",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbono",
+     "material": "carbono",
+     "verbatim": "Marco de carbono",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-pwr-006-494318-smu",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "No",
+     "value": false,
+     "verbatim": "Lisa",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-pwr-006-494318-smu",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€49.95",
+     "value": 49.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "49.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-pwr-006-494318-smu",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-game-woman",
+   "name": "Bullpadel Game Woman",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-game-woman",
+   "productUrl": "https://www.padelnuestro.com/pala-bullpadel-game-w-012-494319-smu-mujer",
+   "level": "Avanzado / Competición",
+   "player": null,
+   "ratings": {
+    "power": 18,
+    "control": 90,
+    "handling": 70,
+    "forgiveness": 90,
+    "comfort": 84,
+    "value": 100
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "control",
+    "easy to move",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Forma Redonda",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-w-012-494319-smu-mujer",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance Bajo",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-w-012-494319-smu-mujer",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Soft Eva",
+     "value": "soft",
+     "material": "Soft Eva",
+     "verbatim": "Dureza Blanda",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-w-012-494319-smu-mujer",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fibra De Vidrio",
+     "material": "Fibra De Vidrio",
+     "verbatim": "Cara Fibra De Vidrio",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-w-012-494319-smu-mujer",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "No",
+     "value": false,
+     "verbatim": "Superfície Lisa",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-w-012-494319-smu-mujer",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€49.95",
+     "value": 49.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "49.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-game-w-012-494319-smu-mujer",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-hack-04-2025",
+   "name": "Bullpadel Hack 04 2025",
+   "brand": "Bullpadel",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/bullpadel-hack-04-2025",
+   "productUrl": "https://www.padelnuestro.com/bullpadel-hack-04-25-113754-p",
+   "level": "Profesional",
+   "player": "Paquito Navarro",
+   "ratings": {
+    "power": 84,
+    "control": 10,
+    "handling": 26,
+    "forgiveness": 24,
+    "comfort": 31,
+    "value": 21
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma de diamante",
+     "source": "https://www.padelnuestro.com/bullpadel-hack-04-25-113754-p",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "365 to 375 g",
+     "min": 365,
+     "max": 375,
+     "verbatim": "peso de 365-375 gramos",
+     "source": "https://www.padelnuestro.com/bullpadel-hack-04-25-113754-p",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://www.padelnuestro.com/bullpadel-hack-04-25-113754-p",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Medium, Multieva",
+     "value": "medium",
+     "material": "Multieva",
+     "verbatim": "Dureza Media",
+     "source": "https://www.padelnuestro.com/bullpadel-hack-04-25-113754-p",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Tricarbon 3D carbon fibre",
+     "material": "Tricarbon 3D carbon fibre",
+     "verbatim": "Superficie de fibra de carbono Tricarbon 3D",
+     "source": "https://www.padelnuestro.com/bullpadel-hack-04-25-113754-p",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "100% carbon, bidirectional interwoven",
+     "material": "100% carbon, bidirectional interwoven",
+     "verbatim": "marco de Carbono 100%",
+     "source": "https://www.padelnuestro.com/bullpadel-hack-04-25-113754-p",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superfície Rugosa",
+     "source": "https://www.padelnuestro.com/bullpadel-hack-04-25-113754-p",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€149.95",
+     "value": 149.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "149.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/bullpadel-hack-04-25-113754-p",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-hack-04-2026",
    "name": "Bullpadel Hack 04 2026",
    "brand": "Bullpadel",
@@ -2666,7 +4059,7 @@
     "handling": 46,
     "forgiveness": 17,
     "comfort": 31,
-    "value": 18
+    "value": 13
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -2763,7 +4156,7 @@
     "handling": 66,
     "forgiveness": 31,
     "comfort": 55,
-    "value": 27
+    "value": 19
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -2852,7 +4245,7 @@
     "handling": 46,
     "forgiveness": 17,
     "comfort": 31,
-    "value": 13
+    "value": 9
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -2942,7 +4335,7 @@
     "handling": 30,
     "forgiveness": 54,
     "comfort": 68,
-    "value": 64
+    "value": 46
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -3016,6 +4409,173 @@
    }
   },
   {
+   "slug": "bullpadel-indiga-w-mujer-2023",
+   "name": "Bullpadel Indiga W Mujer 2023",
+   "brand": "Bullpadel",
+   "year": 2023,
+   "url": "https://padeltrue.com/rackets/bullpadel-indiga-w-mujer-2023",
+   "productUrl": "https://www.padelnuestro.com/bullpadel-indiga-w-mujer-2023-32439-p",
+   "level": "Principiante / Intermedio",
+   "player": null,
+   "ratings": {
+    "power": 18,
+    "control": 90,
+    "handling": 70,
+    "forgiveness": 90,
+    "comfort": 84,
+    "value": 100
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "control",
+    "easy to move",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Forma redonda",
+     "source": "https://www.padelnuestro.com/bullpadel-indiga-w-mujer-2023-32439-p",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "el balance es bajo",
+     "source": "https://www.padelnuestro.com/bullpadel-indiga-w-mujer-2023-32439-p",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, EVA soft",
+     "value": "soft",
+     "material": "EVA soft",
+     "verbatim": "su densidad suave tiene un tacto blando",
+     "source": "https://www.padelnuestro.com/bullpadel-indiga-w-mujer-2023-32439-p",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fibra De Vidrio",
+     "material": "Fibra De Vidrio",
+     "verbatim": "Fibra De Vidrio",
+     "source": "https://www.padelnuestro.com/bullpadel-indiga-w-mujer-2023-32439-p",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbono",
+     "material": "carbono",
+     "verbatim": "el marco es de carbono",
+     "source": "https://www.padelnuestro.com/bullpadel-indiga-w-mujer-2023-32439-p",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "No",
+     "value": false,
+     "verbatim": "Lisa",
+     "source": "https://www.padelnuestro.com/bullpadel-indiga-w-mujer-2023-32439-p",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€49.95",
+     "value": 49.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "49.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/bullpadel-indiga-w-mujer-2023-32439-p",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-ionic-control-26",
+   "name": "Bullpadel Ionic Control 26",
+   "brand": "Bullpadel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/bullpadel-ionic-control-26",
+   "productUrl": "https://www.padelnuestro.com/bullpadel-ionic-control-26",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 20,
+    "control": 90,
+    "handling": 66,
+    "forgiveness": 68,
+    "comfort": 57,
+    "value": 37
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
+   "profile": [
+    "control",
+    "forgiving"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Forma redonda",
+     "source": "https://www.padelnuestro.com/bullpadel-ionic-control-26",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "365 to 375 g",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso: 365&ndash;375 g",
+     "source": "https://www.padelnuestro.com/bullpadel-ionic-control-26",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance bajo",
+     "source": "https://www.padelnuestro.com/bullpadel-ionic-control-26",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Medium, MultiEva",
+     "value": "medium",
+     "material": "MultiEva",
+     "verbatim": "Dureza Media",
+     "source": "https://www.padelnuestro.com/bullpadel-ionic-control-26",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "Perfil: 38 mm",
+     "source": "https://www.padelnuestro.com/bullpadel-ionic-control-26",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superfície Rugosa",
+     "source": "https://www.padelnuestro.com/bullpadel-ionic-control-26",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€119.95",
+     "value": 119.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "119.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/bullpadel-ionic-control-26",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-ionic-power-2026",
    "name": "Bullpadel Ionic Power 2026",
    "brand": "Bullpadel",
@@ -3030,7 +4590,7 @@
     "handling": 26,
     "forgiveness": 32,
     "comfort": 41,
-    "value": 27
+    "value": 19
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -3127,7 +4687,7 @@
     "handling": 46,
     "forgiveness": 33,
     "comfort": 23,
-    "value": 22
+    "value": 16
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -3216,7 +4776,7 @@
     "handling": 46,
     "forgiveness": 33,
     "comfort": 23,
-    "value": 16
+    "value": 12
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -3299,6 +4859,440 @@
    }
   },
   {
+   "slug": "bullpadel-neuron-25",
+   "name": "Bullpadel Neuron 25",
+   "brand": "Bullpadel",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/bullpadel-neuron-25",
+   "productUrl": "https://www.padelnuestro.com/bullpadel-neuron-25-113768-p",
+   "level": "Avanzado / Competición, Profesional",
+   "player": "Fede Chingotto",
+   "ratings": {
+    "power": 46,
+    "control": 57,
+    "handling": 46,
+    "forgiveness": 47,
+    "comfort": 39,
+    "value": 21
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Forma híbrida",
+     "source": "https://www.padelnuestro.com/bullpadel-neuron-25-113768-p",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "365 to 375 g",
+     "min": 365,
+     "max": 375,
+     "verbatim": "entre los 365 y los 375 gramos",
+     "source": "https://www.padelnuestro.com/bullpadel-neuron-25-113768-p",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance medio",
+     "source": "https://www.padelnuestro.com/bullpadel-neuron-25-113768-p",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Medium, MultiEva",
+     "value": "medium",
+     "material": "MultiEva",
+     "verbatim": "Dureza Media",
+     "source": "https://www.padelnuestro.com/bullpadel-neuron-25-113768-p",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbono 3k",
+     "material": "Carbono 3k",
+     "verbatim": "Cara Carbono 3k",
+     "source": "https://www.padelnuestro.com/bullpadel-neuron-25-113768-p",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "Carbontube de fibra 100% de carbono",
+     "material": "Carbontube de fibra 100% de carbono",
+     "verbatim": "Carbontube de fibra 100% de carbono",
+     "source": "https://www.padelnuestro.com/bullpadel-neuron-25-113768-p",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "No",
+     "value": false,
+     "verbatim": "Superfície Lisa",
+     "source": "https://www.padelnuestro.com/bullpadel-neuron-25-113768-p",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€139.95",
+     "value": 139.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "139.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/bullpadel-neuron-25-113768-p",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-pearl-2026",
+   "name": "Bullpadel Pearl 2026",
+   "brand": "Bullpadel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/bullpadel-pearl-2026",
+   "productUrl": "https://www.padelnuestro.com/bullpadel-pearl-2026",
+   "level": "Avanzado / Competición",
+   "player": "Beatriz González",
+   "ratings": {
+    "power": 80,
+    "control": 10,
+    "handling": 34,
+    "forgiveness": 32,
+    "comfort": 43,
+    "value": 19
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma de diamante",
+     "source": "https://www.padelnuestro.com/bullpadel-pearl-2026",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "355 to 365 g",
+     "min": 355,
+     "max": 365,
+     "verbatim": "355 y los 365 gramos",
+     "source": "https://www.padelnuestro.com/bullpadel-pearl-2026",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://www.padelnuestro.com/bullpadel-pearl-2026",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Medium, Multieva",
+     "value": "medium",
+     "material": "Multieva",
+     "verbatim": "Media",
+     "source": "https://www.padelnuestro.com/bullpadel-pearl-2026",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fibrix (mezcla de fibra de vidrio y carbono)",
+     "material": "Fibrix (mezcla de fibra de vidrio y carbono)",
+     "verbatim": "Fibrix (mezcla de fibra de vidrio y carbono)",
+     "source": "https://www.padelnuestro.com/bullpadel-pearl-2026",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbono 100%",
+     "material": "carbono 100%",
+     "verbatim": "marco de carbono 100%",
+     "source": "https://www.padelnuestro.com/bullpadel-pearl-2026",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Rugosa",
+     "source": "https://www.padelnuestro.com/bullpadel-pearl-2026",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€179.95",
+     "value": 179.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "179.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/bullpadel-pearl-2026",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-vertex-03-cmf-x-series",
+   "name": "Bullpadel Vertex 03 CMF X-SERIES",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-03-cmf-x-series",
+   "productUrl": "https://www.padelnuestro.com/pala-bullpadel-vertex-03-cmf-xseries-494314-smu",
+   "level": "Avanzado / Competición, Principiante / Intermedio",
+   "player": null,
+   "ratings": {
+    "power": 82,
+    "control": 10,
+    "handling": 30,
+    "forgiveness": 32,
+    "comfort": 42,
+    "value": 36
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "face",
+    "weight"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "formato diamante",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-vertex-03-cmf-xseries-494314-smu",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance ligeramente alto",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-vertex-03-cmf-xseries-494314-smu",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Medium, Multieva",
+     "value": "medium",
+     "material": "Multieva",
+     "verbatim": "Media",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-vertex-03-cmf-xseries-494314-smu",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "material Fibrix",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-vertex-03-cmf-xseries-494314-smu",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "100% carbono",
+     "material": "100% carbono",
+     "verbatim": "marco 100% carbono",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-vertex-03-cmf-xseries-494314-smu",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "rugosidad tipo arena",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-vertex-03-cmf-xseries-494314-smu",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€94.95",
+     "value": 94.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "94.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-bullpadel-vertex-03-cmf-xseries-494314-smu",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-vertex-04-2024",
+   "name": "Bullpadel Vertex 04 2024",
+   "brand": "Bullpadel",
+   "year": 2024,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-04-2024",
+   "productUrl": "https://www.padelnuestro.com/bullpadel-vertex-04-110865-p",
+   "level": "Avanzado / Competición",
+   "player": "Juan Tello",
+   "ratings": {
+    "power": 84,
+    "control": 10,
+    "handling": 26,
+    "forgiveness": 10,
+    "comfort": 15,
+    "value": 21
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma de diamante",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-110865-p",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "365 to 375 g",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Su peso comprende los 365 y los 375 gramos",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-110865-p",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-110865-p",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Hard, Multieva",
+     "value": "hard",
+     "material": "Multieva",
+     "verbatim": "Dura",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-110865-p",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Xtend Carbon 12K",
+     "material": "Xtend Carbon 12K",
+     "verbatim": "planos de Xtend Carbon 12K",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-110865-p",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "CarboTube",
+     "material": "CarboTube",
+     "verbatim": "Marco CarboTube",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-110865-p",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "un acabado rugoso",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-110865-p",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€144.95",
+     "value": 144.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "144.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-110865-p",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-vertex-04-2025",
+   "name": "Bullpadel Vertex 04 2025",
+   "brand": "Bullpadel",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-04-2025",
+   "productUrl": "https://www.padelnuestro.com/bullpadel-vertex-04-25-113772-p",
+   "level": "Avanzado / Competición, Profesional",
+   "player": "Juan Tello",
+   "ratings": {
+    "power": 84,
+    "control": 10,
+    "handling": 26,
+    "forgiveness": 10,
+    "comfort": 15,
+    "value": 20
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma de diamante",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-25-113772-p",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "365 to 375 g",
+     "min": 365,
+     "max": 375,
+     "verbatim": "oscila entre los 365 y 375 gramos",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-25-113772-p",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-25-113772-p",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Hard, MultiEva",
+     "value": "hard",
+     "material": "MultiEva",
+     "verbatim": "Dura",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-25-113772-p",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Xtend Carbon 12k",
+     "material": "Xtend Carbon 12k",
+     "verbatim": "carbono Xtend Carbon 12k",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-25-113772-p",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "CarbonTube, carbono 100%",
+     "material": "CarbonTube, carbono 100%",
+     "verbatim": "marco tubular en CarbonTube en carbono 100%",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-25-113772-p",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Rugosa",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-25-113772-p",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€149.95",
+     "value": 149.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "149.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-04-25-113772-p",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-vertex-04-comfort-2024",
    "name": "Bullpadel Vertex 04 Comfort 2024",
    "brand": "Bullpadel",
@@ -3313,7 +5307,7 @@
     "handling": 30,
     "forgiveness": 32,
     "comfort": 42,
-    "value": 43
+    "value": 31
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -3409,7 +5403,7 @@
     "handling": 26,
     "forgiveness": 24,
     "comfort": 31,
-    "value": 18
+    "value": 13
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -3504,7 +5498,7 @@
     "handling": 46,
     "forgiveness": 24,
     "comfort": 39,
-    "value": 13
+    "value": 9
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -3594,7 +5588,7 @@
     "handling": 26,
     "forgiveness": 10,
     "comfort": 15,
-    "value": 21
+    "value": 15
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -3683,7 +5677,7 @@
     "handling": 66,
     "forgiveness": 47,
     "comfort": 47,
-    "value": 25
+    "value": 18
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -3757,6 +5751,103 @@
    }
   },
   {
+   "slug": "bullpadel-vertex-advance",
+   "name": "Bullpadel Vertex Advance",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-advance",
+   "productUrl": "https://www.padelnuestro.com/bullpadel-vertex-advance",
+   "level": "Avanzado / Competición",
+   "player": null,
+   "ratings": {
+    "power": 84,
+    "control": 10,
+    "handling": 26,
+    "forgiveness": 32,
+    "comfort": 41,
+    "value": 39
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma de diamante",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-advance",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "365 to 375 g",
+     "min": 365,
+     "max": 375,
+     "verbatim": "365 y 375 gramos",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-advance",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-advance",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Medium",
+     "value": "medium",
+     "material": null,
+     "verbatim": "Su tacto medio",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-advance",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Glaphite",
+     "material": "Glaphite",
+     "verbatim": "Glaphite",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-advance",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "100% de carbono entrelazado (CarbonTube)",
+     "material": "100% de carbono entrelazado (CarbonTube)",
+     "verbatim": "CarbonTube: marco 100% de carbono entrelazado",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-advance",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "perfil de 38 mm",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-advance",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "TopSpin: acabado rugoso",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-advance",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€89.95",
+     "value": 89.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "89.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/bullpadel-vertex-advance",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-xplo-2026",
    "name": "Bullpadel Xplo 2026",
    "brand": "Bullpadel",
@@ -3771,7 +5862,7 @@
     "handling": 46,
     "forgiveness": 35,
     "comfort": 31,
-    "value": 16
+    "value": 12
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -3861,7 +5952,7 @@
     "handling": 46,
     "forgiveness": 35,
     "comfort": 31,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -3928,6 +6019,96 @@
    }
   },
   {
+   "slug": "bullpadel-xplo-comfort-25",
+   "name": "Bullpadel XPLO Comfort 25",
+   "brand": "Bullpadel",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/bullpadel-xplo-comfort-25",
+   "productUrl": "https://www.padelnuestro.com/bullpadel-xplo-komfort-25-113778-p",
+   "level": "Avanzado / Competición",
+   "player": "Martin Di Nenno",
+   "ratings": {
+    "power": 84,
+    "control": 10,
+    "handling": 26,
+    "forgiveness": 32,
+    "comfort": 41,
+    "value": 35
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma de diamante",
+     "source": "https://www.padelnuestro.com/bullpadel-xplo-komfort-25-113778-p",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "365 to 375 g",
+     "min": 365,
+     "max": 375,
+     "verbatim": "peso de 365-375 gramos",
+     "source": "https://www.padelnuestro.com/bullpadel-xplo-komfort-25-113778-p",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://www.padelnuestro.com/bullpadel-xplo-komfort-25-113778-p",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Medium, Multieva",
+     "value": "medium",
+     "material": "Multieva",
+     "verbatim": "Dureza Media",
+     "source": "https://www.padelnuestro.com/bullpadel-xplo-komfort-25-113778-p",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "planos de Fibrix",
+     "source": "https://www.padelnuestro.com/bullpadel-xplo-komfort-25-113778-p",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm",
+     "value": 38,
+     "verbatim": "perfil de 38 mm",
+     "source": "https://www.padelnuestro.com/bullpadel-xplo-komfort-25-113778-p",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D",
+     "source": "https://www.padelnuestro.com/bullpadel-xplo-komfort-25-113778-p",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€99.95",
+     "value": 99.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "99.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/bullpadel-xplo-komfort-25-113778-p",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "cork-padel-classic-ii",
    "name": "Cork Padel Classic II",
    "brand": "Cork Padel",
@@ -3942,7 +6123,7 @@
     "handling": 70,
     "forgiveness": 57,
     "comfort": 66,
-    "value": 16
+    "value": 11
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -4005,7 +6186,7 @@
     "handling": 50,
     "forgiveness": 41,
     "comfort": 34,
-    "value": 8
+    "value": 6
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -4073,7 +6254,7 @@
     "handling": 70,
     "forgiveness": 50,
     "comfort": 58,
-    "value": 14
+    "value": 10
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -4142,7 +6323,7 @@
     "handling": 50,
     "forgiveness": 55,
     "comfort": 50,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -4210,7 +6391,7 @@
     "handling": 50,
     "forgiveness": 55,
     "comfort": 50,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -4278,7 +6459,7 @@
     "handling": 70,
     "forgiveness": 43,
     "comfort": 50,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -4347,7 +6528,7 @@
     "handling": 50,
     "forgiveness": 48,
     "comfort": 42,
-    "value": 9
+    "value": 7
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -4415,7 +6596,7 @@
     "handling": 30,
     "forgiveness": 25,
     "comfort": 34,
-    "value": 10
+    "value": 7
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -4484,7 +6665,7 @@
     "handling": 34,
     "forgiveness": 24,
     "comfort": 33,
-    "value": 20
+    "value": 14
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -4566,7 +6747,7 @@
     "handling": 54,
     "forgiveness": 28,
     "comfort": 25,
-    "value": 27
+    "value": 19
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -4647,7 +6828,7 @@
     "handling": 50,
     "forgiveness": 24,
     "comfort": 40,
-    "value": 17
+    "value": 12
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -4729,7 +6910,7 @@
     "handling": 54,
     "forgiveness": 69,
     "comfort": 67,
-    "value": 58
+    "value": 42
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -4812,7 +6993,7 @@
     "handling": 26,
     "forgiveness": 47,
     "comfort": 31,
-    "value": 15
+    "value": 11
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -4872,6 +7053,164 @@
    }
   },
   {
+   "slug": "dunlop-nemesis-carbon-control",
+   "name": "Dunlop Nemesis Carbon Control",
+   "brand": "Dunlop",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/dunlop-nemesis-carbon-control",
+   "productUrl": "https://www.padelnuestro.com/dunlop-nemesis-carbon-control-31549-p",
+   "level": "Avanzado / Competición",
+   "player": null,
+   "ratings": {
+    "power": 18,
+    "control": 90,
+    "handling": 70,
+    "forgiveness": 60,
+    "comfort": 48,
+    "value": 63
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "control",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Tiene forma redonda",
+     "source": "https://www.padelnuestro.com/dunlop-nemesis-carbon-control-31549-p",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance bajo",
+     "source": "https://www.padelnuestro.com/dunlop-nemesis-carbon-control-31549-p",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "EVA",
+     "value": null,
+     "material": "EVA",
+     "verbatim": "El núcleo es de goma EVA muy suave",
+     "source": "https://www.padelnuestro.com/dunlop-nemesis-carbon-control-31549-p",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "carbono 3K",
+     "material": "carbono 3K",
+     "verbatim": "Las caras de carbono 3K",
+     "source": "https://www.padelnuestro.com/dunlop-nemesis-carbon-control-31549-p",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "fibra de carbono",
+     "material": "fibra de carbono",
+     "verbatim": "El marco está compuesto de una fibra de carbono",
+     "source": "https://www.padelnuestro.com/dunlop-nemesis-carbon-control-31549-p",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "una superficie texturizada",
+     "source": "https://www.padelnuestro.com/dunlop-nemesis-carbon-control-31549-p",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€69.95",
+     "value": 69.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "69.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/dunlop-nemesis-carbon-control-31549-p",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "head-coello-motion-2025",
+   "name": "Head Coello Motion 2025",
+   "brand": "Head",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/head-coello-motion-2025",
+   "productUrl": "https://www.padelnuestro.com/pala-head-coello-motion-2025-225025",
+   "level": "Avanzado / Competición",
+   "player": "Arturo Coello",
+   "ratings": {
+    "power": 66,
+    "control": 26,
+    "handling": 54,
+    "forgiveness": 32,
+    "comfort": 51,
+    "value": 18
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma diamante",
+     "source": "https://www.padelnuestro.com/pala-head-coello-motion-2025-225025",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 g",
+     "min": 360,
+     "max": 360,
+     "verbatim": "Su peso de 360 g",
+     "source": "https://www.padelnuestro.com/pala-head-coello-motion-2025-225025",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Medium, Foam",
+     "value": "medium",
+     "material": "Foam",
+     "verbatim": "Dureza Media",
+     "source": "https://www.padelnuestro.com/pala-head-coello-motion-2025-225025",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbono",
+     "material": "carbono",
+     "verbatim": "Carbon Frame, estructura de carbono",
+     "source": "https://www.padelnuestro.com/pala-head-coello-motion-2025-225025",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "acabado rugoso 3D",
+     "source": "https://www.padelnuestro.com/pala-head-coello-motion-2025-225025",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€189.95",
+     "value": 189.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "189.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-head-coello-motion-2025-225025",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "head-coello-motion-2026",
    "name": "Head Coello Motion 2026",
    "brand": "Head",
@@ -4886,7 +7225,7 @@
     "handling": 30,
     "forgiveness": 32,
     "comfort": 42,
-    "value": 18
+    "value": 13
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -4947,6 +7286,94 @@
    }
   },
   {
+   "slug": "head-coello-pro-2025",
+   "name": "Head Coello Pro 2025",
+   "brand": "Head",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/head-coello-pro-2025",
+   "productUrl": "https://www.padelnuestro.com/pala-head-coello-pro-2025-225015",
+   "level": "Avanzado / Competición",
+   "player": "Arturo Coello",
+   "ratings": {
+    "power": 85,
+    "control": 10,
+    "handling": 22,
+    "forgiveness": 10,
+    "comfort": 14,
+    "value": 17
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma de diamante",
+     "source": "https://www.padelnuestro.com/pala-head-coello-pro-2025-225015",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "375 g",
+     "min": 375,
+     "max": 375,
+     "verbatim": "un peso de 375 gramos",
+     "source": "https://www.padelnuestro.com/pala-head-coello-pro-2025-225015",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance alto",
+     "source": "https://www.padelnuestro.com/pala-head-coello-pro-2025-225015",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Hard, Foam",
+     "value": "hard",
+     "material": "Foam",
+     "verbatim": "Dura",
+     "source": "https://www.padelnuestro.com/pala-head-coello-pro-2025-225015",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "Carbono",
+     "source": "https://www.padelnuestro.com/pala-head-coello-pro-2025-225015",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbono",
+     "material": "carbono",
+     "verbatim": "Marco de carbono",
+     "source": "https://www.padelnuestro.com/pala-head-coello-pro-2025-225015",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie rugosa",
+     "source": "https://www.padelnuestro.com/pala-head-coello-pro-2025-225015",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€179.95",
+     "value": 179.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "179.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-head-coello-pro-2025-225015",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "head-coello-pro-2026",
    "name": "Head Coello Pro 2026",
    "brand": "Head",
@@ -4961,7 +7388,7 @@
     "handling": 26,
     "forgiveness": 32,
     "comfort": 41,
-    "value": 22
+    "value": 16
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -5041,7 +7468,7 @@
     "handling": 82,
     "forgiveness": 72,
     "comfort": 88,
-    "value": 100
+    "value": 73
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -5123,7 +7550,7 @@
     "handling": 34,
     "forgiveness": 24,
     "comfort": 33,
-    "value": 27
+    "value": 20
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -5222,7 +7649,7 @@
     "handling": 34,
     "forgiveness": 24,
     "comfort": 33,
-    "value": 20
+    "value": 15
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -5302,7 +7729,7 @@
     "handling": 42,
     "forgiveness": 24,
     "comfort": 36,
-    "value": 25
+    "value": 18
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -5386,7 +7813,7 @@
     "handling": 26,
     "forgiveness": 10,
     "comfort": 15,
-    "value": 18
+    "value": 13
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -5453,6 +7880,87 @@
    }
   },
   {
+   "slug": "head-extreme-pro-2025",
+   "name": "Head Extreme Pro 2025",
+   "brand": "Head",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/head-extreme-pro-2025",
+   "productUrl": "https://www.padelnuestro.com/head-extreme-pro-2025",
+   "level": "Profesional",
+   "player": null,
+   "ratings": {
+    "power": 84,
+    "control": 10,
+    "handling": 26,
+    "forgiveness": 10,
+    "comfort": 15,
+    "value": 18
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma de diamante",
+     "source": "https://www.padelnuestro.com/head-extreme-pro-2025",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "370 g",
+     "min": 370,
+     "max": 370,
+     "verbatim": "peso alto de 370 gramos",
+     "source": "https://www.padelnuestro.com/head-extreme-pro-2025",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance elevado",
+     "source": "https://www.padelnuestro.com/head-extreme-pro-2025",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Hard, Foam",
+     "value": "hard",
+     "material": "Foam",
+     "verbatim": "Dura",
+     "source": "https://www.padelnuestro.com/head-extreme-pro-2025",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "fibra de carbono unidireccional (UD Carbon HS)",
+     "material": "fibra de carbono unidireccional (UD Carbon HS)",
+     "verbatim": "fibra de carbono unidireccional (UD Carbon HS)",
+     "source": "https://www.padelnuestro.com/head-extreme-pro-2025",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "acabado rugoso 3D",
+     "source": "https://www.padelnuestro.com/head-extreme-pro-2025",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€169.95",
+     "value": 169.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "169.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/head-extreme-pro-2025",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "head-extreme-pro-2026",
    "name": "Head Extreme Pro 2026",
    "brand": "Head",
@@ -5467,7 +7975,7 @@
     "handling": 26,
     "forgiveness": 32,
     "comfort": 41,
-    "value": 19
+    "value": 14
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -5547,7 +8055,7 @@
     "handling": 54,
     "forgiveness": 54,
     "comfort": 77,
-    "value": 46
+    "value": 33
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -5622,7 +8130,7 @@
     "handling": 70,
     "forgiveness": 68,
     "comfort": 58,
-    "value": 41
+    "value": 30
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -5712,7 +8220,7 @@
     "handling": 70,
     "forgiveness": 90,
     "comfort": 84,
-    "value": 57
+    "value": 42
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -5797,7 +8305,7 @@
     "handling": 66,
     "forgiveness": 42,
     "comfort": 47,
-    "value": 32
+    "value": 23
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -5878,7 +8386,7 @@
     "handling": 70,
     "forgiveness": 58,
     "comfort": 68,
-    "value": 44
+    "value": 32
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -5959,7 +8467,7 @@
     "handling": 46,
     "forgiveness": 50,
     "comfort": 49,
-    "value": 26
+    "value": 19
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -6038,7 +8546,7 @@
     "handling": 50,
     "forgiveness": 55,
     "comfort": 50,
-    "value": 24
+    "value": 17
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -6367,6 +8875,176 @@
    }
   },
   {
+   "slug": "nox-at10-genius-12k-2025",
+   "name": "Nox AT10 Genius 12K By Agustín Tapia 2025",
+   "brand": "Nox",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/nox-at10-genius-12k-2025",
+   "productUrl": "https://www.padelnuestro.com/nox-at10-genius-12k-by-agustin-tapia-2025-113539-p",
+   "level": "Avanzado / Competición",
+   "player": "Agustín Tapia",
+   "ratings": {
+    "power": 51,
+    "control": 50,
+    "handling": 48,
+    "forgiveness": 42,
+    "comfort": 39,
+    "value": 18
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de lágrima",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-12k-by-agustin-tapia-2025-113539-p",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g",
+     "min": 360,
+     "max": 375,
+     "verbatim": "peso de 360-375 gramos",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-12k-by-agustin-tapia-2025-113539-p",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance Medio",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-12k-by-agustin-tapia-2025-113539-p",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "MLD Black EVA",
+     "value": null,
+     "material": "MLD Black EVA",
+     "verbatim": "Núcleo multicapa MLD Black EVA, de dureza media alta",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-12k-by-agustin-tapia-2025-113539-p",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbono 12K",
+     "material": "Carbono 12K",
+     "verbatim": "Planos de Carbono 12K",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-12k-by-agustin-tapia-2025-113539-p",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbono",
+     "material": "carbono",
+     "verbatim": "Marco tubular resistente de carbono",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-12k-by-agustin-tapia-2025-113539-p",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "con acabado rugoso",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-12k-by-agustin-tapia-2025-113539-p",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€154.95",
+     "value": 154.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "154.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-12k-by-agustin-tapia-2025-113539-p",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "nox-at10-genius-18k-agustin-tapia-2024",
+   "name": "Nox AT10 Genius 18K Agustín Tapia 2024",
+   "brand": "Nox",
+   "year": 2024,
+   "url": "https://padeltrue.com/rackets/nox-at10-genius-18k-agustin-tapia-2024",
+   "productUrl": "https://www.padelnuestro.com/nox-at10-genius-18k-agustin-tapia-2024-110805-p",
+   "level": "Avanzado / Competición",
+   "player": "Agustín Tapia",
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 42,
+    "comfort": 40,
+    "value": 16
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "pala en forma de lagrima",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-18k-agustin-tapia-2024-110805-p",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "pala polivalente de balance medio",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-18k-agustin-tapia-2024-110805-p",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Medium, MLD Black EVA",
+     "value": "medium",
+     "material": "MLD Black EVA",
+     "verbatim": "dureza media",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-18k-agustin-tapia-2024-110805-p",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbono Aluminizado 18K",
+     "material": "Carbono Aluminizado 18K",
+     "verbatim": "caras de Carbono Aluminizado 18K",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-18k-agustin-tapia-2024-110805-p",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbono",
+     "material": "carbono",
+     "verbatim": "marco 100% de carbono",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-18k-agustin-tapia-2024-110805-p",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "superficie de acabado rugoso arenoso",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-18k-agustin-tapia-2024-110805-p",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€169.95",
+     "value": 169.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "169.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/nox-at10-genius-18k-agustin-tapia-2024-110805-p",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "nox-at10-genius-18k-alum-argentina-exclusive-edition",
    "name": "Nox AT10 Genius 18K Alum Argentina Exclusive Edition",
    "brand": "Nox",
@@ -6381,7 +9059,7 @@
     "handling": 48,
     "forgiveness": 42,
     "comfort": 39,
-    "value": 10
+    "value": 7
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -6468,7 +9146,7 @@
     "handling": 70,
     "forgiveness": 72,
     "comfort": 82,
-    "value": 74
+    "value": 53
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -6544,7 +9222,7 @@
     "handling": 48,
     "forgiveness": 35,
     "comfort": 31,
-    "value": 17
+    "value": 12
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -6631,7 +9309,7 @@
     "handling": 48,
     "forgiveness": 42,
     "comfort": 39,
-    "value": 20
+    "value": 15
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -6718,7 +9396,7 @@
     "handling": 48,
     "forgiveness": 42,
     "comfort": 39,
-    "value": 17
+    "value": 12
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -6805,7 +9483,7 @@
     "handling": 28,
     "forgiveness": 17,
     "comfort": 23,
-    "value": 21
+    "value": 15
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -6901,7 +9579,7 @@
     "handling": 28,
     "forgiveness": 24,
     "comfort": 31,
-    "value": 22
+    "value": 16
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -6995,7 +9673,7 @@
     "handling": 48,
     "forgiveness": 51,
     "comfort": 51,
-    "value": 26
+    "value": 19
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -7082,7 +9760,7 @@
     "handling": 48,
     "forgiveness": 72,
     "comfort": 75,
-    "value": 37
+    "value": 27
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -7171,7 +9849,7 @@
     "handling": 28,
     "forgiveness": 17,
     "comfort": 23,
-    "value": 24
+    "value": 17
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -7266,7 +9944,7 @@
     "handling": 54,
     "forgiveness": 61,
     "comfort": 43,
-    "value": 52
+    "value": 37
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -7359,7 +10037,7 @@
     "handling": 54,
     "forgiveness": 61,
     "comfort": 43,
-    "value": 41
+    "value": 30
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -7453,7 +10131,7 @@
     "handling": 54,
     "forgiveness": 68,
     "comfort": 51,
-    "value": 43
+    "value": 32
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -7548,7 +10226,7 @@
     "handling": 48,
     "forgiveness": 35,
     "comfort": 31,
-    "value": 10
+    "value": 7
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -7636,7 +10314,7 @@
     "handling": 58,
     "forgiveness": 56,
     "comfort": 58,
-    "value": 13
+    "value": 9
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -7723,7 +10401,7 @@
     "handling": 48,
     "forgiveness": 42,
     "comfort": 39,
-    "value": 10
+    "value": 7
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -7819,7 +10497,7 @@
     "handling": 28,
     "forgiveness": 17,
     "comfort": 23,
-    "value": 11
+    "value": 8
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -7915,7 +10593,7 @@
     "handling": 28,
     "forgiveness": 24,
     "comfort": 31,
-    "value": 11
+    "value": 8
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -8011,7 +10689,7 @@
     "handling": 48,
     "forgiveness": 90,
     "comfort": 75,
-    "value": 42
+    "value": 31
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -8101,7 +10779,7 @@
     "handling": 48,
     "forgiveness": 90,
     "comfort": 75,
-    "value": 42
+    "value": 31
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -8190,7 +10868,7 @@
     "handling": 56,
     "forgiveness": 90,
     "comfort": 78,
-    "value": 43
+    "value": 31
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -8279,7 +10957,7 @@
     "handling": 48,
     "forgiveness": 60,
     "comfort": 39,
-    "value": 28
+    "value": 21
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -8372,7 +11050,7 @@
     "handling": 48,
     "forgiveness": 17,
     "comfort": 31,
-    "value": 22
+    "value": 16
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -8460,7 +11138,7 @@
     "handling": 48,
     "forgiveness": 35,
     "comfort": 31,
-    "value": 19
+    "value": 14
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -8540,7 +11218,7 @@
     "handling": 48,
     "forgiveness": 58,
     "comfort": 59,
-    "value": 22
+    "value": 16
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -8628,7 +11306,7 @@
     "handling": 48,
     "forgiveness": 72,
     "comfort": 75,
-    "value": 28
+    "value": 20
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -8717,7 +11395,7 @@
     "handling": 28,
     "forgiveness": 17,
     "comfort": 23,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -8812,7 +11490,7 @@
     "handling": 48,
     "forgiveness": 53,
     "comfort": 31,
-    "value": 16
+    "value": 12
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -8899,7 +11577,7 @@
     "handling": 48,
     "forgiveness": 35,
     "comfort": 31,
-    "value": 11
+    "value": 8
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -8989,7 +11667,7 @@
     "handling": 54,
     "forgiveness": 42,
     "comfort": 41,
-    "value": 22
+    "value": 16
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -9079,7 +11757,7 @@
     "handling": 58,
     "forgiveness": 35,
     "comfort": 34,
-    "value": 14
+    "value": 10
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -9173,7 +11851,7 @@
     "handling": 48,
     "forgiveness": 35,
     "comfort": 31,
-    "value": 11
+    "value": 8
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -9260,7 +11938,7 @@
     "handling": 48,
     "forgiveness": 53,
     "comfort": 31,
-    "value": 27
+    "value": 20
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -9347,7 +12025,7 @@
     "handling": 58,
     "forgiveness": 82,
     "comfort": 68,
-    "value": 92
+    "value": 67
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -9430,7 +12108,7 @@
     "handling": 58,
     "forgiveness": 82,
     "comfort": 68,
-    "value": 92
+    "value": 67
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -9519,7 +12197,7 @@
     "handling": 58,
     "forgiveness": 82,
     "comfort": 68,
-    "value": 92
+    "value": 67
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -9601,7 +12279,7 @@
     "handling": 50,
     "forgiveness": 82,
     "comfort": 66,
-    "value": 75
+    "value": 54
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -9690,7 +12368,7 @@
     "handling": 50,
     "forgiveness": 82,
     "comfort": 66,
-    "value": 70
+    "value": 51
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -9751,6 +12429,89 @@
    }
   },
   {
+   "slug": "nox-x-one-silhouette-2026",
+   "name": "Nox X-One Silhouette 2026",
+   "brand": "Nox",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/nox-x-one-silhouette-2026",
+   "productUrl": "https://www.padelnuestro.com/pala-nox-x-one-silhoutte-psilhouet26",
+   "level": "Principiante / Intermedio",
+   "player": null,
+   "ratings": {
+    "power": 32,
+    "control": 74,
+    "handling": 50,
+    "forgiveness": 82,
+    "comfort": 66,
+    "value": 61
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Forma redonda oversized",
+     "source": "https://www.padelnuestro.com/pala-nox-x-one-silhoutte-psilhouet26",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Medio",
+     "source": "https://www.padelnuestro.com/pala-nox-x-one-silhoutte-psilhouet26",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Hr3",
+     "value": "soft",
+     "material": "Hr3",
+     "verbatim": "Blanda",
+     "source": "https://www.padelnuestro.com/pala-nox-x-one-silhoutte-psilhouet26",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiber Glass 3k",
+     "material": "Fiber Glass 3k",
+     "verbatim": "Fiber Glass 3k",
+     "source": "https://www.padelnuestro.com/pala-nox-x-one-silhoutte-psilhouet26",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbono",
+     "material": "carbono",
+     "verbatim": "Marco de carbono",
+     "source": "https://www.padelnuestro.com/pala-nox-x-one-silhoutte-psilhouet26",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso",
+     "source": "https://www.padelnuestro.com/pala-nox-x-one-silhoutte-psilhouet26",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€70.95",
+     "value": 70.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "70.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/pala-nox-x-one-silhoutte-psilhouet26",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "nox-x-zero-blue-2026",
    "name": "Nox X-Zero Blue 2026",
    "brand": "Nox",
@@ -9765,7 +12526,7 @@
     "handling": 58,
     "forgiveness": 82,
     "comfort": 68,
-    "value": 92
+    "value": 67
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -9847,7 +12608,7 @@
     "handling": 58,
     "forgiveness": 82,
     "comfort": 68,
-    "value": 92
+    "value": 67
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -9929,7 +12690,7 @@
     "handling": 30,
     "forgiveness": 42,
     "comfort": 32,
-    "value": 13
+    "value": 10
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -10004,7 +12765,7 @@
     "handling": 26,
     "forgiveness": 28,
     "comfort": 15,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -10084,7 +12845,7 @@
     "handling": 66,
     "forgiveness": 42,
     "comfort": 45,
-    "value": 19
+    "value": 13
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -10165,7 +12926,7 @@
     "handling": 50,
     "forgiveness": 69,
     "comfort": 66,
-    "value": 35
+    "value": 25
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -10248,7 +13009,7 @@
     "handling": 42,
     "forgiveness": 24,
     "comfort": 36,
-    "value": 14
+    "value": 10
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -10324,7 +13085,7 @@
     "handling": 26,
     "forgiveness": 10,
     "comfort": 15,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -10404,7 +13165,7 @@
     "handling": 58,
     "forgiveness": 24,
     "comfort": 42,
-    "value": 18
+    "value": 13
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -10574,7 +13335,7 @@
     "handling": 76,
     "forgiveness": 72,
     "comfort": 86,
-    "value": 19
+    "value": 14
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -10671,7 +13432,7 @@
     "handling": 66,
     "forgiveness": 64,
     "comfort": 73,
-    "value": 17
+    "value": 12
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -10761,7 +13522,7 @@
     "handling": 24,
     "forgiveness": 42,
     "comfort": 30,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -10851,7 +13612,7 @@
     "handling": 30,
     "forgiveness": 46,
     "comfort": 58,
-    "value": 17
+    "value": 12
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -10926,7 +13687,7 @@
     "handling": 30,
     "forgiveness": 46,
     "comfort": 58,
-    "value": 17
+    "value": 12
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -11001,7 +13762,7 @@
     "handling": 56,
     "forgiveness": 82,
     "comfort": 68,
-    "value": 17
+    "value": 12
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -11078,7 +13839,7 @@
     "handling": 46,
     "forgiveness": 74,
     "comfort": 55,
-    "value": 16
+    "value": 12
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -11159,7 +13920,7 @@
     "handling": 24,
     "forgiveness": 24,
     "comfort": 30,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -11249,7 +14010,7 @@
     "handling": 30,
     "forgiveness": 24,
     "comfort": 32,
-    "value": 21
+    "value": 15
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -11332,7 +14093,7 @@
     "handling": 36,
     "forgiveness": 24,
     "comfort": 34,
-    "value": 13
+    "value": 9
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -11422,7 +14183,7 @@
     "handling": 26,
     "forgiveness": 64,
     "comfort": 57,
-    "value": 16
+    "value": 11
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -11498,7 +14259,7 @@
     "handling": 46,
     "forgiveness": 58,
     "comfort": 59,
-    "value": 15
+    "value": 11
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -11588,7 +14349,7 @@
     "handling": 70,
     "forgiveness": 90,
     "comfort": 84,
-    "value": 26
+    "value": 19
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -11679,7 +14440,7 @@
     "handling": 66,
     "forgiveness": 90,
     "comfort": 83,
-    "value": 26
+    "value": 19
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -11775,7 +14536,7 @@
     "handling": 52,
     "forgiveness": 24,
     "comfort": 40,
-    "value": 17
+    "value": 13
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -11863,7 +14624,7 @@
     "handling": 70,
     "forgiveness": 68,
     "comfort": 58,
-    "value": 41
+    "value": 30
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -11932,7 +14693,7 @@
     "handling": 50,
     "forgiveness": 50,
     "comfort": 50,
-    "value": 25
+    "value": 19
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -12007,7 +14768,7 @@
     "handling": 70,
     "forgiveness": 90,
     "comfort": 84,
-    "value": 98
+    "value": 71
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -12077,7 +14838,7 @@
     "handling": 50,
     "forgiveness": 42,
     "comfort": 40,
-    "value": 22
+    "value": 16
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -12158,7 +14919,7 @@
     "handling": 50,
     "forgiveness": 42,
     "comfort": 40,
-    "value": 11
+    "value": 8
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -12233,7 +14994,7 @@
     "handling": 50,
     "forgiveness": 28,
     "comfort": 24,
-    "value": 11
+    "value": 8
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -12314,7 +15075,7 @@
     "handling": 50,
     "forgiveness": 42,
     "comfort": 40,
-    "value": 11
+    "value": 8
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -12396,7 +15157,7 @@
     "handling": 50,
     "forgiveness": 42,
     "comfort": 40,
-    "value": 11
+    "value": 8
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -12485,7 +15246,7 @@
     "handling": 50,
     "forgiveness": 65,
     "comfort": 68,
-    "value": 15
+    "value": 11
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -12568,7 +15329,7 @@
     "handling": 50,
     "forgiveness": 47,
     "comfort": 40,
-    "value": 16
+    "value": 12
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -12643,7 +15404,7 @@
     "handling": 50,
     "forgiveness": 40,
     "comfort": 32,
-    "value": 16
+    "value": 12
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -12709,7 +15470,7 @@
     "handling": 30,
     "forgiveness": 10,
     "comfort": 16,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -12783,7 +15544,7 @@
     "handling": 30,
     "forgiveness": 10,
     "comfort": 16,
-    "value": 17
+    "value": 12
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -12851,7 +15612,7 @@
     "handling": 30,
     "forgiveness": 10,
     "comfort": 16,
-    "value": 17
+    "value": 12
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -12919,7 +15680,7 @@
     "handling": 30,
     "forgiveness": 10,
     "comfort": 16,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -12987,7 +15748,7 @@
     "handling": 30,
     "forgiveness": 24,
     "comfort": 32,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -13055,7 +15816,7 @@
     "handling": 70,
     "forgiveness": 60,
     "comfort": 48,
-    "value": 41
+    "value": 30
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -13123,7 +15884,7 @@
     "handling": 50,
     "forgiveness": 40,
     "comfort": 32,
-    "value": 16
+    "value": 12
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -13197,7 +15958,7 @@
     "handling": 50,
     "forgiveness": 28,
     "comfort": 24,
-    "value": 11
+    "value": 8
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -13271,7 +16032,7 @@
     "handling": 70,
     "forgiveness": 60,
     "comfort": 48,
-    "value": 23
+    "value": 16
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -13339,7 +16100,7 @@
     "handling": 70,
     "forgiveness": 60,
     "comfort": 48,
-    "value": 17
+    "value": 13
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -13400,7 +16161,7 @@
     "handling": 70,
     "forgiveness": 60,
     "comfort": 48,
-    "value": 17
+    "value": 13
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -13460,6 +16221,81 @@
    }
   },
   {
+   "slug": "siux-trilogy-pro-5-2025",
+   "name": "Siux Trilogy Pro 5 2025",
+   "brand": "Siux",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/siux-trilogy-pro-5-2025",
+   "productUrl": "https://www.padelnuestro.com/siux-trilogy-pro-5",
+   "level": "Avanzado / Competición",
+   "player": "Patty Llaguno",
+   "ratings": {
+    "power": 18,
+    "control": 90,
+    "handling": 70,
+    "forgiveness": 46,
+    "comfort": 32,
+    "value": 40
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "control",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Su forma redonda",
+     "source": "https://www.padelnuestro.com/siux-trilogy-pro-5",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance bajo",
+     "source": "https://www.padelnuestro.com/siux-trilogy-pro-5",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Hard, goma EVA",
+     "value": "hard",
+     "material": "goma EVA",
+     "verbatim": "Dura",
+     "source": "https://www.padelnuestro.com/siux-trilogy-pro-5",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "Carbono",
+     "source": "https://www.padelnuestro.com/siux-trilogy-pro-5",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "Marco: Carbono",
+     "source": "https://www.padelnuestro.com/siux-trilogy-pro-5",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€109.95",
+     "value": 109.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "109.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/siux-trilogy-pro-5",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "starvie-arkos",
    "name": "StarVie Arkos",
    "brand": "StarVie",
@@ -13474,7 +16310,7 @@
     "handling": 76,
     "forgiveness": 90,
     "comfort": 86,
-    "value": 65
+    "value": 48
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -13557,7 +16393,7 @@
     "handling": 54,
     "forgiveness": 42,
     "comfort": 41,
-    "value": 19
+    "value": 14
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -13646,7 +16482,7 @@
     "handling": 54,
     "forgiveness": 42,
     "comfort": 41,
-    "value": 14
+    "value": 10
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -13735,7 +16571,7 @@
     "handling": 28,
     "forgiveness": 47,
     "comfort": 31,
-    "value": 18
+    "value": 13
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -13824,7 +16660,7 @@
     "handling": 34,
     "forgiveness": 33,
     "comfort": 17,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -13912,7 +16748,7 @@
     "handling": 54,
     "forgiveness": 35,
     "comfort": 33,
-    "value": 18
+    "value": 13
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -13999,7 +16835,7 @@
     "handling": 54,
     "forgiveness": 55,
     "comfort": 51,
-    "value": 13
+    "value": 9
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -14081,7 +16917,7 @@
     "handling": 82,
     "forgiveness": 90,
     "comfort": 88,
-    "value": 63
+    "value": 45
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -14163,7 +16999,7 @@
     "handling": 54,
     "forgiveness": 47,
     "comfort": 41,
-    "value": 16
+    "value": 11
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -14252,7 +17088,7 @@
     "handling": 84,
     "forgiveness": 90,
     "comfort": 88,
-    "value": 65
+    "value": 48
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -14335,7 +17171,7 @@
     "handling": 77,
     "forgiveness": 60,
     "comfort": 50,
-    "value": 25
+    "value": 18
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -14425,7 +17261,7 @@
     "handling": 48,
     "forgiveness": 42,
     "comfort": 39,
-    "value": 18
+    "value": 13
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -14514,7 +17350,7 @@
     "handling": 54,
     "forgiveness": 42,
     "comfort": 41,
-    "value": 12
+    "value": 9
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -14600,7 +17436,7 @@
     "handling": 74,
     "forgiveness": 90,
     "comfort": 85,
-    "value": 49
+    "value": 36
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -14683,7 +17519,7 @@
     "handling": 56,
     "forgiveness": 17,
     "comfort": 34,
-    "value": 16
+    "value": 11
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -14764,7 +17600,7 @@
     "handling": 36,
     "forgiveness": 18,
     "comfort": 28,
-    "value": 15
+    "value": 11
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -14851,7 +17687,7 @@
     "handling": 57,
     "forgiveness": 32,
     "comfort": 52,
-    "value": 15
+    "value": 11
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -14934,7 +17770,7 @@
     "handling": 54,
     "forgiveness": 56,
     "comfort": 57,
-    "value": 17
+    "value": 13
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -15022,7 +17858,7 @@
     "handling": 58,
     "forgiveness": 42,
     "comfort": 42,
-    "value": 18
+    "value": 13
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -15098,6 +17934,175 @@
    }
   },
   {
+   "slug": "vairo-black-karbon-confort",
+   "name": "Vairo Black Karbon Confort",
+   "brand": "Vairo",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/vairo-black-karbon-confort",
+   "productUrl": "https://www.padelnuestro.com/vairo-black-karbon-confort-105773-p",
+   "level": "Avanzado / Competición",
+   "player": null,
+   "ratings": {
+    "power": 45,
+    "control": 57,
+    "handling": 50,
+    "forgiveness": 61,
+    "comfort": 56,
+    "value": 44
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Híbrida",
+     "source": "https://www.padelnuestro.com/vairo-black-karbon-confort-105773-p",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "355 to 375 g",
+     "min": 355,
+     "max": 375,
+     "verbatim": "peso de entre 355 y 375 gramos",
+     "source": "https://www.padelnuestro.com/vairo-black-karbon-confort-105773-p",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Medio",
+     "source": "https://www.padelnuestro.com/vairo-black-karbon-confort-105773-p",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, EVA",
+     "value": "soft",
+     "material": "EVA",
+     "verbatim": "Blanda",
+     "source": "https://www.padelnuestro.com/vairo-black-karbon-confort-105773-p",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbono 18K Textreme",
+     "material": "Carbono 18K Textreme",
+     "verbatim": "Carbono 18K Textreme",
+     "source": "https://www.padelnuestro.com/vairo-black-karbon-confort-105773-p",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "50% fibra de carbono, 50% fibra de vidrio",
+     "material": "50% fibra de carbono, 50% fibra de vidrio",
+     "verbatim": "50% de fibra de carbono y un 50% de fibra de vidrio",
+     "source": "https://www.padelnuestro.com/vairo-black-karbon-confort-105773-p",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Rugosa",
+     "source": "https://www.padelnuestro.com/vairo-black-karbon-confort-105773-p",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€74.95",
+     "value": 74.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "74.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/vairo-black-karbon-confort-105773-p",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "vairo-everlast-cross",
+   "name": "Vairo Everlast Cross",
+   "brand": "Vairo",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/vairo-everlast-cross",
+   "productUrl": "https://www.padelnuestro.com/vairo-everlast-cross-105778-p",
+   "level": "Avanzado / Competición",
+   "player": null,
+   "ratings": {
+    "power": 68,
+    "control": 26,
+    "handling": 50,
+    "forgiveness": 24,
+    "comfort": 40,
+    "value": 47
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "forma de diamante",
+     "source": "https://www.padelnuestro.com/vairo-everlast-cross-105778-p",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "355 to 375 g",
+     "min": 355,
+     "max": 375,
+     "verbatim": "oscila entre los 355 y los 375 gramos",
+     "source": "https://www.padelnuestro.com/vairo-everlast-cross-105778-p",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "EVA",
+     "value": null,
+     "material": "EVA",
+     "verbatim": "goma EVA",
+     "source": "https://www.padelnuestro.com/vairo-everlast-cross-105778-p",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "carbono 18K Textreme",
+     "material": "carbono 18K Textreme",
+     "verbatim": "carbono 18K Textreme",
+     "source": "https://www.padelnuestro.com/vairo-everlast-cross-105778-p",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "100% de carbono",
+     "material": "100% de carbono",
+     "verbatim": "marco tubular está fabricado con un 100% de carbono",
+     "source": "https://www.padelnuestro.com/vairo-everlast-cross-105778-p",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "No",
+     "value": false,
+     "verbatim": "Lisa",
+     "source": "https://www.padelnuestro.com/vairo-everlast-cross-105778-p",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€69.95",
+     "value": 69.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-02",
+     "verbatim": "69.95 EUR (schema.org offer)",
+     "source": "https://www.padelnuestro.com/vairo-everlast-cross-105778-p",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "varlion-bourne-cube-elbowcare-w",
    "name": "Varlion Bourne Cube Elbowcare W",
    "brand": "Varlion",
@@ -15112,7 +18117,7 @@
     "handling": 58,
     "forgiveness": 24,
     "comfort": 42,
-    "value": 14
+    "value": 10
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -15186,7 +18191,7 @@
     "handling": 84,
     "forgiveness": 76,
     "comfort": 72,
-    "value": 67
+    "value": 48
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -15294,7 +18299,7 @@
     "handling": 64,
     "forgiveness": 68,
     "comfort": 54,
-    "value": 22
+    "value": 16
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -15386,7 +18391,7 @@
     "handling": 58,
     "forgiveness": 60,
     "comfort": 42,
-    "value": 16
+    "value": 11
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -15459,7 +18464,7 @@
     "handling": 66,
     "forgiveness": 42,
     "comfort": 45,
-    "value": 18
+    "value": 13
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -15546,7 +18551,7 @@
     "handling": 58,
     "forgiveness": 42,
     "comfort": 42,
-    "value": 13
+    "value": 9
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -15627,7 +18632,7 @@
     "handling": 58,
     "forgiveness": 50,
     "comfort": 52,
-    "value": 31
+    "value": 23
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -15714,7 +18719,7 @@
     "handling": 26,
     "forgiveness": 10,
     "comfort": 15,
-    "value": 29
+    "value": 21
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -15810,7 +18815,7 @@
     "handling": 26,
     "forgiveness": 50,
     "comfort": 41,
-    "value": 14
+    "value": 10
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -15870,7 +18875,7 @@
     "handling": 50,
     "forgiveness": 50,
     "comfort": 50,
-    "value": 23
+    "value": 17
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -15952,7 +18957,7 @@
     "handling": 50,
     "forgiveness": 50,
     "comfort": 50,
-    "value": 24
+    "value": 17
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -16032,7 +19037,7 @@
     "handling": 78,
     "forgiveness": 60,
     "comfort": 50,
-    "value": 44
+    "value": 32
    },
    "inputsPublished": 4,
    "inputsMissing": [
