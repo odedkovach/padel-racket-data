@@ -2,13 +2,13 @@
 
 Published specifications of 191 padel rackets from 19 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
 
-Export date: 2026-10-01. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
+Export date: 2026-10-02. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
 
 ## What is in it
 
 | File | What it holds |
 |---|---|
-| [rackets.json](rackets.json) | The full record of every racket: 1400 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
+| [rackets.json](rackets.json) | The full record of every racket: 1399 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
 | [rackets.csv](rackets.csv) | One row per racket, for a spreadsheet |
 | [brands/](brands/) | One readable table per brand |
 | [DATA_DICTIONARY.md](DATA_DICTIONARY.md) | Field definitions, units, missing values, CSV mapping and rating limitations |

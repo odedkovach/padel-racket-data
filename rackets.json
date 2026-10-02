@@ -2,7 +2,7 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-01",
+ "built": "2026-10-02",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
  "count": 191,
@@ -5188,13 +5188,6 @@
      "source": "https://www.padelnuestro.com/int/head-extreme-motion-2025",
      "sourceType": "retailer"
     },
-    "thicknessMm": {
-     "display": "38 mm",
-     "value": 38,
-     "verbatim": "Beam: 38 mm / 1.5 in",
-     "source": "https://www.head.com/en_FI/product/extreme-motion-2025-223135",
-     "sourceType": "manufacturer"
-    },
     "roughSurface": {
      "display": "Yes",
      "value": true,
@@ -5429,7 +5422,7 @@
      "display": "Hard, Power FOAM",
      "value": "hard",
      "material": "Power FOAM",
-     "verbatim": "Foam Power FOAM / Hard (Facts)",
+     "verbatim": "Foam Power FOAM / Hard",
      "source": "https://www.head.com/product/extreme-one-x-2025-223105",
      "sourceType": "manufacturer"
     },
@@ -5452,7 +5445,7 @@
      "value": 239.99,
      "currency": "EUR",
      "rrp": 300,
-     "checkedOn": "2026-10-01",
+     "checkedOn": "2026-10-02",
      "verbatim": "€ 239,99",
      "source": "https://www.cisalfasport.it/it-it/head/racchetta-padel-performance-extreme-one-x-padel--S6006547%7CUNI%7CUNI.html",
      "sourceType": "retailer"
@@ -9429,7 +9422,7 @@
    "year": 2026,
    "url": "https://padeltrue.com/rackets/nox-x-hero-red-2026",
    "productUrl": "https://noxsport.com/products/pala-x-hero-red",
-   "level": null,
+   "level": "Iniciación",
    "player": null,
    "ratings": {
     "power": 29,
@@ -9518,7 +9511,7 @@
    "year": 2026,
    "url": "https://padeltrue.com/rackets/nox-x-hero-white-2026",
    "productUrl": "https://noxsport.com/products/pala-x-hero-white",
-   "level": null,
+   "level": "Iniciación",
    "player": null,
    "ratings": {
     "power": 29,
@@ -15292,7 +15285,7 @@
    "brand": "Varlion",
    "year": 2025,
    "url": "https://padeltrue.com/rackets/varlion-lw-carbon-3-summum-25",
-   "productUrl": "https://www.varlion.com/es/padel/palas/pro-prisma/lw-carbon-3-summum-25.html",
+   "productUrl": "https://www.varlion.com/es/padel/palas/pro-summum/lw-carbon-3-summum-25.html",
    "level": "Avanzado",
    "player": null,
    "ratings": {
@@ -15317,7 +15310,7 @@
      "display": "Round",
      "value": "round",
      "verbatim": "Forma Redonda / mantiene su forma redonda tradicional con balance bajo",
-     "source": "https://www.varlion.com/es/padel/palas/pro-prisma/lw-carbon-3-summum-25.html",
+     "source": "https://www.varlion.com/es/padel/palas/pro-summum/lw-carbon-3-summum-25.html",
      "sourceType": "manufacturer"
     },
     "weight": {
@@ -15325,7 +15318,7 @@
      "min": 340,
      "max": 355,
      "verbatim": "Peso De 340 a 355 gr.",
-     "source": "https://www.varlion.com/es/padel/palas/pro-prisma/lw-carbon-3-summum-25.html",
+     "source": "https://www.varlion.com/es/padel/palas/pro-summum/lw-carbon-3-summum-25.html",
      "sourceType": "manufacturer"
     },
     "core": {
@@ -15333,28 +15326,28 @@
      "value": null,
      "material": "EVA Softcolor",
      "verbatim": "Tipo de goma Núcleo duro para -25ºC / un núcleo de goma EVA SOFTCOLOR de dureza media",
-     "source": "https://www.varlion.com/es/padel/palas/pro-prisma/lw-carbon-3-summum-25.html",
+     "source": "https://www.varlion.com/es/padel/palas/pro-summum/lw-carbon-3-summum-25.html",
      "sourceType": "manufacturer"
     },
     "surface": {
      "display": "carbon 18K (7 Rhombus) and fibreglass",
      "material": "carbon 18K (7 Rhombus) and fibreglass",
      "verbatim": "una laminación compuesta por capas de fibra de carbono 7 Rhombus (18K) y fibra de vidrio y reforzada con fibra carbono / Material principal Fibra de carbono",
-     "source": "https://www.varlion.com/es/padel/palas/pro-prisma/lw-carbon-3-summum-25.html",
+     "source": "https://www.varlion.com/es/padel/palas/pro-summum/lw-carbon-3-summum-25.html",
      "sourceType": "manufacturer"
     },
     "frame": {
      "display": "bidirectional carbon tubular (Prisma frame)",
      "material": "bidirectional carbon tubular (Prisma frame)",
      "verbatim": "un marco tubular bidireccional de carbono / Marco Marco Prisma",
-     "source": "https://www.varlion.com/es/padel/palas/pro-prisma/lw-carbon-3-summum-25.html",
+     "source": "https://www.varlion.com/es/padel/palas/pro-summum/lw-carbon-3-summum-25.html",
      "sourceType": "manufacturer"
     },
     "roughSurface": {
      "display": "Yes",
      "value": true,
      "verbatim": "Textura rugosa en el plano Sí, textura suave Ergoslice. / Textura rugosa ErgoSlice, con líneas en relieve",
-     "source": "https://www.varlion.com/es/padel/palas/pro-prisma/lw-carbon-3-summum-25.html",
+     "source": "https://www.varlion.com/es/padel/palas/pro-summum/lw-carbon-3-summum-25.html",
      "sourceType": "manufacturer"
     },
     "price": {
@@ -15363,7 +15356,7 @@
      "currency": "EUR",
      "checkedOn": "2026-09-30",
      "verbatim": "243,72 €",
-     "source": "https://www.varlion.com/es/padel/palas/pro-prisma/lw-carbon-3-summum-25.html",
+     "source": "https://www.varlion.com/es/padel/palas/pro-summum/lw-carbon-3-summum-25.html",
      "sourceType": "manufacturer",
      "market": {
       "country": "NL",
