@@ -15,7 +15,7 @@ Each cell shows records with the field / records for that brand. Numerical balan
 | Cork Padel | 8 | 0/8 | 0/8 | 0/8 | 0/8 |
 | Drop Shot | 2 | 2/2 | 0/2 | 2/2 | 0/2 |
 | Dunlop | 4 | 3/4 | 0/4 | 3/4 | 0/4 |
-| Head | 17 | 15/17 | 3/17 | 16/17 | 10/17 |
+| Head | 17 | 16/17 | 4/17 | 16/17 | 11/17 |
 | Joma | 1 | 1/1 | 0/1 | 1/1 | 0/1 |
 | Kuikma | 3 | 3/3 | 1/3 | 3/3 | 2/3 |
 | Nox | 43 | 40/43 | 0/43 | 43/43 | 11/43 |

@@ -8211,24 +8211,21 @@
    "brand": "Head",
    "year": 2024,
    "url": "https://padeltrue.com/rackets/head-gravity-team-2024",
-   "productUrl": "https://www.padelnuestro.com/int/head-gravity-team-2024-113826-p",
+   "productUrl": "https://www.head.com/es_ES/product/gravity-team-2024-224024",
    "level": "Beginners / Intermediate",
    "player": null,
    "ratings": {
-    "power": 18,
-    "control": 90,
-    "handling": 70,
+    "power": 30,
+    "control": 74,
+    "handling": 54,
     "forgiveness": 90,
-    "comfort": 84,
-    "value": 42
+    "comfort": 77,
+    "value": 39
    },
-   "inputsPublished": 4,
-   "inputsMissing": [
-    "weight"
-   ],
+   "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control",
-    "easy to move",
     "forgiving",
     "arm-friendly"
    ],
@@ -8236,26 +8233,34 @@
     "shape": {
      "display": "Round",
      "value": "round",
-     "verbatim": "Shape: Round / Designed with a lightweight round structure and a low balance",
-     "source": "https://www.padelnuestro.com/int/head-gravity-team-2024-113826-p",
-     "sourceType": "retailer"
+     "verbatim": "Redonda",
+     "source": "https://www.head.com/es_ES/product/gravity-team-2024-224024",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 g",
+     "min": 360,
+     "max": 360,
+     "verbatim": "Peso / Peso medio / 360 g / 12.7 oz",
+     "source": "https://www.head.com/es_ES/product/gravity-team-2024-224024",
+     "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "Low",
-     "value": "low",
-     "mm": null,
-     "cm": null,
-     "verbatim": "Balance: Low",
-     "source": "https://www.padelnuestro.com/int/head-gravity-team-2024-113826-p",
-     "sourceType": "retailer"
+     "display": "Medium, 265 mm, 26.5 cm",
+     "value": "medium",
+     "mm": 265,
+     "cm": 26.5,
+     "verbatim": "Equilibrio / Balance medio / 265.0 mm",
+     "source": "https://www.head.com/es_ES/product/gravity-team-2024-224024",
+     "sourceType": "manufacturer"
     },
     "core": {
      "display": "Soft, Control Foam",
      "value": "soft",
      "material": "Control Foam",
-     "verbatim": "Core: Foam / Hardness: Soft / Control Foam : Rubber that widens the sweet spot",
-     "source": "https://www.padelnuestro.com/int/head-gravity-team-2024-113826-p",
-     "sourceType": "retailer"
+     "verbatim": "Suave",
+     "source": "https://www.head.com/es_ES/product/gravity-team-2024-224024",
+     "sourceType": "manufacturer"
     },
     "surface": {
      "display": "fibreglass",
