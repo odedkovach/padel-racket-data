@@ -2,7 +2,7 @@
 
 Published specifications of 227 padel rackets from 21 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
 
-Export date: 2026-10-02. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
+Export date: 2026-10-03. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
 
 ## What is in it
 
@@ -54,7 +54,7 @@ Export date: 2026-10-02. An automated job publishes data changes. This date does
       "max": 375,
       "verbatim": "Weight: 360-375 Gr",
       "source": "https://allforpadel.com/en/padel-rackets/7523-padel-racket-adidas-arrow-hit-8435739405888.html",
-      "sourceType": "manufacturer"
+      "sourceType": "retailer"
     }
   },
   "ratings": {

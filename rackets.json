@@ -2,7 +2,7 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-02",
+ "built": "2026-10-03",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
  "count": 227,
@@ -37,7 +37,7 @@
      "value": "diamond",
      "verbatim": "Shape: Diamond",
      "source": "https://allforpadel.com/en/padel-rackets/7523-padel-racket-adidas-arrow-hit-8435739405888.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "360 to 375 g",
@@ -45,7 +45,7 @@
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
      "source": "https://allforpadel.com/en/padel-rackets/7523-padel-racket-adidas-arrow-hit-8435739405888.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "High",
@@ -53,7 +53,7 @@
      "mm": null,
      "verbatim": "Balance: Head Heavy",
      "source": "https://allforpadel.com/en/padel-rackets/7523-padel-racket-adidas-arrow-hit-8435739405888.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Soft, EVA Soft Performance",
@@ -61,14 +61,14 @@
      "material": "EVA Soft Performance",
      "verbatim": "Rubber: Eva Soft Performance / With the comfort of Soft Performance EVA",
      "source": "https://allforpadel.com/en/padel-rackets/7523-padel-racket-adidas-arrow-hit-8435739405888.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7523-padel-racket-adidas-arrow-hit-8435739405888.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "€400",
@@ -77,7 +77,7 @@
      "checkedOn": "2026-10-01",
      "verbatim": "€400.00",
      "source": "https://allforpadel.com/en/padel-rackets/7523-padel-racket-adidas-arrow-hit-8435739405888.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -109,7 +109,7 @@
      "value": "diamond",
      "verbatim": "Shape: Diamond",
      "source": "https://allforpadel.com/en/padel-rackets/7531-padel-racket-adidas-arrow-hit-carbon-8435739405901.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "360 to 375 g",
@@ -117,7 +117,7 @@
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
      "source": "https://allforpadel.com/en/padel-rackets/7531-padel-racket-adidas-arrow-hit-carbon-8435739405901.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "High",
@@ -126,7 +126,7 @@
      "cm": null,
      "verbatim": "Balance: Head Heavy",
      "source": "https://allforpadel.com/en/padel-rackets/7531-padel-racket-adidas-arrow-hit-carbon-8435739405901.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Soft, EVA Soft Performance",
@@ -134,21 +134,21 @@
      "material": "EVA Soft Performance",
      "verbatim": "Rubber: Eva Soft Performance",
      "source": "https://allforpadel.com/en/padel-rackets/7531-padel-racket-adidas-arrow-hit-carbon-8435739405901.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "ASC carbon fibre",
      "material": "ASC carbon fibre",
      "verbatim": "Face: Asc. The ASC Carbon Fiber surface provides defined feedback and control",
      "source": "https://allforpadel.com/en/padel-rackets/7531-padel-racket-adidas-arrow-hit-carbon-8435739405901.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7531-padel-racket-adidas-arrow-hit-carbon-8435739405901.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "€270",
@@ -158,7 +158,7 @@
      "checkedOn": "2026-10-01",
      "verbatim": "€270.00 Tax included",
      "source": "https://allforpadel.com/en/padel-rackets/7531-padel-racket-adidas-arrow-hit-carbon-8435739405901.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -190,7 +190,7 @@
      "value": "round",
      "verbatim": "Shape: Round",
      "source": "https://allforpadel.com/en/padel-rackets/7527-padel-racket-adidas-cross-it-ctrl-2026-8435739405949.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "360 to 375 g",
@@ -198,7 +198,7 @@
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
      "source": "https://allforpadel.com/en/padel-rackets/7527-padel-racket-adidas-cross-it-ctrl-2026-8435739405949.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "Medium",
@@ -206,7 +206,7 @@
      "mm": null,
      "verbatim": "Balance: Even",
      "source": "https://allforpadel.com/en/padel-rackets/7527-padel-racket-adidas-cross-it-ctrl-2026-8435739405949.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Hard, EVA High Memory",
@@ -214,28 +214,28 @@
      "material": "EVA High Memory",
      "verbatim": "Rubber: Eva High Memory / The high-density EVA High Memory core delivers a reactive, firm ball output",
      "source": "https://allforpadel.com/en/padel-rackets/7527-padel-racket-adidas-cross-it-ctrl-2026-8435739405949.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "Carbon Aluminized 15K",
      "material": "Carbon Aluminized 15K",
      "verbatim": "Face: Carbon Aluminized 15K",
      "source": "https://allforpadel.com/en/padel-rackets/7527-padel-racket-adidas-cross-it-ctrl-2026-8435739405949.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7527-padel-racket-adidas-cross-it-ctrl-2026-8435739405949.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "roughSurface": {
      "display": "Yes",
      "value": true,
      "verbatim": "the SPIN BLADE MOLD texture ensures you can apply clean, precise spin on every cut and topspin shot",
      "source": "https://allforpadel.com/en/padel-rackets/7527-padel-racket-adidas-cross-it-ctrl-2026-8435739405949.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "€350",
@@ -244,7 +244,7 @@
      "checkedOn": "2026-10-01",
      "verbatim": "€350.00",
      "source": "https://allforpadel.com/en/padel-rackets/7527-padel-racket-adidas-cross-it-ctrl-2026-8435739405949.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -276,7 +276,7 @@
      "value": "round",
      "verbatim": "Shape: Round",
      "source": "https://allforpadel.com/en/padel-rackets/7528-padel-racket-adidas-cross-it-light-2026-martita-ortega-8435739405956.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "345 to 360 g",
@@ -284,7 +284,7 @@
      "max": 360,
      "verbatim": "Weight: 345-360 Gr (Light Weight)",
      "source": "https://allforpadel.com/en/padel-rackets/7528-padel-racket-adidas-cross-it-light-2026-martita-ortega-8435739405956.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "Medium",
@@ -292,7 +292,7 @@
      "mm": null,
      "verbatim": "Balance: Even",
      "source": "https://allforpadel.com/en/padel-rackets/7528-padel-racket-adidas-cross-it-light-2026-martita-ortega-8435739405956.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Medium, EVA Soft Energy",
@@ -300,28 +300,28 @@
      "material": "EVA Soft Energy",
      "verbatim": "Rubber: Eva Soft Energy / Soft Energy EVA and Aluminized Carbon 24K deliver a perfect blend of comfort and controlled power",
      "source": "https://allforpadel.com/en/padel-rackets/7528-padel-racket-adidas-cross-it-light-2026-martita-ortega-8435739405956.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "Carbon Aluminized 24K",
      "material": "Carbon Aluminized 24K",
      "verbatim": "Face: Carbon Aluminized 24K",
      "source": "https://allforpadel.com/en/padel-rackets/7528-padel-racket-adidas-cross-it-light-2026-martita-ortega-8435739405956.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7528-padel-racket-adidas-cross-it-light-2026-martita-ortega-8435739405956.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "roughSurface": {
      "display": "Yes",
      "value": true,
      "verbatim": "Its Spin Blade Mold texture enhances spin",
      "source": "https://allforpadel.com/en/padel-rackets/7528-padel-racket-adidas-cross-it-light-2026-martita-ortega-8435739405956.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "€300",
@@ -330,7 +330,7 @@
      "checkedOn": "2026-10-01",
      "verbatim": "€300.00",
      "source": "https://allforpadel.com/en/padel-rackets/7528-padel-racket-adidas-cross-it-light-2026-martita-ortega-8435739405956.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -445,7 +445,7 @@
      "value": "round",
      "verbatim": "Shape: Round",
      "source": "https://allforpadel.com/en/padel-rackets/7491-padel-racket-adidas-drive-black-2026-8435739406038.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "360 to 375 g",
@@ -453,7 +453,7 @@
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
      "source": "https://allforpadel.com/en/padel-rackets/7491-padel-racket-adidas-drive-black-2026-8435739406038.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "Medium",
@@ -461,7 +461,7 @@
      "mm": null,
      "verbatim": "Balance: Even",
      "source": "https://allforpadel.com/en/padel-rackets/7491-padel-racket-adidas-drive-black-2026-8435739406038.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Soft, EVA Soft Performance",
@@ -469,21 +469,21 @@
      "material": "EVA Soft Performance",
      "verbatim": "Rubber: Eva Soft Performance / the forgiving combination of Fiber Glass and the Soft Performance EVA core",
      "source": "https://allforpadel.com/en/padel-rackets/7491-padel-racket-adidas-drive-black-2026-8435739406038.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "Fiberglass",
      "material": "Fiberglass",
      "verbatim": "Face: Fiberglass",
      "source": "https://allforpadel.com/en/padel-rackets/7491-padel-racket-adidas-drive-black-2026-8435739406038.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7491-padel-racket-adidas-drive-black-2026-8435739406038.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "€80",
@@ -492,7 +492,7 @@
      "checkedOn": "2026-10-01",
      "verbatim": "€80.00",
      "source": "https://allforpadel.com/en/padel-rackets/7491-padel-racket-adidas-drive-black-2026-8435739406038.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -530,7 +530,7 @@
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
      "source": "https://allforpadel.com/en/padel-rackets/7493-padel-racket-adidas-match-black-2026-8435739406052.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Soft, EVA Soft Performance",
@@ -538,21 +538,21 @@
      "material": "EVA Soft Performance",
      "verbatim": "Rubber: Eva Soft Performance / the Fiber Glass surface and the Soft Performance EVA core",
      "source": "https://allforpadel.com/en/padel-rackets/7493-padel-racket-adidas-match-black-2026-8435739406052.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "Fiberglass",
      "material": "Fiberglass",
      "verbatim": "Face: Fiberglass",
      "source": "https://allforpadel.com/en/padel-rackets/7493-padel-racket-adidas-match-black-2026-8435739406052.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7493-padel-racket-adidas-match-black-2026-8435739406052.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "€75",
@@ -561,7 +561,7 @@
      "checkedOn": "2026-10-01",
      "verbatim": "€75.00",
      "source": "https://allforpadel.com/en/padel-rackets/7493-padel-racket-adidas-match-black-2026-8435739406052.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -662,7 +662,7 @@
      "value": "diamond",
      "verbatim": "Shape: Diamond",
      "source": "https://allforpadel.com/en/padel-rackets/7521-padel-racket-adidas-metalbone-2026-ale-galan-8435739405802.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "345 to 360 g",
@@ -670,7 +670,7 @@
      "max": 360,
      "verbatim": "Weight: 345-360 +(0-11,2) Gr",
      "source": "https://allforpadel.com/en/padel-rackets/7521-padel-racket-adidas-metalbone-2026-ale-galan-8435739405802.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "High",
@@ -678,7 +678,7 @@
      "mm": null,
      "verbatim": "Balance: Head Heavy",
      "source": "https://allforpadel.com/en/padel-rackets/7521-padel-racket-adidas-metalbone-2026-ale-galan-8435739405802.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Soft, EVA Soft Performance",
@@ -686,28 +686,28 @@
      "material": "EVA Soft Performance",
      "verbatim": "Rubber: Eva Soft Performance / The low-density Soft Performance EVA core provides excellent ball output and consistent comfort throughout play.",
      "source": "https://allforpadel.com/en/padel-rackets/7521-padel-racket-adidas-metalbone-2026-ale-galan-8435739405802.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "Carbon Aluminized 16K",
      "material": "Carbon Aluminized 16K",
      "verbatim": "Face: Carbon Aluminized 16K",
      "source": "https://allforpadel.com/en/padel-rackets/7521-padel-racket-adidas-metalbone-2026-ale-galan-8435739405802.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7521-padel-racket-adidas-metalbone-2026-ale-galan-8435739405802.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "roughSurface": {
      "display": "Yes",
      "value": true,
      "verbatim": "Spin Blade Decal features a textured surface that enhances control and allows you to generate more spin on every shot.",
      "source": "https://allforpadel.com/en/padel-rackets/7521-padel-racket-adidas-metalbone-2026-ale-galan-8435739405802.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "€390",
@@ -716,7 +716,7 @@
      "checkedOn": "2026-10-01",
      "verbatim": "€390.00",
      "source": "https://allforpadel.com/en/padel-rackets/7521-padel-racket-adidas-metalbone-2026-ale-galan-8435739405802.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -910,7 +910,7 @@
      "value": "round",
      "verbatim": "Shape: Round",
      "source": "https://allforpadel.com/en/padel-rackets/7534-padel-racket-adidas-metalbone-carbon-ctrl-2026-8435739405840.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "360 to 375 g",
@@ -918,7 +918,7 @@
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
      "source": "https://allforpadel.com/en/padel-rackets/7534-padel-racket-adidas-metalbone-carbon-ctrl-2026-8435739405840.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "Medium",
@@ -926,7 +926,7 @@
      "mm": null,
      "verbatim": "Balance: Even",
      "source": "https://allforpadel.com/en/padel-rackets/7534-padel-racket-adidas-metalbone-carbon-ctrl-2026-8435739405840.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Soft, EVA Soft Performance",
@@ -934,21 +934,21 @@
      "material": "EVA Soft Performance",
      "verbatim": "Rubber: Eva Soft Performance / the Soft Performance EVA core delivers a comfortable feel and smooth ball output",
      "source": "https://allforpadel.com/en/padel-rackets/7534-padel-racket-adidas-metalbone-carbon-ctrl-2026-8435739405840.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "Carbon 6K",
      "material": "Carbon 6K",
      "verbatim": "Face: Carbon 6K",
      "source": "https://allforpadel.com/en/padel-rackets/7534-padel-racket-adidas-metalbone-carbon-ctrl-2026-8435739405840.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7534-padel-racket-adidas-metalbone-carbon-ctrl-2026-8435739405840.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "€260",
@@ -957,7 +957,7 @@
      "checkedOn": "2026-10-01",
      "verbatim": "€260.00",
      "source": "https://allforpadel.com/en/padel-rackets/7534-padel-racket-adidas-metalbone-carbon-ctrl-2026-8435739405840.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -990,7 +990,7 @@
      "value": "round",
      "verbatim": "Shape: Round",
      "source": "https://allforpadel.com/en/padel-rackets/7525-padel-racket-adidas-metalbone-ctrl-2026-8435739405819.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "345 to 360 g",
@@ -998,7 +998,7 @@
      "max": 360,
      "verbatim": "Weight: 345-360 +(0-11,2) Gr",
      "source": "https://allforpadel.com/en/padel-rackets/7525-padel-racket-adidas-metalbone-ctrl-2026-8435739405819.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "Medium",
@@ -1006,7 +1006,7 @@
      "mm": null,
      "verbatim": "Balance: Even",
      "source": "https://allforpadel.com/en/padel-rackets/7525-padel-racket-adidas-metalbone-ctrl-2026-8435739405819.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Soft, EVA Soft Performance",
@@ -1014,21 +1014,21 @@
      "material": "EVA Soft Performance",
      "verbatim": "Rubber: Eva Soft Performance / the Soft Performance EVA core ensures comfort and consistent ball output",
      "source": "https://allforpadel.com/en/padel-rackets/7525-padel-racket-adidas-metalbone-ctrl-2026-8435739405819.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "Carbon Aluminized 16K",
      "material": "Carbon Aluminized 16K",
      "verbatim": "Face: Carbon Aluminized 16K",
      "source": "https://allforpadel.com/en/padel-rackets/7525-padel-racket-adidas-metalbone-ctrl-2026-8435739405819.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7525-padel-racket-adidas-metalbone-ctrl-2026-8435739405819.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "€390",
@@ -1037,7 +1037,7 @@
      "checkedOn": "2026-10-01",
      "verbatim": "€390.00",
      "source": "https://allforpadel.com/en/padel-rackets/7525-padel-racket-adidas-metalbone-ctrl-2026-8435739405819.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -1151,7 +1151,7 @@
      "value": "diamond",
      "verbatim": "Shape: Diamond",
      "source": "https://allforpadel.com/en/padel-rackets/7522-padel-racket-adidas-metalbone-hrd-2026-ale-galan-8435739405826.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "345 to 360 g",
@@ -1159,7 +1159,7 @@
      "max": 360,
      "verbatim": "Weight: 345-360 +(0-11,2) Gr",
      "source": "https://allforpadel.com/en/padel-rackets/7522-padel-racket-adidas-metalbone-hrd-2026-ale-galan-8435739405826.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "High",
@@ -1167,7 +1167,7 @@
      "mm": null,
      "verbatim": "Balance: Head Heavy",
      "source": "https://allforpadel.com/en/padel-rackets/7522-padel-racket-adidas-metalbone-hrd-2026-ale-galan-8435739405826.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Hard, EVA High Memory",
@@ -1175,21 +1175,21 @@
      "material": "EVA High Memory",
      "verbatim": "Rubber: Eva High Memory / The High Memory core, made from high-density EVA, increases power on high-speed shots",
      "source": "https://allforpadel.com/en/padel-rackets/7522-padel-racket-adidas-metalbone-hrd-2026-ale-galan-8435739405826.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "Carbon Aluminized 16K",
      "material": "Carbon Aluminized 16K",
      "verbatim": "Face: Carbon Aluminized 16K",
      "source": "https://allforpadel.com/en/padel-rackets/7522-padel-racket-adidas-metalbone-hrd-2026-ale-galan-8435739405826.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7522-padel-racket-adidas-metalbone-hrd-2026-ale-galan-8435739405826.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "€390",
@@ -1198,7 +1198,7 @@
      "checkedOn": "2026-10-01",
      "verbatim": "€390.00",
      "source": "https://allforpadel.com/en/padel-rackets/7522-padel-racket-adidas-metalbone-hrd-2026-ale-galan-8435739405826.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -1311,7 +1311,7 @@
      "value": "diamond",
      "verbatim": "Shape: Diamond",
      "source": "https://allforpadel.com/en/padel-rackets/7613-adidas-metalbone-pro-edt-2026-racket-ale-galan-8435739409497.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "345 to 360 g",
@@ -1319,7 +1319,7 @@
      "max": 360,
      "verbatim": "Weight: 345-360 +(0-11,2) Gr",
      "source": "https://allforpadel.com/en/padel-rackets/7613-adidas-metalbone-pro-edt-2026-racket-ale-galan-8435739409497.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "High",
@@ -1328,7 +1328,7 @@
      "cm": null,
      "verbatim": "Balance: Head Heavy",
      "source": "https://allforpadel.com/en/padel-rackets/7613-adidas-metalbone-pro-edt-2026-racket-ale-galan-8435739409497.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Soft, EVA Soft Performance",
@@ -1336,28 +1336,28 @@
      "material": "EVA Soft Performance",
      "verbatim": "Rubber: Eva Soft Performance",
      "source": "https://allforpadel.com/en/padel-rackets/7613-adidas-metalbone-pro-edt-2026-racket-ale-galan-8435739409497.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "carbon aluminized 16K",
      "material": "carbon aluminized 16K",
      "verbatim": "Face: Carbon Aluminized 16K",
      "source": "https://allforpadel.com/en/padel-rackets/7613-adidas-metalbone-pro-edt-2026-racket-ale-galan-8435739409497.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "frame": {
      "display": "carbon fibre",
      "material": "carbon fibre",
      "verbatim": "Frame: Carbon Fiber",
      "source": "https://allforpadel.com/en/padel-rackets/7613-adidas-metalbone-pro-edt-2026-racket-ale-galan-8435739409497.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7613-adidas-metalbone-pro-edt-2026-racket-ale-galan-8435739409497.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "€425",
@@ -1367,7 +1367,7 @@
      "checkedOn": "2026-10-01",
      "verbatim": "€425.00 Tax included",
      "source": "https://allforpadel.com/en/padel-rackets/7613-adidas-metalbone-pro-edt-2026-racket-ale-galan-8435739409497.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -1399,7 +1399,7 @@
      "value": "diamond",
      "verbatim": "Shape: Diamond Oversize",
      "source": "https://allforpadel.com/en/padel-rackets/7540-adidas-metalbone-reserve-2026-racket-8435739409459.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "360 to 375 g",
@@ -1407,7 +1407,7 @@
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
      "source": "https://allforpadel.com/en/padel-rackets/7540-adidas-metalbone-reserve-2026-racket-8435739409459.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "High",
@@ -1416,7 +1416,7 @@
      "cm": null,
      "verbatim": "Balance: Head Heavy",
      "source": "https://allforpadel.com/en/padel-rackets/7540-adidas-metalbone-reserve-2026-racket-8435739409459.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Soft, EVA Soft Performance",
@@ -1424,35 +1424,35 @@
      "material": "EVA Soft Performance",
      "verbatim": "Rubber: Eva Soft Performance",
      "source": "https://allforpadel.com/en/padel-rackets/7540-adidas-metalbone-reserve-2026-racket-8435739409459.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "carbon aluminized 16K",
      "material": "carbon aluminized 16K",
      "verbatim": "Face: Carbon Aluminized 16K",
      "source": "https://allforpadel.com/en/padel-rackets/7540-adidas-metalbone-reserve-2026-racket-8435739409459.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "frame": {
      "display": "carbon fibre",
      "material": "carbon fibre",
      "verbatim": "Frame: Carbon Fiber",
      "source": "https://allforpadel.com/en/padel-rackets/7540-adidas-metalbone-reserve-2026-racket-8435739409459.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7540-adidas-metalbone-reserve-2026-racket-8435739409459.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "roughSurface": {
      "display": "Yes",
      "value": true,
      "verbatim": "Spin Blade Decal adds subtle texture that enhances spin and control.",
      "source": "https://allforpadel.com/en/padel-rackets/7540-adidas-metalbone-reserve-2026-racket-8435739409459.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "€325",
@@ -1462,7 +1462,7 @@
      "checkedOn": "2026-10-01",
      "verbatim": "€325.00 Tax included",
      "source": "https://allforpadel.com/en/padel-rackets/7540-adidas-metalbone-reserve-2026-racket-8435739409459.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -1583,7 +1583,7 @@
      "value": "diamond",
      "verbatim": "Shape: Diamond",
      "source": "https://allforpadel.com/en/padel-rackets/7530-padel-racket-adidas-metalbone-team-2026-8435739405857.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "360 to 375 g",
@@ -1591,7 +1591,7 @@
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
      "source": "https://allforpadel.com/en/padel-rackets/7530-padel-racket-adidas-metalbone-team-2026-8435739405857.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "High",
@@ -1599,7 +1599,7 @@
      "mm": null,
      "verbatim": "Balance: Head Heavy",
      "source": "https://allforpadel.com/en/padel-rackets/7530-padel-racket-adidas-metalbone-team-2026-8435739405857.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Soft, EVA Soft Performance",
@@ -1607,21 +1607,21 @@
      "material": "EVA Soft Performance",
      "verbatim": "Rubber: Eva Soft Performance / Soft Performance EVA and fiberglass provide a comfortable feel and smooth ball output",
      "source": "https://allforpadel.com/en/padel-rackets/7530-padel-racket-adidas-metalbone-team-2026-8435739405857.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "Fiberglass",
      "material": "Fiberglass",
      "verbatim": "Face: Fiberglass",
      "source": "https://allforpadel.com/en/padel-rackets/7530-padel-racket-adidas-metalbone-team-2026-8435739405857.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7530-padel-racket-adidas-metalbone-team-2026-8435739405857.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "€200",
@@ -1630,7 +1630,7 @@
      "checkedOn": "2026-10-01",
      "verbatim": "€200.00",
      "source": "https://allforpadel.com/en/padel-rackets/7530-padel-racket-adidas-metalbone-team-2026-8435739405857.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -1664,7 +1664,7 @@
      "value": "round",
      "verbatim": "Shape: Round",
      "source": "https://allforpadel.com/en/padel-rackets/7485-padel-racket-adidas-rx-series-2026-8435739406007.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "360 to 375 g",
@@ -1672,7 +1672,7 @@
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
      "source": "https://allforpadel.com/en/padel-rackets/7485-padel-racket-adidas-rx-series-2026-8435739406007.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "Medium",
@@ -1681,7 +1681,7 @@
      "cm": null,
      "verbatim": "Balance: Even",
      "source": "https://allforpadel.com/en/padel-rackets/7485-padel-racket-adidas-rx-series-2026-8435739406007.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Soft, EVA Soft Performance",
@@ -1689,21 +1689,21 @@
      "material": "EVA Soft Performance",
      "verbatim": "Rubber: Eva Soft Performance",
      "source": "https://allforpadel.com/en/padel-rackets/7485-padel-racket-adidas-rx-series-2026-8435739406007.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "fibreglass",
      "material": "fibreglass",
      "verbatim": "Face: Fiberglass",
      "source": "https://allforpadel.com/en/padel-rackets/7485-padel-racket-adidas-rx-series-2026-8435739406007.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7485-padel-racket-adidas-rx-series-2026-8435739406007.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "€120",
@@ -1713,7 +1713,7 @@
      "checkedOn": "2026-10-01",
      "verbatim": "€120.00 Tax included",
      "source": "https://allforpadel.com/en/padel-rackets/7485-padel-racket-adidas-rx-series-2026-8435739406007.html",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -8633,7 +8633,7 @@
      "value": "teardrop",
      "verbatim": "Shape: Hybrid (Teardrop). / racket type tear drop",
      "source": "https://www.decathlon.co.uk/p/padel-racket-hybrid-pro-coki-nieto/338036/c236m8993121",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "360 to 370 g",
@@ -8641,7 +8641,7 @@
      "max": 370,
      "verbatim": "Weight: 365 g (+/- 5 g). / weight (in g) 361 to 375 g",
      "source": "https://www.decathlon.co.uk/p/padel-racket-hybrid-pro-coki-nieto/338036/c236m8993121",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "Medium",
@@ -8649,7 +8649,7 @@
      "mm": null,
      "verbatim": "Balance: neutral. / balance even balance",
      "source": "https://www.decathlon.co.uk/p/padel-racket-hybrid-pro-coki-nieto/338036/c236m8993121",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Medium, dual-density EVA foam (Dual Foam)",
@@ -8657,35 +8657,35 @@
      "material": "dual-density EVA foam (Dual Foam)",
      "verbatim": "Core composition: Dual-density foam. / racket foam density medium / Dual Foam: Double-density EVA foam core.",
      "source": "https://www.decathlon.co.uk/p/padel-racket-hybrid-pro-coki-nieto/338036/c236m8993121",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "carbon 18K (TeXtreme)",
      "material": "carbon 18K (TeXtreme)",
      "verbatim": "Frame composition: 3 layers of fibreglass and 1 layer of 18K TeXtreme carbon fibre. / surface material carbon fiber",
      "source": "https://www.decathlon.co.uk/p/padel-racket-hybrid-pro-coki-nieto/338036/c236m8993121",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "frame": {
      "display": "twin carbon tube with EVA foam insert",
      "material": "twin carbon tube with EVA foam insert",
      "verbatim": "racket frame material tube twin carbon tube / Air Foam Frame: EVA foam inserted in the double carbon tube of the frame.",
      "source": "https://www.decathlon.co.uk/p/padel-racket-hybrid-pro-coki-nieto/338036/c236m8993121",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 mm.",
      "source": "https://www.decathlon.co.uk/p/padel-racket-hybrid-pro-coki-nieto/338036/c236m8993121",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "roughSurface": {
      "display": "Yes",
      "value": true,
      "verbatim": "type of surface rough / Rough Surface A striking surface with a textured finish",
      "source": "https://www.decathlon.co.uk/p/padel-racket-hybrid-pro-coki-nieto/338036/c236m8993121",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "£149.99",
@@ -8694,7 +8694,7 @@
      "checkedOn": "2026-09-28",
      "verbatim": "Current price £149.99 Former price Was £159.99",
      "source": "https://www.decathlon.co.uk/p/padel-racket-hybrid-pro-coki-nieto/338036/c236m8993121",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -8729,7 +8729,7 @@
      "value": "round",
      "verbatim": "racket type round / Round design and low balance.",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-comfort/352005/c1c4m8979566",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "341 to 360 g",
@@ -8737,7 +8737,7 @@
      "max": 360,
      "verbatim": "weight (in g) 341 to 360 g, 350 g / Weighs 350 g.",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-comfort/352005/c1c4m8979566",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "balance": {
      "display": "Low, 260 mm",
@@ -8745,7 +8745,7 @@
      "mm": 260,
      "verbatim": "Balance: Low This is the racket balance point, measured in millimetres from the bottom of the racket handle. 260 mm for this model / balance head light",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-comfort/352005/c1c4m8979566",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Medium, Black EVA foam",
@@ -8753,28 +8753,28 @@
      "material": "Black EVA foam",
      "verbatim": "Internal material: Black EVA / racket foam density medium / type of racket foam eva",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-comfort/352005/c1c4m8979566",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "fibreglass",
      "material": "fibreglass",
      "verbatim": "External material: Fibreglass / surface material glass fiber",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-comfort/352005/c1c4m8979566",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "frame": {
      "display": "glass fibre (74 percent) and EVA (26 percent) by composition",
      "material": "glass fibre (74 percent) and EVA (26 percent) by composition",
      "verbatim": "Frame: 26.0% Ethylene Vinyl Acetate, 74.0% Glass Fiber",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-comfort/352005/c1c4m8979566",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "roughSurface": {
      "display": "No",
      "value": false,
      "verbatim": "type of surface not rough",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-comfort/352005/c1c4m8979566",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "£44.99",
@@ -8783,7 +8783,7 @@
      "checkedOn": "2026-09-28",
      "verbatim": "Current price £44.99",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-comfort/352005/c1c4m8979566",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
@@ -8817,7 +8817,7 @@
      "value": "teardrop",
      "verbatim": "Shape: Teardrop. / racket type tear drop",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-hybrid-carbon/341828/m8979558",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "weight": {
      "display": "365 to 375 g",
@@ -8825,7 +8825,7 @@
      "max": 375,
      "verbatim": "Weight: 370 g (+/- 5 g). / weight (in g) 361 to 375 g, 370 g",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-hybrid-carbon/341828/m8979558",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "core": {
      "display": "Medium, Black EVA foam",
@@ -8833,35 +8833,35 @@
      "material": "Black EVA foam",
      "verbatim": "Core composition: Medium-density Black EVA foam. / racket foam density medium",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-hybrid-carbon/341828/m8979558",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "surface": {
      "display": "carbon 12K",
      "material": "carbon 12K",
      "verbatim": "Frame composition: 3 layers of fibreglass and 1 layer of 12K carbon fibre. / surface material carbon 12K",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-hybrid-carbon/341828/m8979558",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "frame": {
      "display": "twin carbon tube with EVA foam insert",
      "material": "twin carbon tube with EVA foam insert",
      "verbatim": "racket frame material tube twin carbon tube / Air Foam Frame: EVA foam in the racket's double tubular frame.",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-hybrid-carbon/341828/m8979558",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "thicknessMm": {
      "display": "38 mm",
      "value": 38,
      "verbatim": "Thickness: 38 mm.",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-hybrid-carbon/341828/m8979558",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "roughSurface": {
      "display": "Yes",
      "value": true,
      "verbatim": "type of surface rough",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-hybrid-carbon/341828/m8979558",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     },
     "price": {
      "display": "£109.99",
@@ -8870,7 +8870,7 @@
      "checkedOn": "2026-09-28",
      "verbatim": "Current price £109.99",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-hybrid-carbon/341828/m8979558",
-     "sourceType": "manufacturer"
+     "sourceType": "retailer"
     }
    }
   },
