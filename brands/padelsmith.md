@@ -4,6 +4,6 @@
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
-| [Padelsmith #1](https://padeltrue.com/rackets/padelsmith-1) |  | Diamond | 350 g | High | Medium-soft, EVA Soft Black 28 | £320 | 77 | 10 | 44 | [product page](https://padelsmith.co.uk/products/padel-racket-padelsmith) |
+| [Padelsmith #1](https://padeltrue.com/rackets/padelsmith-1) |  | Diamond | 350 g (12.3 oz) | High | Medium-soft, EVA Soft Black 28 | £320 | 77 | 10 | 44 | [product page](https://padelsmith.co.uk/products/padel-racket-padelsmith) |
 
 Full records with the quoted wording of every specification are in [rackets.json](../rackets.json). Compare any two of these at [padeltrue.com/compare](https://padeltrue.com/compare/).

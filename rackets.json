@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-03",
+ "built": "2026-10-04",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 227,
+ "count": 231,
  "rackets": [
   {
    "slug": "adidas-arrow-hit-2026",
@@ -40,7 +40,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
@@ -64,7 +64,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7523-padel-racket-adidas-arrow-hit-8435739405888.html",
@@ -112,7 +112,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
@@ -144,7 +144,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7531-padel-racket-adidas-arrow-hit-carbon-8435739405901.html",
@@ -193,7 +193,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
@@ -224,7 +224,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7527-padel-racket-adidas-cross-it-ctrl-2026-8435739405949.html",
@@ -279,7 +279,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "345 to 360 g",
+     "display": "345 to 360 g (12.2 to 12.7 oz)",
      "min": 345,
      "max": 360,
      "verbatim": "Weight: 345-360 Gr (Light Weight)",
@@ -310,7 +310,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7528-padel-racket-adidas-cross-it-light-2026-martita-ortega-8435739405956.html",
@@ -366,7 +366,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "345 to 360 g",
+     "display": "345 to 360 g (12.2 to 12.7 oz)",
      "min": 345,
      "max": 360,
      "verbatim": "345-360 gramos",
@@ -448,7 +448,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
@@ -479,7 +479,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7491-padel-racket-adidas-drive-black-2026-8435739406038.html",
@@ -525,7 +525,7 @@
    ],
    "specs": {
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
@@ -548,7 +548,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7493-padel-racket-adidas-match-black-2026-8435739406052.html",
@@ -594,7 +594,7 @@
    ],
    "specs": {
     "weight": {
-     "display": "345 to 360 g",
+     "display": "345 to 360 g (12.2 to 12.7 oz)",
      "min": 345,
      "max": 360,
      "verbatim": "peso reducido entre 345 y 360 gramos",
@@ -665,7 +665,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "345 to 360 g",
+     "display": "345 to 360 g (12.2 to 12.7 oz)",
      "min": 345,
      "max": 360,
      "verbatim": "Weight: 345-360 +(0-11,2) Gr",
@@ -696,7 +696,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7521-padel-racket-adidas-metalbone-2026-ale-galan-8435739405802.html",
@@ -832,7 +832,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "oscila entre los 360 y los 375 gramos",
@@ -913,7 +913,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
@@ -944,7 +944,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7534-padel-racket-adidas-metalbone-carbon-ctrl-2026-8435739405840.html",
@@ -993,7 +993,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "345 to 360 g",
+     "display": "345 to 360 g (12.2 to 12.7 oz)",
      "min": 345,
      "max": 360,
      "verbatim": "Weight: 345-360 +(0-11,2) Gr",
@@ -1024,7 +1024,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7525-padel-racket-adidas-metalbone-ctrl-2026-8435739405819.html",
@@ -1073,7 +1073,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "345 to 360 g",
+     "display": "345 to 360 g (12.2 to 12.7 oz)",
      "min": 345,
      "max": 360,
      "verbatim": "peso modulable que oscila entre los 345 y los 360 gramos",
@@ -1154,7 +1154,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "345 to 360 g",
+     "display": "345 to 360 g (12.2 to 12.7 oz)",
      "min": 345,
      "max": 360,
      "verbatim": "Weight: 345-360 +(0-11,2) Gr",
@@ -1185,7 +1185,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7522-padel-racket-adidas-metalbone-hrd-2026-ale-galan-8435739405826.html",
@@ -1234,7 +1234,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "345 to 360 g",
+     "display": "345 to 360 g (12.2 to 12.7 oz)",
      "min": 345,
      "max": 360,
      "verbatim": "Con un peso ajustable entre 345 y 360 gramos",
@@ -1314,7 +1314,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "345 to 360 g",
+     "display": "345 to 360 g (12.2 to 12.7 oz)",
      "min": 345,
      "max": 360,
      "verbatim": "Weight: 345-360 +(0-11,2) Gr",
@@ -1353,7 +1353,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7613-adidas-metalbone-pro-edt-2026-racket-ale-galan-8435739409497.html",
@@ -1402,7 +1402,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
@@ -1441,7 +1441,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7540-adidas-metalbone-reserve-2026-racket-8435739409459.html",
@@ -1498,7 +1498,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "315 to 330 g",
+     "display": "315 to 330 g (11.1 to 11.6 oz)",
      "min": 315,
      "max": 330,
      "verbatim": "315&ndash;330 gramos",
@@ -1586,7 +1586,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
@@ -1617,7 +1617,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7530-padel-racket-adidas-metalbone-team-2026-8435739405857.html",
@@ -1667,7 +1667,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "Weight: 360-375 Gr",
@@ -1699,7 +1699,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 Mm",
      "source": "https://allforpadel.com/en/padel-rackets/7485-padel-racket-adidas-rx-series-2026-8435739406007.html",
@@ -1750,7 +1750,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "345 g",
+     "display": "345 g (12.2 oz)",
      "min": 345,
      "max": 345,
      "verbatim": "Peso de 345 gramos",
@@ -1833,7 +1833,7 @@
    ],
    "specs": {
     "weight": {
-     "display": "345 to 365 g",
+     "display": "345 to 365 g (12.2 to 12.9 oz)",
      "min": 345,
      "max": 365,
      "verbatim": "Peso 355 g +/- 10g",
@@ -1872,7 +1872,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Grosor 38 mm",
      "source": "https://www.babolat.com/es/air-veron-2.6/150180.html",
@@ -1932,7 +1932,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "335 to 355 g",
+     "display": "335 to 355 g (11.8 to 12.5 oz)",
      "min": 335,
      "max": 355,
      "verbatim": "345 g +/- 10g / 12.2 oz",
@@ -1940,7 +1940,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "265 mm",
+     "display": "265 mm (10.4 in)",
      "value": null,
      "mm": 265,
      "verbatim": "265 mm",
@@ -1970,7 +1970,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38 mm / 1.5 in",
      "source": "https://www.babolat.com/us/air-vertuo-2.6/150184.html",
@@ -2021,7 +2021,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "345 to 365 g",
+     "display": "345 to 365 g (12.2 to 12.9 oz)",
      "min": 345,
      "max": 365,
      "verbatim": "355 g +/- 10g / 12.5 oz",
@@ -2029,7 +2029,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "265 mm",
+     "display": "265 mm (10.4 in)",
      "value": null,
      "mm": 265,
      "verbatim": "265 mm",
@@ -2059,7 +2059,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38 mm / 1.5 in",
      "source": "https://www.babolat.com/us/air-viper-2.6/150176.html",
@@ -2119,7 +2119,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "355 g",
+     "display": "355 g (12.5 oz)",
      "min": 355,
      "max": 355,
      "verbatim": "peso aproximado de 355 gramos",
@@ -2144,7 +2144,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "perfil de 38 mm",
      "source": "https://www.padelnuestro.com/pala-babolat-counter-crest-155041-smu",
@@ -2210,7 +2210,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 to 375 g",
+     "display": "355 to 375 g (12.5 to 13.2 oz)",
      "min": 355,
      "max": 375,
      "verbatim": "Peso 365 g +/- 10g",
@@ -2240,7 +2240,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Grosor 38 mm",
      "source": "https://www.babolat.com/es/counter-veron-2.6/150181.html",
@@ -2298,7 +2298,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 to 375 g",
+     "display": "355 to 375 g (12.5 to 13.2 oz)",
      "min": 355,
      "max": 375,
      "verbatim": "365 g +/- 10g / 12.88 oz",
@@ -2306,7 +2306,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "High, 270 mm",
+     "display": "High, 270 mm (10.6 in)",
      "value": "high",
      "mm": 270,
      "verbatim": "270 mm | head-heavy balance",
@@ -2336,7 +2336,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38 mm / 1.5 in",
      "source": "https://www.babolat.com/us/counter-viper-2.6/150177.html",
@@ -2395,7 +2395,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "320 to 340 g",
+     "display": "320 to 340 g (11.3 to 12.0 oz)",
      "min": 320,
      "max": 340,
      "verbatim": "330 g +/- 10g",
@@ -2434,7 +2434,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "36 mm",
+     "display": "36 mm (1.4 in)",
      "value": 36,
      "verbatim": "36 mm",
      "source": "https://www.babolat.com/gb/dyna-energy/150126.html",
@@ -2492,7 +2492,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "325 to 345 g",
+     "display": "325 to 345 g (11.5 to 12.2 oz)",
      "min": 325,
      "max": 345,
      "verbatim": "335 g +/- 10g",
@@ -2531,7 +2531,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "36 mm",
+     "display": "36 mm (1.4 in)",
      "value": 36,
      "verbatim": "36 mm",
      "source": "https://www.babolat.com/gb/stima-energy/150127.html",
@@ -2587,7 +2587,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "345 to 365 g",
+     "display": "345 to 365 g (12.2 to 12.9 oz)",
      "min": 345,
      "max": 365,
      "verbatim": "355 g +/- 10g / 12.52 oz",
@@ -2595,7 +2595,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "High, 270 mm",
+     "display": "High, 270 mm (10.6 in)",
      "value": "high",
      "mm": 270,
      "verbatim": "270 mm | high balance",
@@ -2625,7 +2625,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38 mm / 1.5 in",
      "source": "https://www.babolat.com/us/technical-origin-/150188.html",
@@ -2674,7 +2674,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 g",
+     "display": "365 g (12.9 oz)",
      "min": 365,
      "max": 365,
      "verbatim": "peso modulable de 365 gramos",
@@ -2758,7 +2758,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 370 g",
+     "display": "350 to 370 g (12.3 to 13.1 oz)",
      "min": 350,
      "max": 370,
      "verbatim": "360 g +/- 10g / 12.7 oz",
@@ -2766,7 +2766,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "270 mm",
+     "display": "270 mm (10.6 in)",
      "value": null,
      "mm": 270,
      "verbatim": "270 mm",
@@ -2796,7 +2796,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38 mm / 1.5 in",
      "source": "https://www.babolat.com/us/technical-veron-3.0/150183.html",
@@ -2845,7 +2845,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 g",
+     "display": "365 g (12.9 oz)",
      "min": 365,
      "max": 365,
      "verbatim": "peso aproximado de 365 gramos",
@@ -2935,7 +2935,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 380 g",
+     "display": "360 to 380 g (12.7 to 13.4 oz)",
      "min": 360,
      "max": 380,
      "verbatim": "370 g +/- 10g / 13.05 oz",
@@ -2943,7 +2943,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "270 mm",
+     "display": "270 mm (10.6 in)",
      "value": null,
      "mm": 270,
      "verbatim": "270 mm",
@@ -2973,7 +2973,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38 mm / 1.5 in",
      "source": "https://www.babolat.com/us/technical-viper-3.0/150175.html",
@@ -3029,7 +3029,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 to 375 g",
+     "display": "355 to 375 g (12.5 to 13.2 oz)",
      "min": 355,
      "max": 375,
      "verbatim": "Peso 365 g +/- 10g",
@@ -3068,7 +3068,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Grosor 38 mm",
      "source": "https://www.babolat.com/es/technical-viper-soft-3.0/150179.html",
@@ -3127,7 +3127,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 380 g",
+     "display": "360 to 380 g (12.7 to 13.4 oz)",
      "min": 360,
      "max": 380,
      "verbatim": "370 g +/- 10g / 13.05 oz",
@@ -3135,7 +3135,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "270 mm",
+     "display": "270 mm (10.6 in)",
      "value": null,
      "mm": 270,
      "verbatim": "270 mm",
@@ -3165,7 +3165,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38 mm / 1.5 in",
      "source": "https://www.babolat.com/us/viper-juan-lebron-3.0/150174.html",
@@ -3295,7 +3295,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 to 370 g",
+     "display": "360 to 370 g (12.7 to 13.1 oz)",
      "min": 360,
      "max": 370,
      "verbatim": "El peso (360–370 g)",
@@ -3386,7 +3386,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 360 g",
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
      "min": 350,
      "max": 360,
      "verbatim": "Weight: 350 -360 gr",
@@ -3394,7 +3394,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "25.5 cm",
+     "display": "25.5 cm (10.0 in)",
      "value": null,
      "mm": null,
      "cm": 25.5,
@@ -3418,7 +3418,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Profile: 38",
      "source": "https://www.bullpadel.com/gb/6843-pala-bullpadel-elite-02-27.html",
@@ -3476,7 +3476,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "350 to 360 g",
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
      "min": 350,
      "max": 360,
      "verbatim": "está por 350-360 gramos",
@@ -3559,7 +3559,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 360 g",
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
      "min": 350,
      "max": 360,
      "verbatim": "Peso: 350 - 360 g",
@@ -3567,7 +3567,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "25.8 cm",
+     "display": "25.8 cm (10.2 in)",
      "value": null,
      "mm": null,
      "cm": 25.8,
@@ -3598,7 +3598,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Perfil: 38 mm",
      "source": "https://www.bullpadel.com/es/5688-pala-bullpadel-elite-w-26.html",
@@ -3657,7 +3657,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 360 g",
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
      "min": 350,
      "max": 360,
      "verbatim": "Peso: 350 - 360 g",
@@ -3665,7 +3665,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "26 cm",
+     "display": "26 cm (10.2 in)",
      "value": null,
      "mm": null,
      "cm": 26,
@@ -3696,7 +3696,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Perfil: 38 mm",
      "source": "https://www.bullpadel.com/es/5687-pala-bullpadel-flow-legend.html",
@@ -3832,7 +3832,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 to 370 g",
+     "display": "360 to 370 g (12.7 to 13.1 oz)",
      "min": 360,
      "max": 370,
      "verbatim": "Peso: 360-370 gramos",
@@ -3988,7 +3988,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "peso de 365-375 gramos",
@@ -4078,7 +4078,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "Peso: 365 - 375 g",
@@ -4086,7 +4086,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "26.4 cm",
+     "display": "26.4 cm (10.4 in)",
      "value": null,
      "mm": null,
      "cm": 26.4,
@@ -4117,7 +4117,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Perfil: 38 mm",
      "source": "https://www.bullpadel.com/es/5674-pala-bullpadel-hack-04-26.html",
@@ -4137,6 +4137,97 @@
      "checkedOn": "2026-09-28",
      "verbatim": "Precio habitual: 319,99 € (25% de descuento) Precio: 239,99 €",
      "source": "https://www.bullpadel.com/es/5674-pala-bullpadel-hack-04-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-hack-04-comfort-26",
+   "name": "Bullpadel Hack 04 Comfort 26",
+   "brand": "Bullpadel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/bullpadel-hack-04-comfort-26",
+   "productUrl": "https://www.bullpadel.com/gb/5676-racket-bullpadel-hack-04-cmf-26.html",
+   "level": "Professional",
+   "player": "Paquito Navarro",
+   "ratings": {
+    "power": 68,
+    "control": 26,
+    "handling": 50,
+    "forgiveness": 32,
+    "comfort": 50,
+    "value": 17
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Shape\nDiamond",
+     "source": "https://www.bullpadel.com/gb/5676-racket-bullpadel-hack-04-cmf-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 370 g (12.7 to 13.1 oz)",
+     "min": 360,
+     "max": 370,
+     "verbatim": "360 - 370 g",
+     "source": "https://www.bullpadel.com/gb/5676-racket-bullpadel-hack-04-cmf-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26.4 cm (10.4 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26.4,
+     "verbatim": "approx. 26,4 cm",
+     "source": "https://www.bullpadel.com/gb/5676-racket-bullpadel-hack-04-cmf-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, Multieva",
+     "value": "medium",
+     "material": "Multieva",
+     "verbatim": "Touch\nIntermediate",
+     "source": "https://www.bullpadel.com/gb/5676-racket-bullpadel-hack-04-cmf-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "Outer composition\nFibrix",
+     "source": "https://www.bullpadel.com/gb/5676-racket-bullpadel-hack-04-cmf-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Profile\n38",
+     "source": "https://www.bullpadel.com/gb/5676-racket-bullpadel-hack-04-cmf-26.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Rough finish\n3D grain",
+     "source": "https://www.bullpadel.com/gb/5676-racket-bullpadel-hack-04-cmf-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€189.99",
+     "value": 189.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-04",
+     "verbatim": "Price: €189.99",
+     "source": "https://www.bullpadel.com/gb/5676-racket-bullpadel-hack-04-cmf-26.html",
      "sourceType": "manufacturer"
     }
    }
@@ -4173,7 +4264,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "peso de 365-375 gramos",
@@ -4181,7 +4272,7 @@
      "sourceType": "retailer"
     },
     "balance": {
-     "display": "Low, 25 cm",
+     "display": "Low, 25 cm (9.8 in)",
      "value": "low",
      "mm": null,
      "cm": 25,
@@ -4205,7 +4296,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "perfil de 38 mm",
      "source": "https://www.padelnuestro.com/bullpadel-hack-04-hybrid-26",
@@ -4264,7 +4355,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "Weight: 365 - 375 grs.",
@@ -4272,7 +4363,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "26.5 cm",
+     "display": "26.5 cm (10.4 in)",
      "value": null,
      "mm": null,
      "cm": 26.5,
@@ -4296,7 +4387,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Profile: 38",
      "source": "https://www.bullpadel.com/gb/6828-pala-bullpadel-hack-05-27.html",
@@ -4352,7 +4443,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 370 g",
+     "display": "360 to 370 g (12.7 to 13.1 oz)",
      "min": 360,
      "max": 370,
      "verbatim": "Peso: 360 - 370 g",
@@ -4391,7 +4482,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Perfil: 38 mm",
      "source": "https://www.bullpadel.com/es/5696-pala-bullpadel-indiga-pwr-26.html",
@@ -4526,7 +4617,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "Peso: 365&ndash;375 g",
@@ -4551,7 +4642,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Perfil: 38 mm",
      "source": "https://www.padelnuestro.com/bullpadel-ionic-control-26",
@@ -4609,7 +4700,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "Peso: 365 - 375 g",
@@ -4648,7 +4739,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Perfil: 38 mm",
      "source": "https://www.bullpadel.com/es/5691-pala-bullpadel-ionic-power-26.html",
@@ -4704,7 +4795,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "Peso: 365 - 375 g",
@@ -4736,7 +4827,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Perfil: 38 mm",
      "source": "https://www.padelnuestro.com/bullpadel-neuron-02-494402",
@@ -4795,7 +4886,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "Peso: 365 - 375 g",
@@ -4803,7 +4894,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "26 cm",
+     "display": "26 cm (10.2 in)",
      "value": null,
      "mm": null,
      "cm": 26,
@@ -4834,7 +4925,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Perfil: 38 mm",
      "source": "https://www.bullpadel.com/es/5685-pala-bullpadel-neuron-02-edge.html",
@@ -4889,7 +4980,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "entre los 365 y los 375 gramos",
@@ -4977,7 +5068,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "355 to 365 g",
+     "display": "355 to 365 g (12.5 to 12.9 oz)",
      "min": 355,
      "max": 365,
      "verbatim": "355 y los 365 gramos",
@@ -5148,7 +5239,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "Su peso comprende los 365 y los 375 gramos",
@@ -5236,7 +5327,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "oscila entre los 365 y 375 gramos",
@@ -5324,7 +5415,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 to 370 g",
+     "display": "360 to 370 g (12.7 to 13.1 oz)",
      "min": 360,
      "max": 370,
      "verbatim": "Su peso comprende los 360 y 370 gramos",
@@ -5363,7 +5454,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "su perfil es de 38mm",
      "source": "https://www.padelnuestro.com/bullpadel-vertex-04-comfort-110866-p",
@@ -5420,7 +5511,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "Peso: 365 - 375 g",
@@ -5428,7 +5519,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "High, 25.4 cm",
+     "display": "High, 25.4 cm (10.0 in)",
      "value": "high",
      "mm": null,
      "cm": 25.4,
@@ -5459,7 +5550,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Perfil: 38 mm",
      "source": "https://www.bullpadel.com/es/5677-pala-bullpadel-vertex-05.html",
@@ -5517,7 +5608,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "Peso: 365 - 375 g",
@@ -5525,7 +5616,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "25.5 cm",
+     "display": "25.5 cm (10.0 in)",
      "value": null,
      "mm": null,
      "cm": 25.5,
@@ -5549,7 +5640,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Perfil: 38 mm",
      "source": "https://www.bullpadel.com/es/6831-pala-bullpadel-vertex-05-27.html",
@@ -5605,7 +5696,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "Peso: 365 - 375 g",
@@ -5637,7 +5728,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Perfil: 38 mm",
      "source": "https://www.padelnuestro.com/bullpadel-vertex-05-geo",
@@ -5693,7 +5784,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "Peso: 365 - 375 g",
@@ -5701,7 +5792,7 @@
      "sourceType": "retailer"
     },
     "balance": {
-     "display": "Low, 25 cm",
+     "display": "Low, 25 cm (9.8 in)",
      "value": "low",
      "mm": null,
      "cm": 25,
@@ -5725,7 +5816,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Perfil: 38 mm",
      "source": "https://www.padelnuestro.com/bullpadel-vertex-05-hybrid",
@@ -5747,6 +5838,96 @@
      "verbatim": "214,95 € Regular Price 339,95 €",
      "source": "https://www.padelnuestro.com/bullpadel-vertex-05-hybrid",
      "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-vertex-05-w-2026",
+   "name": "Bullpadel Vertex 05 W 2026",
+   "brand": "Bullpadel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-05-w-2026",
+   "productUrl": "https://www.bullpadel.com/gb/5681-racket-bullpadel-vertex-05-w.html",
+   "level": "Professional, Advanced",
+   "player": "Delfi Brea",
+   "ratings": {
+    "power": 65,
+    "control": 26,
+    "handling": 58,
+    "forgiveness": 32,
+    "comfort": 52,
+    "value": 16
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Shape\nDiamond",
+     "source": "https://www.bullpadel.com/gb/5681-racket-bullpadel-vertex-05-w.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
+     "min": 350,
+     "max": 360,
+     "verbatim": "Weight\n350 -360 gr",
+     "source": "https://www.bullpadel.com/gb/5681-racket-bullpadel-vertex-05-w.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium, 25.4 cm (10.0 in)",
+     "value": "medium",
+     "mm": null,
+     "cm": 25.4,
+     "verbatim": "Balance\nMedium\nBalance\napprox. 25,4 cm",
+     "source": "https://www.bullpadel.com/gb/5681-racket-bullpadel-vertex-05-w.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, Multieva",
+     "value": "medium",
+     "material": "Multieva",
+     "verbatim": "Touch\nIntermediate",
+     "source": "https://www.bullpadel.com/gb/5681-racket-bullpadel-vertex-05-w.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "Outer composition\nFibrix",
+     "source": "https://www.bullpadel.com/gb/5681-racket-bullpadel-vertex-05-w.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Profile\n38",
+     "source": "https://www.bullpadel.com/gb/5681-racket-bullpadel-vertex-05-w.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Rough finish\nTop Spin",
+     "source": "https://www.bullpadel.com/gb/5681-racket-bullpadel-vertex-05-w.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€209.99",
+     "value": 209.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-04",
+     "verbatim": "Price: €209.99",
+     "source": "https://www.bullpadel.com/gb/5681-racket-bullpadel-vertex-05-w.html",
+     "sourceType": "manufacturer"
     }
    }
   },
@@ -5784,7 +5965,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "365 y 375 gramos",
@@ -5823,7 +6004,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "perfil de 38 mm",
      "source": "https://www.padelnuestro.com/bullpadel-vertex-advance",
@@ -5874,7 +6055,7 @@
    ],
    "specs": {
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "Peso: 365 - 375 g",
@@ -5882,7 +6063,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "26.5 cm",
+     "display": "26.5 cm (10.4 in)",
      "value": null,
      "mm": null,
      "cm": 26.5,
@@ -5913,7 +6094,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Perfil: 38 mm",
      "source": "https://www.bullpadel.com/es/5682-pala-bullpadel-xplo-26.html",
@@ -5971,7 +6152,7 @@
    ],
    "specs": {
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "Weight: 365 - 375 grs.",
@@ -5994,7 +6175,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Profile: 38",
      "source": "https://www.bullpadel.com/gb/6839-pala-bullpadel-xplo-27.html",
@@ -6052,7 +6233,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "peso de 365-375 gramos",
@@ -6084,7 +6265,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "perfil de 38 mm",
      "source": "https://www.padelnuestro.com/bullpadel-xplo-komfort-25-113778-p",
@@ -6684,7 +6865,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 370 g",
+     "display": "350 to 370 g (12.3 to 13.1 oz)",
      "min": 350,
      "max": 370,
      "verbatim": "Peso : 350 – 370 g",
@@ -6766,7 +6947,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 370 g",
+     "display": "350 to 370 g (12.3 to 13.1 oz)",
      "min": 350,
      "max": 370,
      "verbatim": "Peso : 350 – 370 g",
@@ -6847,7 +7028,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "365 g",
+     "display": "365 g (12.9 oz)",
      "min": 365,
      "max": 365,
      "verbatim": "Weight 365",
@@ -6930,7 +7111,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 g",
+     "display": "360 g (12.7 oz)",
      "min": 360,
      "max": 360,
      "verbatim": "Weight 360",
@@ -6961,7 +7142,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm Frame: Added stability for consistent performance.",
      "source": "https://dunlopsports.com/en-gb/padel/rackets/fx-start",
@@ -7011,7 +7192,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "370 g",
+     "display": "370 g (13.1 oz)",
      "min": 370,
      "max": 370,
      "verbatim": "Weight 370",
@@ -7170,7 +7351,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 g",
+     "display": "360 g (12.7 oz)",
      "min": 360,
      "max": 360,
      "verbatim": "Su peso de 360 g",
@@ -7317,7 +7498,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "375 g",
+     "display": "375 g (13.2 oz)",
      "min": 375,
      "max": 375,
      "verbatim": "un peso de 375 gramos",
@@ -7405,7 +7586,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "370 g",
+     "display": "370 g (13.1 oz)",
      "min": 370,
      "max": 370,
      "verbatim": "Weighing approximately 370 grams",
@@ -7487,7 +7668,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "350 g",
+     "display": "350 g (12.3 oz)",
      "min": 350,
      "max": 350,
      "verbatim": "With a lightweight of 350 grams and a low balance",
@@ -7577,7 +7758,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 g",
+     "display": "360 g (12.7 oz)",
      "min": 360,
      "max": 360,
      "verbatim": "Weight: 360 g / 12.7 oz",
@@ -7585,7 +7766,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "High, 270 mm, 27 cm",
+     "display": "High, 270 mm (10.6 in), 27 cm (10.6 in)",
      "value": "high",
      "mm": 270,
      "cm": 27,
@@ -7635,6 +7816,96 @@
    }
   },
   {
+   "slug": "head-extreme-motion-2026",
+   "name": "HEAD Extreme Motion 2026",
+   "brand": "Head",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/head-extreme-motion-2026",
+   "productUrl": "https://www.head.com/product/extreme-motion-2026-223136",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 80,
+    "control": 10,
+    "handling": 34,
+    "forgiveness": 24,
+    "comfort": 33,
+    "value": null
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Diamond",
+     "source": "https://www.head.com/product/extreme-motion-2026-223136",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 g (12.7 oz)",
+     "min": 360,
+     "max": 360,
+     "verbatim": "360 g / 12.7 oz",
+     "source": "https://www.head.com/product/extreme-motion-2026-223136",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High, 270 mm (10.6 in)",
+     "value": "high",
+     "mm": 270,
+     "cm": null,
+     "verbatim": "High balance",
+     "source": "https://www.head.com/product/extreme-motion-2026-223136",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Power FOAM",
+     "value": null,
+     "material": "Power FOAM",
+     "verbatim": "Power FOAM",
+     "source": "https://www.head.com/product/extreme-motion-2026-223136",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "UD Carbon",
+     "material": "UD Carbon",
+     "verbatim": "UD Carbon",
+     "source": "https://www.head.com/product/extreme-motion-2026-223136",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "carbon",
+     "material": "carbon",
+     "verbatim": "carbon frame construction",
+     "source": "https://www.head.com/product/extreme-motion-2026-223136",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "A rough 3D decal technology",
+     "source": "https://www.head.com/product/extreme-motion-2026-223136",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "$254.95",
+     "value": 254.95,
+     "currency": "USD",
+     "checkedOn": "2026-10-04",
+     "verbatim": "$254.95 (schema.org offer price 254.95 USD)",
+     "source": "https://www.head.com/en_US/product/extreme-motion-2026-223136",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "head-extreme-motion-pro-2026",
    "name": "Head Extreme Motion Pro 2026",
    "brand": "Head",
@@ -7666,7 +7937,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 g",
+     "display": "360 g (12.7 oz)",
      "min": 360,
      "max": 360,
      "verbatim": "its 360-gram weight",
@@ -7748,7 +8019,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "350 g",
+     "display": "350 g (12.3 oz)",
      "min": 350,
      "max": 350,
      "verbatim": "Weight 350 g: perfect balance between power and maneuverability.",
@@ -7756,7 +8027,7 @@
      "sourceType": "retailer"
     },
     "balance": {
-     "display": "High, 272 mm",
+     "display": "High, 272 mm (10.7 in)",
      "value": "high",
      "mm": 272,
      "cm": null,
@@ -7830,7 +8101,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "370 g",
+     "display": "370 g (13.1 oz)",
      "min": 370,
      "max": 370,
      "verbatim": "Weight Heavy-weight 370 g / 13.1 oz",
@@ -7838,7 +8109,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "High, 270 mm",
+     "display": "High, 270 mm (10.6 in)",
      "value": "high",
      "mm": 270,
      "verbatim": "Balance High balance 270.0",
@@ -7911,7 +8182,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "370 g",
+     "display": "370 g (13.1 oz)",
      "min": 370,
      "max": 370,
      "verbatim": "peso alto de 370 gramos",
@@ -7992,7 +8263,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "370 g",
+     "display": "370 g (13.1 oz)",
      "min": 370,
      "max": 370,
      "verbatim": "Weighing 370 grams with a high balance",
@@ -8074,7 +8345,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 g",
+     "display": "360 g (12.7 oz)",
      "min": 360,
      "max": 360,
      "verbatim": "an average weight of 360 grams",
@@ -8148,7 +8419,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 g",
+     "display": "365 g (12.9 oz)",
      "min": 365,
      "max": 365,
      "verbatim": "Its weight of 365 grams",
@@ -8238,7 +8509,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 g",
+     "display": "360 g (12.7 oz)",
      "min": 360,
      "max": 360,
      "verbatim": "Peso / Peso medio / 360 g / 12.7 oz",
@@ -8246,7 +8517,7 @@
      "sourceType": "manufacturer"
     },
     "balance": {
-     "display": "Medium, 265 mm, 26.5 cm",
+     "display": "Medium, 265 mm (10.4 in), 26.5 cm (10.4 in)",
      "value": "medium",
      "mm": 265,
      "cm": 26.5,
@@ -8328,7 +8599,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "370 g",
+     "display": "370 g (13.1 oz)",
      "min": 370,
      "max": 370,
      "verbatim": "a weight of 370 grams with low balance",
@@ -8409,7 +8680,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 g",
+     "display": "365 g (12.9 oz)",
      "min": 365,
      "max": 365,
      "verbatim": "Its weight close to 365 grams / Approximate weight 365 g",
@@ -8488,7 +8759,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "370 g",
+     "display": "370 g (13.1 oz)",
      "min": 370,
      "max": 370,
      "verbatim": "Teardrop shape, 370 grams weight, and hybrid hitting surface.",
@@ -8570,7 +8841,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 370 g",
+     "display": "360 to 370 g (12.7 to 13.1 oz)",
      "min": 360,
      "max": 370,
      "verbatim": "Peso: 360 - 370 gr",
@@ -8641,7 +8912,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 to 370 g",
+     "display": "360 to 370 g (12.7 to 13.1 oz)",
      "min": 360,
      "max": 370,
      "verbatim": "Weight: 365 g (+/- 5 g). / weight (in g) 361 to 375 g",
@@ -8679,7 +8950,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 mm.",
      "source": "https://www.decathlon.co.uk/p/padel-racket-hybrid-pro-coki-nieto/338036/c236m8993121",
@@ -8737,7 +9008,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "341 to 360 g",
+     "display": "341 to 360 g (12.0 to 12.7 oz)",
      "min": 341,
      "max": 360,
      "verbatim": "weight (in g) 341 to 360 g, 350 g / Weighs 350 g.",
@@ -8745,7 +9016,7 @@
      "sourceType": "retailer"
     },
     "balance": {
-     "display": "Low, 260 mm",
+     "display": "Low, 260 mm (10.2 in)",
      "value": "low",
      "mm": 260,
      "verbatim": "Balance: Low This is the racket balance point, measured in millimetres from the bottom of the racket handle. 260 mm for this model / balance head light",
@@ -8825,7 +9096,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 to 375 g",
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
      "min": 365,
      "max": 375,
      "verbatim": "Weight: 370 g (+/- 5 g). / weight (in g) 361 to 375 g, 370 g",
@@ -8855,7 +9126,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness: 38 mm.",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-hybrid-carbon/341828/m8979558",
@@ -8912,7 +9183,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "peso de 360-375 gramos",
@@ -9082,7 +9353,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -9112,7 +9383,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia-bsas",
@@ -9172,7 +9443,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "310 to 325 g",
+     "display": "310 to 325 g (10.9 to 11.5 oz)",
      "min": 310,
      "max": 325,
      "verbatim": "PESO:  310 - 325g",
@@ -9195,7 +9466,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO:  38 mm",
      "source": "https://noxsport.com/products/pala-at10-genius-ultralight-by-agustin-tapia-2026",
@@ -9245,7 +9516,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -9275,7 +9546,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-at10-genius-12k-alum-xtrem-2026-by-agustin-tapia",
@@ -9332,7 +9603,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -9362,7 +9633,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia",
@@ -9419,7 +9690,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -9449,7 +9720,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-2026-by-agustin-tapia",
@@ -9505,7 +9776,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -9544,7 +9815,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-at10-genius-attack-12k-alum-xtrem-2026-by-agustin-tapia",
@@ -9601,7 +9872,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -9639,7 +9910,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-at10-genius-attack-18k-alum-2026-by-agustin-tapia",
@@ -9696,7 +9967,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -9726,7 +9997,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-at10-pro-cup-hard-2026-by-agustin-tapia",
@@ -9785,7 +10056,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -9815,7 +10086,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-at10-pro-cup-soft-2026-by-agustin-tapia",
@@ -9871,7 +10142,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -9910,7 +10181,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso",
@@ -9930,6 +10201,93 @@
      "checkedOn": "2026-10-01",
      "verbatim": "179.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-ea10-ventus-hybrid-12k-xtreme-2026",
+   "name": "Nox EA10 Ventus Hybrid 12K XTREME 2026 by Edu Alonso",
+   "brand": "Nox",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/nox-ea10-ventus-hybrid-12k-xtreme-2026",
+   "productUrl": "https://noxsport.com/products/ea10-ventus-hybrid-12k-xtrem-by-edu-alonso",
+   "level": "Profesional",
+   "player": "Edu Alonso",
+   "ratings": {
+    "power": 51,
+    "control": 50,
+    "handling": 48,
+    "forgiveness": 35,
+    "comfort": 31,
+    "value": 16
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "FORMA: Gota / Lágrima",
+     "source": "https://noxsport.com/products/ea10-ventus-hybrid-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "PESO: 360 - 375g",
+     "source": "https://noxsport.com/products/ea10-ventus-hybrid-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, MLD Black Eva",
+     "value": "medium-hard",
+     "material": "MLD Black Eva",
+     "verbatim": "Intermedio-Duro",
+     "source": "https://noxsport.com/products/ea10-ventus-hybrid-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon Fiber 12K Xtrem",
+     "material": "Carbon Fiber 12K Xtrem",
+     "verbatim": "CARA: Carbon Fiber 12K Xtrem",
+     "source": "https://noxsport.com/products/ea10-ventus-hybrid-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "MARCO: Carbono",
+     "source": "https://noxsport.com/products/ea10-ventus-hybrid-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/ea10-ventus-hybrid-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Combinación de dos técnicas de superficie rugosa",
+     "source": "https://noxsport.com/products/ea10-ventus-hybrid-12k-xtrem-by-edu-alonso",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€179.99",
+     "value": 179.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-03",
+     "verbatim": "179.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/ea10-ventus-hybrid-12k-xtrem-by-edu-alonso",
      "sourceType": "manufacturer"
     }
    }
@@ -9965,7 +10323,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 to 365 g",
+     "display": "355 to 365 g (12.5 to 12.9 oz)",
      "min": 355,
      "max": 365,
      "verbatim": "PESO: 355 - 365g",
@@ -10003,7 +10361,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-equation-hard-advanced",
@@ -10058,7 +10416,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 to 365 g",
+     "display": "355 to 365 g (12.5 to 12.9 oz)",
      "min": 355,
      "max": 365,
      "verbatim": "PESO: 355 - 365g",
@@ -10097,7 +10455,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/equation-hard-advanced-2027",
@@ -10153,7 +10511,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 to 365 g",
+     "display": "355 to 365 g (12.5 to 12.9 oz)",
      "min": 355,
      "max": 365,
      "verbatim": "PESO: 355 - 365g",
@@ -10192,7 +10550,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/equation-soft-advanced-2027",
@@ -10249,7 +10607,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -10279,7 +10637,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/genius-12k-alum-xtrem-agustin-tapia-2027",
@@ -10337,7 +10695,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 360 g",
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
      "min": 350,
      "max": 360,
      "verbatim": "PESO: 350 - 360g",
@@ -10367,7 +10725,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/genius-12k-alum-xtrem-lite-agustin-tapia-2027",
@@ -10433,7 +10791,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -10463,7 +10821,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/genius-18k-alum-agustin-tapia-2027",
@@ -10519,7 +10877,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -10558,7 +10916,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/genius-attack-12k-alum-xtrem-agustin-tapia-2027",
@@ -10615,7 +10973,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -10654,7 +11012,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/genius-attack-18k-alum-agustin-tapia-2027",
@@ -10714,7 +11072,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -10744,7 +11102,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/ml10-pro-cup-coorp-miguel-lamperti-2027",
@@ -10804,7 +11162,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -10834,7 +11192,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/ml10-pro-cup-rough-miguel-lamperti-2027",
@@ -10893,7 +11251,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 365 g",
+     "display": "350 to 365 g (12.3 to 12.9 oz)",
      "min": 350,
      "max": 365,
      "verbatim": "PESO: 350 - 365g",
@@ -10923,7 +11281,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/ml10-pro-cup-silver-miguel-lamperti-2027",
@@ -10978,7 +11336,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375G",
@@ -11016,7 +11374,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-ml10-ventus-3k-by-miguel-lamperti",
@@ -11074,7 +11432,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -11104,7 +11462,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38mm",
      "source": "https://noxsport.com/products/pala-nextgen-pro-attack-12k-nfa-series",
@@ -11161,7 +11519,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -11191,7 +11549,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO : 38MM",
      "source": "https://noxsport.com/products/pala-nextgen-pro-hybrid-12k-nfa-series",
@@ -11242,7 +11600,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -11272,7 +11630,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pro-cup-hard-agustin-tapia-2027",
@@ -11331,7 +11689,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -11361,7 +11719,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pro-cup-soft-agustin-tapia-2027",
@@ -11417,7 +11775,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -11456,7 +11814,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/ventus-attack-12k-xtrem-aimar-goni-2027",
@@ -11513,7 +11871,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -11543,7 +11901,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/ventus-12k-aranzazu-osoro-2027",
@@ -11602,7 +11960,7 @@
    ],
    "specs": {
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -11632,7 +11990,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-ventus-control-3k-miguel-lamperti-2027",
@@ -11684,7 +12042,7 @@
    ],
    "specs": {
     "weight": {
-     "display": "355 to 365 g",
+     "display": "355 to 365 g (12.5 to 12.9 oz)",
      "min": 355,
      "max": 365,
      "verbatim": "PESO: 355 - 365g",
@@ -11723,7 +12081,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-ventus-12k-hybrid-lite",
@@ -11778,7 +12136,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 360 g",
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
      "min": 350,
      "max": 360,
      "verbatim": "PESO: 350 - 360g",
@@ -11817,7 +12175,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/ventus-12k-hybrid-lite-2027",
@@ -11874,7 +12232,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -11904,7 +12262,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/ventus-hybrid-12k-xtrem-edu-alonso-2027",
@@ -11961,7 +12319,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 375 g",
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
      "min": 360,
      "max": 375,
      "verbatim": "PESO: 360 - 375g",
@@ -11991,7 +12349,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-vk10-ventus-12k-by-aranzazu-osoro",
@@ -12050,7 +12408,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 360 g",
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
      "min": 350,
      "max": 360,
      "verbatim": "PESO: 350 - 360g",
@@ -12080,7 +12438,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-x-hero-blue",
@@ -12133,7 +12491,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 360 g",
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
      "min": 350,
      "max": 360,
      "verbatim": "PESO: 350 - 360g",
@@ -12163,7 +12521,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-x-hero-red",
@@ -12222,7 +12580,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 360 g",
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
      "min": 350,
      "max": 360,
      "verbatim": "PESO: 350 - 360g",
@@ -12252,7 +12610,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-x-hero-white",
@@ -12304,7 +12662,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 370 g",
+     "display": "360 to 370 g (12.7 to 13.1 oz)",
      "min": 360,
      "max": 370,
      "verbatim": "PESO : 360 - 370g",
@@ -12334,7 +12692,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO : 38 mm",
      "source": "https://noxsport.com/products/pala-x-one",
@@ -12416,7 +12774,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-x-one-silhouette",
@@ -12551,7 +12909,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 360 g",
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
      "min": 350,
      "max": 360,
      "verbatim": "PESO: 350 - 360g",
@@ -12581,7 +12939,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-x-zero-blue",
@@ -12633,7 +12991,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 360 g",
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
      "min": 350,
      "max": 360,
      "verbatim": "PESO: 350 - 360g",
@@ -12663,7 +13021,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "ANCHO: 38 mm",
      "source": "https://noxsport.com/products/pala-x-zero-red",
@@ -12713,7 +13071,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "365 g",
+     "display": "365 g (12.9 oz)",
      "min": 365,
      "max": 365,
      "verbatim": "Weight: 365g",
@@ -12787,7 +13145,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "370 g",
+     "display": "370 g (13.1 oz)",
      "min": 370,
      "max": 370,
      "verbatim": "Weight: 370g",
@@ -12866,7 +13224,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "345 g",
+     "display": "345 g (12.2 oz)",
      "min": 345,
      "max": 345,
      "verbatim": "Weight: 345g",
@@ -12951,7 +13309,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "365 g",
+     "display": "365 g (12.9 oz)",
      "min": 365,
      "max": 365,
      "verbatim": "Weight: 365g",
@@ -13033,7 +13391,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 g",
+     "display": "350 g (12.3 oz)",
      "min": 350,
      "max": 350,
      "verbatim": "Weight: 350g",
@@ -13107,7 +13465,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "370 g",
+     "display": "370 g (13.1 oz)",
      "min": 370,
      "max": 370,
      "verbatim": "Weight: 370g",
@@ -13187,7 +13545,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 g",
+     "display": "355 g (12.5 oz)",
      "min": 355,
      "max": 355,
      "verbatim": "Weight: 355g",
@@ -13269,7 +13627,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 g",
+     "display": "350 g (12.3 oz)",
      "min": 350,
      "max": 350,
      "verbatim": "Weight: around 350 g",
@@ -13301,7 +13659,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38 mm dual tubular",
      "source": "https://padelsmith.co.uk/products/padel-racket-padelsmith",
@@ -13359,7 +13717,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 365 g",
+     "display": "350 to 365 g (12.3 to 12.9 oz)",
      "min": 350,
      "max": 365,
      "verbatim": "entre 350 y 365 gramos",
@@ -13398,7 +13756,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38MM",
      "source": "https://royalpadel.com/product/royal-padel-36-aniversario-light/",
@@ -13456,7 +13814,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 380 g",
+     "display": "360 to 380 g (12.7 to 13.4 oz)",
      "min": 360,
      "max": 380,
      "verbatim": "entre 360 y 380 gramos",
@@ -13488,7 +13846,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38MM",
      "source": "https://royalpadel.com/product/royal-padel-36-aniversario-poly/",
@@ -13539,7 +13897,7 @@
    ],
    "specs": {
     "weight": {
-     "display": "365 to 380 g",
+     "display": "365 to 380 g (12.9 to 13.4 oz)",
      "min": 365,
      "max": 380,
      "verbatim": "entre 365 y 380 gramos",
@@ -13578,7 +13936,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38MM",
      "source": "https://royalpadel.com/product/royal-padel-fury-2026/",
@@ -13787,7 +14145,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 365 g",
+     "display": "350 to 365 g (12.3 to 12.9 oz)",
      "min": 350,
      "max": 365,
      "verbatim": "rango de pesos entre 350 y 365 gramos",
@@ -13812,7 +14170,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38MM",
      "source": "https://royalpadel.com/product/royal-padel-m27-light-2026/",
@@ -13861,7 +14219,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 380 g",
+     "display": "360 to 380 g (12.7 to 13.4 oz)",
      "min": 360,
      "max": 380,
      "verbatim": "rango de pesos entre 360 y 380 gramos",
@@ -13893,7 +14251,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38MM",
      "source": "https://royalpadel.com/product/royal-padel-m27-poly-2026/",
@@ -13944,7 +14302,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "365 to 380 g",
+     "display": "365 to 380 g (12.9 to 13.4 oz)",
      "min": 365,
      "max": 380,
      "verbatim": "entre 365 y 380 gramos",
@@ -14117,7 +14475,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 365 g",
+     "display": "350 to 365 g (12.3 to 12.9 oz)",
      "min": 350,
      "max": 365,
      "verbatim": "entre 350 y 365 gramos",
@@ -14200,7 +14558,7 @@
    ],
    "specs": {
     "weight": {
-     "display": "360 to 380 g",
+     "display": "360 to 380 g (12.7 to 13.4 oz)",
      "min": 360,
      "max": 380,
      "verbatim": "entre 360 y 380 gramos",
@@ -14276,7 +14634,7 @@
    ],
    "specs": {
     "weight": {
-     "display": "360 to 380 g",
+     "display": "360 to 380 g (12.7 to 13.4 oz)",
      "min": 360,
      "max": 380,
      "verbatim": "rango de pesos comprendido entre 360 y 380 gramos",
@@ -14315,7 +14673,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38MM",
      "source": "https://royalpadel.com/product/rp-whip-extreme-2026/",
@@ -14406,7 +14764,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38MM",
      "source": "https://royalpadel.com/product/royal-padel-whip-light-2026/",
@@ -14463,7 +14821,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 380 g",
+     "display": "360 to 380 g (12.7 to 13.4 oz)",
      "min": 360,
      "max": 380,
      "verbatim": "entre 360 y 380 gramos",
@@ -14502,7 +14860,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38MM",
      "source": "https://royalpadel.com/product/royal-padel-whip-polietileno-2026/",
@@ -14560,7 +14918,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "351 to 375 g",
+     "display": "351 to 375 g (12.4 to 13.2 oz)",
      "min": 351,
      "max": 375,
      "verbatim": "351-355gr",
@@ -14590,7 +14948,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38 mm",
      "source": "https://shooterpadel.com/gb/palas-de-padel/154-racket-stealth-shooter-padel.html",
@@ -14859,7 +15217,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "355 to 375 g",
+     "display": "355 to 375 g (12.5 to 13.2 oz)",
      "min": 355,
      "max": 375,
      "verbatim": "Its weight of 355-375 grams ensures perfect maneuverability",
@@ -14942,7 +15300,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 to 375 g",
+     "display": "355 to 375 g (12.5 to 13.2 oz)",
      "min": 355,
      "max": 375,
      "verbatim": "Weight between 355 and 375 g: optimal stability and maneuverability.",
@@ -15016,7 +15374,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 to 375 g",
+     "display": "355 to 375 g (12.5 to 13.2 oz)",
      "min": 355,
      "max": 375,
      "verbatim": "Peso de 355-375 gramos que favorece el manejo",
@@ -15180,7 +15538,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 to 375 g",
+     "display": "355 to 375 g (12.5 to 13.2 oz)",
      "min": 355,
      "max": 375,
      "verbatim": "Peso 355-375 g",
@@ -15352,7 +15710,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 to 375 g",
+     "display": "355 to 375 g (12.5 to 13.2 oz)",
      "min": 355,
      "max": 375,
      "verbatim": "Peso 355-375 g",
@@ -15492,7 +15850,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 to 375 g",
+     "display": "355 to 375 g (12.5 to 13.2 oz)",
      "min": 355,
      "max": 375,
      "verbatim": "Peso: 355 - 375 g que asegura buena manejabilidad y reduce las molestias",
@@ -15980,7 +16338,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 to 375 g",
+     "display": "355 to 375 g (12.5 to 13.2 oz)",
      "min": 355,
      "max": 375,
      "verbatim": "Peso entre 355 y 375 g: estabilidad y agilidad en cada golpe.",
@@ -16183,7 +16541,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 to 375 g",
+     "display": "355 to 375 g (12.5 to 13.2 oz)",
      "min": 355,
      "max": 375,
      "verbatim": "Con un peso que oscila entre 355 y 375 gramos",
@@ -16334,7 +16692,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 366 g",
+     "display": "350 to 366 g (12.3 to 12.9 oz)",
      "min": 350,
      "max": 366,
      "verbatim": "358 (+/- 8 g)",
@@ -16366,7 +16724,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm",
      "source": "https://www.starvie.com/products/arkos",
@@ -16416,7 +16774,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "352 to 368 g",
+     "display": "352 to 368 g (12.4 to 13.0 oz)",
      "min": 352,
      "max": 368,
      "verbatim": "360 (+/- 8 g)",
@@ -16448,7 +16806,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm",
      "source": "https://www.starvie.com/products/astrum",
@@ -16505,7 +16863,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 370 g",
+     "display": "350 to 370 g (12.3 to 13.1 oz)",
      "min": 350,
      "max": 370,
      "verbatim": "350-370 gr",
@@ -16537,7 +16895,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm",
      "source": "https://www.starvie.com/products/pala-astrum-black",
@@ -16594,7 +16952,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 376 g",
+     "display": "360 to 376 g (12.7 to 13.3 oz)",
      "min": 360,
      "max": 376,
      "verbatim": "368 (+/- 8 g)",
@@ -16626,7 +16984,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm",
      "source": "https://www.starvie.com/products/black-titan",
@@ -16682,7 +17040,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 370 g",
+     "display": "350 to 370 g (12.3 to 13.1 oz)",
      "min": 350,
      "max": 370,
      "verbatim": "350-370 gr",
@@ -16714,7 +17072,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm",
      "source": "https://www.starvie.com/products/pala-black-titan-blue",
@@ -16769,7 +17127,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 370 g",
+     "display": "350 to 370 g (12.3 to 13.1 oz)",
      "min": 350,
      "max": 370,
      "verbatim": "350-370 g",
@@ -16801,7 +17159,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm",
      "source": "https://www.starvie.com/products/drax",
@@ -16858,7 +17216,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 370 g",
+     "display": "350 to 370 g (12.3 to 13.1 oz)",
      "min": 350,
      "max": 370,
      "verbatim": "350-370 gr",
@@ -16890,7 +17248,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm",
      "source": "https://www.starvie.com/products/pala-eternal-sanyo-gutierrez",
@@ -16941,7 +17299,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "340 to 360 g",
+     "display": "340 to 360 g (12.0 to 12.7 oz)",
      "min": 340,
      "max": 360,
      "verbatim": "Weight 340-360 g",
@@ -16972,7 +17330,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness 38mm",
      "source": "https://starvie.com/en/products/padel-racket-kyra",
@@ -17022,7 +17380,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 370 g",
+     "display": "350 to 370 g (12.3 to 13.1 oz)",
      "min": 350,
      "max": 370,
      "verbatim": "350-370 g",
@@ -17054,7 +17412,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm",
      "source": "https://www.starvie.com/products/pala-metheora",
@@ -17112,7 +17470,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "340 to 355 g",
+     "display": "340 to 355 g (12.0 to 12.5 oz)",
      "min": 340,
      "max": 355,
      "verbatim": "340-355 g",
@@ -17144,7 +17502,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm",
      "source": "https://www.starvie.com/products/nyra",
@@ -17195,7 +17553,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "347 to 365 g",
+     "display": "347 to 365 g (12.2 to 12.9 oz)",
      "min": 347,
      "max": 365,
      "verbatim": "347-365 gr",
@@ -17227,7 +17585,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm",
      "source": "https://www.starvie.com/products/pala-phantom",
@@ -17284,7 +17642,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 to 376 g",
+     "display": "360 to 376 g (12.7 to 13.3 oz)",
      "min": 360,
      "max": 376,
      "verbatim": "368 (+/- 8 g)",
@@ -17316,7 +17674,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm",
      "source": "https://www.starvie.com/products/raptor",
@@ -17371,7 +17729,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 370 g",
+     "display": "350 to 370 g (12.3 to 13.1 oz)",
      "min": 350,
      "max": 370,
      "verbatim": "Weight 350-370 gr",
@@ -17402,7 +17760,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness 38mm",
      "source": "https://starvie.com/en/products/padel-racket-raptor-plus-red",
@@ -17460,7 +17818,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 370 g",
+     "display": "350 to 370 g (12.3 to 13.1 oz)",
      "min": 350,
      "max": 370,
      "verbatim": "350-370 gr",
@@ -17492,7 +17850,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm",
      "source": "https://www.starvie.com/products/pala-shade",
@@ -17543,7 +17901,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 366 g",
+     "display": "350 to 366 g (12.3 to 12.9 oz)",
      "min": 350,
      "max": 366,
      "verbatim": "358 (+/- 8 g)",
@@ -17566,7 +17924,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm",
      "source": "https://www.starvie.com/products/triton-balance",
@@ -17622,7 +17980,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 366 g",
+     "display": "350 to 366 g (12.3 to 12.9 oz)",
      "min": 350,
      "max": 366,
      "verbatim": "Weight 358 (+/- 8 g)",
@@ -17653,7 +18011,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Thickness 38mm",
      "source": "https://starvie.com/en/products/triton-power",
@@ -17711,7 +18069,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "347 to 366 g",
+     "display": "347 to 366 g (12.2 to 12.9 oz)",
      "min": 347,
      "max": 366,
      "verbatim": "rango de peso ligero de entre 347-366 g",
@@ -17743,7 +18101,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "38mm",
      "source": "https://www.starvie.com/products/pala-triton-t-one-by-tamara-icardo",
@@ -17791,7 +18149,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "360 g",
+     "display": "360 g (12.7 oz)",
      "min": 360,
      "max": 360,
      "verbatim": "Weight 360g / 12.7oz / Weighing 360g with a neutral balance",
@@ -17823,7 +18181,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Cross section 38 mm",
      "source": "https://www.tecnifibre.com/en/products/curva-power-2026",
@@ -17881,7 +18239,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "355 g",
+     "display": "355 g (12.5 oz)",
      "min": 355,
      "max": 355,
      "verbatim": "Weight 355g / 12,5oz / Weighing 355g, it is the lightest in the range.",
@@ -17913,7 +18271,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "Cross section 38 mm",
      "source": "https://www.tecnifibre.com/en/products/curva-speed-2026",
@@ -17969,7 +18327,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "355 to 375 g",
+     "display": "355 to 375 g (12.5 to 13.2 oz)",
      "min": 355,
      "max": 375,
      "verbatim": "peso de entre 355 y 375 gramos",
@@ -18060,7 +18418,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "355 to 375 g",
+     "display": "355 to 375 g (12.5 to 13.2 oz)",
      "min": 355,
      "max": 375,
      "verbatim": "oscila entre los 355 y los 375 gramos",
@@ -18142,7 +18500,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 360 g",
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
      "min": 350,
      "max": 360,
      "verbatim": "Peso Desde 350 a 360 gr.",
@@ -18217,7 +18575,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "340 to 355 g",
+     "display": "340 to 355 g (12.0 to 12.5 oz)",
      "min": 340,
      "max": 355,
      "verbatim": "Peso De 340 a 355 gr.",
@@ -18255,7 +18613,7 @@
      "sourceType": "manufacturer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "un núcleo de EVA de 38mm de baja dureza",
      "source": "https://www.varlion.com/es/padel/palas/itsv/lw-88.html",
@@ -18324,7 +18682,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "340 to 355 g",
+     "display": "340 to 355 g (12.0 to 12.5 oz)",
      "min": 340,
      "max": 355,
      "verbatim": "Peso De 340 a 355 gr.",
@@ -18415,7 +18773,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 360 g",
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
      "min": 350,
      "max": 360,
      "verbatim": "Peso Desde 350 a 360 gr.",
@@ -18485,7 +18843,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "340 to 350 g",
+     "display": "340 to 350 g (12.0 to 12.3 oz)",
      "min": 340,
      "max": 350,
      "verbatim": "Peso Desde 340 a 350 gr.",
@@ -18574,7 +18932,7 @@
      "sourceType": "manufacturer"
     },
     "weight": {
-     "display": "350 to 360 g",
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
      "min": 350,
      "max": 360,
      "verbatim": "Peso Desde 350 a 360 gr.",
@@ -18653,7 +19011,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "355 g",
+     "display": "355 g (12.5 oz)",
      "min": 355,
      "max": 355,
      "verbatim": "Cuenta con un peso de 355 gramos y un balance equilibrado",
@@ -18741,7 +19099,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "370 g",
+     "display": "370 g (13.1 oz)",
      "min": 370,
      "max": 370,
      "verbatim": "its weight is around 370 grams",
@@ -18780,7 +19138,7 @@
      "sourceType": "retailer"
     },
     "thicknessMm": {
-     "display": "38 mm",
+     "display": "38 mm (1.5 in)",
      "value": 38,
      "verbatim": "The profile of the padel racket is 38 mm",
      "source": "https://www.padelnuestro.com/int/wilson-bela-pro-padel-v2-5-111818-p",
@@ -18839,7 +19197,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "370 g",
+     "display": "370 g (13.1 oz)",
      "min": 370,
      "max": 370,
      "verbatim": "Its teardrop shape, high balance, and 370-gram weight offer excellent acceleration on every shot",
@@ -18899,7 +19257,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 g",
+     "display": "365 g (12.9 oz)",
      "min": 365,
      "max": 365,
      "verbatim": "Peso: ± 365 g",
@@ -18978,7 +19336,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "365 g",
+     "display": "365 g (12.9 oz)",
      "min": 365,
      "max": 365,
      "verbatim": "Su peso de 365 gramos permite una fácil y cómoda maniobrabilidad.",
@@ -19061,7 +19419,7 @@
      "sourceType": "retailer"
     },
     "weight": {
-     "display": "355 g",
+     "display": "355 g (12.5 oz)",
      "min": 355,
      "max": 355,
      "verbatim": "Weighing approximately 355 grams",

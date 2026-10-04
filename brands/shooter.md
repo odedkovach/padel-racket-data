@@ -4,6 +4,6 @@
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
-| [Shooter Stealth](https://padeltrue.com/rackets/shooter-stealth) |  | Diamond | 351 to 375 g |  | Medium, Goma híbrida | €260 | 67 | 26 | 40 | [product page](https://shooterpadel.com/gb/palas-de-padel/154-racket-stealth-shooter-padel.html) |
+| [Shooter Stealth](https://padeltrue.com/rackets/shooter-stealth) |  | Diamond | 351 to 375 g (12.4 to 13.2 oz) |  | Medium, Goma híbrida | €260 | 67 | 26 | 40 | [product page](https://shooterpadel.com/gb/palas-de-padel/154-racket-stealth-shooter-padel.html) |
 
 Full records with the quoted wording of every specification are in [rackets.json](../rackets.json). Compare any two of these at [padeltrue.com/compare](https://padeltrue.com/compare/).

@@ -1,14 +1,14 @@
 # Padel racket data
 
-Published specifications of 227 padel rackets from 21 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
+Published specifications of 231 padel rackets from 21 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
 
-Export date: 2026-10-03. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
+Export date: 2026-10-04. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
 
 ## What is in it
 
 | File | What it holds |
 |---|---|
-| [rackets.json](rackets.json) | The full record of every racket: 1660 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
+| [rackets.json](rackets.json) | The full record of every racket: 1692 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
 | [rackets.csv](rackets.csv) | One row per racket, for a spreadsheet |
 | [brands/](brands/) | One readable table per brand |
 | [DATA_DICTIONARY.md](DATA_DICTIONARY.md) | Field definitions, units, missing values, CSV mapping and rating limitations |
@@ -21,14 +21,14 @@ Export date: 2026-10-03. An automated job publishes data changes. This date does
 | [Adidas](brands/adidas.md) | 21 |
 | [Babolat](brands/babolat.md) | 16 |
 | [Black Crown](brands/black-crown.md) | 1 |
-| [Bullpadel](brands/bullpadel.md) | 32 |
+| [Bullpadel](brands/bullpadel.md) | 34 |
 | [Cork Padel](brands/cork-padel.md) | 8 |
 | [Drop Shot](brands/drop-shot.md) | 2 |
 | [Dunlop](brands/dunlop.md) | 4 |
-| [Head](brands/head.md) | 17 |
+| [Head](brands/head.md) | 18 |
 | [Joma](brands/joma.md) | 1 |
 | [Kuikma](brands/kuikma.md) | 3 |
-| [Nox](brands/nox.md) | 43 |
+| [Nox](brands/nox.md) | 44 |
 | [Oxdog](brands/oxdog.md) | 7 |
 | [Padelsmith](brands/padelsmith.md) | 1 |
 | [Royal Padel](brands/royal-padel.md) | 14 |
@@ -49,7 +49,7 @@ Export date: 2026-10-03. An automated job publishes data changes. This date does
   "year": 2026,
   "specs": {
     "weight": {
-      "display": "360 to 375 g",
+      "display": "360 to 375 g (12.7 to 13.2 oz)",
       "min": 360,
       "max": 375,
       "verbatim": "Weight: 360-375 Gr",

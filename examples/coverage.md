@@ -1,6 +1,6 @@
 # Specification coverage in this PadelTrue snapshot
 
-Export date: 2026-10-03. Model version: 1.0. Records: 227.
+Export date: 2026-10-04. Model version: 1.0. Records: 231.
 
 This measures the records collected by PadelTrue, not the whole market or the quality of a brand. A missing field here does not establish that a manufacturer never published it. Small and unequal brand samples are not a brand ranking.
 
@@ -11,14 +11,14 @@ Each cell shows records with the field / records for that brand. Numerical balan
 | Adidas | 21 | 20/21 | 0/21 | 20/21 | 17/21 |
 | Babolat | 16 | 16/16 | 7/16 | 15/16 | 5/16 |
 | Black Crown | 1 | 0/1 | 0/1 | 1/1 | 0/1 |
-| Bullpadel | 32 | 28/32 | 11/32 | 30/32 | 13/32 |
+| Bullpadel | 34 | 30/34 | 13/34 | 32/34 | 13/34 |
 | Cork Padel | 8 | 0/8 | 0/8 | 0/8 | 0/8 |
 | Drop Shot | 2 | 2/2 | 0/2 | 2/2 | 0/2 |
 | Dunlop | 4 | 3/4 | 0/4 | 3/4 | 0/4 |
-| Head | 17 | 16/17 | 4/17 | 16/17 | 11/17 |
+| Head | 18 | 17/18 | 5/18 | 17/18 | 11/18 |
 | Joma | 1 | 1/1 | 0/1 | 1/1 | 0/1 |
 | Kuikma | 3 | 3/3 | 1/3 | 3/3 | 2/3 |
-| Nox | 43 | 40/43 | 0/43 | 43/43 | 11/43 |
+| Nox | 44 | 41/44 | 0/44 | 44/44 | 11/44 |
 | Oxdog | 7 | 7/7 | 0/7 | 7/7 | 4/7 |
 | Padelsmith | 1 | 1/1 | 0/1 | 1/1 | 1/1 |
 | Royal Padel | 14 | 10/14 | 0/14 | 12/14 | 3/14 |
