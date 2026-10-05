@@ -5,7 +5,7 @@
  "built": "2026-10-05",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 235,
+ "count": 236,
  "rackets": [
   {
    "slug": "adidas-arrow-hit-2026",
@@ -16926,6 +16926,88 @@
      "checkedOn": "2026-10-02",
      "verbatim": "109.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/siux-trilogy-pro-5",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "siux-valkiria-pro-2026",
+   "name": "Siux Valkiria Pro 2026",
+   "brand": "Siux",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/siux-valkiria-pro-2026",
+   "productUrl": "https://www.tennis-warehouse.com/Siux_Valkiria_Pro_2026_Padel_Racket/descpage-SXVAP6.html",
+   "level": "Intermediate / Advanced",
+   "player": null,
+   "ratings": {
+    "power": 45,
+    "control": 50,
+    "handling": 62,
+    "forgiveness": 42,
+    "comfort": 44,
+    "value": null
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Head Shape : Teardrop",
+     "source": "https://www.tennis-warehouse.com/Siux_Valkiria_Pro_2026_Padel_Racket/descpage-SXVAP6.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "340 to 360 g (12.0 to 12.7 oz)",
+     "min": 340,
+     "max": 360,
+     "verbatim": "Weight : 340 - 360 Grams",
+     "source": "https://www.tennis-warehouse.com/Siux_Valkiria_Pro_2026_Padel_Racket/descpage-SXVAP6.html",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance : Medium",
+     "source": "https://www.tennis-warehouse.com/Siux_Valkiria_Pro_2026_Padel_Racket/descpage-SXVAP6.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "EVA",
+     "value": null,
+     "material": "EVA",
+     "verbatim": "Core : EVA",
+     "source": "https://www.tennis-warehouse.com/Siux_Valkiria_Pro_2026_Padel_Racket/descpage-SXVAP6.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "24K Carbon",
+     "material": "24K Carbon",
+     "verbatim": "Surface : 24K Carbon",
+     "source": "https://www.tennis-warehouse.com/Siux_Valkiria_Pro_2026_Padel_Racket/descpage-SXVAP6.html",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Textured 3D surface on the racket face",
+     "source": "https://www.tennis-warehouse.com/Siux_Valkiria_Pro_2026_Padel_Racket/descpage-SXVAP6.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "$350",
+     "value": 350,
+     "currency": "USD",
+     "checkedOn": "2026-10-05",
+     "verbatim": "data-gtm_detail_price=\"350.00\"",
+     "source": "https://www.tennis-warehouse.com/Siux_Valkiria_Pro_2026_Padel_Racket/descpage-SXVAP6.html",
      "sourceType": "retailer"
     }
    }
