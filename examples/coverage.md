@@ -1,6 +1,6 @@
 # Specification coverage in this PadelTrue snapshot
 
-Export date: 2026-10-04. Model version: 1.0. Records: 231.
+Export date: 2026-10-05. Model version: 1.0. Records: 235.
 
 This measures the records collected by PadelTrue, not the whole market or the quality of a brand. A missing field here does not establish that a manufacturer never published it. Small and unequal brand samples are not a brand ranking.
 
@@ -19,11 +19,11 @@ Each cell shows records with the field / records for that brand. Numerical balan
 | Joma | 1 | 1/1 | 0/1 | 1/1 | 0/1 |
 | Kuikma | 3 | 3/3 | 1/3 | 3/3 | 2/3 |
 | Nox | 44 | 41/44 | 0/44 | 44/44 | 11/44 |
-| Oxdog | 7 | 7/7 | 0/7 | 7/7 | 4/7 |
+| Oxdog | 10 | 10/10 | 0/10 | 7/10 | 4/10 |
 | Padelsmith | 1 | 1/1 | 0/1 | 1/1 | 1/1 |
 | Royal Padel | 14 | 10/14 | 0/14 | 12/14 | 3/14 |
 | Shooter | 1 | 1/1 | 0/1 | 1/1 | 0/1 |
-| Siux | 23 | 8/23 | 0/23 | 23/23 | 5/23 |
+| Siux | 24 | 8/24 | 0/24 | 24/24 | 5/24 |
 | StarVie | 17 | 17/17 | 0/17 | 17/17 | 8/17 |
 | Tecnifibre | 2 | 2/2 | 0/2 | 2/2 | 1/2 |
 | Vairo | 2 | 2/2 | 0/2 | 2/2 | 1/2 |

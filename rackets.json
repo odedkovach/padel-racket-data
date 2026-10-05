@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-04",
+ "built": "2026-10-05",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 231,
+ "count": 235,
  "rackets": [
   {
    "slug": "adidas-arrow-hit-2026",
@@ -13194,6 +13194,67 @@
    }
   },
   {
+   "slug": "oxdog-hyper-tour-x-2-0-2026",
+   "name": "Oxdog Hyper Tour X 2.0 2026",
+   "brand": "Oxdog",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/oxdog-hyper-tour-x-2-0-2026",
+   "productUrl": "https://www.oxdogpadel.com/products/hyper-tour-x-2-0-2026",
+   "level": "Casual-Intermediate-Advanced",
+   "player": null,
+   "ratings": {
+    "power": 48,
+    "control": 50,
+    "handling": 54,
+    "forgiveness": 50,
+    "comfort": 51,
+    "value": 12
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "face"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Shape: Teardrop",
+     "source": "https://www.oxdogpadel.com/products/hyper-tour-x-2-0-2026",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 g (12.7 oz)",
+     "min": 360,
+     "max": 360,
+     "verbatim": "Weight: 360",
+     "source": "https://www.oxdogpadel.com/products/hyper-tour-x-2-0-2026",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance: Mid",
+     "source": "https://www.oxdogpadel.com/products/hyper-tour-x-2-0-2026",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€249",
+     "value": 249,
+     "currency": "EUR",
+     "checkedOn": "2026-10-05",
+     "verbatim": "249 EUR (schema.org offer)",
+     "source": "https://www.oxdogpadel.com/products/hyper-tour-x-2-0-2026",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "oxdog-hyper-woman-air-2-0",
    "name": "Oxdog Hyper Woman Air 2.0",
    "brand": "Oxdog",
@@ -13354,6 +13415,149 @@
      "verbatim": "149.00 EUR (Shopify listing price, \"PURE COURT 2026\")",
      "source": "https://oxdogpadel.com/products/pure-court-2026",
      "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "oxdog-pure-pro-plus-2026",
+   "name": "Oxdog Pure Pro+ 2026",
+   "brand": "Oxdog",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/oxdog-pure-pro-plus-2026",
+   "productUrl": "https://www.oxdogpadel.com/products/pure-pro-2026",
+   "level": "Intermedio-Avanzado",
+   "player": null,
+   "ratings": {
+    "power": 46,
+    "control": 57,
+    "handling": 46,
+    "forgiveness": 41,
+    "comfort": 33,
+    "value": 10
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Shape: Hybrid",
+     "source": "https://www.oxdogpadel.com/products/pure-pro-2026",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "370 g (13.1 oz)",
+     "min": 370,
+     "max": 370,
+     "verbatim": "Weight: 370",
+     "source": "https://www.oxdogpadel.com/products/pure-pro-2026",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Hard",
+     "value": "hard",
+     "material": null,
+     "verbatim": "Foam: Hard",
+     "source": "https://www.oxdogpadel.com/products/pure-pro-2026",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Featuring a sandy surface",
+     "source": "https://www.oxdogpadel.com/products/pure-pro-2026",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€299",
+     "value": 299,
+     "currency": "EUR",
+     "checkedOn": "2026-10-05",
+     "verbatim": "299 EUR (schema.org offer)",
+     "source": "https://www.oxdogpadel.com/products/pure-pro-2026",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "oxdog-ultimate-nxt-gen-2026",
+   "name": "Oxdog Ultimate NXT-GEN 2026",
+   "brand": "Oxdog",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/oxdog-ultimate-nxt-gen-2026",
+   "productUrl": "https://www.oxdogpadel.com/products/ultimate-nxt-gen-2026",
+   "level": "Casual-Indermediate",
+   "player": null,
+   "ratings": {
+    "power": 62,
+    "control": 26,
+    "handling": 66,
+    "forgiveness": 46,
+    "comfort": 71,
+    "value": 21
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
+   "profile": [
+    "all-round",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Shape: Diamond",
+     "source": "https://www.oxdogpadel.com/products/ultimate-nxt-gen-2026",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "345 g (12.2 oz)",
+     "min": 345,
+     "max": 345,
+     "verbatim": "Weight: 345",
+     "source": "https://www.oxdogpadel.com/products/ultimate-nxt-gen-2026",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance: Medium",
+     "source": "https://www.oxdogpadel.com/products/ultimate-nxt-gen-2026",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft",
+     "value": "soft",
+     "material": null,
+     "verbatim": "soft touch",
+     "source": "https://www.oxdogpadel.com/products/ultimate-nxt-gen-2026",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "35 mm (1.4 in)",
+     "value": 35,
+     "verbatim": "35mm diamond-shaped racket",
+     "source": "https://www.oxdogpadel.com/products/ultimate-nxt-gen-2026",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€179",
+     "value": 179,
+     "currency": "EUR",
+     "checkedOn": "2026-10-05",
+     "verbatim": "179 EUR (schema.org offer)",
+     "source": "https://www.oxdogpadel.com/products/ultimate-nxt-gen-2026",
+     "sourceType": "manufacturer"
     }
    }
   },
@@ -15264,6 +15468,74 @@
      "verbatim": "€169.95 Regular Price €269.95",
      "source": "https://www.padelnuestro.com/int/siux-diablo-elite-6",
      "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "siux-diablo-pro-2026-night-blue",
+   "name": "Siux Diablo Pro 2026 Night Blue",
+   "brand": "Siux",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/siux-diablo-pro-2026-night-blue",
+   "productUrl": "https://siuxpadel.com/products/siux-diablo-pro-2026-night-blue",
+   "level": "Avanzado / profesional",
+   "player": null,
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 42,
+    "comfort": 40,
+    "value": 8
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de pala Lágrima",
+     "source": "https://siuxpadel.com/products/siux-diablo-pro-2026-night-blue",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Medio",
+     "source": "https://siuxpadel.com/products/siux-diablo-pro-2026-night-blue",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Soft",
+     "value": null,
+     "material": "EVA Soft",
+     "verbatim": "Núcleo EVA Soft",
+     "source": "https://siuxpadel.com/products/siux-diablo-pro-2026-night-blue",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "CARBON 24K TEXTREME",
+     "material": "CARBON 24K TEXTREME",
+     "verbatim": "Superficie de pala CARBON 24K TEXTREME",
+     "source": "https://siuxpadel.com/products/siux-diablo-pro-2026-night-blue",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€350",
+     "value": 350,
+     "currency": "EUR",
+     "checkedOn": "2026-10-05",
+     "verbatim": "350 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/siux-diablo-pro-2026-night-blue",
+     "sourceType": "manufacturer"
     }
    }
   },

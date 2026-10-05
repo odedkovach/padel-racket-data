@@ -1,12 +1,13 @@
 # Siux padel rackets: published specifications
 
-23 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+24 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
 | [Siux Astra Ctrl 2026](https://padeltrue.com/rackets/siux-astra-ctrl-2026) | 2026 | Round |  | Low |  | €150 | 18 | 90 | 58 | [product page](https://siuxpadel.com/products/siux-astra-ctrl-2026) |
 | [Siux Astra Hybrid 2026](https://padeltrue.com/rackets/siux-astra-hybrid-2026) | 2026 | Teardrop |  | Medium | EVA SOFT | €150 | 50 | 50 | 50 | [product page](https://siuxpadel.com/products/siux-astra-hybrid-2026) |
 | [Siux Diablo Elite 6](https://padeltrue.com/rackets/siux-diablo-elite-6) | 2026 | Teardrop | 355 to 375 g (12.5 to 13.2 oz) | Medium | Medium, EVA Soft | €169.95 | 50 | 50 | 40 | [product page](https://www.padelnuestro.com/int/siux-diablo-elite-6) |
+| [Siux Diablo Pro 2026 Night Blue](https://padeltrue.com/rackets/siux-diablo-pro-2026-night-blue) | 2026 | Teardrop |  | Medium | EVA Soft | €350 | 50 | 50 | 40 | [product page](https://siuxpadel.com/products/siux-diablo-pro-2026-night-blue) |
 | [Siux Diablo Pro 2026 Royal Blue](https://padeltrue.com/rackets/siux-diablo-pro-2026-royal-blue) | 2026 | Teardrop | 355 to 375 g (12.5 to 13.2 oz) | Medium | EVA | €350 | 50 | 50 | 40 | [product page](https://www.siuxpadel.com/en/products/siux-diablo-pro-2026-royal-blue) |
 | [Siux Electra Pro 2026 Shadow Red](https://padeltrue.com/rackets/siux-electra-pro-2026-shadow-red) | 2026 | Teardrop | 355 to 375 g (12.5 to 13.2 oz) | Medium | Hard, Eva | €350 | 50 | 50 | 24 | [product page](https://www.siuxpadel.com/en/products/siux-electra-pro-2026-shadow-red) |
 | [Siux Electra Pro IT 2026](https://padeltrue.com/rackets/siux-electra-pro-it-2026) | 2026 | Teardrop |  | Medium | EVA | €350 | 50 | 50 | 40 | [product page](https://siuxpadel.com/products/siux-electra-pro-it-2026) |
