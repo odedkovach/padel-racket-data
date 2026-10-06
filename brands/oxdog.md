@@ -1,6 +1,6 @@
 # Oxdog padel rackets: published specifications
 
-10 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+11 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -11,6 +11,7 @@
 | [Oxdog Pure Pro+ 2026](https://padeltrue.com/rackets/oxdog-pure-pro-plus-2026) | 2026 | Hybrid | 370 g (13.1 oz) |  | Hard | €299 | 46 | 57 | 33 | [product page](https://www.oxdogpadel.com/products/pure-pro-2026) |
 | [Oxdog Ultimate NXT-GEN 2026](https://padeltrue.com/rackets/oxdog-ultimate-nxt-gen-2026) | 2026 | Diamond | 345 g (12.2 oz) | Medium | Soft | €179 | 62 | 26 | 71 | [product page](https://www.oxdogpadel.com/products/ultimate-nxt-gen-2026) |
 | [Oxdog Ultimate Pro Light 2026](https://padeltrue.com/rackets/oxdog-ultimate-pro-light-2026) | 2026 | Diamond | 350 g (12.3 oz) | High |  | €319 | 77 | 10 | 36 | [product page](https://www.oxdog.net/en/articles/2.13.867/ultimate-pro-light) |
+| [Oxdog Ultimate Pro Smash 2026](https://padeltrue.com/rackets/oxdog-ultimate-pro-smash-2026) | 2026 | Diamond | 370 g (13.1 oz) | High |  | €329 | 84 | 10 | 41 | [product page](https://www.oxdogpadel.com/products/ultimate-pro-smash-2026) |
 | [Oxdog Ultimate Pro+ 2026](https://padeltrue.com/rackets/oxdog-ultimate-pro-plus-2026) | 2026 | Diamond | 370 g (13.1 oz) | High | Hard | €339 | 84 | 10 | 15 | [product page](https://www.oxdog.net/en/articles/2.13.865/ultimate-pro) |
 | [Oxdog Ultimate Tour X 2026](https://padeltrue.com/rackets/oxdog-ultimate-tour-x-2026) | 2026 | Diamond | 355 g (12.5 oz) | Medium | Medium | €259 | 65 | 26 | 42 | [product page](https://www.oxdog.net/en/articles/2.13.868/ultimate-tour-x) |
 | [Oxdog Hyper Woman Air 2.0](https://padeltrue.com/rackets/oxdog-hyper-woman-air-2-0) |  | Teardrop | 345 g (12.2 oz) | Medium | Medium | €239 | 44 | 50 | 45 | [product page](https://www.oxdog.net/en/articles/2.13.1335/hyper-woman-air-20) |
