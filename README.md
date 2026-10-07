@@ -1,14 +1,14 @@
 # Padel racket data
 
-Published specifications of 240 padel rackets from 21 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
+Published specifications of 244 padel rackets from 21 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
 
-Export date: 2026-10-06. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
+Export date: 2026-10-07. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
 
 ## What is in it
 
 | File | What it holds |
 |---|---|
-| [rackets.json](rackets.json) | The full record of every racket: 1746 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
+| [rackets.json](rackets.json) | The full record of every racket: 1773 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
 | [rackets.csv](rackets.csv) | One row per racket, for a spreadsheet |
 | [brands/](brands/) | One readable table per brand |
 | [DATA_DICTIONARY.md](DATA_DICTIONARY.md) | Field definitions, units, missing values, CSV mapping and rating limitations |
@@ -18,7 +18,7 @@ Export date: 2026-10-06. An automated job publishes data changes. This date does
 
 | Brand | Rackets |
 |---|---|
-| [Adidas](brands/adidas.md) | 23 |
+| [Adidas](brands/adidas.md) | 27 |
 | [Babolat](brands/babolat.md) | 16 |
 | [Black Crown](brands/black-crown.md) | 1 |
 | [Bullpadel](brands/bullpadel.md) | 34 |

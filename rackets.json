@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-06",
+ "built": "2026-10-07",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 240,
+ "count": 244,
  "rackets": [
   {
    "slug": "adidas-arrow-hit-2026",
@@ -240,6 +240,86 @@
      "checkedOn": "2026-10-06",
      "verbatim": "450 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7614-adidas-arrow-hit-pro-edt-2026-ari-sanchez-padel-racket-8435739409503.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-cross-it-carbon-2026",
+   "name": "adidas Cross IT Carbon 2026",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-cross-it-carbon-2026",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7532-padel-racket-adidas-cross-it-carbon-2026-maxi-arce-8435739405963.html",
+   "level": "PRO",
+   "player": "Maxi Arce",
+   "ratings": {
+    "power": 83,
+    "control": 10,
+    "handling": 28,
+    "forgiveness": 38,
+    "comfort": 47,
+    "value": 13
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Diamond Oversize shape",
+     "source": "https://allforpadel.com/en/padel-rackets/7532-padel-racket-adidas-cross-it-carbon-2026-maxi-arce-8435739405963.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7532-padel-racket-adidas-cross-it-carbon-2026-maxi-arce-8435739405963.html",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Head Heavy",
+     "source": "https://allforpadel.com/en/padel-rackets/7532-padel-racket-adidas-cross-it-carbon-2026-maxi-arce-8435739405963.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7532-padel-racket-adidas-cross-it-carbon-2026-maxi-arce-8435739405963.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbon 6K",
+     "material": "Carbon 6K",
+     "verbatim": "Carbon 6K",
+     "source": "https://allforpadel.com/en/padel-rackets/7532-padel-racket-adidas-cross-it-carbon-2026-maxi-arce-8435739405963.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7532-padel-racket-adidas-cross-it-carbon-2026-maxi-arce-8435739405963.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€280",
+     "value": 280,
+     "currency": "EUR",
+     "checkedOn": "2026-10-07",
+     "verbatim": "280 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7532-padel-racket-adidas-cross-it-carbon-2026-maxi-arce-8435739405963.html",
      "sourceType": "retailer"
     }
    }
@@ -659,6 +739,158 @@
    }
   },
   {
+   "slug": "adidas-drive-blue-2026",
+   "name": "Adidas Drive Blue 2026",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-drive-blue-2026",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7490-padel-racket-adidas-drive-blue-2026-8435739406021.html",
+   "level": "Beginner",
+   "player": null,
+   "ratings": {
+    "power": 33,
+    "control": 74,
+    "handling": 48,
+    "forgiveness": 90,
+    "comfort": 75,
+    "value": 57
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Round",
+     "source": "https://allforpadel.com/en/padel-rackets/7490-padel-racket-adidas-drive-blue-2026-8435739406021.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7490-padel-racket-adidas-drive-blue-2026-8435739406021.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7490-padel-racket-adidas-drive-blue-2026-8435739406021.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiberglass",
+     "material": "Fiberglass",
+     "verbatim": "Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7490-padel-racket-adidas-drive-blue-2026-8435739406021.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7490-padel-racket-adidas-drive-blue-2026-8435739406021.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€80",
+     "value": 80,
+     "currency": "EUR",
+     "checkedOn": "2026-10-07",
+     "verbatim": "80 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7490-padel-racket-adidas-drive-blue-2026-8435739406021.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-drive-light-2026",
+   "name": "Adidas Drive Light 2026",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-drive-light-2026",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7492-padel-racket-adidas-drive-light-2026-8435739406045.html",
+   "level": "Beginner",
+   "player": null,
+   "ratings": {
+    "power": 46,
+    "control": 50,
+    "handling": 60,
+    "forgiveness": 72,
+    "comfort": 79,
+    "value": 52
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "shape"
+   ],
+   "profile": [
+    "all-round",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "weight": {
+     "display": "345 to 360 g (12.2 to 12.7 oz)",
+     "min": 345,
+     "max": 360,
+     "verbatim": "345-360 Gr (Light Weight)",
+     "source": "https://allforpadel.com/en/padel-rackets/7492-padel-racket-adidas-drive-light-2026-8435739406045.html",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Even",
+     "source": "https://allforpadel.com/en/padel-rackets/7492-padel-racket-adidas-drive-light-2026-8435739406045.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7492-padel-racket-adidas-drive-light-2026-8435739406045.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiberglass",
+     "material": "Fiberglass",
+     "verbatim": "Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7492-padel-racket-adidas-drive-light-2026-8435739406045.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7492-padel-racket-adidas-drive-light-2026-8435739406045.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€80",
+     "value": 80,
+     "currency": "EUR",
+     "checkedOn": "2026-10-07",
+     "verbatim": "80 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7492-padel-racket-adidas-drive-light-2026-8435739406045.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "adidas-match-black-2026",
    "name": "Adidas Match Black 2026",
    "brand": "Adidas",
@@ -723,6 +955,88 @@
      "checkedOn": "2026-10-06",
      "verbatim": "€75.00",
      "source": "https://allforpadel.com/en/padel-rackets/7493-padel-racket-adidas-match-black-2026-8435739406052.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-match-black-lime-2026",
+   "name": "Adidas Match Black Lime 2026",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-match-black-lime-2026",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7494-padel-racket-adidas-match-black-lime-2026-8435739406069.html",
+   "level": "Beginner",
+   "player": null,
+   "ratings": {
+    "power": 59,
+    "control": 41,
+    "handling": 28,
+    "forgiveness": 77,
+    "comfort": 67,
+    "value": 53
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "all-round",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "ALLROUND (hybrid) shape",
+     "source": "https://allforpadel.com/en/padel-rackets/7494-padel-racket-adidas-match-black-lime-2026-8435739406069.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7494-padel-racket-adidas-match-black-lime-2026-8435739406069.html",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Slightly Head Heavy",
+     "source": "https://allforpadel.com/en/padel-rackets/7494-padel-racket-adidas-match-black-lime-2026-8435739406069.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7494-padel-racket-adidas-match-black-lime-2026-8435739406069.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiberglass",
+     "material": "Fiberglass",
+     "verbatim": "Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7494-padel-racket-adidas-match-black-lime-2026-8435739406069.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7494-padel-racket-adidas-match-black-lime-2026-8435739406069.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€75",
+     "value": 75,
+     "currency": "EUR",
+     "checkedOn": "2026-10-07",
+     "verbatim": "75 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7494-padel-racket-adidas-match-black-lime-2026-8435739406069.html",
      "sourceType": "retailer"
     }
    }
@@ -15655,10 +15969,8 @@
     "comfort": 84,
     "value": 71
    },
-   "inputsPublished": 4,
-   "inputsMissing": [
-    "weight"
-   ],
+   "inputsPublished": 5,
+   "inputsMissing": [],
    "profile": [
     "control",
     "easy to move",
@@ -15705,6 +16017,15 @@
      "verbatim": "70.25 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-beat-control-2",
      "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "355 to 375 g (12.5 to 13.2 oz)",
+     "min": 355,
+     "max": 375,
+     "verbatim": "BEAT Control 2 has a round shape, low balance, and a weight ranging from 355 to 375 grams.",
+     "source": "https://www.clusterpadel.com/en/associate-news/20250314/siux-launches-the-second-edition-of-its-beat-range.aspx",
+     "sourceType": "manufacturer",
+     "checkedOn": "2026-10-07"
     }
    }
   },
