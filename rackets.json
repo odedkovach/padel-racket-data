@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-07",
+ "built": "2026-10-08",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 244,
+ "count": 248,
  "rackets": [
   {
    "slug": "adidas-arrow-hit-2026",
@@ -320,6 +320,75 @@
      "checkedOn": "2026-10-07",
      "verbatim": "280 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7532-padel-racket-adidas-cross-it-carbon-2026-maxi-arce-8435739405963.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-cross-it-carbon-ctrl-2026",
+   "name": "adidas Cross IT Carbon Ctrl 2026",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-cross-it-carbon-ctrl-2026",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7537-padel-racket-adidas-cross-it-carbon-ctrl-2026-8435739405970.html",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 33,
+    "control": 74,
+    "handling": 48,
+    "forgiveness": 82,
+    "comfort": 65,
+    "value": 15
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "with a round shape",
+     "source": "https://allforpadel.com/en/padel-rackets/7537-padel-racket-adidas-cross-it-carbon-ctrl-2026-8435739405970.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7537-padel-racket-adidas-cross-it-carbon-ctrl-2026-8435739405970.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, EVA Soft Performance",
+     "value": "soft",
+     "material": "EVA Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7537-padel-racket-adidas-cross-it-carbon-ctrl-2026-8435739405970.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7537-padel-racket-adidas-cross-it-carbon-ctrl-2026-8435739405970.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€280",
+     "value": 280,
+     "currency": "EUR",
+     "checkedOn": "2026-10-08",
+     "verbatim": "280 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7537-padel-racket-adidas-cross-it-carbon-ctrl-2026-8435739405970.html",
      "sourceType": "retailer"
     }
    }
@@ -14201,6 +14270,75 @@
    }
   },
   {
+   "slug": "oxdog-ultimate-pro-light-2027",
+   "name": "Oxdog Ultimate Pro Light 2027",
+   "brand": "Oxdog",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/oxdog-ultimate-pro-light-2027",
+   "productUrl": "https://www.oxdogpadel.com/products/ultimate-pro-light-2027",
+   "level": "Intermediate, Advanced",
+   "player": null,
+   "ratings": {
+    "power": 77,
+    "control": 10,
+    "handling": 42,
+    "forgiveness": 32,
+    "comfort": 46,
+    "value": 11
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "face"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Shape: Diamond",
+     "source": "https://www.oxdogpadel.com/products/ultimate-pro-light-2027",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 g (12.3 oz)",
+     "min": 350,
+     "max": 350,
+     "verbatim": "Weight: 350g",
+     "source": "https://www.oxdogpadel.com/products/ultimate-pro-light-2027",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "With a high balance",
+     "source": "https://www.oxdogpadel.com/products/ultimate-pro-light-2027",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Featuring a sandy surface",
+     "source": "https://www.oxdogpadel.com/products/ultimate-pro-light-2027",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€319",
+     "value": 319,
+     "currency": "EUR",
+     "checkedOn": "2026-10-08",
+     "verbatim": "319 EUR (schema.org offer)",
+     "source": "https://www.oxdogpadel.com/products/ultimate-pro-light-2027",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "oxdog-ultimate-pro-smash-2026",
    "name": "Oxdog Ultimate Pro Smash 2026",
    "brand": "Oxdog",
@@ -17139,6 +17277,144 @@
      "checkedOn": "2026-10-06",
      "verbatim": "161.16 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-gea",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "siux-obsidian-elite-2027",
+   "name": "Siux Obsidian Elite 2027",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-obsidian-elite-2027",
+   "productUrl": "https://siuxpadel.com/products/obsidian-elite-2027",
+   "level": "Avanzado – Profesional",
+   "player": null,
+   "ratings": {
+    "power": 36,
+    "control": 66,
+    "handling": 70,
+    "forgiveness": 42,
+    "comfort": 48,
+    "value": 14
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "all-round",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "forma lágrima",
+     "source": "https://siuxpadel.com/products/obsidian-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "balance bajo",
+     "source": "https://siuxpadel.com/products/obsidian-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Soft",
+     "value": null,
+     "material": "EVA Soft",
+     "verbatim": "núcleo EVA Soft con tacto 4,5/10",
+     "source": "https://siuxpadel.com/products/obsidian-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "3K Carbon SC Comfort",
+     "material": "3K Carbon SC Comfort",
+     "verbatim": "Caras de 3K Carbon SC Comfort",
+     "source": "https://siuxpadel.com/products/obsidian-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€270",
+     "value": 270,
+     "currency": "EUR",
+     "checkedOn": "2026-10-08",
+     "verbatim": "270 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/obsidian-elite-2027",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "siux-obsidian-pro-2027-black",
+   "name": "Siux Obsidian Pro 2027 Black",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-obsidian-pro-2027-black",
+   "productUrl": "https://siuxpadel.com/products/obsidian-pro-2027-black",
+   "level": "Avanzado – Profesional",
+   "player": null,
+   "ratings": {
+    "power": 36,
+    "control": 66,
+    "handling": 70,
+    "forgiveness": 42,
+    "comfort": 48,
+    "value": 10
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "all-round",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de pala: Lágrima",
+     "source": "https://siuxpadel.com/products/obsidian-pro-2027-black",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala: BAJO",
+     "source": "https://siuxpadel.com/products/obsidian-pro-2027-black",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Soft",
+     "value": null,
+     "material": "EVA Soft",
+     "verbatim": "núcleo EVA Soft",
+     "source": "https://siuxpadel.com/products/obsidian-pro-2027-black",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "carbono 16K",
+     "material": "carbono 16K",
+     "verbatim": "Superficie de pala: CARBON 16K",
+     "source": "https://siuxpadel.com/products/obsidian-pro-2027-black",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€359.95",
+     "value": 359.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-08",
+     "verbatim": "359.95 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/obsidian-pro-2027-black",
      "sourceType": "manufacturer"
     }
    }

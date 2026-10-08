@@ -1,9 +1,10 @@
 # Oxdog padel rackets: published specifications
 
-11 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+12 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
+| [Oxdog Ultimate Pro Light 2027](https://padeltrue.com/rackets/oxdog-ultimate-pro-light-2027) | 2027 | Diamond | 350 g (12.3 oz) | High |  | €319 | 77 | 10 | 46 | [product page](https://www.oxdogpadel.com/products/ultimate-pro-light-2027) |
 | [Oxdog Hyper Pro 2.0 2026](https://padeltrue.com/rackets/oxdog-hyper-pro-2-0-2026) | 2026 | Teardrop | 365 g (12.9 oz) | High |  | €309 | 64 | 34 | 32 | [product page](https://www.oxdog.net/en/articles/2.13.871/hyper-pro-20) |
 | [Oxdog Hyper Pro+ 2.0 2026](https://padeltrue.com/rackets/oxdog-hyper-pro-plus-2-0-2026) | 2026 | Teardrop | 370 g (13.1 oz) | High | Hard | €319 | 66 | 34 | 15 | [product page](https://www.oxdog.net/en/articles/2.13.870/hyper-pro-20) |
 | [Oxdog Hyper Tour X 2.0 2026](https://padeltrue.com/rackets/oxdog-hyper-tour-x-2-0-2026) | 2026 | Teardrop | 360 g (12.7 oz) | Medium |  | €249 | 48 | 50 | 51 | [product page](https://www.oxdogpadel.com/products/hyper-tour-x-2-0-2026) |

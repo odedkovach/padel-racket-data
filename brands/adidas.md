@@ -1,6 +1,6 @@
 # Adidas padel rackets: published specifications
 
-27 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+28 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -8,6 +8,7 @@
 | [Adidas Arrow Hit Carbon 2026](https://padeltrue.com/rackets/adidas-arrow-hit-carbon-2026) | 2026 | Diamond | 360 to 375 g (12.7 to 13.2 oz) | High | Soft, EVA Soft Performance | €270 | 83 | 10 | 47 | [product page](https://allforpadel.com/en/padel-rackets/7531-padel-racket-adidas-arrow-hit-carbon-8435739405901.html) |
 | [adidas Arrow Hit Pro Edt 2026](https://padeltrue.com/rackets/adidas-arrow-hit-pro-edt-2026) | 2026 | Diamond | 360 to 375 g (12.7 to 13.2 oz) |  | Soft, Eva Soft Performance | €450 | 69 | 26 | 65 | [product page](https://allforpadel.com/en/padel-rackets/7614-adidas-arrow-hit-pro-edt-2026-ari-sanchez-padel-racket-8435739409503.html) |
 | [adidas Cross IT Carbon 2026](https://padeltrue.com/rackets/adidas-cross-it-carbon-2026) | 2026 | Diamond | 360 to 375 g (12.7 to 13.2 oz) | High | Soft, Eva Soft Performance | €280 | 83 | 10 | 47 | [product page](https://allforpadel.com/en/padel-rackets/7532-padel-racket-adidas-cross-it-carbon-2026-maxi-arce-8435739405963.html) |
+| [adidas Cross IT Carbon Ctrl 2026](https://padeltrue.com/rackets/adidas-cross-it-carbon-ctrl-2026) | 2026 | Round | 360 to 375 g (12.7 to 13.2 oz) |  | Soft, EVA Soft Performance | €280 | 33 | 74 | 65 | [product page](https://allforpadel.com/en/padel-rackets/7537-padel-racket-adidas-cross-it-carbon-ctrl-2026-8435739405970.html) |
 | [Adidas Cross IT Ctrl 2026](https://padeltrue.com/rackets/adidas-cross-it-ctrl-2026) | 2026 | Round | 360 to 375 g (12.7 to 13.2 oz) | Medium | Hard, EVA High Memory | €350 | 33 | 74 | 23 | [product page](https://allforpadel.com/en/padel-rackets/7527-padel-racket-adidas-cross-it-ctrl-2026-8435739405949.html) |
 | [Adidas Cross IT Light 2026](https://padeltrue.com/rackets/adidas-cross-it-light-2026) | 2026 | Round | 345 to 360 g (12.2 to 12.7 oz) | Medium | Medium, EVA Soft Energy | €300 | 28 | 74 | 43 | [product page](https://allforpadel.com/en/padel-rackets/7528-padel-racket-adidas-cross-it-light-2026-martita-ortega-8435739405956.html) |
 | [Adidas Cross It Pro Edt 2026 Marta Ortega](https://padeltrue.com/rackets/adidas-cross-it-pro-edt-2026-marta-ortega) | 2026 | Round | 345 to 360 g (12.2 to 12.7 oz) |  | Medium, Eva Soft Energy | €360 | 28 | 74 | 43 | [product page](https://allforpadel.com/en/padel-rackets/7766-adidas-cross-it-pro-edt-2026-racket-marta-ortega-8435739409510.html) |
