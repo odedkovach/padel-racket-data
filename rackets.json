@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-08",
+ "built": "2026-10-09",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 248,
+ "count": 252,
  "rackets": [
   {
    "slug": "adidas-arrow-hit-2026",
@@ -727,6 +727,83 @@
    }
   },
   {
+   "slug": "adidas-cross-it-team-light-2026",
+   "name": "Adidas Cross IT Team Light 2026",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-cross-it-team-light-2026",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7484-padel-racket-adidas-cross-it-team-light-2026-8435739405994.html",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 46,
+    "control": 50,
+    "handling": 60,
+    "forgiveness": 72,
+    "comfort": 79,
+    "value": 23
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "shape"
+   ],
+   "profile": [
+    "all-round",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "weight": {
+     "display": "345 to 360 g (12.2 to 12.7 oz)",
+     "min": 345,
+     "max": 360,
+     "verbatim": "345-360 Gr (Light Weight)",
+     "source": "https://allforpadel.com/en/padel-rackets/7484-padel-racket-adidas-cross-it-team-light-2026-8435739405994.html",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Even",
+     "source": "https://allforpadel.com/en/padel-rackets/7484-padel-racket-adidas-cross-it-team-light-2026-8435739405994.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7484-padel-racket-adidas-cross-it-team-light-2026-8435739405994.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiberglass",
+     "material": "Fiberglass",
+     "verbatim": "Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7484-padel-racket-adidas-cross-it-team-light-2026-8435739405994.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7484-padel-racket-adidas-cross-it-team-light-2026-8435739405994.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€180",
+     "value": 180,
+     "currency": "EUR",
+     "checkedOn": "2026-10-09",
+     "verbatim": "180 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7484-padel-racket-adidas-cross-it-team-light-2026-8435739405994.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "adidas-drive-black-2026",
    "name": "Adidas Drive Black 2026",
    "brand": "Adidas",
@@ -1261,6 +1338,100 @@
      "checkedOn": "2026-10-06",
      "verbatim": "€390.00",
      "source": "https://allforpadel.com/en/padel-rackets/7521-padel-racket-adidas-metalbone-2026-ale-galan-8435739405802.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-metalbone-carbon-2026",
+   "name": "Adidas Metalbone Carbon 2026",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-metalbone-carbon-2026",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7775-padel-racket-adidas-metalbone-carbon-2026-8435739405833.html",
+   "level": "PRO",
+   "player": null,
+   "ratings": {
+    "power": 83,
+    "control": 10,
+    "handling": 28,
+    "forgiveness": 38,
+    "comfort": 47,
+    "value": 14
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Diamond",
+     "source": "https://allforpadel.com/en/padel-rackets/7775-padel-racket-adidas-metalbone-carbon-2026-8435739405833.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7775-padel-racket-adidas-metalbone-carbon-2026-8435739405833.html",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Head Heavy",
+     "source": "https://allforpadel.com/en/padel-rackets/7775-padel-racket-adidas-metalbone-carbon-2026-8435739405833.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7775-padel-racket-adidas-metalbone-carbon-2026-8435739405833.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbon 6K",
+     "material": "Carbon 6K",
+     "verbatim": "Carbon 6K",
+     "source": "https://allforpadel.com/en/padel-rackets/7775-padel-racket-adidas-metalbone-carbon-2026-8435739405833.html",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbon",
+     "material": "carbon",
+     "verbatim": "The carbon tubular structure",
+     "source": "https://allforpadel.com/en/padel-rackets/7775-padel-racket-adidas-metalbone-carbon-2026-8435739405833.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7775-padel-racket-adidas-metalbone-carbon-2026-8435739405833.html",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "the Spin Blade Decal features a textured surface",
+     "source": "https://allforpadel.com/en/padel-rackets/7775-padel-racket-adidas-metalbone-carbon-2026-8435739405833.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€260",
+     "value": 260,
+     "currency": "EUR",
+     "checkedOn": "2026-10-09",
+     "verbatim": "260 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7775-padel-racket-adidas-metalbone-carbon-2026-8435739405833.html",
      "sourceType": "retailer"
     }
    }
@@ -2095,6 +2266,82 @@
      "checkedOn": "2026-10-06",
      "verbatim": "114.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-adidas-metalbone-superlight",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-metalbone-superlight-2026",
+   "name": "Adidas Metalbone Superlight 2026",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-metalbone-superlight-2026",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7487-padel-racket-adidas-metalbone-superlight-2026-8435739405871.html",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 46,
+    "control": 50,
+    "handling": 60,
+    "forgiveness": 72,
+    "comfort": 79,
+    "value": 28
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "balance"
+   ],
+   "profile": [
+    "all-round",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "weight": {
+     "display": "345 to 360 g (12.2 to 12.7 oz)",
+     "min": 345,
+     "max": 360,
+     "verbatim": "345-360 Gr (Light Weight)",
+     "source": "https://allforpadel.com/en/padel-rackets/7487-padel-racket-adidas-metalbone-superlight-2026-8435739405871.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, EVA Soft Performance",
+     "value": "soft",
+     "material": "EVA Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7487-padel-racket-adidas-metalbone-superlight-2026-8435739405871.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "fiberglass",
+     "material": "fiberglass",
+     "verbatim": "Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7487-padel-racket-adidas-metalbone-superlight-2026-8435739405871.html",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbon",
+     "material": "carbon",
+     "verbatim": "The carbon tubular structure",
+     "source": "https://allforpadel.com/en/padel-rackets/7487-padel-racket-adidas-metalbone-superlight-2026-8435739405871.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7487-padel-racket-adidas-metalbone-superlight-2026-8435739405871.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€150",
+     "value": 150,
+     "currency": "EUR",
+     "checkedOn": "2026-10-09",
+     "verbatim": "150 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7487-padel-racket-adidas-metalbone-superlight-2026-8435739405871.html",
      "sourceType": "retailer"
     }
    }
@@ -17415,6 +17662,75 @@
      "checkedOn": "2026-10-08",
      "verbatim": "359.95 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/obsidian-pro-2027-black",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "siux-obsidian-pro-2027-silver",
+   "name": "Siux Obsidian Pro 2027 Silver",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-obsidian-pro-2027-silver",
+   "productUrl": "https://siuxpadel.com/products/obsidian-pro-2027-silver",
+   "level": "Avanzado / profesional",
+   "player": null,
+   "ratings": {
+    "power": 36,
+    "control": 66,
+    "handling": 70,
+    "forgiveness": 42,
+    "comfort": 48,
+    "value": 10
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "all-round",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de pala Lágrima",
+     "source": "https://siuxpadel.com/products/obsidian-pro-2027-silver",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Bajo",
+     "source": "https://siuxpadel.com/products/obsidian-pro-2027-silver",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Soft",
+     "value": null,
+     "material": "EVA Soft",
+     "verbatim": "Núcleo EVA Soft",
+     "source": "https://siuxpadel.com/products/obsidian-pro-2027-silver",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "CARBON 16K",
+     "material": "CARBON 16K",
+     "verbatim": "Superficie de pala CARBON 16K",
+     "source": "https://siuxpadel.com/products/obsidian-pro-2027-silver",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€359.95",
+     "value": 359.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-09",
+     "verbatim": "359.95 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/obsidian-pro-2027-silver",
      "sourceType": "manufacturer"
     }
    }

@@ -1,6 +1,6 @@
 # Specification coverage in this PadelTrue snapshot
 
-Export date: 2026-10-08. Model version: 1.0. Records: 248.
+Export date: 2026-10-09. Model version: 1.0. Records: 252.
 
 This measures the records collected by PadelTrue, not the whole market or the quality of a brand. A missing field here does not establish that a manufacturer never published it. Small and unequal brand samples are not a brand ranking.
 
@@ -8,7 +8,7 @@ Each cell shows records with the field / records for that brand. Numerical balan
 
 | Brand | Records | Weight range | Numerical balance | Face material | Five model inputs |
 |---|---:|---:|---:|---:|---:|
-| Adidas | 28 | 27/28 | 0/28 | 26/28 | 19/28 |
+| Adidas | 31 | 30/31 | 0/31 | 29/31 | 20/31 |
 | Babolat | 16 | 16/16 | 7/16 | 15/16 | 5/16 |
 | Black Crown | 1 | 0/1 | 0/1 | 1/1 | 0/1 |
 | Bullpadel | 34 | 30/34 | 13/34 | 32/34 | 13/34 |
@@ -23,7 +23,7 @@ Each cell shows records with the field / records for that brand. Numerical balan
 | Padelsmith | 1 | 1/1 | 0/1 | 1/1 | 1/1 |
 | Royal Padel | 14 | 10/14 | 0/14 | 12/14 | 3/14 |
 | Shooter | 1 | 1/1 | 0/1 | 1/1 | 0/1 |
-| Siux | 27 | 10/27 | 0/27 | 27/27 | 6/27 |
+| Siux | 28 | 10/28 | 0/28 | 28/28 | 6/28 |
 | StarVie | 17 | 17/17 | 0/17 | 17/17 | 8/17 |
 | Tecnifibre | 2 | 2/2 | 0/2 | 2/2 | 1/2 |
 | Vairo | 2 | 2/2 | 0/2 | 2/2 | 1/2 |

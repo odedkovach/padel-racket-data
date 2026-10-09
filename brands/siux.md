@@ -1,11 +1,12 @@
 # Siux padel rackets: published specifications
 
-27 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+28 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
 | [Siux Obsidian Elite 2027](https://padeltrue.com/rackets/siux-obsidian-elite-2027) | 2027 | Teardrop |  | Low | EVA Soft | €270 | 36 | 66 | 48 | [product page](https://siuxpadel.com/products/obsidian-elite-2027) |
 | [Siux Obsidian Pro 2027 Black](https://padeltrue.com/rackets/siux-obsidian-pro-2027-black) | 2027 | Teardrop |  | Low | EVA Soft | €359.95 | 36 | 66 | 48 | [product page](https://siuxpadel.com/products/obsidian-pro-2027-black) |
+| [Siux Obsidian Pro 2027 Silver](https://padeltrue.com/rackets/siux-obsidian-pro-2027-silver) | 2027 | Teardrop |  | Low | EVA Soft | €359.95 | 36 | 66 | 48 | [product page](https://siuxpadel.com/products/obsidian-pro-2027-silver) |
 | [Siux Astra Ctrl 2026](https://padeltrue.com/rackets/siux-astra-ctrl-2026) | 2026 | Round |  | Low |  | €150 | 18 | 90 | 58 | [product page](https://siuxpadel.com/products/siux-astra-ctrl-2026) |
 | [Siux Astra Hybrid 2026](https://padeltrue.com/rackets/siux-astra-hybrid-2026) | 2026 | Teardrop |  | Medium | EVA SOFT | €150 | 50 | 50 | 50 | [product page](https://siuxpadel.com/products/siux-astra-hybrid-2026) |
 | [Siux Diablo Elite 6](https://padeltrue.com/rackets/siux-diablo-elite-6) | 2026 | Teardrop | 355 to 375 g (12.5 to 13.2 oz) | Medium | Medium, EVA Soft | €169.95 | 50 | 50 | 40 | [product page](https://www.padelnuestro.com/int/siux-diablo-elite-6) |
