@@ -1,14 +1,14 @@
 # Padel racket data
 
-Published specifications of 252 padel rackets from 21 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
+Published specifications of 256 padel rackets from 21 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
 
-Export date: 2026-10-09. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
+Export date: 2026-10-10. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
 
 ## What is in it
 
 | File | What it holds |
 |---|---|
-| [rackets.json](rackets.json) | The full record of every racket: 1819 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
+| [rackets.json](rackets.json) | The full record of every racket: 1845 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
 | [rackets.csv](rackets.csv) | One row per racket, for a spreadsheet |
 | [brands/](brands/) | One readable table per brand |
 | [DATA_DICTIONARY.md](DATA_DICTIONARY.md) | Field definitions, units, missing values, CSV mapping and rating limitations |
@@ -18,7 +18,7 @@ Export date: 2026-10-09. An automated job publishes data changes. This date does
 
 | Brand | Rackets |
 |---|---|
-| [Adidas](brands/adidas.md) | 31 |
+| [Adidas](brands/adidas.md) | 34 |
 | [Babolat](brands/babolat.md) | 16 |
 | [Black Crown](brands/black-crown.md) | 1 |
 | [Bullpadel](brands/bullpadel.md) | 34 |
@@ -28,7 +28,7 @@ Export date: 2026-10-09. An automated job publishes data changes. This date does
 | [Head](brands/head.md) | 18 |
 | [Joma](brands/joma.md) | 1 |
 | [Kuikma](brands/kuikma.md) | 3 |
-| [Nox](brands/nox.md) | 45 |
+| [Nox](brands/nox.md) | 46 |
 | [Oxdog](brands/oxdog.md) | 12 |
 | [Padelsmith](brands/padelsmith.md) | 1 |
 | [Royal Padel](brands/royal-padel.md) | 14 |
@@ -44,7 +44,7 @@ Export date: 2026-10-09. An automated job publishes data changes. This date does
 
 ```json
 {
-  "name": "Adidas Arrow Hit 2026",
+  "name": "adidas 2026 World Cup Argentina",
   "brand": "Adidas",
   "year": 2026,
   "specs": {
@@ -53,17 +53,17 @@ Export date: 2026-10-09. An automated job publishes data changes. This date does
       "min": 360,
       "max": 375,
       "verbatim": "Weight: 360-375 Gr",
-      "source": "https://allforpadel.com/en/padel-rackets/7523-padel-racket-adidas-arrow-hit-8435739405888.html",
+      "source": "https://allforpadel.com/en/padel-rackets/7463-padel-racket-adidas-2026-world-cup-argentina-8435739406526.html",
       "sourceType": "retailer"
     }
   },
   "ratings": {
-    "power": 83,
-    "control": 10,
-    "handling": 28,
-    "forgiveness": 46,
-    "comfort": 57,
-    "value": 10
+    "power": 33,
+    "control": 74,
+    "handling": 48,
+    "forgiveness": 90,
+    "comfort": 75,
+    "value": 29
   }
 }
 ```

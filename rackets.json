@@ -2,11 +2,86 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-09",
+ "built": "2026-10-10",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 252,
+ "count": 256,
  "rackets": [
+  {
+   "slug": "adidas-2026-world-cup-argentina",
+   "name": "adidas 2026 World Cup Argentina",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-2026-world-cup-argentina",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7463-padel-racket-adidas-2026-world-cup-argentina-8435739406526.html",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 33,
+    "control": 74,
+    "handling": 48,
+    "forgiveness": 90,
+    "comfort": 75,
+    "value": 29
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Shape: Round",
+     "source": "https://allforpadel.com/en/padel-rackets/7463-padel-racket-adidas-2026-world-cup-argentina-8435739406526.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "Weight: 360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7463-padel-racket-adidas-2026-world-cup-argentina-8435739406526.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Rubber: Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7463-padel-racket-adidas-2026-world-cup-argentina-8435739406526.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiberglass",
+     "material": "Fiberglass",
+     "verbatim": "Face: Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7463-padel-racket-adidas-2026-world-cup-argentina-8435739406526.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Thickness: 38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7463-padel-racket-adidas-2026-world-cup-argentina-8435739406526.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€160",
+     "value": 160,
+     "currency": "EUR",
+     "checkedOn": "2026-10-10",
+     "verbatim": "160 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7463-padel-racket-adidas-2026-world-cup-argentina-8435739406526.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
   {
    "slug": "adidas-arrow-hit-2026",
    "name": "Adidas Arrow Hit 2026",
@@ -2427,6 +2502,81 @@
    }
   },
   {
+   "slug": "adidas-metalbone-team-light-2026",
+   "name": "Adidas Metalbone Team Light 2026",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-metalbone-team-light-2026",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7535-padel-racket-adidas-metalbone-team-light-2026-8435739405864.html",
+   "level": "Advanced",
+   "player": null,
+   "ratings": {
+    "power": 28,
+    "control": 74,
+    "handling": 60,
+    "forgiveness": 90,
+    "comfort": 79,
+    "value": 23
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "the round shape places more weight near the handle",
+     "source": "https://allforpadel.com/en/padel-rackets/7535-padel-racket-adidas-metalbone-team-light-2026-8435739405864.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "345 to 360 g (12.2 to 12.7 oz)",
+     "min": 345,
+     "max": 360,
+     "verbatim": "345-360 Gr (Light Weight)",
+     "source": "https://allforpadel.com/en/padel-rackets/7535-padel-racket-adidas-metalbone-team-light-2026-8435739405864.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, EVA Soft Performance",
+     "value": "soft",
+     "material": "EVA Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7535-padel-racket-adidas-metalbone-team-light-2026-8435739405864.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiberglass",
+     "material": "Fiberglass",
+     "verbatim": "Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7535-padel-racket-adidas-metalbone-team-light-2026-8435739405864.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7535-padel-racket-adidas-metalbone-team-light-2026-8435739405864.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€200",
+     "value": 200,
+     "currency": "EUR",
+     "checkedOn": "2026-10-10",
+     "verbatim": "200 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7535-padel-racket-adidas-metalbone-team-light-2026-8435739405864.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "adidas-rx-series-2026",
    "name": "Adidas RX Series 2026",
    "brand": "Adidas",
@@ -2505,6 +2655,81 @@
      "checkedOn": "2026-10-06",
      "verbatim": "€120.00 Tax included",
      "source": "https://allforpadel.com/en/padel-rackets/7485-padel-racket-adidas-rx-series-2026-8435739406007.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-rx-series-light-2026",
+   "name": "Adidas Rx Series Light 2026",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-rx-series-light-2026",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7486-padel-racket-adidas-rx-series-light-2026-8435739406014.html",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 28,
+    "control": 74,
+    "handling": 60,
+    "forgiveness": 90,
+    "comfort": 79,
+    "value": 39
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Shape: Round",
+     "source": "https://allforpadel.com/en/padel-rackets/7486-padel-racket-adidas-rx-series-light-2026-8435739406014.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "345 to 360 g (12.2 to 12.7 oz)",
+     "min": 345,
+     "max": 360,
+     "verbatim": "Weight: 345-360 Gr (Light Weight)",
+     "source": "https://allforpadel.com/en/padel-rackets/7486-padel-racket-adidas-rx-series-light-2026-8435739406014.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Enjoy an incredibly soft feel",
+     "source": "https://allforpadel.com/en/padel-rackets/7486-padel-racket-adidas-rx-series-light-2026-8435739406014.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiberglass",
+     "material": "Fiberglass",
+     "verbatim": "Face: Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7486-padel-racket-adidas-rx-series-light-2026-8435739406014.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Thickness: 38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7486-padel-racket-adidas-rx-series-light-2026-8435739406014.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€120",
+     "value": 120,
+     "currency": "EUR",
+     "checkedOn": "2026-10-10",
+     "verbatim": "120 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7486-padel-racket-adidas-rx-series-light-2026-8435739406014.html",
      "sourceType": "retailer"
     }
    }
@@ -10271,6 +10496,93 @@
      "checkedOn": "2026-10-06",
      "verbatim": "79.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-at10-genius-ultralight-by-agustin-tapia-2026",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-at10-luxury-genius-12k-2025",
+   "name": "Nox AT10 Luxury GENIUS 12K 2025",
+   "brand": "Nox",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/nox-at10-luxury-genius-12k-2025",
+   "productUrl": "https://noxsport.com/products/pala-at10-genius-12k-by-agustin-tapia",
+   "level": "Intermedio Avanzado",
+   "player": "Agustín Tapia",
+   "ratings": {
+    "power": 51,
+    "control": 50,
+    "handling": 48,
+    "forgiveness": 35,
+    "comfort": 31,
+    "value": 18
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "FORMA: Gota /Lágrima",
+     "source": "https://noxsport.com/products/pala-at10-genius-12k-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "PESO: 360 - 375g",
+     "source": "https://noxsport.com/products/pala-at10-genius-12k-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, MLD Black Eva",
+     "value": "medium-hard",
+     "material": "MLD Black Eva",
+     "verbatim": "dureza intermedia-alta",
+     "source": "https://noxsport.com/products/pala-at10-genius-12k-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon 12K",
+     "material": "Carbon 12K",
+     "verbatim": "CARA: Carbon 12K",
+     "source": "https://noxsport.com/products/pala-at10-genius-12k-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% carbono",
+     "material": "100% carbono",
+     "verbatim": "MARCO: 100% carbono",
+     "source": "https://noxsport.com/products/pala-at10-genius-12k-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/pala-at10-genius-12k-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "SUPERFICIE: Patrón exclusivo SPIN 3D y rugoso de arena",
+     "source": "https://noxsport.com/products/pala-at10-genius-12k-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€159.99",
+     "value": 159.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-10",
+     "verbatim": "159.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-at10-genius-12k-by-agustin-tapia",
      "sourceType": "manufacturer"
     }
    }
