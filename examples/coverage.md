@@ -1,6 +1,6 @@
 # Specification coverage in this PadelTrue snapshot
 
-Export date: 2026-10-10. Model version: 1.0. Records: 256.
+Export date: 2026-10-11. Model version: 1.0. Records: 260.
 
 This measures the records collected by PadelTrue, not the whole market or the quality of a brand. A missing field here does not establish that a manufacturer never published it. Small and unequal brand samples are not a brand ranking.
 
@@ -8,7 +8,7 @@ Each cell shows records with the field / records for that brand. Numerical balan
 
 | Brand | Records | Weight range | Numerical balance | Face material | Five model inputs |
 |---|---:|---:|---:|---:|---:|
-| Adidas | 34 | 33/34 | 0/34 | 32/34 | 20/34 |
+| Adidas | 37 | 36/37 | 0/37 | 35/37 | 22/37 |
 | Babolat | 16 | 16/16 | 7/16 | 15/16 | 5/16 |
 | Black Crown | 1 | 0/1 | 0/1 | 1/1 | 0/1 |
 | Bullpadel | 34 | 30/34 | 13/34 | 32/34 | 13/34 |
@@ -19,7 +19,7 @@ Each cell shows records with the field / records for that brand. Numerical balan
 | Joma | 1 | 1/1 | 0/1 | 1/1 | 0/1 |
 | Kuikma | 3 | 3/3 | 1/3 | 3/3 | 2/3 |
 | Nox | 46 | 43/46 | 0/46 | 46/46 | 11/46 |
-| Oxdog | 12 | 12/12 | 0/12 | 7/12 | 4/12 |
+| Oxdog | 13 | 13/13 | 0/13 | 7/13 | 4/13 |
 | Padelsmith | 1 | 1/1 | 0/1 | 1/1 | 1/1 |
 | Royal Padel | 14 | 10/14 | 0/14 | 12/14 | 3/14 |
 | Shooter | 1 | 1/1 | 0/1 | 1/1 | 0/1 |

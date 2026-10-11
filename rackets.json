@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-10",
+ "built": "2026-10-11",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 256,
+ "count": 260,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -78,6 +78,168 @@
      "checkedOn": "2026-10-10",
      "verbatim": "160 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7463-padel-racket-adidas-2026-world-cup-argentina-8435739406526.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-2026-world-cup-belgium",
+   "name": "adidas 2026 World Cup Belgium",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-2026-world-cup-belgium",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7459-padel-racket-adidas-2026-world-cup-belgium-8435739406489.html",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 33,
+    "control": 74,
+    "handling": 48,
+    "forgiveness": 90,
+    "comfort": 75,
+    "value": 29
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Round",
+     "source": "https://allforpadel.com/en/padel-rackets/7459-padel-racket-adidas-2026-world-cup-belgium-8435739406489.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7459-padel-racket-adidas-2026-world-cup-belgium-8435739406489.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7459-padel-racket-adidas-2026-world-cup-belgium-8435739406489.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiberglass",
+     "material": "Fiberglass",
+     "verbatim": "Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7459-padel-racket-adidas-2026-world-cup-belgium-8435739406489.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7459-padel-racket-adidas-2026-world-cup-belgium-8435739406489.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€160",
+     "value": 160,
+     "currency": "EUR",
+     "checkedOn": "2026-10-11",
+     "verbatim": "160 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7459-padel-racket-adidas-2026-world-cup-belgium-8435739406489.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-adipower-legend-2025",
+   "name": "Adidas Adipower Legend 2025",
+   "brand": "Adidas",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/adidas-adipower-legend-2025",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7426-adidas-adipower-legend-2025-racket-8435739407738.html",
+   "level": "PRO",
+   "player": "Seba Nerone",
+   "ratings": {
+    "power": 74,
+    "control": 10,
+    "handling": 50,
+    "forgiveness": 38,
+    "comfort": 54,
+    "value": 20
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Diamond Oversize",
+     "source": "https://allforpadel.com/en/padel-rackets/7426-adidas-adipower-legend-2025-racket-8435739407738.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "315 to 330 g (11.1 to 11.6 oz)",
+     "min": 315,
+     "max": 330,
+     "verbatim": "315-330 Gr (Light Weight)",
+     "source": "https://allforpadel.com/en/padel-rackets/7426-adidas-adipower-legend-2025-racket-8435739407738.html",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Head Heavy",
+     "source": "https://allforpadel.com/en/padel-rackets/7426-adidas-adipower-legend-2025-racket-8435739407738.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7426-adidas-adipower-legend-2025-racket-8435739407738.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbon 3K",
+     "material": "Carbon 3K",
+     "verbatim": "Carbon 3K",
+     "source": "https://allforpadel.com/en/padel-rackets/7426-adidas-adipower-legend-2025-racket-8435739407738.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7426-adidas-adipower-legend-2025-racket-8435739407738.html",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Its roughness optimises ball friction",
+     "source": "https://allforpadel.com/en/padel-rackets/7426-adidas-adipower-legend-2025-racket-8435739407738.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€180",
+     "value": 180,
+     "currency": "EUR",
+     "checkedOn": "2026-10-11",
+     "verbatim": "180 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7426-adidas-adipower-legend-2025-racket-8435739407738.html",
      "sourceType": "retailer"
     }
    }
@@ -2158,6 +2320,100 @@
      "checkedOn": "2026-10-06",
      "verbatim": "€425.00 Tax included",
      "source": "https://allforpadel.com/en/padel-rackets/7613-adidas-metalbone-pro-edt-2026-racket-ale-galan-8435739409497.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-metalbone-reserve-2025",
+   "name": "adidas Metalbone Reserve 2025",
+   "brand": "Adidas",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/adidas-metalbone-reserve-2025",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7423-adidas-metalbone-reserve-2025-racket-8435739405796.html",
+   "level": "PRO",
+   "player": "Ale Galán",
+   "ratings": {
+    "power": 83,
+    "control": 10,
+    "handling": 28,
+    "forgiveness": 38,
+    "comfort": 47,
+    "value": 14
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Shape: Diamond",
+     "source": "https://allforpadel.com/en/padel-rackets/7423-adidas-metalbone-reserve-2025-racket-8435739405796.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "Weight: 360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7423-adidas-metalbone-reserve-2025-racket-8435739405796.html",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance: Head Heavy",
+     "source": "https://allforpadel.com/en/padel-rackets/7423-adidas-metalbone-reserve-2025-racket-8435739405796.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Rubber: Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7423-adidas-metalbone-reserve-2025-racket-8435739405796.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbon Aluminized 16K",
+     "material": "Carbon Aluminized 16K",
+     "verbatim": "Face: Carbon Aluminized 16K",
+     "source": "https://allforpadel.com/en/padel-rackets/7423-adidas-metalbone-reserve-2025-racket-8435739405796.html",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "tubular carbon",
+     "material": "tubular carbon",
+     "verbatim": "tubular carbon structure",
+     "source": "https://allforpadel.com/en/padel-rackets/7423-adidas-metalbone-reserve-2025-racket-8435739405796.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Thickness: 38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7423-adidas-metalbone-reserve-2025-racket-8435739405796.html",
+     "sourceType": "retailer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Spin Blade Decal texture",
+     "source": "https://allforpadel.com/en/padel-rackets/7423-adidas-metalbone-reserve-2025-racket-8435739405796.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€260",
+     "value": 260,
+     "currency": "EUR",
+     "checkedOn": "2026-10-11",
+     "verbatim": "260 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7423-adidas-metalbone-reserve-2025-racket-8435739405796.html",
      "sourceType": "retailer"
     }
    }
@@ -14893,6 +15149,75 @@
      "checkedOn": "2026-10-08",
      "verbatim": "319 EUR (schema.org offer)",
      "source": "https://www.oxdogpadel.com/products/ultimate-pro-light-2027",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "oxdog-ultimate-pro-smash-2025",
+   "name": "Oxdog Ultimate Pro Smash 2025",
+   "brand": "Oxdog",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/oxdog-ultimate-pro-smash-2025",
+   "productUrl": "https://www.oxdogpadel.com/products/pala-oxdog-ultimate-pro-smash",
+   "level": "Intermediate-Advanced",
+   "player": null,
+   "ratings": {
+    "power": 84,
+    "control": 10,
+    "handling": 26,
+    "forgiveness": 32,
+    "comfort": 41,
+    "value": 11
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "face"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Shape: Diamond",
+     "source": "https://www.oxdogpadel.com/products/pala-oxdog-ultimate-pro-smash",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "370 g (13.1 oz)",
+     "min": 370,
+     "max": 370,
+     "verbatim": "Weight: 370",
+     "source": "https://www.oxdogpadel.com/products/pala-oxdog-ultimate-pro-smash",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance: TOP",
+     "source": "https://www.oxdogpadel.com/products/pala-oxdog-ultimate-pro-smash",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Featuring a sandy surface",
+     "source": "https://www.oxdogpadel.com/products/pala-oxdog-ultimate-pro-smash",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€319",
+     "value": 319,
+     "currency": "EUR",
+     "checkedOn": "2026-10-11",
+     "verbatim": "319 EUR (schema.org offer)",
+     "source": "https://www.oxdogpadel.com/products/pala-oxdog-ultimate-pro-smash",
      "sourceType": "manufacturer"
     }
    }
