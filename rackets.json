@@ -5,7 +5,7 @@
  "built": "2026-10-13",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 268,
+ "count": 276,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -5456,6 +5456,97 @@
    }
   },
   {
+   "slug": "bullpadel-flow-legend-2027",
+   "name": "Bullpadel Flow Legend 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-flow-legend-2027",
+   "productUrl": "https://www.bullpadel.com/es/6842-pala-bullpadel-flow-27.html",
+   "level": "Profesional, Avanzado",
+   "player": "Alejandra Salazar",
+   "ratings": {
+    "power": 65,
+    "control": 26,
+    "handling": 58,
+    "forgiveness": 32,
+    "comfort": 52,
+    "value": 13
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/6842-pala-bullpadel-flow-27.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
+     "min": 350,
+     "max": 360,
+     "verbatim": "Peso 350 - 360 g",
+     "source": "https://www.bullpadel.com/es/6842-pala-bullpadel-flow-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26 cm (10.2 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26,
+     "verbatim": "Balance Aprox. 26 cm",
+     "source": "https://www.bullpadel.com/es/6842-pala-bullpadel-flow-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/6842-pala-bullpadel-flow-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "Composición exterior Fibrix",
+     "source": "https://www.bullpadel.com/es/6842-pala-bullpadel-flow-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6842-pala-bullpadel-flow-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/6842-pala-bullpadel-flow-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€269.99",
+     "value": 269.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-13",
+     "verbatim": "269.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6842-pala-bullpadel-flow-27.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-game-ctr-negro",
    "name": "Bullpadel Game CTR Negro",
    "brand": "Bullpadel",
@@ -6147,6 +6238,186 @@
    }
   },
   {
+   "slug": "bullpadel-hack-05-comfort-2027",
+   "name": "Bullpadel Hack 05 Comfort 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-hack-05-comfort-2027",
+   "productUrl": "https://www.bullpadel.com/es/6830-pala-bullpadel-hack-05-cmf-27.html",
+   "level": "Profesional",
+   "player": "Paquito Navarro",
+   "ratings": {
+    "power": 82,
+    "control": 10,
+    "handling": 30,
+    "forgiveness": 32,
+    "comfort": 42,
+    "value": 13
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/6830-pala-bullpadel-hack-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 370 g (12.7 to 13.1 oz)",
+     "min": 360,
+     "max": 370,
+     "verbatim": "Peso 360 - 370 g",
+     "source": "https://www.bullpadel.com/es/6830-pala-bullpadel-hack-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High, 26.5 cm (10.4 in)",
+     "value": "high",
+     "mm": null,
+     "cm": 26.5,
+     "verbatim": "Balance Aprox. 26,5 cm",
+     "source": "https://www.bullpadel.com/es/6830-pala-bullpadel-hack-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/6830-pala-bullpadel-hack-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "Composición exterior Fibrix",
+     "source": "https://www.bullpadel.com/es/6830-pala-bullpadel-hack-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6830-pala-bullpadel-hack-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/6830-pala-bullpadel-hack-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€259.99",
+     "value": 259.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-13",
+     "verbatim": "259.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6830-pala-bullpadel-hack-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-icon-2027",
+   "name": "Bullpadel Icon 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-icon-2027",
+   "productUrl": "https://www.bullpadel.com/es/6841-pala-bullpadel-icon-27.html",
+   "level": "Profesional, Avanzado",
+   "player": "Juan Martín Díaz",
+   "ratings": {
+    "power": 70,
+    "control": 26,
+    "handling": 44,
+    "forgiveness": 24,
+    "comfort": 38,
+    "value": 12
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/6841-pala-bullpadel-icon-27.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "370 to 375 g (13.1 to 13.2 oz)",
+     "min": 370,
+     "max": 375,
+     "verbatim": "Peso 370 - 375 g",
+     "source": "https://www.bullpadel.com/es/6841-pala-bullpadel-icon-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26.3 cm (10.4 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26.3,
+     "verbatim": "Balance 26,3 cm",
+     "source": "https://www.bullpadel.com/es/6841-pala-bullpadel-icon-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/6841-pala-bullpadel-icon-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 12K",
+     "material": "X-Tend Carbon 12K",
+     "verbatim": "Composición exterior X-Tend Carbon 12K",
+     "source": "https://www.bullpadel.com/es/6841-pala-bullpadel-icon-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6841-pala-bullpadel-icon-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/6841-pala-bullpadel-icon-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€274.99",
+     "value": 274.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-13",
+     "verbatim": "274.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6841-pala-bullpadel-icon-27.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-indiga-pwr-2026",
    "name": "Bullpadel Indiga PWR 2026",
    "brand": "Bullpadel",
@@ -6588,6 +6859,101 @@
    }
   },
   {
+   "slug": "bullpadel-neuron-02-2027",
+   "name": "Bullpadel Neuron 02 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-neuron-02-2027",
+   "productUrl": "https://www.bullpadel.com/es/6836-pala-bullpadel-neuron-27.html",
+   "level": "Profesional",
+   "player": "Fede Chingotto",
+   "ratings": {
+    "power": 32,
+    "control": 73,
+    "handling": 66,
+    "forgiveness": 33,
+    "comfort": 31,
+    "value": 11
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "control",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Forma Híbrida",
+     "source": "https://www.bullpadel.com/es/6836-pala-bullpadel-neuron-27.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/6836-pala-bullpadel-neuron-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low, 25.5 cm (10.0 in)",
+     "value": "low",
+     "mm": null,
+     "cm": 25.5,
+     "verbatim": "Balance Aprox. 25,5 cm",
+     "source": "https://www.bullpadel.com/es/6836-pala-bullpadel-neuron-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Hard, Multieva (HardEVA)",
+     "value": "hard",
+     "material": "Multieva (HardEVA)",
+     "verbatim": "Tacto Duro",
+     "source": "https://www.bullpadel.com/es/6836-pala-bullpadel-neuron-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 3K",
+     "material": "X-Tend Carbon 3K",
+     "verbatim": "Composición exterior X-Tend Carbon 3K",
+     "source": "https://www.bullpadel.com/es/6836-pala-bullpadel-neuron-27.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% de Carbono entrelazado bidireccional",
+     "material": "100% de Carbono entrelazado bidireccional",
+     "verbatim": "marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/6836-pala-bullpadel-neuron-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6836-pala-bullpadel-neuron-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/6836-pala-bullpadel-neuron-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€339.99",
+     "value": 339.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-13",
+     "verbatim": "339.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6836-pala-bullpadel-neuron-27.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-neuron-02-edge-2026",
    "name": "Bullpadel Neuron 02 Edge 2026",
    "brand": "Bullpadel",
@@ -6856,6 +7222,97 @@
      "verbatim": "179.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-pearl-2026",
      "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-pearl-2027",
+   "name": "Bullpadel Pearl 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-pearl-2027",
+   "productUrl": "https://www.bullpadel.com/es/6816-pala-bullpadel-pearl-27.html",
+   "level": "Profesional, Avanzado",
+   "player": "Bea González",
+   "ratings": {
+    "power": 66,
+    "control": 26,
+    "handling": 54,
+    "forgiveness": 32,
+    "comfort": 51,
+    "value": 11
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/6816-pala-bullpadel-pearl-27.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "355 to 365 g (12.5 to 12.9 oz)",
+     "min": 355,
+     "max": 365,
+     "verbatim": "Peso 355 - 365 g",
+     "source": "https://www.bullpadel.com/es/6816-pala-bullpadel-pearl-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26 cm (10.2 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26,
+     "verbatim": "Balance Aprox. 26 cm",
+     "source": "https://www.bullpadel.com/es/6816-pala-bullpadel-pearl-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/6816-pala-bullpadel-pearl-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "Composición exterior Fibrix",
+     "source": "https://www.bullpadel.com/es/6816-pala-bullpadel-pearl-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6816-pala-bullpadel-pearl-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/6816-pala-bullpadel-pearl-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€294.99",
+     "value": 294.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-13",
+     "verbatim": "294.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6816-pala-bullpadel-pearl-27.html",
+     "sourceType": "manufacturer"
     }
    }
   },
@@ -7400,6 +7857,104 @@
    }
   },
   {
+   "slug": "bullpadel-vertex-05-comfort-2027",
+   "name": "Bullpadel Vertex 05 Comfort 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-05-comfort-2027",
+   "productUrl": "https://www.bullpadel.com/es/6834-pala-bullpadel-vertex-05-cmf-27.html",
+   "level": "Avanzado",
+   "player": null,
+   "ratings": {
+    "power": 68,
+    "control": 26,
+    "handling": 50,
+    "forgiveness": 32,
+    "comfort": 50,
+    "value": 13
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/6834-pala-bullpadel-vertex-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 370 g (12.7 to 13.1 oz)",
+     "min": 360,
+     "max": 370,
+     "verbatim": "Peso 360 - 370 g",
+     "source": "https://www.bullpadel.com/es/6834-pala-bullpadel-vertex-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "25.5 cm (10.0 in)",
+     "value": null,
+     "mm": null,
+     "cm": 25.5,
+     "verbatim": "Balance Aprox. 25,5 cm",
+     "source": "https://www.bullpadel.com/es/6834-pala-bullpadel-vertex-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/6834-pala-bullpadel-vertex-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "Composición exterior Fibrix",
+     "source": "https://www.bullpadel.com/es/6834-pala-bullpadel-vertex-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% Carbono entrelazado bidireccional",
+     "material": "100% Carbono entrelazado bidireccional",
+     "verbatim": "marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/6834-pala-bullpadel-vertex-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6834-pala-bullpadel-vertex-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso Top Spin",
+     "source": "https://www.bullpadel.com/es/6834-pala-bullpadel-vertex-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€259.99",
+     "value": 259.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-13",
+     "verbatim": "259.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6834-pala-bullpadel-vertex-05-cmf-27.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-vertex-05-geo-2026",
    "name": "Bullpadel Vertex 05 Geo 2026",
    "brand": "Bullpadel",
@@ -7764,6 +8319,96 @@
    }
   },
   {
+   "slug": "bullpadel-wonder-2027",
+   "name": "Bullpadel Wonder 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-wonder-2027",
+   "productUrl": "https://www.bullpadel.com/es/6844-pala-bullpadel-wonder-27.html",
+   "level": "Profesional, Avanzado",
+   "player": "Claudia Fernández",
+   "ratings": {
+    "power": 41,
+    "control": 57,
+    "handling": 58,
+    "forgiveness": 55,
+    "comfort": 52,
+    "value": 11
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Forma Híbrida",
+     "source": "https://www.bullpadel.com/es/6844-pala-bullpadel-wonder-27.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
+     "min": 350,
+     "max": 360,
+     "verbatim": "Peso 350 - 360 g",
+     "source": "https://www.bullpadel.com/es/6844-pala-bullpadel-wonder-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "25 cm (9.8 in)",
+     "value": null,
+     "mm": null,
+     "cm": 25,
+     "verbatim": "Balance Aprox. 25 cm",
+     "source": "https://www.bullpadel.com/es/6844-pala-bullpadel-wonder-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/6844-pala-bullpadel-wonder-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "Composición exterior Fibrix",
+     "source": "https://www.bullpadel.com/es/6844-pala-bullpadel-wonder-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6844-pala-bullpadel-wonder-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/6844-pala-bullpadel-wonder-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€284.99",
+     "value": 284.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-13",
+     "verbatim": "284.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6844-pala-bullpadel-wonder-27.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-xplo-2026",
    "name": "Bullpadel Xplo 2026",
    "brand": "Bullpadel",
@@ -7930,6 +8575,89 @@
      "checkedOn": "2026-09-29",
      "verbatim": "329.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/gb/6839-pala-bullpadel-xplo-27.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-xplo-comfort-2027",
+   "name": "Bullpadel XPLO Comfort 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-xplo-comfort-2027",
+   "productUrl": "https://www.bullpadel.com/es/6840-pala-bullpadel-xplo-cmf-27.html",
+   "level": "Profesional, Avanzado",
+   "player": null,
+   "ratings": {
+    "power": 66,
+    "control": 34,
+    "handling": 26,
+    "forgiveness": 50,
+    "comfort": 41,
+    "value": 13
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "face"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/6840-pala-bullpadel-xplo-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High, 26.5 cm (10.4 in)",
+     "value": "high",
+     "mm": null,
+     "cm": 26.5,
+     "verbatim": "balance alto",
+     "source": "https://www.bullpadel.com/es/6840-pala-bullpadel-xplo-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/6840-pala-bullpadel-xplo-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "Composición exterior Fibrix",
+     "source": "https://www.bullpadel.com/es/6840-pala-bullpadel-xplo-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6840-pala-bullpadel-xplo-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/6840-pala-bullpadel-xplo-cmf-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€249.99",
+     "value": 249.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-13",
+     "verbatim": "249.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6840-pala-bullpadel-xplo-cmf-27.html",
      "sourceType": "manufacturer"
     }
    }
