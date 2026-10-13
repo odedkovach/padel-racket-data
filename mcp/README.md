@@ -29,4 +29,6 @@ A listing describes the server. It is not evidence of use.
 
 ## ChatGPT
 
-`chatgpt-plugin/` holds the package prepared for the ChatGPT app directory. It has not been submitted.
+`chatgpt-plugin/` holds the package for the ChatGPT app directory. Version 1.0.0 was published on 14 October 2026 through the dashboard form. Version 1.0.1 (the name "PadelTrue Padel Racket Finder", starter questions for 2027 models, a Spanish listing) is prepared here and waits for upload and OpenAI review. For the upload the manifest `name` is replaced by the package name the dashboard holds, `app-6abc382b152481919010074cc3b33c51`.
+
+The fixed question set for the tool descriptions is `content/app-golden-prompts.json`; `npm run app-prompts` replays it weekly and writes `data/app-prompts.md`.

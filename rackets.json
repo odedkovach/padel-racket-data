@@ -5,7 +5,7 @@
  "built": "2026-10-13",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 276,
+ "count": 281,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -4829,6 +4829,104 @@
    }
   },
   {
+   "slug": "babolat-veron-juan-lebron-3-1",
+   "name": "Babolat Veron Juan Lebrón 3.1",
+   "brand": "Babolat",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/babolat-veron-juan-lebron-3-1",
+   "productUrl": "https://www.babolat.com/us/veron-juan-lebron-3.1/150197.html",
+   "level": "intermediate and competitive players",
+   "player": "Juan Lebrón",
+   "ratings": {
+    "power": 66,
+    "control": 26,
+    "handling": 54,
+    "forgiveness": 24,
+    "comfort": 41,
+    "value": null
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "its diamond shape",
+     "source": "https://www.babolat.com/us/veron-juan-lebron-3.1/150197.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 370 g (12.3 to 13.1 oz)",
+     "min": 350,
+     "max": 370,
+     "verbatim": "360 g +/- 10g / 12.7 oz",
+     "source": "https://www.babolat.com/us/veron-juan-lebron-3.1/150197.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "270 mm (10.6 in)",
+     "value": null,
+     "mm": 270,
+     "cm": null,
+     "verbatim": "270 mm",
+     "source": "https://www.babolat.com/us/veron-juan-lebron-3.1/150197.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Black EVA",
+     "value": null,
+     "material": "Black EVA",
+     "verbatim": "CORE: Black EVA",
+     "source": "https://www.babolat.com/us/veron-juan-lebron-3.1/150197.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon Flex",
+     "material": "Carbon Flex",
+     "verbatim": "SURFACE: Carbon Flex",
+     "source": "https://www.babolat.com/us/veron-juan-lebron-3.1/150197.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbon",
+     "material": "Carbon",
+     "verbatim": "FRAME: Carbon",
+     "source": "https://www.babolat.com/us/veron-juan-lebron-3.1/150197.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 mm / 1.5 in",
+     "source": "https://www.babolat.com/us/veron-juan-lebron-3.1/150197.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Its textured surface enhances spin",
+     "source": "https://www.babolat.com/us/veron-juan-lebron-3.1/150197.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "$270",
+     "value": 270,
+     "currency": "USD",
+     "checkedOn": "2026-10-13",
+     "verbatim": "270 USD (schema.org offer)",
+     "source": "https://www.babolat.com/us/veron-juan-lebron-3.1/150197.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "babolat-viper-juan-lebron-3-0-2026",
    "name": "Babolat Viper Juan Lebrón 3.0 2026",
    "brand": "Babolat",
@@ -4913,6 +5011,104 @@
      "checkedOn": "2026-10-01",
      "verbatim": "380 EUR (schema.org offer)",
      "source": "https://www.babolat.com/es/viper-juan-lebron-3.0/150174.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "babolat-viper-juan-lebron-3-1",
+   "name": "Babolat Viper Juan Lebrón 3.1",
+   "brand": "Babolat",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/babolat-viper-juan-lebron-3-1",
+   "productUrl": "https://www.babolat.com/us/viper-juan-lebron-3.1/150195.html",
+   "level": "high-level competitive players",
+   "player": "Juan Lebrón",
+   "ratings": {
+    "power": 70,
+    "control": 26,
+    "handling": 46,
+    "forgiveness": 24,
+    "comfort": 39,
+    "value": null
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Diamond",
+     "source": "https://www.babolat.com/us/viper-juan-lebron-3.1/150195.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 380 g (12.7 to 13.4 oz)",
+     "min": 360,
+     "max": 380,
+     "verbatim": "370 g +/- 10g / 13.05 oz",
+     "source": "https://www.babolat.com/us/viper-juan-lebron-3.1/150195.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "270 mm (10.6 in)",
+     "value": null,
+     "mm": 270,
+     "cm": null,
+     "verbatim": "270 mm",
+     "source": "https://www.babolat.com/us/viper-juan-lebron-3.1/150195.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Hard EVA",
+     "value": null,
+     "material": "Hard EVA",
+     "verbatim": "CORE: Hard EVA",
+     "source": "https://www.babolat.com/us/viper-juan-lebron-3.1/150195.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon 3K",
+     "material": "Carbon 3K",
+     "verbatim": "SURFACE: Carbon 3K",
+     "source": "https://www.babolat.com/us/viper-juan-lebron-3.1/150195.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbon",
+     "material": "Carbon",
+     "verbatim": "FRAME: Carbon",
+     "source": "https://www.babolat.com/us/viper-juan-lebron-3.1/150195.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 mm / 1.5 in",
+     "source": "https://www.babolat.com/us/viper-juan-lebron-3.1/150195.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Its textured surface enhances spin",
+     "source": "https://www.babolat.com/us/viper-juan-lebron-3.1/150195.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "$420",
+     "value": 420,
+     "currency": "USD",
+     "checkedOn": "2026-10-13",
+     "verbatim": "420 USD (schema.org offer)",
+     "source": "https://www.babolat.com/us/viper-juan-lebron-3.1/150195.html",
      "sourceType": "manufacturer"
     }
    }
@@ -6328,6 +6524,96 @@
    }
   },
   {
+   "slug": "bullpadel-hack-05-milano",
+   "name": "Bullpadel Hack 05 Milano",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-hack-05-milano",
+   "productUrl": "https://www.bullpadel.com/es/6931-hack-05-milano.html",
+   "level": "Profesional",
+   "player": "Paquito Navarro",
+   "ratings": {
+    "power": 70,
+    "control": 26,
+    "handling": 46,
+    "forgiveness": 17,
+    "comfort": 31,
+    "value": 8
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/6931-hack-05-milano.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/6931-hack-05-milano.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26.5 cm (10.4 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26.5,
+     "verbatim": "Balance Aprox. 26,5 cm",
+     "source": "https://www.bullpadel.com/es/6931-hack-05-milano.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, MultiEVA",
+     "value": "medium-hard",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio / Duro",
+     "source": "https://www.bullpadel.com/es/6931-hack-05-milano.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Tricarbon 18K",
+     "material": "Tricarbon 18K",
+     "verbatim": "Composición exterior Tricarbon 18K",
+     "source": "https://www.bullpadel.com/es/6931-hack-05-milano.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6931-hack-05-milano.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/6931-hack-05-milano.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€399.99",
+     "value": 399.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-13",
+     "verbatim": "399.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6931-hack-05-milano.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-icon-2027",
    "name": "Bullpadel Icon 2027",
    "brand": "Bullpadel",
@@ -7046,6 +7332,90 @@
      "checkedOn": "2026-09-28",
      "verbatim": "Precio habitual: 319,99 € (25% de descuento) Precio: 239,99 €",
      "source": "https://www.bullpadel.com/es/5685-pala-bullpadel-neuron-02-edge.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-neuron-02-edge-2027",
+   "name": "Bullpadel Neuron 02 Edge 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-neuron-02-edge-2027",
+   "productUrl": "https://www.bullpadel.com/es/6837-pala-bullpadel-neuron-02-edge-27.html",
+   "level": "Profesional",
+   "player": "Fede Chingotto",
+   "ratings": {
+    "power": 52,
+    "control": 50,
+    "handling": 46,
+    "forgiveness": 28,
+    "comfort": 23,
+    "value": 8
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "balance"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/6837-pala-bullpadel-neuron-02-edge-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26 cm (10.2 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26,
+     "verbatim": "Balance Aprox. 26 cm",
+     "source": "https://www.bullpadel.com/es/6837-pala-bullpadel-neuron-02-edge-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Hard, Multieva (HardEVA)",
+     "value": "hard",
+     "material": "Multieva (HardEVA)",
+     "verbatim": "Tacto Duro",
+     "source": "https://www.bullpadel.com/es/6837-pala-bullpadel-neuron-02-edge-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 3K",
+     "material": "X-Tend Carbon 3K",
+     "verbatim": "Composición exterior X-Tend Carbon 3K",
+     "source": "https://www.bullpadel.com/es/6837-pala-bullpadel-neuron-02-edge-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6837-pala-bullpadel-neuron-02-edge-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/6837-pala-bullpadel-neuron-02-edge-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€339.99",
+     "value": 339.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-13",
+     "verbatim": "339.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6837-pala-bullpadel-neuron-02-edge-27.html",
      "sourceType": "manufacturer"
     }
    }
@@ -8040,6 +8410,96 @@
      "verbatim": "199.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-vertex-05-geo",
      "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-vertex-05-geo-2027",
+   "name": "Bullpadel Vertex 05 Geo 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-05-geo-2027",
+   "productUrl": "https://www.bullpadel.com/es/6833-pala-bullpadel-vertex-05-geo-27.html",
+   "level": "Profesional",
+   "player": "Pablo Cardona",
+   "ratings": {
+    "power": 52,
+    "control": 50,
+    "handling": 46,
+    "forgiveness": 35,
+    "comfort": 31,
+    "value": 8
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "balance"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/6833-pala-bullpadel-vertex-05-geo-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26 cm (10.2 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26,
+     "verbatim": "Balance Aprox. 26 cm",
+     "source": "https://www.bullpadel.com/es/6833-pala-bullpadel-vertex-05-geo-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, MultiEVA",
+     "value": "medium-hard",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio / Duro",
+     "source": "https://www.bullpadel.com/es/6833-pala-bullpadel-vertex-05-geo-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 3K",
+     "material": "X-Tend Carbon 3K",
+     "verbatim": "Composición exterior X-Tend Carbon 3K",
+     "source": "https://www.bullpadel.com/es/6833-pala-bullpadel-vertex-05-geo-27.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "carbono de alta resistencia",
+     "material": "carbono de alta resistencia",
+     "verbatim": "estructura de carbono de alta resistencia",
+     "source": "https://www.bullpadel.com/es/6833-pala-bullpadel-vertex-05-geo-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6833-pala-bullpadel-vertex-05-geo-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso Top Spin",
+     "source": "https://www.bullpadel.com/es/6833-pala-bullpadel-vertex-05-geo-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€349.99",
+     "value": 349.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-13",
+     "verbatim": "349.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6833-pala-bullpadel-vertex-05-geo-27.html",
+     "sourceType": "manufacturer"
     }
    }
   },

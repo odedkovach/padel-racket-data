@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "padeltrue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find and compare padel rackets using published specifications, observed prices and transparent calculated ratings. Build a shortlist by budget and playing priorities, compare exact models and inspect the sources behind each recommendation.",
   "author": {
     "name": "PadelTrue",
@@ -14,6 +14,8 @@
   "keywords": [
     "padel",
     "padel rackets",
+    "pala de padel",
+    "2027",
     "specifications",
     "comparison",
     "open data"
@@ -21,7 +23,7 @@
   "extensions": {
     "com.openai": {
       "interface": {
-        "displayName": "PadelTrue Racket Finder",
+        "displayName": "PadelTrue Padel Racket Finder",
         "shortDescription": "Sourced padel racket specs",
         "longDescription": "PadelTrue gives you the published specifications of padel rackets, each with the page it was read from and the wording used there, so you can check a claim before you buy.\n\nAsk it to find a racket by name, to shortlist rackets by an explicit budget and priority, or to compare two exact models and years. Shortlists state the filters and ordering rule. Individual records and comparisons show the published evidence and the limits of calculated ratings.\n\nWhat it covers: the PadelTrue catalogue, not the whole market. The ratings for power, control, handling, forgiveness and comfort are calculated from five published specifications with a formula printed on the website. They are not play tests, laboratory measurements, customer reviews or a personal fitting. When a rating input is missing the app says so, because a rating built on fewer inputs is less certain. When a maker's own page contradicts itself, the app reports the contradiction instead of choosing one side.\n\nWhat it does not do: it does not sell rackets, take payments, hold accounts or give medical advice. A price is the price seen on the source page on the date shown. It does not tell you whether a racket is in stock or delivered to your country.\n\nThe app is read only and needs no sign-in. The app operates on the tool arguments sent for your request and does not request access to your full conversation or an account profile. Service request metadata and retention are described in our privacy policy.\n\nPadelTrue may earn from eligible retailer links on its website. Commissions do not change ratings or result order. The data is open under CC BY 4.0.",
         "developerName": "PadelTrue",
@@ -36,9 +38,9 @@
         "privacyPolicyURL": "https://padeltrue.com/privacy",
         "termsOfServiceURL": "https://padeltrue.com/terms",
         "defaultPrompt": [
-          "Compare the Babolat Counter Viper 2.6 and Counter Veron 2.6, with sources.",
-          "Find forgiving padel rackets under 150 euros.",
-          "Show the published specs of the Nox AT10 18K Alum 2026."
+          "Compare the Nox Genius 18K Alum 2027 with the Nox AT10 Luxury Genius 18K Alum 2026, with sources.",
+          "Find forgiving 2027 padel rackets under 250 euros.",
+          "Show the published specs of the Bullpadel Hack 05 2027."
         ],
         "brandColor": "#0B4FD8",
         "composerIcon": "./assets/icon.png",
@@ -97,7 +99,17 @@
         "commerce_description": "The app sells nothing and processes no payment. Its answers contain no retailer link and no checkout link. They link to information pages on padeltrue.com. Some of those pages carry disclosed affiliate links to retailers, which never affect a rating or the order of results."
       },
       "publication": {
-        "release_notes": "First release. Find padel rackets, read one racket with the source of every figure, and compare two rackets. Read only, no sign-in."
+        "release_notes": "New name that says padel racket, starter questions for the 2027 models, and a Spanish listing. The tools are unchanged.",
+        "translations": {
+          "es-ES": {
+            "subtitle": "Fichas de palas con fuentes",
+            "description": "PadelTrue te da las especificaciones publicadas de las palas de pádel, cada una con la página de la que se leyó y las palabras exactas que usa, para que puedas comprobar un dato antes de comprar.\n\nPídele que busque una pala por su nombre, que haga una lista corta según un presupuesto explícito y una prioridad, o que compare dos modelos y años exactos. Las listas indican los filtros y la regla de orden. Las fichas y las comparativas muestran la evidencia publicada y los límites de las valoraciones calculadas.\n\nQué cubre: el catálogo de PadelTrue, no todo el mercado. Las valoraciones de potencia, control, manejo, tolerancia y comodidad se calculan a partir de cinco especificaciones publicadas con una fórmula impresa en la web. No son pruebas en pista, mediciones de laboratorio, opiniones de clientes ni un ajuste personal. Cuando falta un dato para una valoración, la app lo dice, porque una valoración con menos datos es menos segura. Cuando la página del fabricante se contradice, la app informa de la contradicción en lugar de elegir un lado.\n\nQué no hace: no vende palas, no cobra pagos, no tiene cuentas y no da consejo médico. Un precio es el precio visto en la página de origen en la fecha indicada. No te dice si una pala está en stock ni si se envía a tu país.\n\nLa app es de solo lectura y no necesita inicio de sesión. Funciona con los argumentos enviados para tu consulta y no pide acceso a toda tu conversación ni a un perfil de cuenta. Los metadatos de las solicitudes y su conservación se describen en nuestra política de privacidad.\n\nPadelTrue puede recibir ingresos por enlaces a tiendas en su web. Las comisiones no cambian las valoraciones ni el orden de los resultados. Los datos son abiertos bajo CC BY 4.0."
+          },
+          "es-419": {
+            "subtitle": "Fichas de palas con fuentes",
+            "description": "PadelTrue te da las especificaciones publicadas de las palas de pádel, cada una con la página de la que se leyó y las palabras exactas que usa, para que puedas comprobar un dato antes de comprar.\n\nPídele que busque una pala por su nombre, que haga una lista corta según un presupuesto explícito y una prioridad, o que compare dos modelos y años exactos. Las listas indican los filtros y la regla de orden. Las fichas y las comparativas muestran la evidencia publicada y los límites de las valoraciones calculadas.\n\nQué cubre: el catálogo de PadelTrue, no todo el mercado. Las valoraciones de potencia, control, manejo, tolerancia y comodidad se calculan a partir de cinco especificaciones publicadas con una fórmula impresa en la web. No son pruebas en pista, mediciones de laboratorio, opiniones de clientes ni un ajuste personal. Cuando falta un dato para una valoración, la app lo dice, porque una valoración con menos datos es menos segura. Cuando la página del fabricante se contradice, la app informa de la contradicción en lugar de elegir un lado.\n\nQué no hace: no vende palas, no cobra pagos, no tiene cuentas y no da consejo médico. Un precio es el precio visto en la página de origen en la fecha indicada. No te dice si una pala está en stock ni si se envía a tu país.\n\nLa app es de solo lectura y no necesita inicio de sesión. Funciona con los argumentos enviados para tu consulta y no pide acceso a toda tu conversación ni a un perfil de cuenta. Los metadatos de las solicitudes y su conservación se describen en nuestra política de privacidad.\n\nPadelTrue puede recibir ingresos por enlaces a tiendas en su web. Las comisiones no cambian las valoraciones ni el orden de los resultados. Los datos son abiertos bajo CC BY 4.0."
+          }
+        }
       }
     }
   }
