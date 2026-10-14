@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-13",
+ "built": "2026-10-14",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 281,
+ "count": 283,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -6524,6 +6524,93 @@
    }
   },
   {
+   "slug": "bullpadel-hack-05-hybrid-2027",
+   "name": "Bullpadel Hack 05 Hybrid 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-hack-05-hybrid-2027",
+   "productUrl": "https://www.bullpadel.com/es/6829-pala-bullpadel-hack-05-hybrid-27.html",
+   "level": "Profesional",
+   "player": null,
+   "ratings": {
+    "power": 32,
+    "control": 73,
+    "handling": 66,
+    "forgiveness": 54,
+    "comfort": 55,
+    "value": 11
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "control"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Forma Híbrida",
+     "source": "https://www.bullpadel.com/es/6829-pala-bullpadel-hack-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/6829-pala-bullpadel-hack-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low, 25 cm (9.8 in)",
+     "value": "low",
+     "mm": null,
+     "cm": 25,
+     "verbatim": "Balance Aprox. 25 cm",
+     "source": "https://www.bullpadel.com/es/6829-pala-bullpadel-hack-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-soft, MultiEVA",
+     "value": "medium-soft",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio / Blando",
+     "source": "https://www.bullpadel.com/es/6829-pala-bullpadel-hack-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Aluminized Carbon 18K",
+     "material": "Aluminized Carbon 18K",
+     "verbatim": "Composición exterior Aluminized Carbon 18K",
+     "source": "https://www.bullpadel.com/es/6829-pala-bullpadel-hack-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6829-pala-bullpadel-hack-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/6829-pala-bullpadel-hack-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€349.99",
+     "value": 349.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-14",
+     "verbatim": "349.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6829-pala-bullpadel-hack-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-hack-05-milano",
    "name": "Bullpadel Hack 05 Milano",
    "brand": "Bullpadel",
@@ -8588,6 +8675,102 @@
      "verbatim": "214,95 € Regular Price 339,95 €",
      "source": "https://www.padelnuestro.com/bullpadel-vertex-05-hybrid",
      "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-vertex-05-hybrid-2027",
+   "name": "Bullpadel Vertex 05 Hybrid 2027",
+   "brand": "Bullpadel",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-05-hybrid-2027",
+   "productUrl": "https://www.bullpadel.com/es/6832-pala-bullpadel-vertex-05-hybrid-27.html",
+   "level": "Profesional",
+   "player": null,
+   "ratings": {
+    "power": 46,
+    "control": 57,
+    "handling": 46,
+    "forgiveness": 47,
+    "comfort": 39,
+    "value": 8
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Forma Híbrida",
+     "source": "https://www.bullpadel.com/es/6832-pala-bullpadel-vertex-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/6832-pala-bullpadel-vertex-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "25 cm (9.8 in)",
+     "value": null,
+     "mm": null,
+     "cm": 25,
+     "verbatim": "Balance Aprox. 25 cm",
+     "source": "https://www.bullpadel.com/es/6832-pala-bullpadel-vertex-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/6832-pala-bullpadel-vertex-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 12K",
+     "material": "X-Tend Carbon 12K",
+     "verbatim": "Composición exterior X-Tend Carbon 12K",
+     "source": "https://www.bullpadel.com/es/6832-pala-bullpadel-vertex-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% Carbono entrelazado bidireccional",
+     "material": "100% Carbono entrelazado bidireccional",
+     "verbatim": "marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/6832-pala-bullpadel-vertex-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6832-pala-bullpadel-vertex-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso Top Spin",
+     "source": "https://www.bullpadel.com/es/6832-pala-bullpadel-vertex-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€349.99",
+     "value": 349.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-14",
+     "verbatim": "349.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6832-pala-bullpadel-vertex-05-hybrid-27.html",
+     "sourceType": "manufacturer"
     }
    }
   },
