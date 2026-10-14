@@ -1,0 +1,40 @@
+Product-data provenance and missingness audit
+
+FILES
+- product-data-provenance-audit.ipynb: source notebook, without outputs.
+- executed.ipynb: the same code, executed against a public 283-record snapshot exported on 2026-10-14. Cell timing metadata was removed; results and execution counts are preserved.
+
+QUESTIONS
+1. Which specification objects contain source metadata?
+2. How does field presence differ from usable calculation inputs?
+3. Which observation dates and identifiers support a reproducible comparison?
+
+RUN IN KAGGLE
+Attach the existing dataset, rather than creating another copy:
+https://www.kaggle.com/datasets/odedkovach/padel-racket-specifications-with-sources
+Import the source notebook and Run All. CPU is sufficient. No internet access, secrets, or additional packages are needed in Kaggle's Python notebook environment. The loader finds rackets.json under /kaggle/input. If multiple distinct PadelTrue snapshots are attached, set PADEL_DATA_PATH explicitly to one file.
+
+RUN LOCALLY
+Use Python 3.11 or later with Jupyter/IPython. Supply a frozen copy of the public rackets.json beside the notebook, or point PADEL_DATA_PATH at that file before starting Jupyter. Within a clone of the public data repository, set PADEL_DATA_PATH to the repository's rackets.json; when starting Jupyter from this examples/provenance-audit folder, ../../rackets.json is the corresponding relative path.
+
+Public source and definitions:
+https://padeltrue.com/data
+https://github.com/odedkovach/padel-racket-data
+https://padeltrue.com/methodology
+
+REPRODUCIBILITY
+The executed example's input was retrieved from:
+https://padeltrue.com/data/rackets.json
+Export date: 2026-10-14
+Records: 283
+Exact input SHA-256: 5a6579c171ba7da4d6ad173328b246e3f2334948269ee7d2d9be6ee4bc90fde1
+
+The live endpoint and repository can change. Match this fingerprint to reproduce these exact results; otherwise the notebook calculates a new audit and records that input's fingerprint. It never assumes a fixed record count. The code also passed local Jupyter execution using the historical public 227-record export from commit ebc595f, dated 2026-10-03, through the Kaggle-style input loader. That is a compatibility test, not a claim that the notebook ran on Kaggle infrastructure.
+
+Eight code cells produce five aggregate files in audit-output: audit-summary.json, provenance-by-field.csv, object-coverage.csv, observation-days.csv, identity-checks.csv. If changing the reference date, edit AS_OF deliberately and rerun all cells.
+
+INTERPRETATION
+A syntactically valid source link does not prove the claim, page availability, or exact-model match. Manufacturer/retailer are recorded labels. Missing from this collection does not mean absent from the market. Input completeness is not equipment quality. Export dates never replace missing observation dates. No price availability, stock, performance, injury, sales, or user behavior is inferred.
+
+DISCLOSURE
+Prepared by the dataset publisher, whose website earns affiliate commissions, with AI assistance. The code was executed locally against public snapshots. Links are contextual data/methodology references, not affiliate checkout links. No visitor data, private analytics, or third-party product images are included. Credit the dataset publisher under the attached export's stated license.
