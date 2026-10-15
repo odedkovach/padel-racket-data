@@ -1,6 +1,6 @@
 # Specification coverage in this PadelTrue snapshot
 
-Export date: 2026-10-14. Model version: 1.0. Records: 283.
+Export date: 2026-10-15. Model version: 1.0. Records: 300.
 
 This measures the records collected by PadelTrue, not the whole market or the quality of a brand. A missing field here does not establish that a manufacturer never published it. Small and unequal brand samples are not a brand ranking.
 
@@ -11,7 +11,7 @@ Each cell shows records with the field / records for that brand. Numerical balan
 | Adidas | 43 | 41/43 | 0/43 | 40/43 | 22/43 |
 | Babolat | 18 | 18/18 | 9/18 | 17/18 | 5/18 |
 | Black Crown | 1 | 0/1 | 0/1 | 1/1 | 0/1 |
-| Bullpadel | 47 | 43/47 | 26/47 | 45/47 | 15/47 |
+| Bullpadel | 51 | 47/51 | 28/51 | 48/51 | 15/51 |
 | Cork Padel | 8 | 0/8 | 0/8 | 0/8 | 0/8 |
 | Drop Shot | 2 | 2/2 | 0/2 | 2/2 | 0/2 |
 | Dunlop | 4 | 3/4 | 0/4 | 3/4 | 0/4 |
@@ -28,6 +28,7 @@ Each cell shows records with the field / records for that brand. Numerical balan
 | Tecnifibre | 2 | 2/2 | 0/2 | 2/2 | 1/2 |
 | Vairo | 2 | 2/2 | 0/2 | 2/2 | 1/2 |
 | Varlion | 6 | 6/6 | 0/6 | 6/6 | 1/6 |
+| Vibora | 13 | 0/13 | 0/13 | 13/13 | 0/13 |
 | Wilson | 6 | 6/6 | 0/6 | 5/6 | 3/6 |
 
 Source: [PadelTrue open data](https://padeltrue.com/data), CC BY 4.0. Keep the GitHub commit SHA alongside this table when citing a snapshot. Field sources and recorded wording are in rackets.json; calculated ratings are not play tests.

@@ -1,0 +1,21 @@
+# Vibora padel rackets: published specifications
+
+13 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+
+| Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
+|---|---|---|---|---|---|---|---|---|---|---|
+| [Vibora Black Mamba Pro Neo 2027](https://padeltrue.com/rackets/vibora-black-mamba-pro-neo-2027) | 2027 | Hybrid |  |  | Medium, EVA PRO BALANCE | €240 | 45 | 57 | 40 | [product page](https://viborapadel.com/palas/297-pala-de-padel-vibor-a-black-mamba-pro-neo-8445090184742.html) |
+| [Vibora Black Mamba Radical Esmerald 2027](https://padeltrue.com/rackets/vibora-black-mamba-radical-esmerald-2027) | 2027 | Hybrid |  | Medium | Medium, EVA PRO BALANCE | €230 | 45 | 57 | 40 | [product page](https://viborapadel.com/palas/316-pala-de-padel-vibor-a-black-mamba-radical-esmerald-8445090184698.html) |
+| [Vibora Coral Jr 2027](https://padeltrue.com/rackets/vibora-coral-jr-2027) | 2027 | Round |  |  | Soft, EVA AIR LIGHT | €75.20 | 32 | 74 | 76 | [product page](https://viborapadel.com/palas/310-pala-de-padel-vibor-a-coral-jr-8445090184933.html) |
+| [Vibora Diva Elite Cream 2027](https://padeltrue.com/rackets/vibora-diva-elite-cream-2027) | 2027 | Round |  |  | Medium, EVA PRO BALANCE | €240 | 32 | 74 | 40 | [product page](https://viborapadel.com/palas/304-pala-de-padel-vibor-a-diva-elite-cream-8445090179014.html) |
+| [Vibora Diva Evo Pro 2027](https://padeltrue.com/rackets/vibora-diva-evo-pro-2027) | 2027 | Round |  |  | Medium, EVA PRO BALANCE | €220 | 32 | 74 | 40 | [product page](https://viborapadel.com/palas/301-pala-de-padel-vibor-a-diva-evo-pro-8445090184773.html) |
+| [Vibora Titán Berus 2027](https://padeltrue.com/rackets/vibora-titan-berus-2027) | 2027 | Hybrid |  | Medium | Medium, EVA PRO BALANCE | €360 | 45 | 57 | 40 | [product page](https://viborapadel.com/palas/294-pala-de-padel-vibor-a-titan-berus-8445090184810.html) |
+| [Vibora Titan Nerodia 2027](https://padeltrue.com/rackets/vibora-titan-nerodia-2027) | 2027 | Hybrid |  | Medium | Medium-hard, EVA PRO BALANCE + | €450 | 45 | 57 | 32 | [product page](https://viborapadel.com/palas/298-pala-de-padel-vibor-a-titan-nerodia-8445090184803.html) |
+| [Vibora Yarara Evo Pro 2027](https://padeltrue.com/rackets/vibora-yarara-evo-pro-2027) | 2027 | Round |  |  | Medium, EVA PRO BALANCE | €220 | 32 | 74 | 40 | [product page](https://viborapadel.com/palas/296-pala-de-padel-vibor-a-yarara-evo-pro-8445090184766.html) |
+| [Vibora Yarara Pro Bifid 2027](https://padeltrue.com/rackets/vibora-yarara-pro-bifid-2027) | 2027 | Hybrid |  |  | Medium-hard, EVA PRO BALANCE + | €240 | 45 | 57 | 32 | [product page](https://viborapadel.com/palas/303-pala-de-padel-vibor-a-yarara-pro-bifid-8445090184735.html) |
+| [Vibora Yarara Radical Gold 2027](https://padeltrue.com/rackets/vibora-yarara-radical-gold-2027) | 2027 | Hybrid |  | Medium | Medium, EVA PRO BALANCE | €230 | 45 | 57 | 40 | [product page](https://viborapadel.com/palas/317-pala-de-padel-vibor-a-yarara-radical-gold-8445090184704.html) |
+| [Vibora Black Mamba Pro 2.0](https://padeltrue.com/rackets/vibora-black-mamba-pro-2-0) |  | Hybrid |  | Medium |  | €190 | 45 | 57 | 40 | [product page](https://viborapadel.com/palas/247-pala-de-padel-vibor-a-black-mamba-pro-2-0-8445090157043.html) |
+| [Vibora Yarara Pro White 2.0](https://padeltrue.com/rackets/vibora-yarara-pro-white-2-0) |  | Hybrid |  | Medium |  | €190 | 45 | 57 | 40 | [product page](https://viborapadel.com/palas/242-pala-de-padel-vibor-a-yarara-pro-white-2-0-8445090157241.html) |
+| [Vibora Yarara Radical 12K 3.0](https://padeltrue.com/rackets/vibora-yarara-radical-12k-3-0) |  | Hybrid |  | Medium |  | €180 | 45 | 57 | 40 | [product page](https://viborapadel.com/palas/246-pala-de-padel-vibor-a-yarara-radical-12k-3-0-8445090157050.html) |
+
+Full records with the quoted wording of every specification are in [rackets.json](../rackets.json). Compare any two of these at [padeltrue.com/compare](https://padeltrue.com/compare/).
