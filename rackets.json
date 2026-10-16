@@ -5,7 +5,7 @@
  "built": "2026-10-16",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 303,
+ "count": 308,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -12894,6 +12894,459 @@
      "verbatim": "Current price £109.99",
      "source": "https://www.decathlon.co.uk/p/padel-racket-pr-hybrid-carbon/341828/m8979558",
      "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "mantis-play-335-challenge",
+   "name": "Mantis Play 335 'Challenge'",
+   "brand": "Mantis",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/mantis-play-335-challenge",
+   "productUrl": "https://mantissport.com/products/mantis-play-335-challenge",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 42,
+    "control": 50,
+    "handling": 70,
+    "forgiveness": 50,
+    "comfort": 56,
+    "value": null
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
+   "profile": [
+    "all-round",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Shape: Teardrop",
+     "source": "https://mantissport.com/products/mantis-play-335-challenge",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "335 g (11.8 oz)",
+     "min": 335,
+     "max": 335,
+     "verbatim": "Weight: 335 gram",
+     "source": "https://mantissport.com/products/mantis-play-335-challenge",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "275 mm (10.8 in)",
+     "value": null,
+     "mm": 275,
+     "cm": null,
+     "verbatim": "Balance: 275 mm",
+     "source": "https://mantissport.com/products/mantis-play-335-challenge",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Black 11",
+     "value": null,
+     "material": "EVA Black 11",
+     "verbatim": "softer EVA Black 11 core",
+     "source": "https://mantissport.com/products/mantis-play-335-challenge",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "1 layer of glassfiber + 2 layers of carbon fiber",
+     "material": "1 layer of glassfiber + 2 layers of carbon fiber",
+     "verbatim": "Face: 1 layer of glassfiber + 2 layers of carbon fiber",
+     "source": "https://mantissport.com/products/mantis-play-335-challenge",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "50% carbon fiber / 50% fiberglass",
+     "material": "50% carbon fiber / 50% fiberglass",
+     "verbatim": "Frame: 50% carbon fiber / 50% fiberglass",
+     "source": "https://mantissport.com/products/mantis-play-335-challenge",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "ultra-high-grit sand finish",
+     "source": "https://mantissport.com/products/mantis-play-335-challenge",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "£79.99",
+     "value": 79.99,
+     "currency": "GBP",
+     "checkedOn": "2026-10-16",
+     "verbatim": "79.99 GBP (schema.org offer)",
+     "source": "https://mantissport.com/products/mantis-play-335-challenge",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "mantis-play-335-phantom",
+   "name": "Mantis Play 335 'Phantom'",
+   "brand": "Mantis",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/mantis-play-335-phantom",
+   "productUrl": "https://mantissport.com/products/mantis-play-335-phantom",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 42,
+    "control": 50,
+    "handling": 70,
+    "forgiveness": 50,
+    "comfort": 56,
+    "value": null
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
+   "profile": [
+    "all-round",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Shape: Teardrop",
+     "source": "https://mantissport.com/products/mantis-play-335-phantom",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "335 g (11.8 oz)",
+     "min": 335,
+     "max": 335,
+     "verbatim": "Weight: 335 gram",
+     "source": "https://mantissport.com/products/mantis-play-335-phantom",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "275 mm (10.8 in)",
+     "value": null,
+     "mm": 275,
+     "cm": null,
+     "verbatim": "Balance: 275 mm",
+     "source": "https://mantissport.com/products/mantis-play-335-phantom",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Black 11",
+     "value": null,
+     "material": "EVA Black 11",
+     "verbatim": "softer EVA Black 11 core",
+     "source": "https://mantissport.com/products/mantis-play-335-phantom",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "1 layer of glassfiber + 2 layers of carbon fiber",
+     "material": "1 layer of glassfiber + 2 layers of carbon fiber",
+     "verbatim": "Face: 1 layer of glassfiber + 2 layers of carbon fiber",
+     "source": "https://mantissport.com/products/mantis-play-335-phantom",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "50% carbon fiber / 50% fiberglass",
+     "material": "50% carbon fiber / 50% fiberglass",
+     "verbatim": "Frame: 50% carbon fiber / 50% fiberglass",
+     "source": "https://mantissport.com/products/mantis-play-335-phantom",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "ultra-high-grit sand finish",
+     "source": "https://mantissport.com/products/mantis-play-335-phantom",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "£79.99",
+     "value": 79.99,
+     "currency": "GBP",
+     "checkedOn": "2026-10-16",
+     "verbatim": "79.99 GBP (schema.org offer)",
+     "source": "https://mantissport.com/products/mantis-play-335-phantom",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "mantis-play-335-smile",
+   "name": "Mantis Play 335 'Smile'",
+   "brand": "Mantis",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/mantis-play-335-smile",
+   "productUrl": "https://mantissport.com/products/mantis-play-335-smile",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 42,
+    "control": 50,
+    "handling": 70,
+    "forgiveness": 50,
+    "comfort": 56,
+    "value": null
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
+   "profile": [
+    "all-round",
+    "easy to move"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Shape: Teardrop",
+     "source": "https://mantissport.com/products/mantis-play-335-smile",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "335 g (11.8 oz)",
+     "min": 335,
+     "max": 335,
+     "verbatim": "Weight: 335 gram",
+     "source": "https://mantissport.com/products/mantis-play-335-smile",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "275 mm (10.8 in)",
+     "value": null,
+     "mm": 275,
+     "cm": null,
+     "verbatim": "Balance: 275 mm",
+     "source": "https://mantissport.com/products/mantis-play-335-smile",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Black 11",
+     "value": null,
+     "material": "EVA Black 11",
+     "verbatim": "softer EVA Black 11 core",
+     "source": "https://mantissport.com/products/mantis-play-335-smile",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "1 layer of glassfiber + 2 layers of carbon fiber",
+     "material": "1 layer of glassfiber + 2 layers of carbon fiber",
+     "verbatim": "Face: 1 layer of glassfiber + 2 layers of carbon fiber",
+     "source": "https://mantissport.com/products/mantis-play-335-smile",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "50% carbon fiber / 50% fiberglass",
+     "material": "50% carbon fiber / 50% fiberglass",
+     "verbatim": "Frame: 50% carbon fiber / 50% fiberglass",
+     "source": "https://mantissport.com/products/mantis-play-335-smile",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "ultra-high-grit sand finish",
+     "source": "https://mantissport.com/products/mantis-play-335-smile",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "£79.99",
+     "value": 79.99,
+     "currency": "GBP",
+     "checkedOn": "2026-10-16",
+     "verbatim": "79.99 GBP (schema.org offer)",
+     "source": "https://mantissport.com/products/mantis-play-335-smile",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "mantis-progress-365-challenge",
+   "name": "Mantis Progress 365 'Challenge'",
+   "brand": "Mantis",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/mantis-progress-365-challenge",
+   "productUrl": "https://mantissport.com/products/mantis-progress-365-challenge",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 50,
+    "comfort": 50,
+    "value": null
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Shape: Teardrop",
+     "source": "https://mantissport.com/products/mantis-progress-365-challenge",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 g (12.9 oz)",
+     "min": 365,
+     "max": 365,
+     "verbatim": "Weight: 365 gram",
+     "source": "https://mantissport.com/products/mantis-progress-365-challenge",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "260 mm (10.2 in)",
+     "value": null,
+     "mm": 260,
+     "cm": null,
+     "verbatim": "Balance: 260 mm",
+     "source": "https://mantissport.com/products/mantis-progress-365-challenge",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Black 15",
+     "value": null,
+     "material": "EVA Black 15",
+     "verbatim": "Powered by EVA Black 15",
+     "source": "https://mantissport.com/products/mantis-progress-365-challenge",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "1 layer of 12K twill + 2 layers of glass fiber",
+     "material": "1 layer of 12K twill + 2 layers of glass fiber",
+     "verbatim": "Face: 1 layer of 12K twill + 2 layers of glass fiber",
+     "source": "https://mantissport.com/products/mantis-progress-365-challenge",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbon fiber",
+     "material": "Carbon fiber",
+     "verbatim": "Frame: Carbon fiber",
+     "source": "https://mantissport.com/products/mantis-progress-365-challenge",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "ultra-high-grit sand finish",
+     "source": "https://mantissport.com/products/mantis-progress-365-challenge",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "£129.99",
+     "value": 129.99,
+     "currency": "GBP",
+     "checkedOn": "2026-10-16",
+     "verbatim": "129.99 GBP (schema.org offer)",
+     "source": "https://mantissport.com/products/mantis-progress-365-challenge",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "mantis-progress-365-phantom",
+   "name": "Mantis Progress 365 'Phantom'",
+   "brand": "Mantis",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/mantis-progress-365-phantom",
+   "productUrl": "https://mantissport.com/products/mantis-progress-365-phantom",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 50,
+    "comfort": 50,
+    "value": null
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Shape: Teardrop",
+     "source": "https://mantissport.com/products/mantis-progress-365-phantom",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 g (12.9 oz)",
+     "min": 365,
+     "max": 365,
+     "verbatim": "Weight: 365 gram",
+     "source": "https://mantissport.com/products/mantis-progress-365-phantom",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "260 mm (10.2 in)",
+     "value": null,
+     "mm": 260,
+     "cm": null,
+     "verbatim": "Balance: 260 mm",
+     "source": "https://mantissport.com/products/mantis-progress-365-phantom",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Black 15",
+     "value": null,
+     "material": "EVA Black 15",
+     "verbatim": "Powered by EVA Black 15",
+     "source": "https://mantissport.com/products/mantis-progress-365-phantom",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "1 layer of 12K twill + 2 layers of glass fiber",
+     "material": "1 layer of 12K twill + 2 layers of glass fiber",
+     "verbatim": "Face: 1 layer of 12K twill + 2 layers of glass fiber",
+     "source": "https://mantissport.com/products/mantis-progress-365-phantom",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbon fiber",
+     "material": "Carbon fiber",
+     "verbatim": "Frame: Carbon fiber",
+     "source": "https://mantissport.com/products/mantis-progress-365-phantom",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "ultra-high-grit sand finish",
+     "source": "https://mantissport.com/products/mantis-progress-365-phantom",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "£129.99",
+     "value": 129.99,
+     "currency": "GBP",
+     "checkedOn": "2026-10-16",
+     "verbatim": "129.99 GBP (schema.org offer)",
+     "source": "https://mantissport.com/products/mantis-progress-365-phantom",
+     "sourceType": "manufacturer"
     }
    }
   },
