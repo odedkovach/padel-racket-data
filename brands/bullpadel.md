@@ -1,6 +1,6 @@
 # Bullpadel padel rackets: published specifications
 
-51 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+54 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -28,7 +28,10 @@
 | [Bullpadel Hack JR 2026](https://padeltrue.com/rackets/bullpadel-hack-jr-2026) | 2026 | Diamond | 335 to 345 g (11.8 to 12.2 oz) | Medium | Evalastic | €89.99 | 60 | 26 | 56 | [product page](https://www.bullpadel.com/es/5699-pala-bullpadel-hack-jr-26.html) |
 | [Bullpadel Icon 2026](https://padeltrue.com/rackets/bullpadel-icon-2026) | 2026 | Diamond | 370 to 375 g (13.1 to 13.2 oz) | 26 cm (10.2 in) | Medium, MultiEVA | €209.99 | 70 | 26 | 38 | [product page](https://www.bullpadel.com/es/5686-pala-bullpadel-icon-26.html) |
 | [Bullpadel Indiga Boy 2026](https://padeltrue.com/rackets/bullpadel-indiga-boy-2026) | 2026 | Teardrop | 280 g (9.9 oz) | Medium | Evalastic | €59.99 | 42 | 50 | 66 | [product page](https://www.bullpadel.com/es/5702-pala-bullpadel-indiga-boy-26.html) |
+| [Bullpadel INDIGA CTR 2026](https://padeltrue.com/rackets/bullpadel-indiga-ctr-2026) | 2026 | Round | 360 to 370 g (12.7 to 13.1 oz) | Low | Soft, SoftEVA | €89.99 | 18 | 90 | 84 | [product page](https://www.bullpadel.com/es/5697-pala-bullpadel-indiga-ctr-26.html) |
+| [Bullpadel Indiga Girl 2026](https://padeltrue.com/rackets/bullpadel-indiga-girl-2026) | 2026 | Teardrop | 280 g (9.9 oz) | Medium | Evalastic | €59.99 | 42 | 50 | 66 | [product page](https://www.bullpadel.com/es/5703-pala-bullpadel-indiga-girl-26.html) |
 | [Bullpadel Indiga PWR 2026](https://padeltrue.com/rackets/bullpadel-indiga-pwr-2026) | 2026 | Diamond | 360 to 370 g (12.7 to 13.1 oz) | High | Soft, SoftEVA | €89.99 | 82 | 10 | 68 | [product page](https://www.bullpadel.com/es/5696-pala-bullpadel-indiga-pwr-26.html) |
+| [Bullpadel Indiga W 2026](https://padeltrue.com/rackets/bullpadel-indiga-w-2026) | 2026 | Round | 350 to 360 g (12.3 to 12.7 oz) | Low | Soft, SoftEVA | €89.99 | 15 | 90 | 86 | [product page](https://www.bullpadel.com/es/5698-pala-bullpadel-indiga-w-26.html) |
 | [Bullpadel Ionic Control 26](https://padeltrue.com/rackets/bullpadel-ionic-control-26) | 2026 | Round | 365 to 375 g (12.9 to 13.2 oz) | Low | Medium, MultiEva | €119.95 | 20 | 90 | 57 | [product page](https://www.padelnuestro.com/bullpadel-ionic-control-26) |
 | [Bullpadel Ionic Power 2026](https://padeltrue.com/rackets/bullpadel-ionic-power-2026) | 2026 | Diamond | 365 to 375 g (12.9 to 13.2 oz) | High | Medium, MultiEVA | €179.99 | 84 | 10 | 41 | [product page](https://www.bullpadel.com/es/5691-pala-bullpadel-ionic-power-26.html) |
 | [Bullpadel Neuron 02 2026](https://padeltrue.com/rackets/bullpadel-neuron-02-2026) | 2026 | Hybrid | 365 to 375 g (12.9 to 13.2 oz) | Medium | Hard, MultiEva | €174.95 | 46 | 57 | 23 | [product page](https://www.padelnuestro.com/bullpadel-neuron-02-494402) |

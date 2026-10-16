@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-15",
+ "built": "2026-10-16",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 300,
+ "count": 303,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -7064,6 +7064,187 @@
    }
   },
   {
+   "slug": "bullpadel-indiga-ctr-2026",
+   "name": "Bullpadel INDIGA CTR 2026",
+   "brand": "Bullpadel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/bullpadel-indiga-ctr-2026",
+   "productUrl": "https://www.bullpadel.com/es/5697-pala-bullpadel-indiga-ctr-26.html",
+   "level": "Iniciación",
+   "player": null,
+   "ratings": {
+    "power": 18,
+    "control": 90,
+    "handling": 70,
+    "forgiveness": 90,
+    "comfort": 84,
+    "value": 56
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "control",
+    "easy to move",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Forma Redonda",
+     "source": "https://www.bullpadel.com/es/5697-pala-bullpadel-indiga-ctr-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 370 g (12.7 to 13.1 oz)",
+     "min": 360,
+     "max": 370,
+     "verbatim": "Peso 360 - 370 g",
+     "source": "https://www.bullpadel.com/es/5697-pala-bullpadel-indiga-ctr-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance Bajo",
+     "source": "https://www.bullpadel.com/es/5697-pala-bullpadel-indiga-ctr-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, SoftEVA",
+     "value": "soft",
+     "material": "SoftEVA",
+     "verbatim": "Tacto Blando",
+     "source": "https://www.bullpadel.com/es/5697-pala-bullpadel-indiga-ctr-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Polyglass",
+     "material": "Polyglass",
+     "verbatim": "Composición exterior Polyglass",
+     "source": "https://www.bullpadel.com/es/5697-pala-bullpadel-indiga-ctr-26.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "fibra de carbono",
+     "material": "fibra de carbono",
+     "verbatim": "Marco: Fabricado con refuerzos estructurales de fibra de carbono",
+     "source": "https://www.bullpadel.com/es/5697-pala-bullpadel-indiga-ctr-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/5697-pala-bullpadel-indiga-ctr-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€89.99",
+     "value": 89.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-16",
+     "verbatim": "89.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/5697-pala-bullpadel-indiga-ctr-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-indiga-girl-2026",
+   "name": "Bullpadel Indiga Girl 2026",
+   "brand": "Bullpadel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/bullpadel-indiga-girl-2026",
+   "productUrl": "https://www.bullpadel.com/es/5703-pala-bullpadel-indiga-girl-26.html",
+   "level": "Kid Iniciación",
+   "player": null,
+   "ratings": {
+    "power": 42,
+    "control": 50,
+    "handling": 70,
+    "forgiveness": 58,
+    "comfort": 66,
+    "value": 63
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round",
+    "easy to move",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma Lágrima",
+     "source": "https://www.bullpadel.com/es/5703-pala-bullpadel-indiga-girl-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "280 g (9.9 oz)",
+     "min": 280,
+     "max": 280,
+     "verbatim": "Peso 280 g",
+     "source": "https://www.bullpadel.com/es/5703-pala-bullpadel-indiga-girl-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance Medio",
+     "source": "https://www.bullpadel.com/es/5703-pala-bullpadel-indiga-girl-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Evalastic",
+     "value": null,
+     "material": "Evalastic",
+     "verbatim": "Composición interior Evalastic",
+     "source": "https://www.bullpadel.com/es/5703-pala-bullpadel-indiga-girl-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Polyglass",
+     "material": "Polyglass",
+     "verbatim": "Composición exterior Polyglass",
+     "source": "https://www.bullpadel.com/es/5703-pala-bullpadel-indiga-girl-26.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% de Carbono entrelazado bidireccional",
+     "material": "100% de Carbono entrelazado bidireccional",
+     "verbatim": "Consiste en la construcción del marco de la pala 100% de Carbono entrelazado bidireccional.",
+     "source": "https://www.bullpadel.com/es/5703-pala-bullpadel-indiga-girl-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "26 mm (1.0 in)",
+     "value": 26,
+     "verbatim": "Perfil 26 mm",
+     "source": "https://www.bullpadel.com/es/5703-pala-bullpadel-indiga-girl-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€59.99",
+     "value": 59.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-16",
+     "verbatim": "59.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/5703-pala-bullpadel-indiga-girl-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-indiga-pwr-2026",
    "name": "Bullpadel Indiga PWR 2026",
    "brand": "Bullpadel",
@@ -7147,6 +7328,96 @@
      "checkedOn": "2026-09-28",
      "verbatim": "Precio: 89,99 €",
      "source": "https://www.bullpadel.com/es/5696-pala-bullpadel-indiga-pwr-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-indiga-w-2026",
+   "name": "Bullpadel Indiga W 2026",
+   "brand": "Bullpadel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/bullpadel-indiga-w-2026",
+   "productUrl": "https://www.bullpadel.com/es/5698-pala-bullpadel-indiga-w-26.html",
+   "level": "Iniciación",
+   "player": null,
+   "ratings": {
+    "power": 15,
+    "control": 90,
+    "handling": 78,
+    "forgiveness": 90,
+    "comfort": 86,
+    "value": 56
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "control",
+    "easy to move",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Forma Redonda",
+     "source": "https://www.bullpadel.com/es/5698-pala-bullpadel-indiga-w-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
+     "min": 350,
+     "max": 360,
+     "verbatim": "Peso 350 - 360 g",
+     "source": "https://www.bullpadel.com/es/5698-pala-bullpadel-indiga-w-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance Bajo",
+     "source": "https://www.bullpadel.com/es/5698-pala-bullpadel-indiga-w-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, SoftEVA",
+     "value": "soft",
+     "material": "SoftEVA",
+     "verbatim": "Tacto Blando",
+     "source": "https://www.bullpadel.com/es/5698-pala-bullpadel-indiga-w-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Polyglass",
+     "material": "Polyglass",
+     "verbatim": "Composición exterior Polyglass",
+     "source": "https://www.bullpadel.com/es/5698-pala-bullpadel-indiga-w-26.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% de Carbono entrelazado bidireccional",
+     "material": "100% de Carbono entrelazado bidireccional",
+     "verbatim": "marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/5698-pala-bullpadel-indiga-w-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/5698-pala-bullpadel-indiga-w-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€89.99",
+     "value": 89.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-16",
+     "verbatim": "89.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/5698-pala-bullpadel-indiga-w-26.html",
      "sourceType": "manufacturer"
     }
    }
