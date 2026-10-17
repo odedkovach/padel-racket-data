@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-16",
+ "built": "2026-10-17",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 308,
+ "count": 311,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -7590,6 +7590,102 @@
    }
   },
   {
+   "slug": "bullpadel-ionic-light-2026",
+   "name": "Bullpadel Ionic Light 2026",
+   "brand": "Bullpadel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/bullpadel-ionic-light-2026",
+   "productUrl": "https://www.bullpadel.com/es/5693-pala-bullpadel-ionic-light-26.html",
+   "level": "Intermedio",
+   "player": null,
+   "ratings": {
+    "power": 41,
+    "control": 57,
+    "handling": 58,
+    "forgiveness": 55,
+    "comfort": 52,
+    "value": 21
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Forma Híbrida",
+     "source": "https://www.bullpadel.com/es/5693-pala-bullpadel-ionic-light-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
+     "min": 350,
+     "max": 360,
+     "verbatim": "Peso 350 - 360 g",
+     "source": "https://www.bullpadel.com/es/5693-pala-bullpadel-ionic-light-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance Medio",
+     "source": "https://www.bullpadel.com/es/5693-pala-bullpadel-ionic-light-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/5693-pala-bullpadel-ionic-light-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Glaphite",
+     "material": "Glaphite",
+     "verbatim": "Composición exterior Glaphite",
+     "source": "https://www.bullpadel.com/es/5693-pala-bullpadel-ionic-light-26.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% de Carbono entrelazado bidireccional",
+     "material": "100% de Carbono entrelazado bidireccional",
+     "verbatim": "construcción del marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/5693-pala-bullpadel-ionic-light-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/5693-pala-bullpadel-ionic-light-26.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/5693-pala-bullpadel-ionic-light-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€149.99",
+     "value": 149.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-17",
+     "verbatim": "149.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/5693-pala-bullpadel-ionic-light-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-ionic-power-2026",
    "name": "Bullpadel Ionic Power 2026",
    "brand": "Bullpadel",
@@ -8047,6 +8143,96 @@
      "checkedOn": "2026-10-13",
      "verbatim": "339.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/6837-pala-bullpadel-neuron-02-edge-27.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-neuron-02-edge-bruselas-26",
+   "name": "Bullpadel Neuron 02 Edge Bruselas 26",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-neuron-02-edge-bruselas-26",
+   "productUrl": "https://www.bullpadel.com/es/6425-pala-bullpadel-neuron-02-edge-bruselas-26.html",
+   "level": "PROFESIONAL",
+   "player": "Fede Chingotto",
+   "ratings": {
+    "power": 70,
+    "control": 26,
+    "handling": 46,
+    "forgiveness": 10,
+    "comfort": 23,
+    "value": 8
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "FORMA: DIAMANTE",
+     "source": "https://www.bullpadel.com/es/6425-pala-bullpadel-neuron-02-edge-bruselas-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "PESO: 365-375 grs",
+     "source": "https://www.bullpadel.com/es/6425-pala-bullpadel-neuron-02-edge-bruselas-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26 cm (10.2 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26,
+     "verbatim": "BALANCE ~ 26 cms",
+     "source": "https://www.bullpadel.com/es/6425-pala-bullpadel-neuron-02-edge-bruselas-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Hard, MULTIEVA",
+     "value": "hard",
+     "material": "MULTIEVA",
+     "verbatim": "TACTO: DURO",
+     "source": "https://www.bullpadel.com/es/6425-pala-bullpadel-neuron-02-edge-bruselas-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-TEND CARBON 3K",
+     "material": "X-TEND CARBON 3K",
+     "verbatim": "COMP EXT: X-TEND CARBON 3K",
+     "source": "https://www.bullpadel.com/es/6425-pala-bullpadel-neuron-02-edge-bruselas-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "PERFIL: 38mm",
+     "source": "https://www.bullpadel.com/es/6425-pala-bullpadel-neuron-02-edge-bruselas-26.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "La pala incorpora ahora un patrón de rugosidad renovado",
+     "source": "https://www.bullpadel.com/es/6425-pala-bullpadel-neuron-02-edge-bruselas-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€399.99",
+     "value": 399.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-17",
+     "verbatim": "399.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6425-pala-bullpadel-neuron-02-edge-bruselas-26.html",
      "sourceType": "manufacturer"
     }
    }
@@ -9314,6 +9500,97 @@
      "checkedOn": "2026-10-14",
      "verbatim": "349.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/6832-pala-bullpadel-vertex-05-hybrid-27.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-vertex-05-light-bruselas-26",
+   "name": "Bullpadel Vertex 05 Light Bruselas 26",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-05-light-bruselas-26",
+   "productUrl": "https://www.bullpadel.com/es/6426-pala-bullpadel-vertex-05-light-bruselas-26.html",
+   "level": "PROFESIONAL",
+   "player": "Delfi Brea",
+   "ratings": {
+    "power": 65,
+    "control": 26,
+    "handling": 58,
+    "forgiveness": 32,
+    "comfort": 52,
+    "value": 11
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "FORMA: DIAMANTE",
+     "source": "https://www.bullpadel.com/es/6426-pala-bullpadel-vertex-05-light-bruselas-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
+     "min": 350,
+     "max": 360,
+     "verbatim": "PESO: 350-360 grs",
+     "source": "https://www.bullpadel.com/es/6426-pala-bullpadel-vertex-05-light-bruselas-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "25.4 cm (10.0 in)",
+     "value": null,
+     "mm": null,
+     "cm": 25.4,
+     "verbatim": "BALANCE ~ 25,4 cms",
+     "source": "https://www.bullpadel.com/es/6426-pala-bullpadel-vertex-05-light-bruselas-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MULTIEVA",
+     "value": "medium",
+     "material": "MULTIEVA",
+     "verbatim": "TACTO: INTERMEDIO",
+     "source": "https://www.bullpadel.com/es/6426-pala-bullpadel-vertex-05-light-bruselas-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "FIBRIX",
+     "material": "FIBRIX",
+     "verbatim": "COMP EXT: FIBRIX",
+     "source": "https://www.bullpadel.com/es/6426-pala-bullpadel-vertex-05-light-bruselas-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "PERFIL: 38mm",
+     "source": "https://www.bullpadel.com/es/6426-pala-bullpadel-vertex-05-light-bruselas-26.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "incrementa la cantidad de grano en la última capa de la cara de la pala",
+     "source": "https://www.bullpadel.com/es/6426-pala-bullpadel-vertex-05-light-bruselas-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€299.99",
+     "value": 299.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-17",
+     "verbatim": "299.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6426-pala-bullpadel-vertex-05-light-bruselas-26.html",
      "sourceType": "manufacturer"
     }
    }
