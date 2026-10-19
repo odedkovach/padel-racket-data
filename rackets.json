@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-18",
+ "built": "2026-10-19",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 315,
+ "count": 319,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -228,6 +228,81 @@
      "checkedOn": "2026-10-13",
      "verbatim": "160 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7452-padel-racket-adidas-2026-world-cup-colombia-8435739406441.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-2026-world-cup-france",
+   "name": "adidas 2026 World Cup France",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-2026-world-cup-france",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7462-padel-racket-adidas-2026-world-cup-france-8435739406519.html",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 33,
+    "control": 74,
+    "handling": 48,
+    "forgiveness": 90,
+    "comfort": 75,
+    "value": 29
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Shape: Round",
+     "source": "https://allforpadel.com/en/padel-rackets/7462-padel-racket-adidas-2026-world-cup-france-8435739406519.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "Weight: 360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7462-padel-racket-adidas-2026-world-cup-france-8435739406519.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Rubber: Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7462-padel-racket-adidas-2026-world-cup-france-8435739406519.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiberglass",
+     "material": "Fiberglass",
+     "verbatim": "Face: Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7462-padel-racket-adidas-2026-world-cup-france-8435739406519.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Thickness: 38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7462-padel-racket-adidas-2026-world-cup-france-8435739406519.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€160",
+     "value": 160,
+     "currency": "EUR",
+     "checkedOn": "2026-10-19",
+     "verbatim": "160 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7462-padel-racket-adidas-2026-world-cup-france-8435739406519.html",
      "sourceType": "retailer"
     }
    }
@@ -9963,6 +10038,97 @@
    }
   },
   {
+   "slug": "bullpadel-vertex-05-w-argentina-26",
+   "name": "Bullpadel Vertex 05 W Argentina 26",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-05-w-argentina-26",
+   "productUrl": "https://www.bullpadel.com/es/6637-pala-bullpadel-vertex-05-w-argentina-26.html",
+   "level": "PROFESIONAL",
+   "player": "Delfi Brea",
+   "ratings": {
+    "power": 65,
+    "control": 26,
+    "handling": 58,
+    "forgiveness": 32,
+    "comfort": 52,
+    "value": 11
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "FORMA: DIAMANTE",
+     "source": "https://www.bullpadel.com/es/6637-pala-bullpadel-vertex-05-w-argentina-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
+     "min": 350,
+     "max": 360,
+     "verbatim": "PESO: 350-360 grs",
+     "source": "https://www.bullpadel.com/es/6637-pala-bullpadel-vertex-05-w-argentina-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "25.4 cm (10.0 in)",
+     "value": null,
+     "mm": null,
+     "cm": 25.4,
+     "verbatim": "BALANCE: 25,4 cms",
+     "source": "https://www.bullpadel.com/es/6637-pala-bullpadel-vertex-05-w-argentina-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MULTIEVA",
+     "value": "medium",
+     "material": "MULTIEVA",
+     "verbatim": "TACTO: INTERMEDIO",
+     "source": "https://www.bullpadel.com/es/6637-pala-bullpadel-vertex-05-w-argentina-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "FIBRIX",
+     "material": "FIBRIX",
+     "verbatim": "COMPOSICIÓN EXTERNA: FIBRIX",
+     "source": "https://www.bullpadel.com/es/6637-pala-bullpadel-vertex-05-w-argentina-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "PERFIL: 38mm",
+     "source": "https://www.bullpadel.com/es/6637-pala-bullpadel-vertex-05-w-argentina-26.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "incrementa la cantidad de grano en la última capa de la cara de la pala",
+     "source": "https://www.bullpadel.com/es/6637-pala-bullpadel-vertex-05-w-argentina-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€319.99",
+     "value": 319.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-19",
+     "verbatim": "319.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6637-pala-bullpadel-vertex-05-w-argentina-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-vertex-advance",
    "name": "Bullpadel Vertex Advance",
    "brand": "Bullpadel",
@@ -10146,6 +10312,97 @@
      "checkedOn": "2026-10-18",
      "verbatim": "89.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/5700-pala-bullpadel-vertex-jr-boy-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-vertex-jr-girl-2026",
+   "name": "Bullpadel Vertex JR Girl 2026",
+   "brand": "Bullpadel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-jr-girl-2026",
+   "productUrl": "https://www.bullpadel.com/es/5701-pala-bullpadel-vertex-jr-girl-26.html",
+   "level": "Junior avanzado",
+   "player": "Delfi Brea",
+   "ratings": {
+    "power": 60,
+    "control": 26,
+    "handling": 70,
+    "forgiveness": 40,
+    "comfort": 66,
+    "value": 42
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round",
+    "easy to move",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/5701-pala-bullpadel-vertex-jr-girl-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "335 to 345 g (11.8 to 12.2 oz)",
+     "min": 335,
+     "max": 345,
+     "verbatim": "Peso 335 - 345 g",
+     "source": "https://www.bullpadel.com/es/5701-pala-bullpadel-vertex-jr-girl-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance Medio",
+     "source": "https://www.bullpadel.com/es/5701-pala-bullpadel-vertex-jr-girl-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Evalastic",
+     "value": null,
+     "material": "Evalastic",
+     "verbatim": "Composición interior Evalastic",
+     "source": "https://www.bullpadel.com/es/5701-pala-bullpadel-vertex-jr-girl-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Polyglass",
+     "material": "Polyglass",
+     "verbatim": "Composición exterior Polyglass",
+     "source": "https://www.bullpadel.com/es/5701-pala-bullpadel-vertex-jr-girl-26.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "CarbonTube de fibra de carbono 100%",
+     "material": "CarbonTube de fibra de carbono 100%",
+     "verbatim": "Marco: Fabricado con el robusto CarbonTube de fibra de carbono 100%",
+     "source": "https://www.bullpadel.com/es/5701-pala-bullpadel-vertex-jr-girl-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "35 mm (1.4 in)",
+     "value": 35,
+     "verbatim": "Perfil 35 mm",
+     "source": "https://www.bullpadel.com/es/5701-pala-bullpadel-vertex-jr-girl-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€89.99",
+     "value": 89.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-19",
+     "verbatim": "89.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/5701-pala-bullpadel-vertex-jr-girl-26.html",
      "sourceType": "manufacturer"
     }
    }
@@ -10407,6 +10664,82 @@
      "checkedOn": "2026-09-29",
      "verbatim": "329.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/gb/6839-pala-bullpadel-xplo-27.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-xplo-argentina-26",
+   "name": "Bullpadel XPLO Argentina 26",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-xplo-argentina-26",
+   "productUrl": "https://www.bullpadel.com/es/6636-pala-bullpadel-xplo-argentina-26.html",
+   "level": "PROFESIONAL",
+   "player": "Martín Di Nenno",
+   "ratings": {
+    "power": 79,
+    "control": 10,
+    "handling": 38,
+    "forgiveness": 32,
+    "comfort": 44,
+    "value": 9
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "face"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "FORMA: DIAMANTE",
+     "source": "https://www.bullpadel.com/es/6636-pala-bullpadel-xplo-argentina-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
+     "min": 350,
+     "max": 360,
+     "verbatim": "PESO: 350-360 grs",
+     "source": "https://www.bullpadel.com/es/6636-pala-bullpadel-xplo-argentina-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High, 25.4 cm (10.0 in)",
+     "value": "high",
+     "mm": null,
+     "cm": 25.4,
+     "verbatim": "BALANCE ~ 25,4 cms",
+     "source": "https://www.bullpadel.com/es/6636-pala-bullpadel-xplo-argentina-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MULTIEVA",
+     "value": "medium",
+     "material": "MULTIEVA",
+     "verbatim": "TACTO: INTERMEDIO",
+     "source": "https://www.bullpadel.com/es/6636-pala-bullpadel-xplo-argentina-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "PERFIL: 38mm",
+     "source": "https://www.bullpadel.com/es/6636-pala-bullpadel-xplo-argentina-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€359.99",
+     "value": 359.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-19",
+     "verbatim": "359.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6636-pala-bullpadel-xplo-argentina-26.html",
      "sourceType": "manufacturer"
     }
    }
