@@ -309,7 +309,7 @@
   },
   {
    "slug": "adidas-2026-world-cup-germany",
-   "name": "Adidas 2026 World Cup Germany",
+   "name": "adidas 2026 World Cup Germany",
    "brand": "Adidas",
    "year": 2026,
    "url": "https://padeltrue.com/rackets/adidas-2026-world-cup-germany",
@@ -640,7 +640,7 @@
     "handling": 28,
     "forgiveness": 46,
     "comfort": 57,
-    "value": 10
+    "value": 12
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -689,11 +689,11 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€400",
-     "value": 400,
+     "display": "€320",
+     "value": 320,
      "currency": "EUR",
      "checkedOn": "2026-10-20",
-     "verbatim": "€400.00",
+     "verbatim": "320 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7523-padel-racket-adidas-arrow-hit-8435739405888.html",
      "sourceType": "retailer"
     }
@@ -714,7 +714,7 @@
     "handling": 28,
     "forgiveness": 38,
     "comfort": 47,
-    "value": 13
+    "value": 17
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -769,12 +769,12 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€270",
-     "value": 270,
+     "display": "€216",
+     "value": 216,
      "currency": "EUR",
      "rrp": null,
      "checkedOn": "2026-10-20",
-     "verbatim": "€270.00 Tax included",
+     "verbatim": "216 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7531-padel-racket-adidas-arrow-hit-carbon-8435739405901.html",
      "sourceType": "retailer"
     }
@@ -795,7 +795,7 @@
     "handling": 48,
     "forgiveness": 46,
     "comfort": 65,
-    "value": 8
+    "value": 10
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -852,11 +852,11 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€450",
-     "value": 450,
+     "display": "€360",
+     "value": 360,
      "currency": "EUR",
      "checkedOn": "2026-10-20",
-     "verbatim": "450 EUR (product meta tag)",
+     "verbatim": "360 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7614-adidas-arrow-hit-pro-edt-2026-ari-sanchez-padel-racket-8435739409503.html",
      "sourceType": "retailer"
     }
@@ -1026,7 +1026,7 @@
     "handling": 48,
     "forgiveness": 46,
     "comfort": 23,
-    "value": 10
+    "value": 12
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -1087,11 +1087,11 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€350",
-     "value": 350,
+     "display": "€280",
+     "value": 280,
      "currency": "EUR",
      "checkedOn": "2026-10-20",
-     "verbatim": "€350.00",
+     "verbatim": "280 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7527-padel-racket-adidas-cross-it-ctrl-2026-8435739405949.html",
      "sourceType": "retailer"
     }
@@ -1112,7 +1112,7 @@
     "handling": 60,
     "forgiveness": 60,
     "comfort": 43,
-    "value": 12
+    "value": 15
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -1173,11 +1173,11 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€300",
-     "value": 300,
+     "display": "€240",
+     "value": 240,
      "currency": "EUR",
      "checkedOn": "2026-10-20",
-     "verbatim": "€300.00",
+     "verbatim": "240 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7528-padel-racket-adidas-cross-it-light-2026-martita-ortega-8435739405956.html",
      "sourceType": "retailer"
     }
@@ -1359,7 +1359,7 @@
     "handling": 60,
     "forgiveness": 60,
     "comfort": 43,
-    "value": 10
+    "value": 13
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -1414,11 +1414,11 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€360",
-     "value": 360,
+     "display": "€288",
+     "value": 288,
      "currency": "EUR",
      "checkedOn": "2026-10-20",
-     "verbatim": "360 EUR (product meta tag)",
+     "verbatim": "288 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7766-adidas-cross-it-pro-edt-2026-racket-marta-ortega-8435739409510.html",
      "sourceType": "retailer"
     }
@@ -1516,7 +1516,7 @@
     "handling": 48,
     "forgiveness": 90,
     "comfort": 75,
-    "value": 57
+    "value": 72
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -1572,11 +1572,11 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€80",
-     "value": 80,
+     "display": "€64",
+     "value": 64,
      "currency": "EUR",
      "checkedOn": "2026-10-20",
-     "verbatim": "€80.00",
+     "verbatim": "64 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7491-padel-racket-adidas-drive-black-2026-8435739406038.html",
      "sourceType": "retailer"
     }
@@ -1749,7 +1749,7 @@
     "handling": 48,
     "forgiveness": 72,
     "comfort": 75,
-    "value": 54
+    "value": 68
    },
    "inputsPublished": 3,
    "inputsMissing": [
@@ -1793,11 +1793,11 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€75",
-     "value": 75,
+     "display": "€60",
+     "value": 60,
      "currency": "EUR",
      "checkedOn": "2026-10-20",
-     "verbatim": "€75.00",
+     "verbatim": "60 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7493-padel-racket-adidas-match-black-2026-8435739406052.html",
      "sourceType": "retailer"
     }
@@ -1969,7 +1969,7 @@
     "handling": 40,
     "forgiveness": 38,
     "comfort": 51,
-    "value": 9
+    "value": 11
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -2030,11 +2030,11 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€390",
-     "value": 390,
+     "display": "€312",
+     "value": 312,
      "currency": "EUR",
      "checkedOn": "2026-10-20",
-     "verbatim": "€390.00",
+     "verbatim": "312 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7521-padel-racket-adidas-metalbone-2026-ale-galan-8435739405802.html",
      "sourceType": "retailer"
     }
@@ -2055,7 +2055,7 @@
     "handling": 28,
     "forgiveness": 38,
     "comfort": 47,
-    "value": 14
+    "value": 17
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -2124,11 +2124,11 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€260",
-     "value": 260,
+     "display": "€208",
+     "value": 208,
      "currency": "EUR",
      "checkedOn": "2026-10-20",
-     "verbatim": "260 EUR (product meta tag)",
+     "verbatim": "208 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7775-padel-racket-adidas-metalbone-carbon-2026-8435739405833.html",
      "sourceType": "retailer"
     }
@@ -2310,7 +2310,7 @@
     "handling": 48,
     "forgiveness": 74,
     "comfort": 55,
-    "value": 16
+    "value": 20
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -2365,11 +2365,11 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€260",
-     "value": 260,
+     "display": "€208",
+     "value": 208,
      "currency": "EUR",
      "checkedOn": "2026-10-20",
-     "verbatim": "€260.00",
+     "verbatim": "208 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7534-padel-racket-adidas-metalbone-carbon-ctrl-2026-8435739405840.html",
      "sourceType": "retailer"
     }
@@ -2390,7 +2390,7 @@
     "handling": 60,
     "forgiveness": 74,
     "comfort": 59,
-    "value": 11
+    "value": 13
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -2445,11 +2445,11 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€390",
-     "value": 390,
+     "display": "€312",
+     "value": 312,
      "currency": "EUR",
      "checkedOn": "2026-10-20",
-     "verbatim": "€390.00",
+     "verbatim": "312 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7525-padel-racket-adidas-metalbone-ctrl-2026-8435739405819.html",
      "sourceType": "retailer"
     }
@@ -2551,7 +2551,7 @@
     "handling": 40,
     "forgiveness": 10,
     "comfort": 19,
-    "value": 8
+    "value": 10
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -2606,11 +2606,11 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€390",
-     "value": 390,
+     "display": "€312",
+     "value": 312,
      "currency": "EUR",
      "checkedOn": "2026-10-20",
-     "verbatim": "€390.00",
+     "verbatim": "312 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7522-padel-racket-adidas-metalbone-hrd-2026-ale-galan-8435739405826.html",
      "sourceType": "retailer"
     }
@@ -2712,7 +2712,7 @@
     "handling": 40,
     "forgiveness": 38,
     "comfort": 51,
-    "value": 8
+    "value": 11
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -2774,12 +2774,12 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€425",
-     "value": 425,
+     "display": "€340",
+     "value": 340,
      "currency": "EUR",
      "rrp": null,
      "checkedOn": "2026-10-20",
-     "verbatim": "€425.00 Tax included",
+     "verbatim": "340 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7613-adidas-metalbone-pro-edt-2026-racket-ale-galan-8435739409497.html",
      "sourceType": "retailer"
     }
@@ -2894,7 +2894,7 @@
     "handling": 28,
     "forgiveness": 38,
     "comfort": 47,
-    "value": 11
+    "value": 14
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -2963,12 +2963,12 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€325",
-     "value": 325,
+     "display": "€260",
+     "value": 260,
      "currency": "EUR",
      "rrp": null,
      "checkedOn": "2026-10-20",
-     "verbatim": "€325.00 Tax included",
+     "verbatim": "260 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7540-adidas-metalbone-reserve-2026-racket-8435739409459.html",
      "sourceType": "retailer"
     }
@@ -3153,7 +3153,7 @@
     "handling": 28,
     "forgiveness": 54,
     "comfort": 67,
-    "value": 21
+    "value": 26
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -3208,11 +3208,11 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€200",
-     "value": 200,
+     "display": "€160",
+     "value": 160,
      "currency": "EUR",
      "checkedOn": "2026-10-20",
-     "verbatim": "€200.00",
+     "verbatim": "160 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7530-padel-racket-adidas-metalbone-team-2026-8435739405857.html",
      "sourceType": "retailer"
     }
@@ -3384,7 +3384,7 @@
     "handling": 48,
     "forgiveness": 90,
     "comfort": 75,
-    "value": 38
+    "value": 48
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -3441,12 +3441,12 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€120",
-     "value": 120,
+     "display": "€96",
+     "value": 96,
      "currency": "EUR",
      "rrp": null,
      "checkedOn": "2026-10-20",
-     "verbatim": "€120.00 Tax included",
+     "verbatim": "96 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7485-padel-racket-adidas-rx-series-2026-8435739406007.html",
      "sourceType": "retailer"
     }
@@ -5406,15 +5406,15 @@
      "sourceType": "manufacturer"
     },
     "surface": {
-     "display": "Polyglass (fibra de vidrio)",
-     "material": "Polyglass (fibra de vidrio)",
+     "display": "Polyglass",
+     "material": "Polyglass",
      "verbatim": "Composición exterior Polyglass",
      "source": "https://www.bullpadel.com/es/4950-pala-bullpadel-bp10-evo-25.html",
      "sourceType": "manufacturer"
     },
     "frame": {
-     "display": "CarbonTube, fibra de carbono 100%",
-     "material": "CarbonTube, fibra de carbono 100%",
+     "display": "CarbonTube, 100% carbon fiber",
+     "material": "CarbonTube, 100% carbon fiber",
      "verbatim": "su marco CarbonTube de fibra de carbono 100%",
      "source": "https://www.bullpadel.com/es/4950-pala-bullpadel-bp10-evo-25.html",
      "sourceType": "manufacturer"
