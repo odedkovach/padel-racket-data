@@ -1,14 +1,14 @@
 # Padel racket data
 
-Published specifications of 319 padel rackets from 23 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
+Published specifications of 322 padel rackets from 23 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
 
-Export date: 2026-10-19. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
+Export date: 2026-10-20. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
 
 ## What is in it
 
 | File | What it holds |
 |---|---|
-| [rackets.json](rackets.json) | The full record of every racket: 2317 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
+| [rackets.json](rackets.json) | The full record of every racket: 2340 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
 | [rackets.csv](rackets.csv) | One row per racket, for a spreadsheet |
 | [brands/](brands/) | One readable table per brand |
 | [DATA_DICTIONARY.md](DATA_DICTIONARY.md) | Field definitions, units, missing values, CSV mapping and rating limitations |
@@ -18,10 +18,10 @@ Export date: 2026-10-19. An automated job publishes data changes. This date does
 
 | Brand | Rackets |
 |---|---|
-| [Adidas](brands/adidas.md) | 44 |
+| [Adidas](brands/adidas.md) | 45 |
 | [Babolat](brands/babolat.md) | 18 |
 | [Black Crown](brands/black-crown.md) | 1 |
-| [Bullpadel](brands/bullpadel.md) | 64 |
+| [Bullpadel](brands/bullpadel.md) | 66 |
 | [Cork Padel](brands/cork-padel.md) | 8 |
 | [Drop Shot](brands/drop-shot.md) | 2 |
 | [Dunlop](brands/dunlop.md) | 4 |
@@ -65,7 +65,7 @@ Export date: 2026-10-19. An automated job publishes data changes. This date does
     "handling": 48,
     "forgiveness": 90,
     "comfort": 75,
-    "value": 29
+    "value": 36
   }
 }
 ```
