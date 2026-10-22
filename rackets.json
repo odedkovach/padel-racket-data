@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-21",
+ "built": "2026-10-22",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 326,
+ "count": 328,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -21636,6 +21636,81 @@
    }
   },
   {
+   "slug": "siux-diablo-elite-2027",
+   "name": "Siux Diablo Elite 2027",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-diablo-elite-2027",
+   "productUrl": "https://siuxpadel.com/products/diablo-elite-2027",
+   "level": "Avanzado / profesional",
+   "player": null,
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 42,
+    "comfort": 40,
+    "value": 10
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de pala Lágrima",
+     "source": "https://siuxpadel.com/products/diablo-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Medio",
+     "source": "https://siuxpadel.com/products/diablo-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Soft",
+     "value": null,
+     "material": "EVA Soft",
+     "verbatim": "Núcleo EVA Soft",
+     "source": "https://siuxpadel.com/products/diablo-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon 3K",
+     "material": "Carbon 3K",
+     "verbatim": "Superficie de pala CARBON 3K",
+     "source": "https://siuxpadel.com/products/diablo-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado de pala Mate + arenoso",
+     "source": "https://siuxpadel.com/products/diablo-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€270",
+     "value": 270,
+     "currency": "EUR",
+     "checkedOn": "2026-10-22",
+     "verbatim": "270 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/diablo-elite-2027",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "siux-diablo-elite-6",
    "name": "Siux Diablo Elite 6",
    "brand": "Siux",
@@ -21855,6 +21930,74 @@
      "checkedOn": "2026-10-20",
      "verbatim": "350€",
      "source": "https://www.siuxpadel.com/en/products/siux-diablo-pro-2026-royal-blue",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "siux-diablo-pro-2027-marine-blue",
+   "name": "Siux Diablo Pro 2027 Marine Blue",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-diablo-pro-2027-marine-blue",
+   "productUrl": "https://siuxpadel.com/products/diablo-pro-2027-marine-blue",
+   "level": "Avanzado / profesional",
+   "player": null,
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 42,
+    "comfort": 40,
+    "value": 8
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de pala Lágrima",
+     "source": "https://siuxpadel.com/products/diablo-pro-2027-marine-blue",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Medio",
+     "source": "https://siuxpadel.com/products/diablo-pro-2027-marine-blue",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Soft",
+     "value": null,
+     "material": "EVA Soft",
+     "verbatim": "Núcleo EVA Soft",
+     "source": "https://siuxpadel.com/products/diablo-pro-2027-marine-blue",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "CARBON 24K TEXTREME",
+     "material": "CARBON 24K TEXTREME",
+     "verbatim": "Superficie de pala CARBON 24K TEXTREME",
+     "source": "https://siuxpadel.com/products/diablo-pro-2027-marine-blue",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€359.95",
+     "value": 359.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-22",
+     "verbatim": "359.95 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/diablo-pro-2027-marine-blue",
      "sourceType": "manufacturer"
     }
    }
