@@ -1,11 +1,14 @@
 # Siux padel rackets: published specifications
 
-31 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+34 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
 | [Siux Diablo Elite 2027](https://padeltrue.com/rackets/siux-diablo-elite-2027) | 2027 | Teardrop |  | Medium | EVA Soft | €270 | 50 | 50 | 40 | [product page](https://siuxpadel.com/products/diablo-elite-2027) |
 | [Siux Diablo Pro 2027 Marine Blue](https://padeltrue.com/rackets/siux-diablo-pro-2027-marine-blue) | 2027 | Teardrop |  | Medium | EVA Soft | €359.95 | 50 | 50 | 40 | [product page](https://siuxpadel.com/products/diablo-pro-2027-marine-blue) |
+| [Siux Diablo Pro 2027 Metallic Blue](https://padeltrue.com/rackets/siux-diablo-pro-2027-metallic-blue) | 2027 | Teardrop |  | Medium | EVA Soft | €359.95 | 50 | 50 | 40 | [product page](https://siuxpadel.com/products/diablo-pro-2027-metallic-blue) |
+| [Siux Fenix Elite 2027](https://padeltrue.com/rackets/siux-fenix-elite-2027) | 2027 | Diamond |  | High | EVA Soft | €270 | 82 | 10 | 32 | [product page](https://siuxpadel.com/products/fenix-elite-2027) |
+| [Siux Fenix Pro 2027 Black](https://padeltrue.com/rackets/siux-fenix-pro-2027-black) | 2027 | Diamond |  | High | EVA Soft | €359.95 | 82 | 10 | 32 | [product page](https://siuxpadel.com/products/fenix-pro-2027-black) |
 | [Siux Obsidian Elite 2027](https://padeltrue.com/rackets/siux-obsidian-elite-2027) | 2027 | Teardrop |  | Low | EVA Soft | €270 | 36 | 66 | 48 | [product page](https://siuxpadel.com/products/obsidian-elite-2027) |
 | [Siux Obsidian Pro 2027 Black](https://padeltrue.com/rackets/siux-obsidian-pro-2027-black) | 2027 | Teardrop |  | Low | EVA Soft | €359.95 | 36 | 66 | 48 | [product page](https://siuxpadel.com/products/obsidian-pro-2027-black) |
 | [Siux Obsidian Pro 2027 Silver](https://padeltrue.com/rackets/siux-obsidian-pro-2027-silver) | 2027 | Teardrop |  | Low | EVA Soft | €359.95 | 36 | 66 | 48 | [product page](https://siuxpadel.com/products/obsidian-pro-2027-silver) |

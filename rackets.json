@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-22",
+ "built": "2026-10-23",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 328,
+ "count": 331,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -22003,6 +22003,74 @@
    }
   },
   {
+   "slug": "siux-diablo-pro-2027-metallic-blue",
+   "name": "Siux Diablo Pro 2027 Metallic Blue",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-diablo-pro-2027-metallic-blue",
+   "productUrl": "https://siuxpadel.com/products/diablo-pro-2027-metallic-blue",
+   "level": "Avanzado / profesional",
+   "player": null,
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 42,
+    "comfort": 40,
+    "value": 8
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de pala Lágrima",
+     "source": "https://siuxpadel.com/products/diablo-pro-2027-metallic-blue",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Medio",
+     "source": "https://siuxpadel.com/products/diablo-pro-2027-metallic-blue",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Soft",
+     "value": null,
+     "material": "EVA Soft",
+     "verbatim": "Núcleo EVA Soft",
+     "source": "https://siuxpadel.com/products/diablo-pro-2027-metallic-blue",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "CARBON 24K TEXTREME",
+     "material": "CARBON 24K TEXTREME",
+     "verbatim": "Superficie de pala CARBON 24K TEXTREME",
+     "source": "https://siuxpadel.com/products/diablo-pro-2027-metallic-blue",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€359.95",
+     "value": 359.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-23",
+     "verbatim": "359.95 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/diablo-pro-2027-metallic-blue",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "siux-diablo-pro-se-north-2026",
    "name": "Siux Diablo Pro SE North 2026",
    "brand": "Siux",
@@ -22547,6 +22615,82 @@
    }
   },
   {
+   "slug": "siux-fenix-elite-2027",
+   "name": "Siux Fenix Elite 2027",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-fenix-elite-2027",
+   "productUrl": "https://siuxpadel.com/products/fenix-elite-2027",
+   "level": "Avanzado / profesional",
+   "player": null,
+   "ratings": {
+    "power": 82,
+    "control": 10,
+    "handling": 30,
+    "forgiveness": 24,
+    "comfort": 32,
+    "value": 12
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma de pala Diamante",
+     "source": "https://siuxpadel.com/products/fenix-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Alto",
+     "source": "https://siuxpadel.com/products/fenix-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Soft",
+     "value": null,
+     "material": "EVA Soft",
+     "verbatim": "Núcleo EVA Soft",
+     "source": "https://siuxpadel.com/products/fenix-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "CARBON 3K",
+     "material": "CARBON 3K",
+     "verbatim": "Superficie de pala CARBON 3K",
+     "source": "https://siuxpadel.com/products/fenix-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado de pala Mate + arenoso",
+     "source": "https://siuxpadel.com/products/fenix-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€270",
+     "value": 270,
+     "currency": "EUR",
+     "checkedOn": "2026-10-23",
+     "verbatim": "270 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/fenix-elite-2027",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "siux-fenix-pro-2026-glow-purple",
    "name": "Siux Fenix Pro 2026 Glow Purple",
    "brand": "Siux",
@@ -22616,6 +22760,75 @@
      "checkedOn": "2026-10-20",
      "verbatim": "350€",
      "source": "https://www.siuxpadel.com/en/products/siux-fenix-pro-2026-glow-purple",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "siux-fenix-pro-2027-black",
+   "name": "Siux Fenix Pro 2027 Black",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-fenix-pro-2027-black",
+   "productUrl": "https://siuxpadel.com/products/fenix-pro-2027-black",
+   "level": "Avanzado / profesional",
+   "player": null,
+   "ratings": {
+    "power": 82,
+    "control": 10,
+    "handling": 30,
+    "forgiveness": 24,
+    "comfort": 32,
+    "value": 9
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma de pala Diamante",
+     "source": "https://siuxpadel.com/products/fenix-pro-2027-black",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Alto",
+     "source": "https://siuxpadel.com/products/fenix-pro-2027-black",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Soft",
+     "value": null,
+     "material": "EVA Soft",
+     "verbatim": "Núcleo EVA Soft",
+     "source": "https://siuxpadel.com/products/fenix-pro-2027-black",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "CARBON 12K HONEYCOMB",
+     "material": "CARBON 12K HONEYCOMB",
+     "verbatim": "Superficie de pala CARBON 12K HONEYCOMB",
+     "source": "https://siuxpadel.com/products/fenix-pro-2027-black",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€359.95",
+     "value": 359.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-23",
+     "verbatim": "359.95 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/fenix-pro-2027-black",
      "sourceType": "manufacturer"
     }
    }
