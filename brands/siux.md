@@ -1,17 +1,21 @@
 # Siux padel rackets: published specifications
 
-34 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+38 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
 | [Siux Diablo Elite 2027](https://padeltrue.com/rackets/siux-diablo-elite-2027) | 2027 | Teardrop |  | Medium | EVA Soft | €270 | 50 | 50 | 40 | [product page](https://siuxpadel.com/products/diablo-elite-2027) |
 | [Siux Diablo Pro 2027 Marine Blue](https://padeltrue.com/rackets/siux-diablo-pro-2027-marine-blue) | 2027 | Teardrop |  | Medium | EVA Soft | €359.95 | 50 | 50 | 40 | [product page](https://siuxpadel.com/products/diablo-pro-2027-marine-blue) |
 | [Siux Diablo Pro 2027 Metallic Blue](https://padeltrue.com/rackets/siux-diablo-pro-2027-metallic-blue) | 2027 | Teardrop |  | Medium | EVA Soft | €359.95 | 50 | 50 | 40 | [product page](https://siuxpadel.com/products/diablo-pro-2027-metallic-blue) |
+| [Siux Electra Pro 2027 White](https://padeltrue.com/rackets/siux-electra-pro-2027-white) | 2027 | Teardrop |  | Medium | EVA | €359.95 | 50 | 50 | 40 | [product page](https://siuxpadel.com/products/electra-pro-2027-white) |
 | [Siux Fenix Elite 2027](https://padeltrue.com/rackets/siux-fenix-elite-2027) | 2027 | Diamond |  | High | EVA Soft | €270 | 82 | 10 | 32 | [product page](https://siuxpadel.com/products/fenix-elite-2027) |
 | [Siux Fenix Pro 2027 Black](https://padeltrue.com/rackets/siux-fenix-pro-2027-black) | 2027 | Diamond |  | High | EVA Soft | €359.95 | 82 | 10 | 32 | [product page](https://siuxpadel.com/products/fenix-pro-2027-black) |
+| [Siux Fenix Pro 2027 Purple](https://padeltrue.com/rackets/siux-fenix-pro-2027-purple) | 2027 | Diamond |  | High | Hard, EVA Soft | €359.95 | 82 | 10 | 16 | [product page](https://siuxpadel.com/products/fenix-pro-2027-purple) |
 | [Siux Obsidian Elite 2027](https://padeltrue.com/rackets/siux-obsidian-elite-2027) | 2027 | Teardrop |  | Low | EVA Soft | €270 | 36 | 66 | 48 | [product page](https://siuxpadel.com/products/obsidian-elite-2027) |
 | [Siux Obsidian Pro 2027 Black](https://padeltrue.com/rackets/siux-obsidian-pro-2027-black) | 2027 | Teardrop |  | Low | EVA Soft | €359.95 | 36 | 66 | 48 | [product page](https://siuxpadel.com/products/obsidian-pro-2027-black) |
 | [Siux Obsidian Pro 2027 Silver](https://padeltrue.com/rackets/siux-obsidian-pro-2027-silver) | 2027 | Teardrop |  | Low | EVA Soft | €359.95 | 36 | 66 | 48 | [product page](https://siuxpadel.com/products/obsidian-pro-2027-silver) |
+| [Siux Pegasus Elite 2027](https://padeltrue.com/rackets/siux-pegasus-elite-2027) | 2027 | Teardrop |  | Medium | EVA Soft | €270 | 50 | 50 | 40 | [product page](https://siuxpadel.com/products/pegasus-elite-2027) |
+| [Siux Pegasus Pro 2027 Black](https://padeltrue.com/rackets/siux-pegasus-pro-2027-black) | 2027 | Teardrop |  | Medium | EVA Soft | €359.95 | 50 | 50 | 40 | [product page](https://siuxpadel.com/products/pegasus-pro-2027-black) |
 | [Siux Astra Ctrl 2026](https://padeltrue.com/rackets/siux-astra-ctrl-2026) | 2026 | Round |  | Low |  | €150 | 18 | 90 | 58 | [product page](https://siuxpadel.com/products/siux-astra-ctrl-2026) |
 | [Siux Astra Hybrid 2026](https://padeltrue.com/rackets/siux-astra-hybrid-2026) | 2026 | Teardrop |  | Medium | EVA SOFT | €150 | 50 | 50 | 50 | [product page](https://siuxpadel.com/products/siux-astra-hybrid-2026) |
 | [Siux Diablo Elite 6](https://padeltrue.com/rackets/siux-diablo-elite-6) | 2026 | Teardrop | 355 to 375 g (12.5 to 13.2 oz) | Medium | Medium, EVA Soft | €169.95 | 50 | 50 | 40 | [product page](https://www.padelnuestro.com/int/siux-diablo-elite-6) |

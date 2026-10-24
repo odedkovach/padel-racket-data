@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-23",
+ "built": "2026-10-24",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 331,
+ "count": 335,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -22220,6 +22220,81 @@
    }
   },
   {
+   "slug": "siux-electra-pro-2027-white",
+   "name": "Siux Electra Pro 2027 White",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-electra-pro-2027-white",
+   "productUrl": "https://siuxpadel.com/products/electra-pro-2027-white",
+   "level": "Avanzado / profesional",
+   "player": null,
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 42,
+    "comfort": 40,
+    "value": 8
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de pala Lágrima",
+     "source": "https://siuxpadel.com/products/electra-pro-2027-white",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Medio",
+     "source": "https://siuxpadel.com/products/electra-pro-2027-white",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA",
+     "value": null,
+     "material": "EVA",
+     "verbatim": "tacto firme 8/10",
+     "source": "https://siuxpadel.com/products/electra-pro-2027-white",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "CARBON 12K",
+     "material": "CARBON 12K",
+     "verbatim": "Superficie de pala CARBON 12K",
+     "source": "https://siuxpadel.com/products/electra-pro-2027-white",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado de pala Satinado + arenoso",
+     "source": "https://siuxpadel.com/products/electra-pro-2027-white",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€359.95",
+     "value": 359.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-24",
+     "verbatim": "359.95 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/electra-pro-2027-white",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "siux-electra-pro-it-2026",
    "name": "Siux Electra Pro IT 2026",
    "brand": "Siux",
@@ -22829,6 +22904,81 @@
      "checkedOn": "2026-10-23",
      "verbatim": "359.95 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/fenix-pro-2027-black",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "siux-fenix-pro-2027-purple",
+   "name": "Siux Fenix Pro 2027 Purple",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-fenix-pro-2027-purple",
+   "productUrl": "https://siuxpadel.com/products/fenix-pro-2027-purple",
+   "level": "Avanzado / profesional",
+   "player": null,
+   "ratings": {
+    "power": 82,
+    "control": 10,
+    "handling": 30,
+    "forgiveness": 10,
+    "comfort": 16,
+    "value": 9
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma de pala Diamante",
+     "source": "https://siuxpadel.com/products/fenix-pro-2027-purple",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Alto",
+     "source": "https://siuxpadel.com/products/fenix-pro-2027-purple",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Hard, EVA Soft",
+     "value": "hard",
+     "material": "EVA Soft",
+     "verbatim": "tacto 10/10, la máxima dureza",
+     "source": "https://siuxpadel.com/products/fenix-pro-2027-purple",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "CARBON 12K HONEYCOMB",
+     "material": "CARBON 12K HONEYCOMB",
+     "verbatim": "Superficie de pala CARBON 12K HONEYCOMB",
+     "source": "https://siuxpadel.com/products/fenix-pro-2027-purple",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "textura 3D",
+     "source": "https://siuxpadel.com/products/fenix-pro-2027-purple",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€359.95",
+     "value": 359.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-24",
+     "verbatim": "359.95 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/fenix-pro-2027-purple",
      "sourceType": "manufacturer"
     }
    }
@@ -23455,6 +23605,81 @@
    }
   },
   {
+   "slug": "siux-pegasus-elite-2027",
+   "name": "Siux Pegasus Elite 2027",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-pegasus-elite-2027",
+   "productUrl": "https://siuxpadel.com/products/pegasus-elite-2027",
+   "level": "Avanzado / profesional",
+   "player": null,
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 42,
+    "comfort": 40,
+    "value": 10
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de pala Lágrima",
+     "source": "https://siuxpadel.com/products/pegasus-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Medio",
+     "source": "https://siuxpadel.com/products/pegasus-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Soft",
+     "value": null,
+     "material": "EVA Soft",
+     "verbatim": "Núcleo EVA Soft",
+     "source": "https://siuxpadel.com/products/pegasus-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "CARBON 3K",
+     "material": "CARBON 3K",
+     "verbatim": "Superficie de pala CARBON 3K",
+     "source": "https://siuxpadel.com/products/pegasus-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado de pala Mate + arenoso",
+     "source": "https://siuxpadel.com/products/pegasus-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€270",
+     "value": 270,
+     "currency": "EUR",
+     "checkedOn": "2026-10-24",
+     "verbatim": "270 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/pegasus-elite-2027",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "siux-pegasus-pro-2026-lava-orange",
    "name": "Siux Pegasus Pro 2026 Lava Orange",
    "brand": "Siux",
@@ -23524,6 +23749,74 @@
      "checkedOn": "2026-10-20",
      "verbatim": "350€",
      "source": "https://www.siuxpadel.com/en/products/siux-pegasus-pro-2026-lava-orange",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "siux-pegasus-pro-2027-black",
+   "name": "Siux Pegasus Pro 2027 Black",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-pegasus-pro-2027-black",
+   "productUrl": "https://siuxpadel.com/products/pegasus-pro-2027-black",
+   "level": "Avanzado / profesional",
+   "player": null,
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 42,
+    "comfort": 40,
+    "value": 8
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de pala Lágrima",
+     "source": "https://siuxpadel.com/products/pegasus-pro-2027-black",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Medio",
+     "source": "https://siuxpadel.com/products/pegasus-pro-2027-black",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Soft",
+     "value": null,
+     "material": "EVA Soft",
+     "verbatim": "Núcleo EVA Soft",
+     "source": "https://siuxpadel.com/products/pegasus-pro-2027-black",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "CARBON 12K",
+     "material": "CARBON 12K",
+     "verbatim": "Superficie de pala CARBON 12K",
+     "source": "https://siuxpadel.com/products/pegasus-pro-2027-black",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€359.95",
+     "value": 359.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-24",
+     "verbatim": "359.95 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/pegasus-pro-2027-black",
      "sourceType": "manufacturer"
     }
    }

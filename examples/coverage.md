@@ -1,6 +1,6 @@
 # Specification coverage in this PadelTrue snapshot
 
-Export date: 2026-10-23. Model version: 1.0. Records: 331.
+Export date: 2026-10-24. Model version: 1.0. Records: 335.
 
 This measures the records collected by PadelTrue, not the whole market or the quality of a brand. A missing field here does not establish that a manufacturer never published it. Small and unequal brand samples are not a brand ranking.
 
@@ -24,7 +24,7 @@ Each cell shows records with the field / records for that brand. Numerical balan
 | Padelsmith | 1 | 1/1 | 0/1 | 1/1 | 1/1 |
 | Royal Padel | 14 | 10/14 | 0/14 | 12/14 | 3/14 |
 | Shooter | 1 | 1/1 | 0/1 | 1/1 | 0/1 |
-| Siux | 34 | 10/34 | 0/34 | 34/34 | 6/34 |
+| Siux | 38 | 10/38 | 0/38 | 38/38 | 6/38 |
 | StarVie | 17 | 17/17 | 0/17 | 17/17 | 8/17 |
 | Tecnifibre | 2 | 2/2 | 0/2 | 2/2 | 1/2 |
 | Vairo | 2 | 2/2 | 0/2 | 2/2 | 1/2 |
