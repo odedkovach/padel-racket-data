@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-24",
+ "built": "2026-10-25",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 335,
+ "count": 339,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -453,6 +453,81 @@
      "checkedOn": "2026-10-21",
      "verbatim": "128 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7460-padel-racket-adidas-2026-world-cup-italy-8435739406496.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-2026-world-cup-mexico",
+   "name": "adidas 2026 World Cup Mexico",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-2026-world-cup-mexico",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7461-padel-racket-adidas-2026-world-cup-mexico-8435739406502.html",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 33,
+    "control": 74,
+    "handling": 48,
+    "forgiveness": 90,
+    "comfort": 75,
+    "value": 36
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Shape: Round",
+     "source": "https://allforpadel.com/en/padel-rackets/7461-padel-racket-adidas-2026-world-cup-mexico-8435739406502.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "Weight: 360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7461-padel-racket-adidas-2026-world-cup-mexico-8435739406502.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Rubber: Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7461-padel-racket-adidas-2026-world-cup-mexico-8435739406502.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiberglass",
+     "material": "Fiberglass",
+     "verbatim": "Face: Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7461-padel-racket-adidas-2026-world-cup-mexico-8435739406502.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Thickness: 38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7461-padel-racket-adidas-2026-world-cup-mexico-8435739406502.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€128",
+     "value": 128,
+     "currency": "EUR",
+     "checkedOn": "2026-10-25",
+     "verbatim": "128 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7461-padel-racket-adidas-2026-world-cup-mexico-8435739406502.html",
      "sourceType": "retailer"
     }
    }
@@ -23822,6 +23897,74 @@
    }
   },
   {
+   "slug": "siux-pegasus-pro-2027-silver",
+   "name": "Siux Pegasus Pro 2027 Silver",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-pegasus-pro-2027-silver",
+   "productUrl": "https://siuxpadel.com/products/pegasus-pro-2027-silver",
+   "level": "Avanzado / profesional",
+   "player": null,
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 42,
+    "comfort": 40,
+    "value": 8
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "weight"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de pala Lágrima",
+     "source": "https://siuxpadel.com/products/pegasus-pro-2027-silver",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Medio",
+     "source": "https://siuxpadel.com/products/pegasus-pro-2027-silver",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Soft",
+     "value": null,
+     "material": "EVA Soft",
+     "verbatim": "Núcleo EVA Soft",
+     "source": "https://siuxpadel.com/products/pegasus-pro-2027-silver",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "CARBON 12K",
+     "material": "CARBON 12K",
+     "verbatim": "Superficie de pala CARBON 12K",
+     "source": "https://siuxpadel.com/products/pegasus-pro-2027-silver",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€359.95",
+     "value": 359.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-25",
+     "verbatim": "359.95 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/pegasus-pro-2027-silver",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "siux-trilogy-elite-2026",
    "name": "Siux Trilogy Elite 2026",
    "brand": "Siux",
@@ -24100,6 +24243,80 @@
    }
   },
   {
+   "slug": "siux-valkiria-elite-2027",
+   "name": "Siux Valkiria Elite 2027",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-valkiria-elite-2027",
+   "productUrl": "https://siuxpadel.com/products/valkiria-elite-2027",
+   "level": "Avanzado / profesional",
+   "player": null,
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 56,
+    "comfort": 56,
+    "value": 12
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "weight"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de pala Lágrima",
+     "source": "https://siuxpadel.com/products/valkiria-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Medio",
+     "source": "https://siuxpadel.com/products/valkiria-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, EVA Soft",
+     "value": "soft",
+     "material": "EVA Soft",
+     "verbatim": "tacto suave 5,5/10",
+     "source": "https://siuxpadel.com/products/valkiria-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "carbono 3K",
+     "material": "carbono 3K",
+     "verbatim": "Superficie de pala CARBON 3K",
+     "source": "https://siuxpadel.com/products/valkiria-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado de pala Mate + arenoso",
+     "source": "https://siuxpadel.com/products/valkiria-elite-2027",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€270",
+     "value": 270,
+     "currency": "EUR",
+     "checkedOn": "2026-10-25",
+     "verbatim": "270 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/valkiria-elite-2027",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "siux-valkiria-pro-2026",
    "name": "Siux Valkiria Pro 2026",
    "brand": "Siux",
@@ -24178,6 +24395,82 @@
      "verbatim": "data-gtm_detail_price=\"350.00\"",
      "source": "https://www.tennis-warehouse.com/Siux_Valkiria_Pro_2026_Padel_Racket/descpage-SXVAP6.html",
      "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "siux-valkiria-pro-2027",
+   "name": "Siux Valkiria Pro 2027",
+   "brand": "Siux",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/siux-valkiria-pro-2027",
+   "productUrl": "https://siuxpadel.com/products/valkiria-pro-2027",
+   "level": "Avanzado / profesional",
+   "player": "Sofía Araújo",
+   "ratings": {
+    "power": 45,
+    "control": 50,
+    "handling": 62,
+    "forgiveness": 50,
+    "comfort": 54,
+    "value": 9
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "face"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de pala Lágrima",
+     "source": "https://siuxpadel.com/products/valkiria-pro-2027",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "340 to 360 g (12.0 to 12.7 oz)",
+     "min": 340,
+     "max": 360,
+     "verbatim": "peso reducido de 340–360 g",
+     "source": "https://siuxpadel.com/products/valkiria-pro-2027",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Medio",
+     "source": "https://siuxpadel.com/products/valkiria-pro-2027",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "EVA Soft",
+     "value": null,
+     "material": "EVA Soft",
+     "verbatim": "Núcleo EVA Soft",
+     "source": "https://siuxpadel.com/products/valkiria-pro-2027",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "textura 3D",
+     "source": "https://siuxpadel.com/products/valkiria-pro-2027",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€359.95",
+     "value": 359.95,
+     "currency": "EUR",
+     "checkedOn": "2026-10-25",
+     "verbatim": "359.95 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/valkiria-pro-2027",
+     "sourceType": "manufacturer"
     }
    }
   },
