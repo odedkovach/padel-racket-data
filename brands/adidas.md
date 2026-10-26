@@ -1,6 +1,6 @@
 # Adidas padel rackets: published specifications
 
-47 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+48 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Adidas RX Series 2026](https://padeltrue.com/rackets/adidas-rx-series-2026) | 2026 | Round | 360 to 375 g (12.7 to 13.2 oz) | Medium | Soft, EVA Soft Performance | €96 | 33 | 74 | 75 | [product page](https://allforpadel.com/en/padel-rackets/7485-padel-racket-adidas-rx-series-2026-8435739406007.html) |
 | [Adidas Rx Series Light 2026](https://padeltrue.com/rackets/adidas-rx-series-light-2026) | 2026 | Round | 345 to 360 g (12.2 to 12.7 oz) |  | Soft, Eva Soft Performance | €120 | 28 | 74 | 79 | [product page](https://allforpadel.com/en/padel-rackets/7486-padel-racket-adidas-rx-series-light-2026-8435739406014.html) |
 | [adidas World Cup 2026 England](https://padeltrue.com/rackets/adidas-world-cup-2026-england) | 2026 | Round | 360 to 375 g (12.7 to 13.2 oz) |  | Soft, Eva Soft Performance | €128 | 33 | 74 | 75 | [product page](https://allforpadel.com/en/padel-rackets/7458-padel-racket-adidas-2026-world-cup-england-8435739406472.html) |
+| [Adidas World Cup Multination 2026](https://padeltrue.com/rackets/adidas-world-cup-multination-2026) | 2026 | Round | 360 to 375 g (12.7 to 13.2 oz) |  | Soft, Eva Soft Performance | €128 | 33 | 74 | 75 | [product page](https://allforpadel.com/en/padel-rackets/7496-padel-racket-adidas-2026-world-cup-multination-8435739407875.html) |
 | [Adidas Adipower Legend 2025](https://padeltrue.com/rackets/adidas-adipower-legend-2025) | 2025 | Diamond | 315 to 330 g (11.1 to 11.6 oz) | High | Soft, Eva Soft Performance | €180 | 74 | 10 | 54 | [product page](https://allforpadel.com/en/padel-rackets/7426-adidas-adipower-legend-2025-racket-8435739407738.html) |
 | [Adidas Cross IT Light 3.4 2025](https://padeltrue.com/rackets/adidas-cross-it-light-3-4-2025) | 2025 | Round | 345 to 360 g (12.2 to 12.7 oz) | Low | Medium | €164.95 | 14 | 90 | 51 | [product page](https://www.padelnuestro.com/pala-adidas-cross-lt-light-3-4-ar1ca6u11) |
 | [Adidas Metalbone Carbon 3.4 2025](https://padeltrue.com/rackets/adidas-metalbone-carbon-3-4-2025) | 2025 | Diamond | 360 to 375 g (12.7 to 13.2 oz) | High | Soft, Soft Eva | €149.95 | 83 | 10 | 47 | [product page](https://www.padelnuestro.com/pala-adidas-metalbone-carbon-3-4-ar1aa2u42) |

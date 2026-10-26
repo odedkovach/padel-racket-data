@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-25",
+ "built": "2026-10-26",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 339,
+ "count": 343,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -3753,6 +3753,81 @@
    }
   },
   {
+   "slug": "adidas-world-cup-multination-2026",
+   "name": "Adidas World Cup Multination 2026",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-world-cup-multination-2026",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7496-padel-racket-adidas-2026-world-cup-multination-8435739407875.html",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 33,
+    "control": 74,
+    "handling": 48,
+    "forgiveness": 90,
+    "comfort": 75,
+    "value": 36
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Round",
+     "source": "https://allforpadel.com/en/padel-rackets/7496-padel-racket-adidas-2026-world-cup-multination-8435739407875.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7496-padel-racket-adidas-2026-world-cup-multination-8435739407875.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7496-padel-racket-adidas-2026-world-cup-multination-8435739407875.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiberglass",
+     "material": "Fiberglass",
+     "verbatim": "Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7496-padel-racket-adidas-2026-world-cup-multination-8435739407875.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7496-padel-racket-adidas-2026-world-cup-multination-8435739407875.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€128",
+     "value": 128,
+     "currency": "EUR",
+     "checkedOn": "2026-10-26",
+     "verbatim": "128 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7496-padel-racket-adidas-2026-world-cup-multination-8435739407875.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
    "slug": "babolat-air-crest-2026",
    "name": "Babolat Air Crest 2026",
    "brand": "Babolat",
@@ -6923,6 +6998,103 @@
    }
   },
   {
+   "slug": "bullpadel-hack-04-mx-25",
+   "name": "Bullpadel Hack 04 MX 25",
+   "brand": "Bullpadel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/bullpadel-hack-04-mx-25",
+   "productUrl": "https://www.bullpadel.com/es/5915-pala-bullpadel-hack-04-mx-25.html",
+   "level": "Profesional",
+   "player": "Paquito Navarro",
+   "ratings": {
+    "power": 70,
+    "control": 26,
+    "handling": 46,
+    "forgiveness": 17,
+    "comfort": 31,
+    "value": 9
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/5915-pala-bullpadel-hack-04-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/5915-pala-bullpadel-hack-04-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26.4 cm (10.4 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26.4,
+     "verbatim": "Balance Aprox. 26,4 cm",
+     "source": "https://www.bullpadel.com/es/5915-pala-bullpadel-hack-04-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, MultiEVA",
+     "value": "medium-hard",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio / Duro",
+     "source": "https://www.bullpadel.com/es/5915-pala-bullpadel-hack-04-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Tricarbon 18K",
+     "material": "Tricarbon 18K",
+     "verbatim": "Composición exterior Tricarbon 18K",
+     "source": "https://www.bullpadel.com/es/5915-pala-bullpadel-hack-04-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% de Carbono entrelazado bidireccional",
+     "material": "100% de Carbono entrelazado bidireccional",
+     "verbatim": "construcción del marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/5915-pala-bullpadel-hack-04-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/5915-pala-bullpadel-hack-04-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/5915-pala-bullpadel-hack-04-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€349.99",
+     "value": 349.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-26",
+     "verbatim": "349.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/5915-pala-bullpadel-hack-04-mx-25.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-hack-05-2027",
    "name": "Bullpadel Hack 05 2027",
    "brand": "Bullpadel",
@@ -7740,6 +7912,96 @@
    }
   },
   {
+   "slug": "bullpadel-icon-cloud-2025",
+   "name": "Bullpadel Icon Cloud 2025",
+   "brand": "Bullpadel",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/bullpadel-icon-cloud-2025",
+   "productUrl": "https://www.bullpadel.com/es/4555-pala-bullpadel-icon-cloud-25.html",
+   "level": "Avanzado",
+   "player": "Juan Martín Díaz",
+   "ratings": {
+    "power": 70,
+    "control": 26,
+    "handling": 46,
+    "forgiveness": 40,
+    "comfort": 59,
+    "value": 22
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
+   "profile": [
+    "power"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/4555-pala-bullpadel-icon-cloud-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "370 g (13.1 oz)",
+     "min": 370,
+     "max": 370,
+     "verbatim": "Peso 370 g",
+     "source": "https://www.bullpadel.com/es/4555-pala-bullpadel-icon-cloud-25.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26.5 cm (10.4 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26.5,
+     "verbatim": "Balance Aprox. 26,5 cm",
+     "source": "https://www.bullpadel.com/es/4555-pala-bullpadel-icon-cloud-25.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "CloudEVA",
+     "value": null,
+     "material": "CloudEVA",
+     "verbatim": "Composición interior CloudEVA",
+     "source": "https://www.bullpadel.com/es/4555-pala-bullpadel-icon-cloud-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Glass Fiber",
+     "material": "Glass Fiber",
+     "verbatim": "Composición exterior Glass Fiber",
+     "source": "https://www.bullpadel.com/es/4555-pala-bullpadel-icon-cloud-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% Carbono entrelazado bidireccional",
+     "material": "100% Carbono entrelazado bidireccional",
+     "verbatim": "marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/4555-pala-bullpadel-icon-cloud-25.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/4555-pala-bullpadel-icon-cloud-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€164.99",
+     "value": 164.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-26",
+     "verbatim": "164.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/4555-pala-bullpadel-icon-cloud-25.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-indiga-boy-2026",
    "name": "Bullpadel Indiga Boy 2026",
    "brand": "Bullpadel",
@@ -7826,6 +8088,96 @@
      "checkedOn": "2026-10-15",
      "verbatim": "59.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/5702-pala-bullpadel-indiga-boy-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-indiga-ctr-2025",
+   "name": "Bullpadel Indiga CTR 2025",
+   "brand": "Bullpadel",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/bullpadel-indiga-ctr-2025",
+   "productUrl": "https://www.bullpadel.com/es/4946-pala-bullpadel-indiga-ctr-25.html",
+   "level": "Iniciación",
+   "player": null,
+   "ratings": {
+    "power": 18,
+    "control": 90,
+    "handling": 70,
+    "forgiveness": 90,
+    "comfort": 84,
+    "value": 71
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "control",
+    "easy to move",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Forma Redonda",
+     "source": "https://www.bullpadel.com/es/4946-pala-bullpadel-indiga-ctr-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 370 g (12.7 to 13.1 oz)",
+     "min": 360,
+     "max": 370,
+     "verbatim": "Peso 360 - 370 g",
+     "source": "https://www.bullpadel.com/es/4946-pala-bullpadel-indiga-ctr-25.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance Bajo",
+     "source": "https://www.bullpadel.com/es/4946-pala-bullpadel-indiga-ctr-25.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, SoftEVA",
+     "value": "soft",
+     "material": "SoftEVA",
+     "verbatim": "Tacto Blando",
+     "source": "https://www.bullpadel.com/es/4946-pala-bullpadel-indiga-ctr-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Polyglass",
+     "material": "Polyglass",
+     "verbatim": "Composición exterior Polyglass",
+     "source": "https://www.bullpadel.com/es/4946-pala-bullpadel-indiga-ctr-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "fibra de carbono",
+     "material": "fibra de carbono",
+     "verbatim": "el marco ha sido fabricado en fibra de carbono",
+     "source": "https://www.bullpadel.com/es/4946-pala-bullpadel-indiga-ctr-25.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/4946-pala-bullpadel-indiga-ctr-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€69.99",
+     "value": 69.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-26",
+     "verbatim": "69.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/4946-pala-bullpadel-indiga-ctr-25.html",
      "sourceType": "manufacturer"
     }
    }
