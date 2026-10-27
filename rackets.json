@@ -5,7 +5,7 @@
  "built": "2026-10-27",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 347,
+ "count": 345,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -534,7 +534,7 @@
   },
   {
    "slug": "adidas-2026-world-cup-netherlands",
-   "name": "Adidas 2026 World Cup Netherlands",
+   "name": "adidas 2026 World Cup Netherlands",
    "brand": "Adidas",
    "year": 2026,
    "url": "https://padeltrue.com/rackets/adidas-2026-world-cup-netherlands",
@@ -3895,7 +3895,7 @@
      "display": "€128",
      "value": 128,
      "currency": "EUR",
-     "checkedOn": "2026-10-26",
+     "checkedOn": "2026-10-27",
      "verbatim": "128 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7496-padel-racket-adidas-2026-world-cup-multination-8435739407875.html",
      "sourceType": "retailer"
@@ -7171,7 +7171,7 @@
   },
   {
    "slug": "bullpadel-hack-04-tf-25",
-   "name": "Bullpadel Hack 04 TF 25",
+   "name": "Bullpadel HACK 04 TF 25",
    "brand": "Bullpadel",
    "year": 2026,
    "url": "https://padeltrue.com/rackets/bullpadel-hack-04-tf-25",
@@ -7238,7 +7238,7 @@
     "frame": {
      "display": "100% de Carbono entrelazado bidireccional",
      "material": "100% de Carbono entrelazado bidireccional",
-     "verbatim": "construcción del marco de la pala 100% de Carbono entrelazado bidireccional",
+     "verbatim": "marco de la pala 100% de Carbono entrelazado bidireccional",
      "source": "https://www.bullpadel.com/es/6139-pala-bullpadel-hack-04-tf-25.html",
      "sourceType": "manufacturer"
     },
@@ -8799,104 +8799,6 @@
    }
   },
   {
-   "slug": "bullpadel-ionic-control-2025",
-   "name": "Bullpadel Ionic Control 2025",
-   "brand": "Bullpadel",
-   "year": 2025,
-   "url": "https://padeltrue.com/rackets/bullpadel-ionic-control-2025",
-   "productUrl": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
-   "level": null,
-   "player": null,
-   "ratings": {
-    "power": 20,
-    "control": 90,
-    "handling": 66,
-    "forgiveness": 68,
-    "comfort": 57,
-    "value": 32
-   },
-   "inputsPublished": 3,
-   "inputsMissing": [
-    "core",
-    "face"
-   ],
-   "profile": [
-    "control",
-    "forgiving"
-   ],
-   "specs": {
-    "shape": {
-     "display": "Round",
-     "value": "round",
-     "verbatim": "Forma Redonda",
-     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
-     "sourceType": "manufacturer"
-    },
-    "weight": {
-     "display": "365 to 375 g (12.9 to 13.2 oz)",
-     "min": 365,
-     "max": 375,
-     "verbatim": "Peso 365 - 375 g",
-     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
-     "sourceType": "manufacturer"
-    },
-    "balance": {
-     "display": "Low",
-     "value": "low",
-     "mm": null,
-     "cm": null,
-     "verbatim": "Balance Bajo",
-     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
-     "sourceType": "manufacturer"
-    },
-    "core": {
-     "display": "MultiEVA",
-     "value": null,
-     "material": "MultiEVA",
-     "verbatim": "Composición interior MultiEVA",
-     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
-     "sourceType": "manufacturer"
-    },
-    "surface": {
-     "display": "Glaphite",
-     "material": "Glaphite",
-     "verbatim": "Composición exterior Glaphite",
-     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
-     "sourceType": "manufacturer"
-    },
-    "frame": {
-     "display": "CarbonTube de fibra de carbono 100%",
-     "material": "CarbonTube de fibra de carbono 100%",
-     "verbatim": "marco de CarbonTube de fibra de carbono 100%",
-     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
-     "sourceType": "manufacturer"
-    },
-    "thicknessMm": {
-     "display": "38 mm (1.5 in)",
-     "value": 38,
-     "verbatim": "Perfil 38 mm",
-     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
-     "sourceType": "manufacturer"
-    },
-    "roughSurface": {
-     "display": "Yes",
-     "value": true,
-     "verbatim": "Acabado rugoso 3D Grain",
-     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
-     "sourceType": "manufacturer"
-    },
-    "price": {
-     "display": "€134.99",
-     "value": 134.99,
-     "currency": "EUR",
-     "checkedOn": "2026-10-27",
-     "verbatim": "134.99 EUR (schema.org offer)",
-     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
-     "sourceType": "manufacturer"
-    }
-   }
-  },
-  {
    "slug": "bullpadel-ionic-control-26",
    "name": "Bullpadel Ionic Control 26",
    "brand": "Bullpadel",
@@ -9071,95 +8973,6 @@
      "checkedOn": "2026-10-17",
      "verbatim": "149.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/5693-pala-bullpadel-ionic-light-26.html",
-     "sourceType": "manufacturer"
-    }
-   }
-  },
-  {
-   "slug": "bullpadel-ionic-power-2025",
-   "name": "Bullpadel Ionic Power 2025",
-   "brand": "Bullpadel",
-   "year": 2025,
-   "url": "https://padeltrue.com/rackets/bullpadel-ionic-power-2025",
-   "productUrl": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
-   "level": "Medio/Avanzado",
-   "player": null,
-   "ratings": {
-    "power": 70,
-    "control": 26,
-    "handling": 46,
-    "forgiveness": 32,
-    "comfort": 49,
-    "value": 24
-   },
-   "inputsPublished": 3,
-   "inputsMissing": [
-    "balance",
-    "face"
-   ],
-   "profile": [
-    "power",
-    "demanding"
-   ],
-   "specs": {
-    "shape": {
-     "display": "Diamond",
-     "value": "diamond",
-     "verbatim": "Forma Diamante",
-     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
-     "sourceType": "manufacturer"
-    },
-    "weight": {
-     "display": "365 to 375 g (12.9 to 13.2 oz)",
-     "min": 365,
-     "max": 375,
-     "verbatim": "Peso 365 - 375 g",
-     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
-     "sourceType": "manufacturer"
-    },
-    "core": {
-     "display": "Medium, MultiEVA",
-     "value": "medium",
-     "material": "MultiEVA",
-     "verbatim": "Tacto Intermedio",
-     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
-     "sourceType": "manufacturer"
-    },
-    "surface": {
-     "display": "Glaphite",
-     "material": "Glaphite",
-     "verbatim": "Composición exterior Glaphite",
-     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
-     "sourceType": "manufacturer"
-    },
-    "frame": {
-     "display": "CarbonTube, 100% carbon fiber",
-     "material": "CarbonTube, 100% carbon fiber",
-     "verbatim": "su marco de CarbonTube de fibra de carbono 100%",
-     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
-     "sourceType": "manufacturer"
-    },
-    "thicknessMm": {
-     "display": "38 mm (1.5 in)",
-     "value": 38,
-     "verbatim": "Perfil 38 mm",
-     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
-     "sourceType": "manufacturer"
-    },
-    "roughSurface": {
-     "display": "Yes",
-     "value": true,
-     "verbatim": "Acabado rugoso 3D Grain",
-     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
-     "sourceType": "manufacturer"
-    },
-    "price": {
-     "display": "€134.99",
-     "value": 134.99,
-     "currency": "EUR",
-     "checkedOn": "2026-10-27",
-     "verbatim": "134.99 EUR (schema.org offer)",
-     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
      "sourceType": "manufacturer"
     }
    }
@@ -24332,7 +24145,7 @@
     "handling": 50,
     "forgiveness": 40,
     "comfort": 32,
-    "value": 16
+    "value": 25
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -24381,11 +24194,11 @@
      "sourceType": "manufacturer"
     },
     "price": {
-     "display": "€189",
-     "value": 189,
+     "display": "€119",
+     "value": 119,
      "currency": "EUR",
      "checkedOn": "2026-10-27",
-     "verbatim": "189 EUR (schema.org offer)",
+     "verbatim": "119 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-pegasus-3",
      "sourceType": "manufacturer"
     }
