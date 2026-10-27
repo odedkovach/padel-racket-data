@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-10-26",
+ "built": "2026-10-27",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 343,
+ "count": 347,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -75,7 +75,7 @@
      "display": "€128",
      "value": 128,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "128 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7463-padel-racket-adidas-2026-world-cup-argentina-8435739406526.html",
      "sourceType": "retailer"
@@ -150,7 +150,7 @@
      "display": "€128",
      "value": 128,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "128 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7459-padel-racket-adidas-2026-world-cup-belgium-8435739406489.html",
      "sourceType": "retailer"
@@ -225,7 +225,7 @@
      "display": "€128",
      "value": 128,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "128 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7452-padel-racket-adidas-2026-world-cup-colombia-8435739406441.html",
      "sourceType": "retailer"
@@ -300,7 +300,7 @@
      "display": "€128",
      "value": 128,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "128 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7462-padel-racket-adidas-2026-world-cup-france-8435739406519.html",
      "sourceType": "retailer"
@@ -375,7 +375,7 @@
      "display": "€128",
      "value": 128,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "128 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7457-padel-racket-adidas-2026-world-cup-germany-8435739406465.html",
      "sourceType": "retailer"
@@ -450,7 +450,7 @@
      "display": "€128",
      "value": 128,
      "currency": "EUR",
-     "checkedOn": "2026-10-21",
+     "checkedOn": "2026-10-27",
      "verbatim": "128 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7460-padel-racket-adidas-2026-world-cup-italy-8435739406496.html",
      "sourceType": "retailer"
@@ -525,9 +525,84 @@
      "display": "€128",
      "value": 128,
      "currency": "EUR",
-     "checkedOn": "2026-10-25",
+     "checkedOn": "2026-10-27",
      "verbatim": "128 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7461-padel-racket-adidas-2026-world-cup-mexico-8435739406502.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-2026-world-cup-netherlands",
+   "name": "Adidas 2026 World Cup Netherlands",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-2026-world-cup-netherlands",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7456-padel-racket-adidas-2026-world-cup-netherlands-8435739406458.html",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 33,
+    "control": 74,
+    "handling": 48,
+    "forgiveness": 90,
+    "comfort": 75,
+    "value": 36
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Shape: Round",
+     "source": "https://allforpadel.com/en/padel-rackets/7456-padel-racket-adidas-2026-world-cup-netherlands-8435739406458.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "Weight: 360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7456-padel-racket-adidas-2026-world-cup-netherlands-8435739406458.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Rubber: Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7456-padel-racket-adidas-2026-world-cup-netherlands-8435739406458.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiberglass",
+     "material": "Fiberglass",
+     "verbatim": "Face: Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7456-padel-racket-adidas-2026-world-cup-netherlands-8435739406458.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Thickness: 38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7456-padel-racket-adidas-2026-world-cup-netherlands-8435739406458.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€128",
+     "value": 128,
+     "currency": "EUR",
+     "checkedOn": "2026-10-27",
+     "verbatim": "128 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7456-padel-racket-adidas-2026-world-cup-netherlands-8435739406458.html",
      "sourceType": "retailer"
     }
    }
@@ -601,7 +676,7 @@
      "display": "€240",
      "value": 240,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "240 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7427-adidas-adipower-10th-anniversary-racket-8435739407745.html",
      "sourceType": "retailer"
@@ -681,7 +756,7 @@
      "display": "€247.50",
      "value": 247.5,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "247.5 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7277-adipower-ctrl-mtw-pro-edt-2024-alex-ruiz-8435739402658.html",
      "sourceType": "retailer"
@@ -768,7 +843,7 @@
      "display": "€180",
      "value": 180,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "180 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7426-adidas-adipower-legend-2025-racket-8435739407738.html",
      "sourceType": "retailer"
@@ -842,7 +917,7 @@
      "display": "€320",
      "value": 320,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "320 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7523-padel-racket-adidas-arrow-hit-8435739405888.html",
      "sourceType": "retailer"
@@ -923,7 +998,7 @@
      "value": 216,
      "currency": "EUR",
      "rrp": null,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "216 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7531-padel-racket-adidas-arrow-hit-carbon-8435739405901.html",
      "sourceType": "retailer"
@@ -1005,7 +1080,7 @@
      "display": "€360",
      "value": 360,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "360 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7614-adidas-arrow-hit-pro-edt-2026-ari-sanchez-padel-racket-8435739409503.html",
      "sourceType": "retailer"
@@ -1085,7 +1160,7 @@
      "display": "€224",
      "value": 224,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "224 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7532-padel-racket-adidas-cross-it-carbon-2026-maxi-arce-8435739405963.html",
      "sourceType": "retailer"
@@ -1154,7 +1229,7 @@
      "display": "€224",
      "value": 224,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "224 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7537-padel-racket-adidas-cross-it-carbon-ctrl-2026-8435739405970.html",
      "sourceType": "retailer"
@@ -1240,7 +1315,7 @@
      "display": "€280",
      "value": 280,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "280 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7527-padel-racket-adidas-cross-it-ctrl-2026-8435739405949.html",
      "sourceType": "retailer"
@@ -1326,7 +1401,7 @@
      "display": "€240",
      "value": 240,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "240 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7528-padel-racket-adidas-cross-it-light-2026-martita-ortega-8435739405956.html",
      "sourceType": "retailer"
@@ -1407,7 +1482,7 @@
      "display": "€164.95",
      "value": 164.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "164.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-adidas-cross-lt-light-3-4-ar1ca6u11",
      "sourceType": "retailer"
@@ -1487,7 +1562,7 @@
      "display": "€300",
      "value": 300,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "300 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7878-adidas-cross-it-light-milano-padel-racket-martita-ortega-8435739411841.html",
      "sourceType": "retailer"
@@ -1567,7 +1642,7 @@
      "display": "€288",
      "value": 288,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "288 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7766-adidas-cross-it-pro-edt-2026-racket-marta-ortega-8435739409510.html",
      "sourceType": "retailer"
@@ -1644,7 +1719,7 @@
      "display": "€144",
      "value": 144,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "144 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7484-padel-racket-adidas-cross-it-team-light-2026-8435739405994.html",
      "sourceType": "retailer"
@@ -1725,7 +1800,7 @@
      "display": "€64",
      "value": 64,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "64 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7491-padel-racket-adidas-drive-black-2026-8435739406038.html",
      "sourceType": "retailer"
@@ -1800,7 +1875,7 @@
      "display": "€64",
      "value": 64,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "64 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7490-padel-racket-adidas-drive-blue-2026-8435739406021.html",
      "sourceType": "retailer"
@@ -1877,7 +1952,7 @@
      "display": "€64",
      "value": 64,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "64 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7492-padel-racket-adidas-drive-light-2026-8435739406045.html",
      "sourceType": "retailer"
@@ -1946,7 +2021,7 @@
      "display": "€60",
      "value": 60,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "60 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7493-padel-racket-adidas-match-black-2026-8435739406052.html",
      "sourceType": "retailer"
@@ -2028,7 +2103,7 @@
      "display": "€60",
      "value": 60,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "60 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7494-padel-racket-adidas-match-black-lime-2026-8435739406069.html",
      "sourceType": "retailer"
@@ -2097,7 +2172,7 @@
      "display": "€59.95",
      "value": 59.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "59.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-adidas-match-light-2026-ar5ga5u88",
      "sourceType": "retailer"
@@ -2183,7 +2258,7 @@
      "display": "€312",
      "value": 312,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "312 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7521-padel-racket-adidas-metalbone-2026-ale-galan-8435739405802.html",
      "sourceType": "retailer"
@@ -2277,7 +2352,7 @@
      "display": "€208",
      "value": 208,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "208 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7775-padel-racket-adidas-metalbone-carbon-2026-8435739405833.html",
      "sourceType": "retailer"
@@ -2358,7 +2433,7 @@
      "display": "€134.95",
      "value": 134.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "134.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/adidas-metalbone-carbon-3-3-2024-110142-p",
      "sourceType": "retailer"
@@ -2438,7 +2513,7 @@
      "display": "€149.95",
      "value": 149.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "149.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-adidas-metalbone-carbon-3-4-ar1aa2u42",
      "sourceType": "retailer"
@@ -2518,7 +2593,7 @@
      "display": "€208",
      "value": 208,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "208 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7534-padel-racket-adidas-metalbone-carbon-ctrl-2026-8435739405840.html",
      "sourceType": "retailer"
@@ -2598,7 +2673,7 @@
      "display": "€312",
      "value": 312,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "312 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7525-padel-racket-adidas-metalbone-ctrl-2026-8435739405819.html",
      "sourceType": "retailer"
@@ -2679,7 +2754,7 @@
      "display": "€199.95",
      "value": 199.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "199.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/adidas-metalbone-ctrl-3-4-2025",
      "sourceType": "retailer"
@@ -2759,7 +2834,7 @@
      "display": "€312",
      "value": 312,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "312 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7522-padel-racket-adidas-metalbone-hrd-2026-ale-galan-8435739405826.html",
      "sourceType": "retailer"
@@ -2840,7 +2915,7 @@
      "display": "€199.95",
      "value": 199.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "199.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-adidas-metalbone-hrd-3-4-ar1aa1u22",
      "sourceType": "retailer"
@@ -2928,7 +3003,7 @@
      "value": 340,
      "currency": "EUR",
      "rrp": null,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "340 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7613-adidas-metalbone-pro-edt-2026-racket-ale-galan-8435739409497.html",
      "sourceType": "retailer"
@@ -2950,7 +3025,7 @@
     "handling": 28,
     "forgiveness": 38,
     "comfort": 47,
-    "value": 14
+    "value": 19
    },
    "inputsPublished": 5,
    "inputsMissing": [],
@@ -3019,11 +3094,11 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€260",
-     "value": 260,
+     "display": "€195",
+     "value": 195,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
-     "verbatim": "260 EUR (product meta tag)",
+     "checkedOn": "2026-10-27",
+     "verbatim": "195 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7423-adidas-metalbone-reserve-2025-racket-8435739405796.html",
      "sourceType": "retailer"
     }
@@ -3117,7 +3192,7 @@
      "value": 260,
      "currency": "EUR",
      "rrp": null,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "260 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7540-adidas-metalbone-reserve-2026-racket-8435739409459.html",
      "sourceType": "retailer"
@@ -3205,7 +3280,7 @@
      "display": "€114.95",
      "value": 114.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "114.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-adidas-metalbone-superlight",
      "sourceType": "retailer"
@@ -3281,7 +3356,7 @@
      "display": "€120",
      "value": 120,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "120 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7487-padel-racket-adidas-metalbone-superlight-2026-8435739405871.html",
      "sourceType": "retailer"
@@ -3361,7 +3436,7 @@
      "display": "€160",
      "value": 160,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "160 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7530-padel-racket-adidas-metalbone-team-2026-8435739405857.html",
      "sourceType": "retailer"
@@ -3436,7 +3511,7 @@
      "display": "€160",
      "value": 160,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "160 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7535-padel-racket-adidas-metalbone-team-light-2026-8435739405864.html",
      "sourceType": "retailer"
@@ -3512,7 +3587,7 @@
      "display": "€180",
      "value": 180,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "180 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7901-adidas-metalbone-team-zidane-padel-racket-8435739409473.html",
      "sourceType": "retailer"
@@ -3595,7 +3670,7 @@
      "value": 96,
      "currency": "EUR",
      "rrp": null,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "96 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7485-padel-racket-adidas-rx-series-2026-8435739406007.html",
      "sourceType": "retailer"
@@ -3745,7 +3820,7 @@
      "display": "€128",
      "value": 128,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "128 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7458-padel-racket-adidas-2026-world-cup-england-8435739406472.html",
      "sourceType": "retailer"
@@ -3909,7 +3984,7 @@
      "display": "€69.95",
      "value": 69.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "69.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-babolat-air-crest-155039-100-smu",
      "sourceType": "retailer"
@@ -4271,7 +4346,7 @@
      "display": "€69.95",
      "value": 69.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "69.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-babolat-counter-crest-155041-smu",
      "sourceType": "retailer"
@@ -4826,7 +4901,7 @@
      "display": "€134.95",
      "value": 134.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "134.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-babolat-technical-veron-150162-100",
      "sourceType": "retailer"
@@ -5004,7 +5079,7 @@
      "display": "€142.95",
      "value": 142.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "142.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-babolat-technical-viper-150159-100",
      "sourceType": "retailer"
@@ -5563,7 +5638,7 @@
      "display": "€97.95",
      "value": 97.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "97.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/black-crown-piton-1675-p",
      "sourceType": "retailer"
@@ -5743,7 +5818,7 @@
      "value": 54.95,
      "currency": "EUR",
      "rrp": 89.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "54,95 € Regular Price 89,95 €",
      "source": "https://www.padelnuestro.com/pala-bullpadel-discover-pwr-476580",
      "sourceType": "retailer"
@@ -5916,7 +5991,7 @@
      "display": "€74.95",
      "value": 74.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "74.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-elite-light-w-mujer-2023-32433-p",
      "sourceType": "retailer"
@@ -6377,7 +6452,7 @@
      "display": "€49.95",
      "value": 49.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "49.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-bullpadel-game-ctr-005-494315-smu",
      "sourceType": "retailer"
@@ -6458,7 +6533,7 @@
      "display": "€49.95",
      "value": 49.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "49.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-bullpadel-game-pwr-006-494318-smu",
      "sourceType": "retailer"
@@ -6535,7 +6610,7 @@
      "display": "€49.95",
      "value": 49.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "49.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-bullpadel-game-w-012-494319-smu-mujer",
      "sourceType": "retailer"
@@ -6623,7 +6698,7 @@
      "display": "€149.95",
      "value": 149.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "149.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-hack-04-25-113754-p",
      "sourceType": "retailer"
@@ -6990,7 +7065,7 @@
      "value": 174.95,
      "currency": "EUR",
      "rrp": 319.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "174.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-hack-04-hybrid-26",
      "sourceType": "retailer"
@@ -7090,6 +7165,104 @@
      "checkedOn": "2026-10-26",
      "verbatim": "349.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/5915-pala-bullpadel-hack-04-mx-25.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-hack-04-tf-25",
+   "name": "Bullpadel Hack 04 TF 25",
+   "brand": "Bullpadel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/bullpadel-hack-04-tf-25",
+   "productUrl": "https://www.bullpadel.com/es/6139-pala-bullpadel-hack-04-tf-25.html",
+   "level": "Profesional",
+   "player": "Paquito Navarro",
+   "ratings": {
+    "power": 70,
+    "control": 26,
+    "handling": 46,
+    "forgiveness": 24,
+    "comfort": 39,
+    "value": 7
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "core"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/6139-pala-bullpadel-hack-04-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/6139-pala-bullpadel-hack-04-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26.4 cm (10.4 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26.4,
+     "verbatim": "Balance Aprox. 26,4 cm",
+     "source": "https://www.bullpadel.com/es/6139-pala-bullpadel-hack-04-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "MultiEVA",
+     "value": null,
+     "material": "MultiEVA",
+     "verbatim": "Composición interior MultiEVA",
+     "source": "https://www.bullpadel.com/es/6139-pala-bullpadel-hack-04-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Tricarbon 18K",
+     "material": "Tricarbon 18K",
+     "verbatim": "Composición exterior Tricarbon 18K",
+     "source": "https://www.bullpadel.com/es/6139-pala-bullpadel-hack-04-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% de Carbono entrelazado bidireccional",
+     "material": "100% de Carbono entrelazado bidireccional",
+     "verbatim": "construcción del marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/6139-pala-bullpadel-hack-04-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6139-pala-bullpadel-hack-04-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/6139-pala-bullpadel-hack-04-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€449.99",
+     "value": 449.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-27",
+     "verbatim": "449.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6139-pala-bullpadel-hack-04-tf-25.html",
      "sourceType": "manufacturer"
     }
    }
@@ -8618,10 +8791,108 @@
      "display": "€49.95",
      "value": 49.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "49.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-indiga-w-mujer-2023-32439-p",
      "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-ionic-control-2025",
+   "name": "Bullpadel Ionic Control 2025",
+   "brand": "Bullpadel",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/bullpadel-ionic-control-2025",
+   "productUrl": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 20,
+    "control": 90,
+    "handling": 66,
+    "forgiveness": 68,
+    "comfort": 57,
+    "value": 32
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "face"
+   ],
+   "profile": [
+    "control",
+    "forgiving"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Forma Redonda",
+     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance Bajo",
+     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "MultiEVA",
+     "value": null,
+     "material": "MultiEVA",
+     "verbatim": "Composición interior MultiEVA",
+     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Glaphite",
+     "material": "Glaphite",
+     "verbatim": "Composición exterior Glaphite",
+     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "CarbonTube de fibra de carbono 100%",
+     "material": "CarbonTube de fibra de carbono 100%",
+     "verbatim": "marco de CarbonTube de fibra de carbono 100%",
+     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€134.99",
+     "value": 134.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-27",
+     "verbatim": "134.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/4931-pala-bullpadel-ionic-control-25.html",
+     "sourceType": "manufacturer"
     }
    }
   },
@@ -8701,7 +8972,7 @@
      "display": "€109.95",
      "value": 109.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "109.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-ionic-control-26",
      "sourceType": "retailer"
@@ -8800,6 +9071,95 @@
      "checkedOn": "2026-10-17",
      "verbatim": "149.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/5693-pala-bullpadel-ionic-light-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-ionic-power-2025",
+   "name": "Bullpadel Ionic Power 2025",
+   "brand": "Bullpadel",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/bullpadel-ionic-power-2025",
+   "productUrl": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
+   "level": "Medio/Avanzado",
+   "player": null,
+   "ratings": {
+    "power": 70,
+    "control": 26,
+    "handling": 46,
+    "forgiveness": 32,
+    "comfort": 49,
+    "value": 24
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Glaphite",
+     "material": "Glaphite",
+     "verbatim": "Composición exterior Glaphite",
+     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "CarbonTube, 100% carbon fiber",
+     "material": "CarbonTube, 100% carbon fiber",
+     "verbatim": "su marco de CarbonTube de fibra de carbono 100%",
+     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€134.99",
+     "value": 134.99,
+     "currency": "EUR",
+     "checkedOn": "2026-10-27",
+     "verbatim": "134.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/4922-pala-bullpadel-ionic-power-25.html",
      "sourceType": "manufacturer"
     }
    }
@@ -8983,7 +9343,7 @@
      "value": 169.95,
      "currency": "EUR",
      "rrp": 319.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "169.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-neuron-02-494402",
      "sourceType": "retailer"
@@ -9526,7 +9886,7 @@
      "display": "€139.95",
      "value": 139.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "139.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-neuron-25-113768-p",
      "sourceType": "retailer"
@@ -9614,7 +9974,7 @@
      "display": "€179.95",
      "value": 179.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "179.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-pearl-2026",
      "sourceType": "retailer"
@@ -9788,7 +10148,7 @@
      "display": "€94.95",
      "value": 94.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "94.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-bullpadel-vertex-03-cmf-xseries-494314-smu",
      "sourceType": "retailer"
@@ -9876,7 +10236,7 @@
      "display": "€134.95",
      "value": 134.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "134.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-vertex-04-110865-p",
      "sourceType": "retailer"
@@ -9964,7 +10324,7 @@
      "display": "€149.95",
      "value": 149.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "149.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-vertex-04-25-113772-p",
      "sourceType": "retailer"
@@ -10060,7 +10420,7 @@
      "value": 109.95,
      "currency": "EUR",
      "rrp": 219.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "109,95 € Regular Price 219,95 €",
      "source": "https://www.padelnuestro.com/bullpadel-vertex-04-comfort-110866-p",
      "sourceType": "retailer"
@@ -10522,7 +10882,7 @@
      "value": 186.95,
      "currency": "EUR",
      "rrp": 339.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "186.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-vertex-05-geo",
      "sourceType": "retailer"
@@ -10700,7 +11060,7 @@
      "value": 219.95,
      "currency": "EUR",
      "rrp": 339.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "219.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-vertex-05-hybrid",
      "sourceType": "retailer"
@@ -11262,7 +11622,7 @@
      "display": "€89.95",
      "value": 89.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "89.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-vertex-advance",
      "sourceType": "retailer"
@@ -12044,7 +12404,7 @@
      "display": "€99.95",
      "value": 99.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "99.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-xplo-komfort-25-113778-p",
      "sourceType": "retailer"
@@ -12107,7 +12467,7 @@
      "display": "€330",
      "value": 330,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "330 EUR (schema.org offer)",
      "source": "https://www.corkpadel.com/produto/classic-ii/",
      "sourceType": "manufacturer"
@@ -12175,7 +12535,7 @@
      "display": "€499",
      "value": 499,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "499 EUR (schema.org offer)",
      "source": "https://www.corkpadel.com/en/product/extreme-deus-ii/",
      "sourceType": "manufacturer"
@@ -12244,7 +12604,7 @@
      "display": "€360",
      "value": 360,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "360 EUR (schema.org offer)",
      "source": "https://www.corkpadel.com/produto/premium-control-iii/",
      "sourceType": "manufacturer"
@@ -12312,7 +12672,7 @@
      "display": "€360",
      "value": 360,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "360 EUR (schema.org offer)",
      "source": "https://www.corkpadel.com/produto/premium-hybrid-iii/",
      "sourceType": "manufacturer"
@@ -12380,7 +12740,7 @@
      "display": "€360",
      "value": 360,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "360 EUR (schema.org offer)",
      "source": "https://www.corkpadel.com/en/product/premium-woman/",
      "sourceType": "manufacturer"
@@ -12449,7 +12809,7 @@
      "display": "€440",
      "value": 440,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "440 EUR (schema.org offer)",
      "source": "https://www.corkpadel.com/produto/supreme-control-iv/",
      "sourceType": "manufacturer"
@@ -12517,7 +12877,7 @@
      "display": "€440",
      "value": 440,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "440 EUR (schema.org offer)",
      "source": "https://www.corkpadel.com/produto/supreme-hybrid-iv/",
      "sourceType": "manufacturer"
@@ -12586,7 +12946,7 @@
      "display": "€440",
      "value": 440,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "440 EUR (schema.org offer)",
      "source": "https://www.corkpadel.com/produto/supreme-power-iv/",
      "sourceType": "manufacturer"
@@ -13071,7 +13431,7 @@
      "display": "€69.95",
      "value": 69.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "69.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/dunlop-nemesis-carbon-control-31549-p",
      "sourceType": "retailer"
@@ -13146,7 +13506,7 @@
      "display": "€189.95",
      "value": 189.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "189.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-head-coello-motion-2025-225025",
      "sourceType": "retailer"
@@ -13221,7 +13581,7 @@
      "display": "€259.95",
      "value": 259.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "€259.95 Regular Price €349.95",
      "source": "https://www.padelnuestro.com/int/head-coello-motion-2026",
      "sourceType": "retailer"
@@ -13309,7 +13669,7 @@
      "display": "€179.95",
      "value": 179.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "179.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-head-coello-pro-2025-225015",
      "sourceType": "retailer"
@@ -13389,7 +13749,7 @@
      "display": "€219.95",
      "value": 219.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "€219.95 Regular Price €349.95",
      "source": "https://www.padelnuestro.com/int/head-coello-pro-2026",
      "sourceType": "retailer"
@@ -13471,7 +13831,7 @@
      "display": "€64.95",
      "value": 64.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "€64.95 Regular Price €99.95",
      "source": "https://www.padelnuestro.com/int/head-evo-speed-2025",
      "sourceType": "retailer"
@@ -13570,7 +13930,7 @@
      "value": 160.95,
      "currency": "EUR",
      "rrp": 239.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "€160.95 Regular Price €239.95",
      "source": "https://www.padelnuestro.com/int/head-extreme-motion-2025",
      "sourceType": "retailer"
@@ -13740,7 +14100,7 @@
      "display": "€215.95",
      "value": 215.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "215.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/int/head-extreme-motion-pro-2026",
      "sourceType": "retailer"
@@ -13824,7 +14184,7 @@
      "value": 184.95,
      "currency": "EUR",
      "rrp": 279.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "€184.95 Regular Price €279.95",
      "source": "https://www.padelnuestro.com/int/head-extreme-one-2025",
      "sourceType": "retailer"
@@ -13986,7 +14346,7 @@
      "display": "€169.95",
      "value": 169.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "169.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/head-extreme-pro-2025",
      "sourceType": "retailer"
@@ -14066,7 +14426,7 @@
      "display": "€251.95",
      "value": 251.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "251.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/int/head-extreme-pro-2026-162498-p",
      "sourceType": "retailer"
@@ -14141,7 +14501,7 @@
      "value": 119.95,
      "currency": "EUR",
      "rrp": 199.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "€119.95 Regular Price €199.95",
      "source": "https://www.padelnuestro.com/int/head-extreme-team-2025",
      "sourceType": "retailer"
@@ -14231,7 +14591,7 @@
      "value": 149.95,
      "currency": "EUR",
      "rrp": 239.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "€149.95 Regular Price €239.95",
      "source": "https://www.padelnuestro.com/int/head-gravity-pro-2024-113828-p",
      "sourceType": "retailer"
@@ -14321,7 +14681,7 @@
      "value": 119.95,
      "currency": "EUR",
      "rrp": 179.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "€119.95 Regular Price €179.95",
      "source": "https://www.padelnuestro.com/int/head-gravity-team-2024-113826-p",
      "sourceType": "retailer"
@@ -14402,7 +14762,7 @@
      "display": "€159.95",
      "value": 159.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "€159.95 Regular Price €239.95",
      "source": "https://www.padelnuestro.com/int/head-radical-pro-2026",
      "sourceType": "retailer"
@@ -14483,7 +14843,7 @@
      "display": "€119.95",
      "value": 119.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "€119.95 Regular Price €179.95",
      "source": "https://www.padelnuestro.com/int/head-radical-team-2026",
      "sourceType": "retailer"
@@ -14562,7 +14922,7 @@
      "display": "€149.95",
      "value": 149.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "€149.95 Regular Price €279.95",
      "source": "https://www.padelnuestro.com/int/head-speed-pro-2025",
      "sourceType": "retailer"
@@ -14996,7 +15356,7 @@
      "display": "£79.99",
      "value": 79.99,
      "currency": "GBP",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "79.99 GBP (schema.org offer)",
      "source": "https://mantissport.com/products/mantis-play-335-challenge",
      "sourceType": "manufacturer"
@@ -15087,7 +15447,7 @@
      "display": "£79.99",
      "value": 79.99,
      "currency": "GBP",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "79.99 GBP (schema.org offer)",
      "source": "https://mantissport.com/products/mantis-play-335-phantom",
      "sourceType": "manufacturer"
@@ -15178,7 +15538,7 @@
      "display": "£79.99",
      "value": 79.99,
      "currency": "GBP",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "79.99 GBP (schema.org offer)",
      "source": "https://mantissport.com/products/mantis-play-335-smile",
      "sourceType": "manufacturer"
@@ -15268,7 +15628,7 @@
      "display": "£129.99",
      "value": 129.99,
      "currency": "GBP",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "129.99 GBP (schema.org offer)",
      "source": "https://mantissport.com/products/mantis-progress-365-challenge",
      "sourceType": "manufacturer"
@@ -15358,7 +15718,7 @@
      "display": "£129.99",
      "value": 129.99,
      "currency": "GBP",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "129.99 GBP (schema.org offer)",
      "source": "https://mantissport.com/products/mantis-progress-365-phantom",
      "sourceType": "manufacturer"
@@ -15447,7 +15807,7 @@
      "display": "€154.95",
      "value": 154.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "154.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/nox-at10-genius-12k-by-agustin-tapia-2025-113539-p",
      "sourceType": "retailer"
@@ -15528,7 +15888,7 @@
      "display": "€169.95",
      "value": 169.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "169.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/nox-at10-genius-18k-agustin-tapia-2024-110805-p",
      "sourceType": "retailer"
@@ -15615,7 +15975,7 @@
      "display": "€389.99",
      "value": 389.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "389.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia-bsas",
      "sourceType": "manufacturer"
@@ -15691,7 +16051,7 @@
      "display": "€79.99",
      "value": 79.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "79.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-at10-genius-ultralight-by-agustin-tapia-2026",
      "sourceType": "manufacturer"
@@ -15778,7 +16138,7 @@
      "display": "€159.99",
      "value": 159.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "159.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-at10-genius-12k-by-agustin-tapia",
      "sourceType": "manufacturer"
@@ -15865,7 +16225,7 @@
      "display": "€229.99",
      "value": 229.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "229,99 € 389,99 € -41%",
      "source": "https://noxsport.com/products/pala-at10-genius-12k-alum-xtrem-2026-by-agustin-tapia",
      "sourceType": "manufacturer"
@@ -15952,7 +16312,7 @@
      "display": "€219.99",
      "value": 219.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "219.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-at10-genius-12k-alum-xtrem-lite-2026-by-agustin-tapia",
      "sourceType": "manufacturer"
@@ -16039,7 +16399,7 @@
      "display": "€189.99",
      "value": 189.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "189.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia",
      "sourceType": "manufacturer"
@@ -16126,7 +16486,7 @@
      "display": "€229.99",
      "value": 229.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "229,99 € 389,99 € -41%",
      "source": "https://noxsport.com/products/pala-at10-genius-18k-alum-2026-by-agustin-tapia",
      "sourceType": "manufacturer"
@@ -16222,7 +16582,7 @@
      "value": 199.99,
      "currency": "EUR",
      "rrp": 359.99,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "199,99 € 359,99 € -44%",
      "source": "https://noxsport.com/products/pala-at10-genius-attack-12k-alum-xtrem-2026-by-agustin-tapia",
      "sourceType": "manufacturer"
@@ -16316,7 +16676,7 @@
      "display": "€199.99",
      "value": 199.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "199,99 € 359,99 € -44%",
      "source": "https://noxsport.com/products/pala-at10-genius-attack-18k-alum-2026-by-agustin-tapia",
      "sourceType": "manufacturer"
@@ -16338,7 +16698,7 @@
     "handling": 48,
     "forgiveness": 51,
     "comfort": 51,
-    "value": 19
+    "value": 20
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -16400,11 +16760,11 @@
      "sourceType": "manufacturer"
     },
     "price": {
-     "display": "€149.99",
-     "value": 149.99,
+     "display": "€139.99",
+     "value": 139.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
-     "verbatim": "149.99 EUR (schema.org offer)",
+     "checkedOn": "2026-10-27",
+     "verbatim": "139.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-at10-pro-cup-hard-2026-by-agustin-tapia",
      "sourceType": "manufacturer"
     }
@@ -16425,7 +16785,7 @@
     "handling": 48,
     "forgiveness": 72,
     "comfort": 75,
-    "value": 27
+    "value": 29
    },
    "inputsPublished": 4,
    "inputsMissing": [
@@ -16489,11 +16849,11 @@
      "sourceType": "manufacturer"
     },
     "price": {
-     "display": "€149.99",
-     "value": 149.99,
+     "display": "€139.99",
+     "value": 139.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
-     "verbatim": "149,99 € 199,99 € -25%",
+     "checkedOn": "2026-10-27",
+     "verbatim": "139.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-at10-pro-cup-soft-2026-by-agustin-tapia",
      "sourceType": "manufacturer"
     }
@@ -16587,7 +16947,7 @@
      "display": "€179.99",
      "value": 179.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "179.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso",
      "sourceType": "manufacturer"
@@ -16674,7 +17034,7 @@
      "display": "€179.99",
      "value": 179.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "179.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/ea10-ventus-hybrid-12k-xtrem-by-edu-alonso",
      "sourceType": "manufacturer"
@@ -16767,7 +17127,7 @@
      "display": "€99.99",
      "value": 99.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "99,99 € 124,99 € -20%",
      "source": "https://noxsport.com/products/pala-equation-hard-advanced",
      "sourceType": "manufacturer"
@@ -16861,7 +17221,7 @@
      "display": "€124.99",
      "value": 124.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "124.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/equation-hard-advanced-2027",
      "sourceType": "manufacturer"
@@ -16956,7 +17316,7 @@
      "display": "€124.99",
      "value": 124.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "124.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/equation-soft-advanced-2027",
      "sourceType": "manufacturer"
@@ -17044,7 +17404,7 @@
      "value": 389.99,
      "currency": "EUR",
      "rrp": 389.99,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "389,99 €",
      "source": "https://noxsport.com/products/genius-12k-alum-xtrem-agustin-tapia-2027",
      "sourceType": "manufacturer"
@@ -17131,7 +17491,7 @@
      "display": "€349.99",
      "value": 349.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "349.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/genius-12k-alum-xtrem-lite-agustin-tapia-2027",
      "sourceType": "manufacturer"
@@ -17227,7 +17587,7 @@
      "display": "€389.99",
      "value": 389.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "389,99 €",
      "source": "https://noxsport.com/products/genius-18k-alum-agustin-tapia-2027",
      "sourceType": "manufacturer"
@@ -17323,7 +17683,7 @@
      "value": 389.99,
      "currency": "EUR",
      "rrp": 389.99,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "389,99 €",
      "source": "https://noxsport.com/products/genius-attack-12k-alum-xtrem-agustin-tapia-2027",
      "sourceType": "manufacturer"
@@ -17419,7 +17779,7 @@
      "value": 389.99,
      "currency": "EUR",
      "rrp": 389.99,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "389,99 €",
      "source": "https://noxsport.com/products/genius-attack-18k-alum-agustin-tapia-2027",
      "sourceType": "manufacturer"
@@ -17509,7 +17869,7 @@
      "value": 149.99,
      "currency": "EUR",
      "rrp": 149.99,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "149,99 €",
      "source": "https://noxsport.com/products/ml10-pro-cup-coorp-miguel-lamperti-2027",
      "sourceType": "manufacturer"
@@ -17598,7 +17958,7 @@
      "display": "€149.99",
      "value": 149.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "149.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/ml10-pro-cup-rough-miguel-lamperti-2027",
      "sourceType": "manufacturer"
@@ -17687,7 +18047,7 @@
      "display": "€149.99",
      "value": 149.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "149.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/ml10-pro-cup-silver-miguel-lamperti-2027",
      "sourceType": "manufacturer"
@@ -17780,7 +18140,7 @@
      "display": "€179.99",
      "value": 179.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "179,99 € 339,99 € -47%",
      "source": "https://noxsport.com/products/pala-ml10-ventus-3k-by-miguel-lamperti",
      "sourceType": "manufacturer"
@@ -17868,7 +18228,7 @@
      "display": "€199.99",
      "value": 199.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "199.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-nextgen-pro-attack-12k-nfa-series",
      "sourceType": "manufacturer"
@@ -17948,7 +18308,7 @@
      "display": "€199.99",
      "value": 199.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "199.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-nextgen-pro-hybrid-12k-nfa-series",
      "sourceType": "manufacturer"
@@ -18036,7 +18396,7 @@
      "display": "€199.99",
      "value": 199.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "199.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pro-cup-hard-agustin-tapia-2027",
      "sourceType": "manufacturer"
@@ -18125,7 +18485,7 @@
      "display": "€199.99",
      "value": 199.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "199.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pro-cup-soft-agustin-tapia-2027",
      "sourceType": "manufacturer"
@@ -18220,7 +18580,7 @@
      "display": "€349.99",
      "value": 349.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "349.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/ventus-attack-12k-xtrem-aimar-goni-2027",
      "sourceType": "manufacturer"
@@ -18307,7 +18667,7 @@
      "display": "€299.99",
      "value": 299.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "299.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/ventus-12k-aranzazu-osoro-2027",
      "sourceType": "manufacturer"
@@ -18397,7 +18757,7 @@
      "value": 349.99,
      "currency": "EUR",
      "rrp": 349.99,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "349,99 €",
      "source": "https://noxsport.com/products/pala-ventus-control-3k-miguel-lamperti-2027",
      "sourceType": "manufacturer"
@@ -18487,7 +18847,7 @@
      "display": "€179.99",
      "value": 179.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "179.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-ventus-12k-hybrid-lite",
      "sourceType": "manufacturer"
@@ -18581,7 +18941,7 @@
      "display": "€299.99",
      "value": 299.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "299.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/ventus-12k-hybrid-lite-2027",
      "sourceType": "manufacturer"
@@ -18668,7 +19028,7 @@
      "display": "€349.99",
      "value": 349.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "349.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/ventus-hybrid-12k-xtrem-edu-alonso-2027",
      "sourceType": "manufacturer"
@@ -18755,7 +19115,7 @@
      "display": "€179.99",
      "value": 179.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "179.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-vk10-ventus-12k-by-aranzazu-osoro",
      "sourceType": "manufacturer"
@@ -18838,7 +19198,7 @@
      "value": 64.99,
      "currency": "EUR",
      "rrp": 64.99,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "64,99 €",
      "source": "https://noxsport.com/products/pala-x-hero-blue",
      "sourceType": "manufacturer"
@@ -18927,7 +19287,7 @@
      "display": "€64.99",
      "value": 64.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "64.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-x-hero-red",
      "sourceType": "manufacturer"
@@ -19009,7 +19369,7 @@
      "display": "€64.99",
      "value": 64.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "64.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-x-hero-white",
      "sourceType": "manufacturer"
@@ -19098,7 +19458,7 @@
      "display": "€79.99",
      "value": 79.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "79.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-x-one",
      "sourceType": "manufacturer"
@@ -19173,7 +19533,7 @@
      "display": "€84.99",
      "value": 84.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "84.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-x-one-silhouette",
      "sourceType": "manufacturer"
@@ -19256,7 +19616,7 @@
      "display": "€70.95",
      "value": 70.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "70.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/pala-nox-x-one-silhoutte-psilhouet26",
      "sourceType": "retailer"
@@ -19338,7 +19698,7 @@
      "display": "€64.99",
      "value": 64.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "64,99 €",
      "source": "https://noxsport.com/products/pala-x-zero-blue",
      "sourceType": "manufacturer"
@@ -19420,7 +19780,7 @@
      "display": "€64.99",
      "value": 64.99,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "64.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-x-zero-red",
      "sourceType": "manufacturer"
@@ -19717,7 +20077,7 @@
      "value": 239,
      "currency": "EUR",
      "rrp": null,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "239,00 €",
      "source": "https://oxdogpadel.com/en-int/products/hyper-woman-air",
      "sourceType": "retailer"
@@ -19867,7 +20227,7 @@
      "display": "€299",
      "value": 299,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "299 EUR (schema.org offer)",
      "source": "https://www.oxdogpadel.com/products/pure-pro-2026",
      "sourceType": "manufacturer"
@@ -19943,7 +20303,7 @@
      "display": "€179",
      "value": 179,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "179 EUR (schema.org offer)",
      "source": "https://www.oxdogpadel.com/products/ultimate-nxt-gen-2026",
      "sourceType": "manufacturer"
@@ -20012,7 +20372,7 @@
      "display": "€319",
      "value": 319,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "319 EUR (schema.org offer)",
      "source": "https://www.oxdogpadel.com/products/ultimate-pro-2025",
      "sourceType": "manufacturer"
@@ -20157,7 +20517,7 @@
      "display": "€319",
      "value": 319,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "319 EUR (schema.org offer)",
      "source": "https://www.oxdogpadel.com/products/ultimate-pro-light-2027",
      "sourceType": "manufacturer"
@@ -20226,7 +20586,7 @@
      "display": "€319",
      "value": 319,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "319 EUR (schema.org offer)",
      "source": "https://www.oxdogpadel.com/products/pala-oxdog-ultimate-pro-smash",
      "sourceType": "manufacturer"
@@ -20295,7 +20655,7 @@
      "display": "€329",
      "value": 329,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "329 EUR (schema.org offer)",
      "source": "https://www.oxdogpadel.com/products/ultimate-pro-smash-2026",
      "sourceType": "manufacturer"
@@ -20545,7 +20905,7 @@
      "display": "£320",
      "value": 320,
      "currency": "GBP",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "\"price\":\"320.00\"",
      "source": "https://padelsmith.co.uk/products/padel-racket-padelsmith.json",
      "sourceType": "manufacturer"
@@ -20642,7 +21002,7 @@
      "display": "€320",
      "value": 320,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "320 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/royal-padel-36-aniversario-light/",
      "sourceType": "manufacturer"
@@ -20732,7 +21092,7 @@
      "display": "€320",
      "value": 320,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "320 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/royal-padel-36-aniversario-poly/",
      "sourceType": "manufacturer"
@@ -20822,7 +21182,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/royal-padel-fury-2026/",
      "sourceType": "manufacturer"
@@ -20897,7 +21257,7 @@
      "display": "€319",
      "value": 319,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "319 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/royal-padel-jpn-pro-blue-2026/",
      "sourceType": "manufacturer"
@@ -20972,7 +21332,7 @@
      "display": "€319",
      "value": 319,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "319 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/royal-padel-jpn-pro-red/",
      "sourceType": "manufacturer"
@@ -21049,7 +21409,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/royal-padel-m27-light-2026/",
      "sourceType": "manufacturer"
@@ -21130,7 +21490,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/royal-padel-m27-poly-2026/",
      "sourceType": "manufacturer"
@@ -21220,7 +21580,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/royal-padel-race-2026/",
      "sourceType": "manufacturer"
@@ -21303,7 +21663,7 @@
      "display": "€209",
      "value": 209,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "209 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2025/",
      "sourceType": "manufacturer"
@@ -21393,7 +21753,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/royal-padel-r-ace-light-2026/",
      "sourceType": "manufacturer"
@@ -21469,7 +21829,7 @@
      "display": "€319",
      "value": 319,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "319 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/royal-padel-r30-golden-white/",
      "sourceType": "manufacturer"
@@ -21559,7 +21919,7 @@
      "display": "€290",
      "value": 290,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "290 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/rp-whip-extreme-2026/",
      "sourceType": "manufacturer"
@@ -21650,7 +22010,7 @@
      "display": "€260",
      "value": 260,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "260 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/royal-padel-whip-light-2026/",
      "sourceType": "manufacturer"
@@ -21746,7 +22106,7 @@
      "display": "€260",
      "value": 260,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "260 EUR (schema.org offer)",
      "source": "https://royalpadel.com/product/royal-padel-whip-polietileno-2026/",
      "sourceType": "manufacturer"
@@ -21834,7 +22194,7 @@
      "display": "€260",
      "value": 260,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "260 EUR (product meta tag)",
      "source": "https://shooterpadel.com/gb/palas-de-padel/154-racket-stealth-shooter-padel.html",
      "sourceType": "manufacturer"
@@ -21903,7 +22263,7 @@
      "display": "€150",
      "value": 150,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "150 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-astra-ctrl-2026",
      "sourceType": "manufacturer"
@@ -21978,7 +22338,7 @@
      "display": "€150",
      "value": 150,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "150 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-astra-hybrid-2026",
      "sourceType": "manufacturer"
@@ -22046,7 +22406,7 @@
      "display": "€70.25",
      "value": 70.25,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "70.25 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-beat-control-2",
      "sourceType": "manufacturer"
@@ -22130,7 +22490,7 @@
      "display": "€270",
      "value": 270,
      "currency": "EUR",
-     "checkedOn": "2026-10-22",
+     "checkedOn": "2026-10-27",
      "verbatim": "270 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/diablo-elite-2027",
      "sourceType": "manufacturer"
@@ -22211,7 +22571,7 @@
      "value": 169.95,
      "currency": "EUR",
      "rrp": 269.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "€169.95 Regular Price €269.95",
      "source": "https://www.padelnuestro.com/int/siux-diablo-elite-6",
      "sourceType": "retailer"
@@ -22279,7 +22639,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-diablo-pro-2026-night-blue",
      "sourceType": "manufacturer"
@@ -22354,7 +22714,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350€",
      "source": "https://www.siuxpadel.com/en/products/siux-diablo-pro-2026-royal-blue",
      "sourceType": "manufacturer"
@@ -22422,7 +22782,7 @@
      "display": "€359.95",
      "value": 359.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-22",
+     "checkedOn": "2026-10-27",
      "verbatim": "359.95 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/diablo-pro-2027-marine-blue",
      "sourceType": "manufacturer"
@@ -22490,7 +22850,7 @@
      "display": "€359.95",
      "value": 359.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-23",
+     "checkedOn": "2026-10-27",
      "verbatim": "359.95 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/diablo-pro-2027-metallic-blue",
      "sourceType": "manufacturer"
@@ -22639,7 +22999,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350€",
      "source": "https://www.siuxpadel.com/en/products/siux-electra-pro-2026-shadow-red",
      "sourceType": "manufacturer"
@@ -22714,7 +23074,7 @@
      "display": "€359.95",
      "value": 359.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-24",
+     "checkedOn": "2026-10-27",
      "verbatim": "359.95 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/electra-pro-2027-white",
      "sourceType": "manufacturer"
@@ -22796,7 +23156,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-electra-pro-it-2026",
      "sourceType": "manufacturer"
@@ -22885,7 +23245,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-electra-pro-rl-2-0",
      "sourceType": "manufacturer"
@@ -22968,7 +23328,7 @@
      "display": "€280",
      "value": 280,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "280 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-electra-st2-flex-2026",
      "sourceType": "manufacturer"
@@ -23043,7 +23403,7 @@
      "display": "€159.95",
      "value": 159.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "159.95 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-electra-stupa-pro-st3",
      "sourceType": "manufacturer"
@@ -23109,7 +23469,7 @@
      "display": "€268.60",
      "value": 268.6,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "268.6 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-electra-stupa-pro-st4",
      "sourceType": "manufacturer"
@@ -23185,7 +23545,7 @@
      "display": "€270",
      "value": 270,
      "currency": "EUR",
-     "checkedOn": "2026-10-23",
+     "checkedOn": "2026-10-27",
      "verbatim": "270 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/fenix-elite-2027",
      "sourceType": "manufacturer"
@@ -23259,7 +23619,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350€",
      "source": "https://www.siuxpadel.com/en/products/siux-fenix-pro-2026-glow-purple",
      "sourceType": "manufacturer"
@@ -23328,7 +23688,7 @@
      "display": "€359.95",
      "value": 359.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-23",
+     "checkedOn": "2026-10-27",
      "verbatim": "359.95 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/fenix-pro-2027-black",
      "sourceType": "manufacturer"
@@ -23403,7 +23763,7 @@
      "display": "€359.95",
      "value": 359.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-24",
+     "checkedOn": "2026-10-27",
      "verbatim": "359.95 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/fenix-pro-2027-purple",
      "sourceType": "manufacturer"
@@ -23471,7 +23831,7 @@
      "display": "€268.60",
      "value": 268.6,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "268.6 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-fenix-pro-5",
      "sourceType": "manufacturer"
@@ -23539,7 +23899,7 @@
      "display": "€189",
      "value": 189,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "189 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-fenix-pro-5-black",
      "sourceType": "manufacturer"
@@ -23607,7 +23967,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-fenix-pro-mad-se",
      "sourceType": "manufacturer"
@@ -23675,7 +24035,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-fenix-pro-se-2-0",
      "sourceType": "manufacturer"
@@ -23743,7 +24103,7 @@
      "display": "€161.16",
      "value": 161.16,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "161.16 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-gea",
      "sourceType": "manufacturer"
@@ -23812,7 +24172,7 @@
      "display": "€270",
      "value": 270,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "270 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/obsidian-elite-2027",
      "sourceType": "manufacturer"
@@ -23881,7 +24241,7 @@
      "display": "€359.95",
      "value": 359.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "359.95 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/obsidian-pro-2027-black",
      "sourceType": "manufacturer"
@@ -23950,7 +24310,7 @@
      "display": "€359.95",
      "value": 359.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "359.95 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/obsidian-pro-2027-silver",
      "sourceType": "manufacturer"
@@ -24024,7 +24384,7 @@
      "display": "€189",
      "value": 189,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "189 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-pegasus-3",
      "sourceType": "manufacturer"
@@ -24099,7 +24459,7 @@
      "display": "€270",
      "value": 270,
      "currency": "EUR",
-     "checkedOn": "2026-10-24",
+     "checkedOn": "2026-10-27",
      "verbatim": "270 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/pegasus-elite-2027",
      "sourceType": "manufacturer"
@@ -24173,7 +24533,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350€",
      "source": "https://www.siuxpadel.com/en/products/siux-pegasus-pro-2026-lava-orange",
      "sourceType": "manufacturer"
@@ -24241,7 +24601,7 @@
      "display": "€359.95",
      "value": 359.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-24",
+     "checkedOn": "2026-10-27",
      "verbatim": "359.95 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/pegasus-pro-2027-black",
      "sourceType": "manufacturer"
@@ -24309,7 +24669,7 @@
      "display": "€359.95",
      "value": 359.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-25",
+     "checkedOn": "2026-10-27",
      "verbatim": "359.95 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/pegasus-pro-2027-silver",
      "sourceType": "manufacturer"
@@ -24377,7 +24737,7 @@
      "display": "€270",
      "value": 270,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "270€",
      "source": "https://www.siuxpadel.com/en/products/siux-trilogy-elite-2026",
      "sourceType": "manufacturer"
@@ -24438,7 +24798,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-trilogy-pro-2026-ash-green",
      "sourceType": "manufacturer"
@@ -24512,7 +24872,7 @@
      "display": "€350",
      "value": 350,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "350€",
      "source": "https://www.siuxpadel.com/en/products/siux-trilogy-pro-2026-noir-fog",
      "sourceType": "manufacturer"
@@ -24587,7 +24947,7 @@
      "display": "€109.95",
      "value": 109.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "109.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/siux-trilogy-pro-5",
      "sourceType": "retailer"
@@ -24661,7 +25021,7 @@
      "display": "€270",
      "value": 270,
      "currency": "EUR",
-     "checkedOn": "2026-10-25",
+     "checkedOn": "2026-10-27",
      "verbatim": "270 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/valkiria-elite-2027",
      "sourceType": "manufacturer"
@@ -24819,7 +25179,7 @@
      "display": "€359.95",
      "value": 359.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-25",
+     "checkedOn": "2026-10-27",
      "verbatim": "359.95 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/valkiria-pro-2027",
      "sourceType": "manufacturer"
@@ -24902,7 +25262,7 @@
      "display": "€105",
      "value": 105,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "105 EUR (schema.org offer)",
      "source": "https://www.starvie.com/products/arkos",
      "sourceType": "manufacturer"
@@ -25080,7 +25440,7 @@
      "display": "€252",
      "value": 252,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "252 EUR (schema.org offer)",
      "source": "https://www.starvie.com/products/pala-astrum-black",
      "sourceType": "manufacturer"
@@ -25257,7 +25617,7 @@
      "display": "€279",
      "value": 279,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "279 EUR (schema.org offer)",
      "source": "https://www.starvie.com/products/pala-black-titan-blue",
      "sourceType": "manufacturer"
@@ -25344,7 +25704,7 @@
      "display": "€198",
      "value": 198,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "198 EUR (schema.org offer)",
      "source": "https://www.starvie.com/products/drax",
      "sourceType": "manufacturer"
@@ -25426,7 +25786,7 @@
      "display": "€297",
      "value": 297,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "297 EUR (schema.org offer)",
      "source": "https://www.starvie.com/products/pala-eternal-sanyo-gutierrez",
      "sourceType": "manufacturer"
@@ -25597,7 +25957,7 @@
      "display": "€243",
      "value": 243,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "243 EUR (schema.org offer)",
      "source": "https://www.starvie.com/products/pala-metheora",
      "sourceType": "manufacturer"
@@ -25680,7 +26040,7 @@
      "display": "€105",
      "value": 105,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "105 EUR (schema.org offer)",
      "source": "https://www.starvie.com/products/nyra",
      "sourceType": "manufacturer"
@@ -25770,7 +26130,7 @@
      "display": "€229.50",
      "value": 229.5,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "229.5 EUR (schema.org offer)",
      "source": "https://www.starvie.com/products/pala-phantom",
      "sourceType": "manufacturer"
@@ -26028,7 +26388,7 @@
      "display": "€126",
      "value": 126,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "126 EUR (schema.org offer)",
      "source": "https://www.starvie.com/products/pala-shade",
      "sourceType": "manufacturer"
@@ -26109,7 +26469,7 @@
      "display": "€265.50",
      "value": 265.5,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "265.5 EUR (schema.org offer)",
      "source": "https://www.starvie.com/products/triton-balance",
      "sourceType": "manufacturer"
@@ -26279,7 +26639,7 @@
      "display": "€279",
      "value": 279,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "279 EUR (schema.org offer)",
      "source": "https://www.starvie.com/products/pala-triton-t-one-by-tamara-icardo",
      "sourceType": "manufacturer"
@@ -26367,7 +26727,7 @@
      "value": 249.99,
      "currency": "EUR",
      "rrp": null,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "249,99€",
      "source": "https://www.tecnifibre.com/en/products/curva-power-2026",
      "sourceType": "manufacturer"
@@ -26457,7 +26817,7 @@
      "value": 229.99,
      "currency": "EUR",
      "rrp": null,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "229,99€",
      "source": "https://www.tecnifibre.com/en/products/curva-speed-2026",
      "sourceType": "manufacturer"
@@ -26544,7 +26904,7 @@
      "display": "€74.95",
      "value": 74.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "74.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/vairo-black-karbon-confort-105773-p",
      "sourceType": "retailer"
@@ -26626,7 +26986,7 @@
      "display": "€64.95",
      "value": 64.95,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "64.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/vairo-everlast-cross-105778-p",
      "sourceType": "retailer"
@@ -27215,7 +27575,7 @@
      "display": "€190",
      "value": 190,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "190 EUR (product meta tag)",
      "source": "https://viborapadel.com/palas/247-pala-de-padel-vibor-a-black-mamba-pro-2-0-8445090157043.html",
      "sourceType": "manufacturer"
@@ -27295,7 +27655,7 @@
      "display": "€240",
      "value": 240,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "240 EUR (product meta tag)",
      "source": "https://viborapadel.com/palas/297-pala-de-padel-vibor-a-black-mamba-pro-neo-8445090184742.html",
      "sourceType": "manufacturer"
@@ -27383,7 +27743,7 @@
      "display": "€230",
      "value": 230,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "230 EUR (product meta tag)",
      "source": "https://viborapadel.com/palas/316-pala-de-padel-vibor-a-black-mamba-radical-esmerald-8445090184698.html",
      "sourceType": "manufacturer"
@@ -27465,7 +27825,7 @@
      "display": "€75.20",
      "value": 75.2,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "75.2 EUR (product meta tag)",
      "source": "https://viborapadel.com/palas/310-pala-de-padel-vibor-a-coral-jr-8445090184933.html",
      "sourceType": "manufacturer"
@@ -27538,7 +27898,7 @@
      "display": "€240",
      "value": 240,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "240 EUR (product meta tag)",
      "source": "https://viborapadel.com/palas/304-pala-de-padel-vibor-a-diva-elite-cream-8445090179014.html",
      "sourceType": "manufacturer"
@@ -27618,7 +27978,7 @@
      "display": "€220",
      "value": 220,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "220 EUR (product meta tag)",
      "source": "https://viborapadel.com/palas/301-pala-de-padel-vibor-a-diva-evo-pro-8445090184773.html",
      "sourceType": "manufacturer"
@@ -27706,7 +28066,7 @@
      "display": "€360",
      "value": 360,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "360 EUR (product meta tag)",
      "source": "https://viborapadel.com/palas/294-pala-de-padel-vibor-a-titan-berus-8445090184810.html",
      "sourceType": "manufacturer"
@@ -27794,7 +28154,7 @@
      "display": "€450",
      "value": 450,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "450 EUR (product meta tag)",
      "source": "https://viborapadel.com/palas/298-pala-de-padel-vibor-a-titan-nerodia-8445090184803.html",
      "sourceType": "manufacturer"
@@ -27874,7 +28234,7 @@
      "display": "€220",
      "value": 220,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "220 EUR (product meta tag)",
      "source": "https://viborapadel.com/palas/296-pala-de-padel-vibor-a-yarara-evo-pro-8445090184766.html",
      "sourceType": "manufacturer"
@@ -27954,7 +28314,7 @@
      "display": "€240",
      "value": 240,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "240 EUR (product meta tag)",
      "source": "https://viborapadel.com/palas/303-pala-de-padel-vibor-a-yarara-pro-bifid-8445090184735.html",
      "sourceType": "manufacturer"
@@ -28028,7 +28388,7 @@
      "display": "€190",
      "value": 190,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "190 EUR (product meta tag)",
      "source": "https://viborapadel.com/palas/242-pala-de-padel-vibor-a-yarara-pro-white-2-0-8445090157241.html",
      "sourceType": "manufacturer"
@@ -28102,7 +28462,7 @@
      "display": "€180",
      "value": 180,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "180 EUR (product meta tag)",
      "source": "https://viborapadel.com/palas/246-pala-de-padel-vibor-a-yarara-radical-12k-3-0-8445090157050.html",
      "sourceType": "manufacturer"
@@ -28190,7 +28550,7 @@
      "display": "€230",
      "value": 230,
      "currency": "EUR",
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "230 EUR (product meta tag)",
      "source": "https://viborapadel.com/palas/317-pala-de-padel-vibor-a-yarara-radical-gold-8445090184704.html",
      "sourceType": "manufacturer"
@@ -28277,7 +28637,7 @@
      "value": 134.95,
      "currency": "EUR",
      "rrp": 209.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "134,95 € | Regular Price 209,95 €",
      "source": "https://www.padelnuestro.com/pala-wilson-bela-ls-v3",
      "sourceType": "retailer"
@@ -28369,12 +28729,12 @@
      "sourceType": "retailer"
     },
     "price": {
-     "display": "€134.95",
-     "value": 134.95,
+     "display": "€129.95",
+     "value": 129.95,
      "currency": "EUR",
      "rrp": 339.95,
-     "checkedOn": "2026-10-20",
-     "verbatim": "134.95 EUR (schema.org offer)",
+     "checkedOn": "2026-10-27",
+     "verbatim": "129.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/int/wilson-bela-pro-padel-v2-5-111818-p",
      "sourceType": "retailer"
     }
@@ -28515,7 +28875,7 @@
      "value": 164.95,
      "currency": "EUR",
      "rrp": 259.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "164,95 € | Regular Price 259,95 €",
      "source": "https://www.padelnuestro.com/pala-wilson-bela-v3-wr186511u",
      "sourceType": "retailer"
@@ -28595,7 +28955,7 @@
      "value": 159.95,
      "currency": "EUR",
      "rrp": 249.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "159,95 € | Regular Price 249,95 €",
      "source": "https://www.padelnuestro.com/wilson-blade-v3-padel-113594-p",
      "sourceType": "retailer"
@@ -28679,7 +29039,7 @@
      "value": 144.95,
      "currency": "EUR",
      "rrp": 219.95,
-     "checkedOn": "2026-10-20",
+     "checkedOn": "2026-10-27",
      "verbatim": "€144.95 Regular Price €219.95",
      "source": "https://www.padelnuestro.com/int/wilson-endure-ls-v1",
      "sourceType": "retailer"

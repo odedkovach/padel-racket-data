@@ -7,7 +7,7 @@
 | [Wilson Bela Pro V3 2025](https://padeltrue.com/rackets/wilson-bela-pro-v3-2025) | 2025 | Teardrop | 370 g (13.1 oz) | High |  | €320 | 66 | 34 | 41 | [product page](https://www.wilson.com/en-us/product/bela-pro-v3-padel-wr18640) |
 | [Wilson Bela V3 2025](https://padeltrue.com/rackets/wilson-bela-v3-2025) | 2025 | Teardrop | 365 g (12.9 oz) |  | EVA | €164.95 | 50 | 50 | 50 | [product page](https://www.wilson.com/en-us/product/bela-v3-padel-wr18650) |
 | [Wilson Bela LS V3](https://padeltrue.com/rackets/wilson-bela-ls-v3) |  | Teardrop | 355 g (12.5 oz) | Medium | Medium, Power Foam | €134.95 | 47 | 50 | 52 | [product page](https://www.wilson.com/en-us/product/bela-ls-v3-padel-wr18670) |
-| [Wilson Bela Pro V2.5](https://padeltrue.com/rackets/wilson-bela-pro-v2-5) |  | Diamond | 370 g (13.1 oz) | High | Hard, EVA | €134.95 | 84 | 10 | 15 | [product page](https://www.padelnuestro.com/int/wilson-bela-pro-padel-v2-5-111818-p) |
+| [Wilson Bela Pro V2.5](https://padeltrue.com/rackets/wilson-bela-pro-v2-5) |  | Diamond | 370 g (13.1 oz) | High | Hard, EVA | €129.95 | 84 | 10 | 15 | [product page](https://www.padelnuestro.com/int/wilson-bela-pro-padel-v2-5-111818-p) |
 | [Wilson Blade V3](https://padeltrue.com/rackets/wilson-blade-v3) |  | Teardrop | 365 g (12.9 oz) | Medium | Medium, EVA | €159.95 | 50 | 50 | 50 | [product page](https://www.wilson.com/en-us/product/blade-v3-padel-wr16700) |
 | [Wilson Endure LS V1](https://padeltrue.com/rackets/wilson-endure-ls-v1) |  | Round | 355 g (12.5 oz) | Low | Comfort Foam (table), Control Foam dual-density (description) | €144.95 | 15 | 90 | 50 | [product page](https://www.padelnuestro.com/int/wilson-endure-ls-v1) |
 
