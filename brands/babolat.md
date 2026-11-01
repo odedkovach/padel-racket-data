@@ -1,6 +1,6 @@
 # Babolat padel rackets: published specifications
 
-18 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+19 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -22,5 +22,6 @@
 | [Babolat Technical Viper Soft 3.0](https://padeltrue.com/rackets/babolat-technical-viper-soft-3-0) |  | Diamond | 355 to 375 g (12.5 to 13.2 oz) | High | Medium, Black EVA | €280 | 82 | 10 | 32 | [product page](https://www.babolat.com/es/technical-viper-soft-3.0/150179.html) |
 | [Babolat Veron Juan Lebrón 3.1](https://padeltrue.com/rackets/babolat-veron-juan-lebron-3-1) |  | Diamond | 350 to 370 g (12.3 to 13.1 oz) | 270 mm (10.6 in) | Black EVA | $270 | 66 | 26 | 41 | [product page](https://www.babolat.com/us/veron-juan-lebron-3.1/150197.html) |
 | [Babolat Viper Juan Lebrón 3.1](https://padeltrue.com/rackets/babolat-viper-juan-lebron-3-1) |  | Diamond | 360 to 380 g (12.7 to 13.4 oz) | 270 mm (10.6 in) | Hard EVA | $420 | 70 | 26 | 39 | [product page](https://www.babolat.com/us/viper-juan-lebron-3.1/150195.html) |
+| [Babolat Viper Soft Juan Lebrón 3.1](https://padeltrue.com/rackets/babolat-viper-soft-juan-lebron-3-1) |  | Diamond | 355 to 375 g (12.5 to 13.2 oz) | 270 mm (10.6 in) | Medium, Black EVA | $330 | 68 | 26 | 40 | [product page](https://www.babolat.com/us/viper-soft-juan-lebron-3.1/150196.html) |
 
 Full records with the quoted wording of every specification are in [rackets.json](../rackets.json). Compare any two of these at [padeltrue.com/compare](https://padeltrue.com/compare/).

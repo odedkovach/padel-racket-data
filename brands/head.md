@@ -19,7 +19,7 @@
 | [Head Extreme One X 2025](https://padeltrue.com/rackets/head-extreme-one-x-2025) | 2025 | Diamond | 370 g (13.1 oz) | High, 270 mm (10.6 in) | Hard, Power FOAM | €239.99 | 84 | 10 | 15 | [product page](https://www.head.com/product/extreme-one-x-2025-223105) |
 | [Head Extreme Pro 2025](https://padeltrue.com/rackets/head-extreme-pro-2025) | 2025 | Diamond | 370 g (13.1 oz) | High | Hard, Foam | €169.95 | 84 | 10 | 15 | [product page](https://www.padelnuestro.com/head-extreme-pro-2025) |
 | [Head Extreme Team 2025](https://padeltrue.com/rackets/head-extreme-team-2025) | 2025 | Diamond | 360 g (12.7 oz) |  | Soft, Power Foam | €119.95 | 66 | 26 | 77 | [product page](https://www.padelnuestro.com/int/head-extreme-team-2025) |
-| [Head Speed Pro 2025](https://padeltrue.com/rackets/head-speed-pro-2025) | 2025 | Teardrop | 370 g (13.1 oz) | Medium | Medium, Power Foam | €149.95 | 52 | 50 | 49 | [product page](https://www.padelnuestro.com/int/head-speed-pro-2025) |
+| [Head Speed Pro 2025](https://padeltrue.com/rackets/head-speed-pro-2025) | 2025 | Teardrop | 370 g (13.1 oz) | Medium | Medium, Power Foam | €154.95 | 52 | 50 | 49 | [product page](https://www.padelnuestro.com/int/head-speed-pro-2025) |
 | [Head Gravity Pro 2024](https://padeltrue.com/rackets/head-gravity-pro-2024) | 2024 | Round | 365 g (12.9 oz) | Low | Medium, Control Foam | €149.95 | 18 | 90 | 58 | [product page](https://www.padelnuestro.com/int/head-gravity-pro-2024-113828-p) |
 | [Head Gravity Team 2024](https://padeltrue.com/rackets/head-gravity-team-2024) | 2024 | Round | 360 g (12.7 oz) | Medium, 265 mm (10.4 in), 26.5 cm (10.4 in) | Soft, Control Foam | €119.95 | 30 | 74 | 77 | [product page](https://www.head.com/es_ES/product/gravity-team-2024-224024) |
 
