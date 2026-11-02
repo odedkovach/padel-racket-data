@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-01",
+ "built": "2026-11-02",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 360,
+ "count": 362,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -9712,6 +9712,97 @@
      "checkedOn": "2026-10-17",
      "verbatim": "399.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/6425-pala-bullpadel-neuron-02-edge-bruselas-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-neuron-02-edge-world-cup-26",
+   "name": "Bullpadel Neuron 02 Edge World Cup 26",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-neuron-02-edge-world-cup-26",
+   "productUrl": "https://www.bullpadel.com/es/6934-neuron-02-edge-wc-26.html",
+   "level": "Profesional",
+   "player": "Fede Chingotto",
+   "ratings": {
+    "power": 52,
+    "control": 50,
+    "handling": 46,
+    "forgiveness": 28,
+    "comfort": 23,
+    "value": 6
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "balance"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/6934-neuron-02-edge-wc-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26 cm (10.2 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26,
+     "verbatim": "Balance Aprox. 26 cm",
+     "source": "https://www.bullpadel.com/es/6934-neuron-02-edge-wc-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Hard, Multieva (Hardeva)",
+     "value": "hard",
+     "material": "Multieva (Hardeva)",
+     "verbatim": "Tacto Duro",
+     "source": "https://www.bullpadel.com/es/6934-neuron-02-edge-wc-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 3K",
+     "material": "X-Tend Carbon 3K",
+     "verbatim": "Composición exterior X-Tend Carbon 3K",
+     "source": "https://www.bullpadel.com/es/6934-neuron-02-edge-wc-26.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "carbono",
+     "material": "carbono",
+     "verbatim": "estructura de carbono de alta resistencia",
+     "source": "https://www.bullpadel.com/es/6934-neuron-02-edge-wc-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6934-neuron-02-edge-wc-26.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "La tecnología 3D Grain incorpora un patrón de rugosidad",
+     "source": "https://www.bullpadel.com/es/6934-neuron-02-edge-wc-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€449.99",
+     "value": 449.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-02",
+     "verbatim": "449.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6934-neuron-02-edge-wc-26.html",
      "sourceType": "manufacturer"
     }
    }
@@ -26055,6 +26146,74 @@
      "checkedOn": "2026-10-28",
      "verbatim": "359.95 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/valkiria-pro-2027",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "siux-velox-rl-2026",
+   "name": "Siux Velox RL 2026",
+   "brand": "Siux",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/siux-velox-rl-2026",
+   "productUrl": "https://siuxpadel.com/products/siux-velox-rl-2026",
+   "level": "Principiante",
+   "player": null,
+   "ratings": {
+    "power": 50,
+    "control": 50,
+    "handling": 50,
+    "forgiveness": 57,
+    "comfort": 58,
+    "value": 40
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "face",
+    "weight"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "Forma de pala Lágrima",
+     "source": "https://siuxpadel.com/products/siux-velox-rl-2026",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Medio",
+     "source": "https://siuxpadel.com/products/siux-velox-rl-2026",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-soft, EVA Soft",
+     "value": "medium-soft",
+     "material": "EVA Soft",
+     "verbatim": "Tacto de pala Medio-blando",
+     "source": "https://siuxpadel.com/products/siux-velox-rl-2026",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Fibra de vidrio",
+     "material": "Fibra de vidrio",
+     "verbatim": "Marco: Fibra de vidrio",
+     "source": "https://siuxpadel.com/products/siux-velox-rl-2026",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€79",
+     "value": 79,
+     "currency": "EUR",
+     "checkedOn": "2026-11-02",
+     "verbatim": "79 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/siux-velox-rl-2026",
      "sourceType": "manufacturer"
     }
    }

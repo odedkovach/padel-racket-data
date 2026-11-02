@@ -1,6 +1,6 @@
 # Siux padel rackets: published specifications
 
-55 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+56 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Siux Trilogy Pro 2026 Ash Green](https://padeltrue.com/rackets/siux-trilogy-pro-2026-ash-green) | 2026 | Round |  | Low |  | €350 | 18 | 90 | 48 | [product page](https://siuxpadel.com/products/siux-trilogy-pro-2026-ash-green) |
 | [Siux Trilogy Pro 2026 Noir Fog](https://padeltrue.com/rackets/siux-trilogy-pro-2026-noir-fog) | 2026 | Round | 355 to 375 g (12.5 to 13.2 oz) | Low | Medium, EVA | €350 | 18 | 90 | 48 | [product page](https://www.siuxpadel.com/en/products/siux-trilogy-pro-2026-noir-fog) |
 | [Siux Valkiria Pro 2026](https://padeltrue.com/rackets/siux-valkiria-pro-2026) | 2026 | Teardrop | 340 to 360 g (12.0 to 12.7 oz) | Medium | EVA | $350 | 45 | 50 | 44 | [product page](https://www.tennis-warehouse.com/Siux_Valkiria_Pro_2026_Padel_Racket/descpage-SXVAP6.html) |
+| [Siux Velox RL 2026](https://padeltrue.com/rackets/siux-velox-rl-2026) | 2026 | Teardrop |  | Medium | Medium-soft, EVA Soft | €79 | 50 | 50 | 58 | [product page](https://siuxpadel.com/products/siux-velox-rl-2026) |
 | [Siux Beat Control 2 2025](https://padeltrue.com/rackets/siux-beat-control-2-2025) | 2025 | Round | 355 to 375 g (12.5 to 13.2 oz) | Low | Soft | €70.25 | 18 | 90 | 84 | [product page](https://siuxpadel.com/products/siux-beat-control-2) |
 | [Siux Electra Stupa Pro ST4 2025](https://padeltrue.com/rackets/siux-electra-stupa-pro-st4-2025) | 2025 | Hybrid |  |  | Medium-hard | €268.60 | 45 | 57 | 32 | [product page](https://siuxpadel.com/products/siux-electra-stupa-pro-st4) |
 | [Siux Pegasus 3 2025](https://padeltrue.com/rackets/siux-pegasus-3-2025) | 2025 | Hybrid |  | Medium | Medium-hard, goma EVA | €119 | 45 | 57 | 32 | [product page](https://siuxpadel.com/products/siux-pegasus-3) |

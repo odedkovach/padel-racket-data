@@ -1,14 +1,14 @@
 # Padel racket data
 
-Published specifications of 360 padel rackets from 23 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
+Published specifications of 362 padel rackets from 23 brands, each with the address of the page it was read from and the wording used there. Maintained by [PadelTrue](https://padeltrue.com/), an independent padel racket comparison website.
 
-Export date: 2026-11-01. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
+Export date: 2026-11-02. An automated job publishes data changes. This date does not mean every specification was rechecked that day; individual price observation dates are included in the data.
 
 ## What is in it
 
 | File | What it holds |
 |---|---|
-| [rackets.json](rackets.json) | The full record of every racket: 2569 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
+| [rackets.json](rackets.json) | The full record of every racket: 2582 specifications, each with `source`, `verbatim` and `sourceType`, plus the calculated ratings |
 | [rackets.csv](rackets.csv) | One row per racket, for a spreadsheet |
 | [brands/](brands/) | One readable table per brand |
 | [DATA_DICTIONARY.md](DATA_DICTIONARY.md) | Field definitions, units, missing values, CSV mapping and rating limitations |
@@ -21,7 +21,7 @@ Export date: 2026-11-01. An automated job publishes data changes. This date does
 | [Adidas](brands/adidas.md) | 49 |
 | [Babolat](brands/babolat.md) | 19 |
 | [Black Crown](brands/black-crown.md) | 1 |
-| [Bullpadel](brands/bullpadel.md) | 73 |
+| [Bullpadel](brands/bullpadel.md) | 74 |
 | [Cork Padel](brands/cork-padel.md) | 8 |
 | [Drop Shot](brands/drop-shot.md) | 2 |
 | [Dunlop](brands/dunlop.md) | 4 |
@@ -34,7 +34,7 @@ Export date: 2026-11-01. An automated job publishes data changes. This date does
 | [Padelsmith](brands/padelsmith.md) | 1 |
 | [Royal Padel](brands/royal-padel.md) | 14 |
 | [Shooter](brands/shooter.md) | 1 |
-| [Siux](brands/siux.md) | 55 |
+| [Siux](brands/siux.md) | 56 |
 | [StarVie](brands/starvie.md) | 17 |
 | [Tecnifibre](brands/tecnifibre.md) | 2 |
 | [Vairo](brands/vairo.md) | 2 |
