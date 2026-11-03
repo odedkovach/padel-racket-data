@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-02",
+ "built": "2026-11-03",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 362,
+ "count": 365,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -846,6 +846,93 @@
      "checkedOn": "2026-10-28",
      "verbatim": "180 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7426-adidas-adipower-legend-2025-racket-8435739407738.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-adipower-legend-2026-seba-nerone",
+   "name": "adidas Adipower Legend 2026 Seba Nerone",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-adipower-legend-2026-seba-nerone",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7870-padel-racket-adidas-adipower-legend-2026-seba-nerone-8435739412794.html",
+   "level": "PRO",
+   "player": "Seba Nerone",
+   "ratings": {
+    "power": 83,
+    "control": 10,
+    "handling": 28,
+    "forgiveness": 38,
+    "comfort": 47,
+    "value": 12
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "diamond shape",
+     "source": "https://allforpadel.com/en/padel-rackets/7870-padel-racket-adidas-adipower-legend-2026-seba-nerone-8435739412794.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7870-padel-racket-adidas-adipower-legend-2026-seba-nerone-8435739412794.html",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "head-heavy balance",
+     "source": "https://allforpadel.com/en/padel-rackets/7870-padel-racket-adidas-adipower-legend-2026-seba-nerone-8435739412794.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7870-padel-racket-adidas-adipower-legend-2026-seba-nerone-8435739412794.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Carbon 3K",
+     "material": "Carbon 3K",
+     "verbatim": "Carbon 3K",
+     "source": "https://allforpadel.com/en/padel-rackets/7870-padel-racket-adidas-adipower-legend-2026-seba-nerone-8435739412794.html",
+     "sourceType": "retailer"
+    },
+    "frame": {
+     "display": "carbon fiber",
+     "material": "carbon fiber",
+     "verbatim": "carbon fiber frame",
+     "source": "https://allforpadel.com/en/padel-rackets/7870-padel-racket-adidas-adipower-legend-2026-seba-nerone-8435739412794.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7870-padel-racket-adidas-adipower-legend-2026-seba-nerone-8435739412794.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€300",
+     "value": 300,
+     "currency": "EUR",
+     "checkedOn": "2026-11-03",
+     "verbatim": "300 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7870-padel-racket-adidas-adipower-legend-2026-seba-nerone-8435739412794.html",
      "sourceType": "retailer"
     }
    }
@@ -10069,6 +10156,97 @@
      "checkedOn": "2026-10-13",
      "verbatim": "294.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/6816-pala-bullpadel-pearl-27.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-pearl-world-cup-26",
+   "name": "Bullpadel Pearl World Cup 26",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-pearl-world-cup-26",
+   "productUrl": "https://www.bullpadel.com/es/6933-pearl-wc-26.html",
+   "level": "Profesional",
+   "player": "Bea González",
+   "ratings": {
+    "power": 66,
+    "control": 26,
+    "handling": 54,
+    "forgiveness": 32,
+    "comfort": 51,
+    "value": 10
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/6933-pearl-wc-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "355 to 365 g (12.5 to 12.9 oz)",
+     "min": 355,
+     "max": 365,
+     "verbatim": "Peso 355 - 365 g",
+     "source": "https://www.bullpadel.com/es/6933-pearl-wc-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26.5 cm (10.4 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26.5,
+     "verbatim": "Balance Aprox. 26,5 cm",
+     "source": "https://www.bullpadel.com/es/6933-pearl-wc-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/6933-pearl-wc-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "Composición exterior Fibrix",
+     "source": "https://www.bullpadel.com/es/6933-pearl-wc-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6933-pearl-wc-26.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "La tecnología 3D Grain incorpora un patrón de rugosidad",
+     "source": "https://www.bullpadel.com/es/6933-pearl-wc-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€339.99",
+     "value": 339.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-03",
+     "verbatim": "339.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6933-pearl-wc-26.html",
      "sourceType": "manufacturer"
     }
    }
@@ -24789,6 +24967,69 @@
      "checkedOn": "2026-10-28",
      "verbatim": "161.16 EUR (schema.org offer)",
      "source": "https://siuxpadel.com/products/siux-gea",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "siux-gea-2026",
+   "name": "Siux Gea 2026",
+   "brand": "Siux",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/siux-gea-2026",
+   "productUrl": "https://siuxpadel.com/products/siux-gea-2026",
+   "level": "Intermedio",
+   "player": null,
+   "ratings": {
+    "power": 18,
+    "control": 90,
+    "handling": 70,
+    "forgiveness": 68,
+    "comfort": 58,
+    "value": 20
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "face",
+    "weight"
+   ],
+   "profile": [
+    "control",
+    "easy to move",
+    "forgiving"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Forma de pala Redonda",
+     "source": "https://siuxpadel.com/products/siux-gea-2026",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Low",
+     "value": "low",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance de pala Bajo",
+     "source": "https://siuxpadel.com/products/siux-gea-2026",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, EVA",
+     "value": "medium",
+     "material": "EVA",
+     "verbatim": "tacto medio",
+     "source": "https://siuxpadel.com/products/siux-gea-2026",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€223.14",
+     "value": 223.14,
+     "currency": "EUR",
+     "checkedOn": "2026-11-03",
+     "verbatim": "223.14 EUR (schema.org offer)",
+     "source": "https://siuxpadel.com/products/siux-gea-2026",
      "sourceType": "manufacturer"
     }
    }

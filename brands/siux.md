@@ -1,6 +1,6 @@
 # Siux padel rackets: published specifications
 
-56 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+57 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Siux Fenix Elite 2026](https://padeltrue.com/rackets/siux-fenix-elite-2026) | 2026 | Diamond |  | High | EVA | €270 | 82 | 10 | 32 | [product page](https://siuxpadel.com/products/siux-fenix-elite-2026) |
 | [Siux Fenix Pro 2026 Black](https://padeltrue.com/rackets/siux-fenix-pro-2026-black) | 2026 | Diamond |  | High | EVA Soft | €350 | 82 | 10 | 32 | [product page](https://siuxpadel.com/products/siux-fenix-pro-2026-black) |
 | [Siux Fenix Pro 2026 Glow Purple](https://padeltrue.com/rackets/siux-fenix-pro-2026-glow-purple) | 2026 | Diamond | 355 to 375 g (12.5 to 13.2 oz) | High | Hard, EVA | €350 | 82 | 10 | 16 | [product page](https://www.siuxpadel.com/en/products/siux-fenix-pro-2026-glow-purple) |
+| [Siux Gea 2026](https://padeltrue.com/rackets/siux-gea-2026) | 2026 | Round |  | Low | Medium, EVA | €223.14 | 18 | 90 | 58 | [product page](https://siuxpadel.com/products/siux-gea-2026) |
 | [Siux Pegasus Elite 2026](https://padeltrue.com/rackets/siux-pegasus-elite-2026) | 2026 | Teardrop |  | Medium | EVA Soft | €270 | 50 | 50 | 40 | [product page](https://siuxpadel.com/products/siux-pegasus-elite-2026) |
 | [Siux Pegasus Pro 2026 Lava Orange](https://padeltrue.com/rackets/siux-pegasus-pro-2026-lava-orange) | 2026 | Teardrop | 355 to 375 g (12.5 to 13.2 oz) | Medium | Hard, EVA Pro | €350 | 50 | 50 | 24 | [product page](https://www.siuxpadel.com/en/products/siux-pegasus-pro-2026-lava-orange) |
 | [Siux Pegasus Pro 2026 Storm Grey](https://padeltrue.com/rackets/siux-pegasus-pro-2026-storm-grey) | 2026 | Teardrop |  | Medium | EVA Soft | €350 | 50 | 50 | 40 | [product page](https://siuxpadel.com/products/siux-pegasus-pro-2026-storm-grey) |
