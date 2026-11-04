@@ -4,8 +4,8 @@
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
-| [Head Coello Motion 2026](https://padeltrue.com/rackets/head-coello-motion-2026) | 2026 | Diamond |  | High | Power Foam | €259.95 | 82 | 10 | 42 | [product page](https://www.padelnuestro.com/int/head-coello-motion-2026) |
-| [Head Coello Pro 2026](https://padeltrue.com/rackets/head-coello-pro-2026) | 2026 | Diamond | 370 g (13.1 oz) | High | Medium, Power Foam | €219.95 | 84 | 10 | 41 | [product page](https://www.padelnuestro.com/int/head-coello-pro-2026) |
+| [Head Coello Motion 2026](https://padeltrue.com/rackets/head-coello-motion-2026) | 2026 | Diamond |  | High | Power Foam | €199.95 | 82 | 10 | 42 | [product page](https://www.padelnuestro.com/int/head-coello-motion-2026) |
+| [Head Coello Pro 2026](https://padeltrue.com/rackets/head-coello-pro-2026) | 2026 | Diamond | 370 g (13.1 oz) | High | Medium, Power Foam | €199.95 | 84 | 10 | 41 | [product page](https://www.padelnuestro.com/int/head-coello-pro-2026) |
 | [HEAD Extreme Motion 2026](https://padeltrue.com/rackets/head-extreme-motion-2026) | 2026 | Diamond | 360 g (12.7 oz) | High, 270 mm (10.6 in) | Power FOAM | $254.95 | 80 | 10 | 33 | [product page](https://www.head.com/product/extreme-motion-2026-223136) |
 | [Head Extreme Motion Pro 2026](https://padeltrue.com/rackets/head-extreme-motion-pro-2026) | 2026 | Diamond | 360 g (12.7 oz) | High | Medium, Power Foam | €215.95 | 80 | 10 | 33 | [product page](https://www.padelnuestro.com/int/head-extreme-motion-pro-2026) |
 | [Head Extreme Pro 2026](https://padeltrue.com/rackets/head-extreme-pro-2026) | 2026 | Diamond | 370 g (13.1 oz) | High | Medium, Power Foam | €251.95 | 84 | 10 | 41 | [product page](https://www.padelnuestro.com/int/head-extreme-pro-2026-162498-p) |
