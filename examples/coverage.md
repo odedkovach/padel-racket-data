@@ -1,6 +1,6 @@
 # Specification coverage in this PadelTrue snapshot
 
-Export date: 2026-11-06. Model version: 1.0. Records: 373.
+Export date: 2026-11-07. Model version: 1.0. Records: 374.
 
 This measures the records collected by PadelTrue, not the whole market or the quality of a brand. A missing field here does not establish that a manufacturer never published it. Small and unequal brand samples are not a brand ranking.
 
@@ -8,7 +8,7 @@ Each cell shows records with the field / records for that brand. Numerical balan
 
 | Brand | Records | Weight range | Numerical balance | Face material | Five model inputs |
 |---|---:|---:|---:|---:|---:|
-| Adidas | 51 | 49/51 | 0/51 | 48/51 | 24/51 |
+| Adidas | 52 | 50/52 | 0/52 | 49/52 | 24/52 |
 | Babolat | 19 | 19/19 | 10/19 | 18/19 | 5/19 |
 | Black Crown | 1 | 0/1 | 0/1 | 1/1 | 0/1 |
 | Bullpadel | 82 | 78/82 | 47/82 | 77/82 | 19/82 |

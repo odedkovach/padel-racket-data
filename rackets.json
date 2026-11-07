@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-06",
+ "built": "2026-11-07",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 373,
+ "count": 374,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -2275,6 +2275,83 @@
      "checkedOn": "2026-11-04",
      "verbatim": "56.25 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7494-padel-racket-adidas-match-black-lime-2026-8435739406069.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-match-blue-3-4-2025",
+   "name": "Adidas Match Blue 3.4 2025",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-match-blue-3-4-2025",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7755-adidas-match-blue-34-padel-racket-8435739403006.html",
+   "level": "Beginner",
+   "player": null,
+   "ratings": {
+    "power": 65,
+    "control": 34,
+    "handling": 28,
+    "forgiveness": 72,
+    "comfort": 67,
+    "value": 86
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "shape"
+   ],
+   "profile": [
+    "all-round",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "Weight: 360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7755-adidas-match-blue-34-padel-racket-8435739403006.html",
+     "sourceType": "retailer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance: Slightly Head Heavy",
+     "source": "https://allforpadel.com/en/padel-rackets/7755-adidas-match-blue-34-padel-racket-8435739403006.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Rubber: Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7755-adidas-match-blue-34-padel-racket-8435739403006.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiberglass",
+     "material": "Fiberglass",
+     "verbatim": "Face: Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7755-adidas-match-blue-34-padel-racket-8435739403006.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Thickness: 38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7755-adidas-match-blue-34-padel-racket-8435739403006.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€45",
+     "value": 45,
+     "currency": "EUR",
+     "checkedOn": "2026-11-07",
+     "verbatim": "45 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7755-adidas-match-blue-34-padel-racket-8435739403006.html",
      "sourceType": "retailer"
     }
    }

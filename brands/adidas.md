@@ -1,6 +1,6 @@
 # Adidas padel rackets: published specifications
 
-51 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+52 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Adidas Drive Light 2026](https://padeltrue.com/rackets/adidas-drive-light-2026) | 2026 |  | 345 to 360 g (12.2 to 12.7 oz) | Medium | Soft, Eva Soft Performance | €60 | 46 | 50 | 79 | [product page](https://allforpadel.com/en/padel-rackets/7492-padel-racket-adidas-drive-light-2026-8435739406045.html) |
 | [Adidas Match Black 2026](https://padeltrue.com/rackets/adidas-match-black-2026) | 2026 |  | 360 to 375 g (12.7 to 13.2 oz) |  | Soft, EVA Soft Performance | €56.25 | 51 | 50 | 75 | [product page](https://allforpadel.com/en/padel-rackets/7493-padel-racket-adidas-match-black-2026-8435739406052.html) |
 | [Adidas Match Black Lime 2026](https://padeltrue.com/rackets/adidas-match-black-lime-2026) | 2026 | Hybrid | 360 to 375 g (12.7 to 13.2 oz) | High | Soft, Eva Soft Performance | €56.25 | 59 | 41 | 67 | [product page](https://allforpadel.com/en/padel-rackets/7494-padel-racket-adidas-match-black-lime-2026-8435739406069.html) |
+| [Adidas Match Blue 3.4 2025](https://padeltrue.com/rackets/adidas-match-blue-3-4-2025) | 2026 |  | 360 to 375 g (12.7 to 13.2 oz) | High | Soft, Eva Soft Performance | €45 | 65 | 34 | 67 | [product page](https://allforpadel.com/en/padel-rackets/7755-adidas-match-blue-34-padel-racket-8435739403006.html) |
 | [Adidas Match Light 2026](https://padeltrue.com/rackets/adidas-match-light-2026) | 2026 |  | 345 to 360 g (12.2 to 12.7 oz) |  | Soft, Eva Soft Performance | €59.95 | 46 | 50 | 79 | [product page](https://www.padelnuestro.com/pala-adidas-match-light-2026-ar5ga5u88) |
 | [Adidas Metalbone 2026](https://padeltrue.com/rackets/adidas-metalbone-2026) | 2026 | Diamond | 345 to 360 g (12.2 to 12.7 oz) | High | Soft, EVA Soft Performance | €292.50 | 78 | 10 | 51 | [product page](https://allforpadel.com/en/padel-rackets/7521-padel-racket-adidas-metalbone-2026-ale-galan-8435739405802.html) |
 | [Adidas Metalbone Carbon 2026](https://padeltrue.com/rackets/adidas-metalbone-carbon-2026) | 2026 | Diamond | 360 to 375 g (12.7 to 13.2 oz) | High | Soft, Eva Soft Performance | €195 | 83 | 10 | 47 | [product page](https://allforpadel.com/en/padel-rackets/7775-padel-racket-adidas-metalbone-carbon-2026-8435739405833.html) |
