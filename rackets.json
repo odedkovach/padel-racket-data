@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-07",
+ "built": "2026-11-08",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 374,
+ "count": 376,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -8787,6 +8787,97 @@
    }
   },
   {
+   "slug": "bullpadel-indiga-boy-27",
+   "name": "Bullpadel Indiga Boy 27",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-indiga-boy-27",
+   "productUrl": "https://www.bullpadel.com/es/6856-pala-bullpadel-indiga-boy-27.html",
+   "level": "Kid",
+   "player": null,
+   "ratings": {
+    "power": 37,
+    "control": 57,
+    "handling": 70,
+    "forgiveness": 63,
+    "comfort": 66,
+    "value": 54
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round",
+    "easy to move",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Forma Híbrida",
+     "source": "https://www.bullpadel.com/es/6856-pala-bullpadel-indiga-boy-27.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "280 g (9.9 oz)",
+     "min": 280,
+     "max": 280,
+     "verbatim": "Peso 280 g",
+     "source": "https://www.bullpadel.com/es/6856-pala-bullpadel-indiga-boy-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance Medio",
+     "source": "https://www.bullpadel.com/es/6856-pala-bullpadel-indiga-boy-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Evalastic",
+     "value": null,
+     "material": "Evalastic",
+     "verbatim": "Composición interior Evalastic",
+     "source": "https://www.bullpadel.com/es/6856-pala-bullpadel-indiga-boy-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Polyglass",
+     "material": "Polyglass",
+     "verbatim": "Composición exterior Polyglass",
+     "source": "https://www.bullpadel.com/es/6856-pala-bullpadel-indiga-boy-27.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono entrelazado bidireccional",
+     "material": "Carbono entrelazado bidireccional",
+     "verbatim": "marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/6856-pala-bullpadel-indiga-boy-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "26 mm (1.0 in)",
+     "value": 26,
+     "verbatim": "Perfil 26 mm",
+     "source": "https://www.bullpadel.com/es/6856-pala-bullpadel-indiga-boy-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€69.99",
+     "value": 69.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-08",
+     "verbatim": "69.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6856-pala-bullpadel-indiga-boy-27.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-indiga-ctr-2025",
    "name": "Bullpadel Indiga CTR 2025",
    "brand": "Bullpadel",
@@ -9053,6 +9144,97 @@
      "checkedOn": "2026-10-16",
      "verbatim": "59.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/5703-pala-bullpadel-indiga-girl-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-indiga-girl-27",
+   "name": "Bullpadel Indiga Girl 27",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-indiga-girl-27",
+   "productUrl": "https://www.bullpadel.com/es/6857-pala-bullpadel-indiga-girl-27.html",
+   "level": "Kid Iniciación",
+   "player": null,
+   "ratings": {
+    "power": 37,
+    "control": 57,
+    "handling": 70,
+    "forgiveness": 63,
+    "comfort": 66,
+    "value": 54
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round",
+    "easy to move",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Forma Híbrida",
+     "source": "https://www.bullpadel.com/es/6857-pala-bullpadel-indiga-girl-27.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "280 g (9.9 oz)",
+     "min": 280,
+     "max": 280,
+     "verbatim": "Peso 280 g",
+     "source": "https://www.bullpadel.com/es/6857-pala-bullpadel-indiga-girl-27.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance Medio",
+     "source": "https://www.bullpadel.com/es/6857-pala-bullpadel-indiga-girl-27.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Evalastic",
+     "value": null,
+     "material": "Evalastic",
+     "verbatim": "Composición interior Evalastic",
+     "source": "https://www.bullpadel.com/es/6857-pala-bullpadel-indiga-girl-27.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Polyglass",
+     "material": "Polyglass",
+     "verbatim": "Composición exterior Polyglass",
+     "source": "https://www.bullpadel.com/es/6857-pala-bullpadel-indiga-girl-27.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% de Carbono entrelazado bidireccional",
+     "material": "100% de Carbono entrelazado bidireccional",
+     "verbatim": "marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/6857-pala-bullpadel-indiga-girl-27.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "26 mm (1.0 in)",
+     "value": 26,
+     "verbatim": "Perfil 26 mm",
+     "source": "https://www.bullpadel.com/es/6857-pala-bullpadel-indiga-girl-27.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€69.99",
+     "value": 69.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-08",
+     "verbatim": "69.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6857-pala-bullpadel-indiga-girl-27.html",
      "sourceType": "manufacturer"
     }
    }
