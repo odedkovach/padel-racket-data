@@ -1,6 +1,6 @@
 # Adidas padel rackets: published specifications
 
-52 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+53 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [adidas 2026 World Cup Mexico](https://padeltrue.com/rackets/adidas-2026-world-cup-mexico) | 2026 | Round | 360 to 375 g (12.7 to 13.2 oz) |  | Soft, Eva Soft Performance | €120 | 33 | 74 | 75 | [product page](https://allforpadel.com/en/padel-rackets/7461-padel-racket-adidas-2026-world-cup-mexico-8435739406502.html) |
 | [adidas 2026 World Cup Netherlands](https://padeltrue.com/rackets/adidas-2026-world-cup-netherlands) | 2026 | Round | 360 to 375 g (12.7 to 13.2 oz) |  | Soft, Eva Soft Performance | €120 | 33 | 74 | 75 | [product page](https://allforpadel.com/en/padel-rackets/7456-padel-racket-adidas-2026-world-cup-netherlands-8435739406458.html) |
 | [adidas 2026 World Cup Spain](https://padeltrue.com/rackets/adidas-2026-world-cup-spain) | 2026 | Round | 360 to 375 g (12.7 to 13.2 oz) | Medium | Soft, Eva Soft Performance | €120 | 33 | 74 | 75 | [product page](https://allforpadel.com/en/padel-rackets/7451-padel-racket-adidas-2026-world-cup-spain--8435739406434.html) |
+| [adidas 2026 World Cup United States](https://padeltrue.com/rackets/adidas-2026-world-cup-united-states) | 2026 | Round | 360 to 375 g (12.7 to 13.2 oz) |  | Soft, Eva Soft Performance | €120 | 33 | 74 | 75 | [product page](https://allforpadel.com/en/padel-rackets/7464-padel-racket-adidas-2026-world-cup-united-states-8435739406533.html) |
 | [adidas Adipower Legend 2026 Seba Nerone](https://padeltrue.com/rackets/adidas-adipower-legend-2026-seba-nerone) | 2026 | Diamond | 360 to 375 g (12.7 to 13.2 oz) | High | Soft, Eva Soft Performance | €300 | 83 | 10 | 47 | [product page](https://allforpadel.com/en/padel-rackets/7870-padel-racket-adidas-adipower-legend-2026-seba-nerone-8435739412794.html) |
 | [Adidas Arrow Hit 2026](https://padeltrue.com/rackets/adidas-arrow-hit-2026) | 2026 | Diamond | 360 to 375 g (12.7 to 13.2 oz) | High | Soft, EVA Soft Performance | €300 | 83 | 10 | 57 | [product page](https://allforpadel.com/en/padel-rackets/7523-padel-racket-adidas-arrow-hit-8435739405888.html) |
 | [Adidas Arrow Hit Carbon 2026](https://padeltrue.com/rackets/adidas-arrow-hit-carbon-2026) | 2026 | Diamond | 360 to 375 g (12.7 to 13.2 oz) | High | Soft, EVA Soft Performance | €202.50 | 83 | 10 | 47 | [product page](https://allforpadel.com/en/padel-rackets/7531-padel-racket-adidas-arrow-hit-carbon-8435739405901.html) |

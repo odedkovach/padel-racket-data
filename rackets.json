@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-08",
+ "built": "2026-11-09",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 376,
+ "count": 377,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -685,6 +685,81 @@
      "checkedOn": "2026-11-04",
      "verbatim": "120 EUR (product meta tag)",
      "source": "https://allforpadel.com/en/padel-rackets/7451-padel-racket-adidas-2026-world-cup-spain--8435739406434.html",
+     "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "adidas-2026-world-cup-united-states",
+   "name": "adidas 2026 World Cup United States",
+   "brand": "Adidas",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/adidas-2026-world-cup-united-states",
+   "productUrl": "https://allforpadel.com/en/padel-rackets/7464-padel-racket-adidas-2026-world-cup-united-states-8435739406533.html",
+   "level": null,
+   "player": null,
+   "ratings": {
+    "power": 33,
+    "control": 74,
+    "handling": 48,
+    "forgiveness": 90,
+    "comfort": 75,
+    "value": 38
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "Round",
+     "source": "https://allforpadel.com/en/padel-rackets/7464-padel-racket-adidas-2026-world-cup-united-states-8435739406533.html",
+     "sourceType": "retailer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "360-375 Gr",
+     "source": "https://allforpadel.com/en/padel-rackets/7464-padel-racket-adidas-2026-world-cup-united-states-8435739406533.html",
+     "sourceType": "retailer"
+    },
+    "core": {
+     "display": "Soft, Eva Soft Performance",
+     "value": "soft",
+     "material": "Eva Soft Performance",
+     "verbatim": "Eva Soft Performance",
+     "source": "https://allforpadel.com/en/padel-rackets/7464-padel-racket-adidas-2026-world-cup-united-states-8435739406533.html",
+     "sourceType": "retailer"
+    },
+    "surface": {
+     "display": "Fiberglass",
+     "material": "Fiberglass",
+     "verbatim": "Fiberglass",
+     "source": "https://allforpadel.com/en/padel-rackets/7464-padel-racket-adidas-2026-world-cup-united-states-8435739406533.html",
+     "sourceType": "retailer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38 Mm",
+     "source": "https://allforpadel.com/en/padel-rackets/7464-padel-racket-adidas-2026-world-cup-united-states-8435739406533.html",
+     "sourceType": "retailer"
+    },
+    "price": {
+     "display": "€120",
+     "value": 120,
+     "currency": "EUR",
+     "checkedOn": "2026-11-09",
+     "verbatim": "120 EUR (product meta tag)",
+     "source": "https://allforpadel.com/en/padel-rackets/7464-padel-racket-adidas-2026-world-cup-united-states-8435739406533.html",
      "sourceType": "retailer"
     }
    }
