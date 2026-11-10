@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-09",
+ "built": "2026-11-10",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 377,
+ "count": 378,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -10669,6 +10669,103 @@
      "checkedOn": "2026-10-17",
      "verbatim": "399.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/6425-pala-bullpadel-neuron-02-edge-bruselas-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-neuron-02-edge-mx-25",
+   "name": "Bullpadel Neuron 02 Edge MX 25",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-neuron-02-edge-mx-25",
+   "productUrl": "https://www.bullpadel.com/es/5919-pala-bullpadel-neuron-02-edge-mx-25.html",
+   "level": "Profesional",
+   "player": "Fede Chingotto",
+   "ratings": {
+    "power": 70,
+    "control": 26,
+    "handling": 46,
+    "forgiveness": 10,
+    "comfort": 23,
+    "value": 9
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Geométrica / Diamante",
+     "source": "https://www.bullpadel.com/es/5919-pala-bullpadel-neuron-02-edge-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/5919-pala-bullpadel-neuron-02-edge-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26 cm (10.2 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26,
+     "verbatim": "Balance Aprox. 26 cm",
+     "source": "https://www.bullpadel.com/es/5919-pala-bullpadel-neuron-02-edge-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Hard, MultiEVA",
+     "value": "hard",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Duro",
+     "source": "https://www.bullpadel.com/es/5919-pala-bullpadel-neuron-02-edge-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 3K",
+     "material": "X-Tend Carbon 3K",
+     "verbatim": "Composición exterior X-Tend Carbon 3K",
+     "source": "https://www.bullpadel.com/es/5919-pala-bullpadel-neuron-02-edge-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono entrelazado bidireccional",
+     "material": "Carbono entrelazado bidireccional",
+     "verbatim": "marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/5919-pala-bullpadel-neuron-02-edge-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/5919-pala-bullpadel-neuron-02-edge-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/5919-pala-bullpadel-neuron-02-edge-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€349.99",
+     "value": 349.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-10",
+     "verbatim": "349.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/5919-pala-bullpadel-neuron-02-edge-mx-25.html",
      "sourceType": "manufacturer"
     }
    }

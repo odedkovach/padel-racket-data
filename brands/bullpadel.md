@@ -1,6 +1,6 @@
 # Bullpadel padel rackets: published specifications
 
-84 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+85 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Bullpadel Indiga Girl 27](https://padeltrue.com/rackets/bullpadel-indiga-girl-27) |  | Hybrid | 280 g (9.9 oz) | Medium | Evalastic | €69.99 | 37 | 57 | 66 | [product page](https://www.bullpadel.com/es/6857-pala-bullpadel-indiga-girl-27.html) |
 | [Bullpadel Neuron 02 Edge Argentina 26](https://padeltrue.com/rackets/bullpadel-neuron-02-edge-argentina-26) |  | Diamond | 365 to 375 g (12.9 to 13.2 oz) | 26 cm (10.2 in) | Hard, MULTIEVA | €399.99 | 70 | 26 | 23 | [product page](https://www.bullpadel.com/es/6633-pala-bullpadel-neuron-02-edge-argentina-26.html) |
 | [Bullpadel Neuron 02 Edge Bruselas 26](https://padeltrue.com/rackets/bullpadel-neuron-02-edge-bruselas-26) |  | Diamond | 365 to 375 g (12.9 to 13.2 oz) | 26 cm (10.2 in) | Hard, MULTIEVA | €399.99 | 70 | 26 | 23 | [product page](https://www.bullpadel.com/es/6425-pala-bullpadel-neuron-02-edge-bruselas-26.html) |
+| [Bullpadel Neuron 02 Edge MX 25](https://padeltrue.com/rackets/bullpadel-neuron-02-edge-mx-25) |  | Diamond | 365 to 375 g (12.9 to 13.2 oz) | 26 cm (10.2 in) | Hard, MultiEVA | €349.99 | 70 | 26 | 23 | [product page](https://www.bullpadel.com/es/5919-pala-bullpadel-neuron-02-edge-mx-25.html) |
 | [Bullpadel Neuron 02 Edge World Cup 26](https://padeltrue.com/rackets/bullpadel-neuron-02-edge-world-cup-26) |  |  | 365 to 375 g (12.9 to 13.2 oz) | 26 cm (10.2 in) | Hard, Multieva (Hardeva) | €449.99 | 52 | 50 | 23 | [product page](https://www.bullpadel.com/es/6934-neuron-02-edge-wc-26.html) |
 | [Bullpadel Pearl World Cup 26](https://padeltrue.com/rackets/bullpadel-pearl-world-cup-26) |  | Diamond | 355 to 365 g (12.5 to 12.9 oz) | 26.5 cm (10.4 in) | Medium, MultiEVA | €339.99 | 66 | 26 | 51 | [product page](https://www.bullpadel.com/es/6933-pearl-wc-26.html) |
 | [Bullpadel Vertex 03 CMF X-SERIES](https://padeltrue.com/rackets/bullpadel-vertex-03-cmf-x-series) |  | Diamond |  | High | Medium, Multieva | €94.95 | 82 | 10 | 42 | [product page](https://www.padelnuestro.com/pala-bullpadel-vertex-03-cmf-xseries-494314-smu) |
