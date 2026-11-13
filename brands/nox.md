@@ -1,6 +1,6 @@
 # Nox padel rackets: published specifications
 
-46 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+47 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Nox ML10 Pro Cup COORP by Miguel Lamperti 2027](https://padeltrue.com/rackets/nox-ml10-pro-cup-coorp-2027) | 2027 | Round | 360 to 375 g (12.7 to 13.2 oz) |  | Soft, HR3 EVA | €149.99 | 33 | 74 | 75 | [product page](https://noxsport.com/products/ml10-pro-cup-coorp-miguel-lamperti-2027) |
 | [Nox ML10 Pro Cup Rough by Miguel Lamperti 2027](https://padeltrue.com/rackets/nox-ml10-pro-cup-rough-2027) | 2027 | Round | 360 to 375 g (12.7 to 13.2 oz) |  | Soft, HR3 EVA | €149.99 | 33 | 74 | 75 | [product page](https://noxsport.com/products/ml10-pro-cup-rough-miguel-lamperti-2027) |
 | [Nox ML10 Pro Cup Silver by Miguel Lamperti 2027](https://padeltrue.com/rackets/nox-ml10-pro-cup-silver-2027) | 2027 | Round | 350 to 365 g (12.3 to 12.9 oz) |  | Soft, HR3 EVA | €149.99 | 30 | 74 | 78 | [product page](https://noxsport.com/products/ml10-pro-cup-silver-miguel-lamperti-2027) |
+| [Nox Pro Cup COORP by Miguel Lamperti 2027](https://padeltrue.com/rackets/nox-pro-cup-coorp-2027) | 2027 | Round | 360 to 375 g (12.7 to 13.2 oz) |  | Soft, HR3 EVA | €149.99 | 33 | 74 | 75 | [product page](https://noxsport.com/products/pro-cup-coorp-miguel-lamperti-2027) |
 | [Nox Pro Cup HARD by Agustín Tapia 2027](https://padeltrue.com/rackets/nox-pro-cup-hard-2027) | 2027 | Teardrop | 360 to 375 g (12.7 to 13.2 oz) |  | HR3 HARD EVA | €199.99 | 51 | 50 | 59 | [product page](https://noxsport.com/products/pro-cup-hard-agustin-tapia-2027) |
 | [Nox Pro Cup SOFT by Agustín Tapia 2027](https://padeltrue.com/rackets/nox-pro-cup-soft-2027) | 2027 | Teardrop | 360 to 375 g (12.7 to 13.2 oz) |  | Soft, HR3 SOFT EVA | €199.99 | 51 | 50 | 75 | [product page](https://noxsport.com/products/pro-cup-soft-agustin-tapia-2027) |
 | [Nox Ventus Attack 12K XTREM by Aimar Goñi 2027](https://padeltrue.com/rackets/nox-ventus-attack-12k-xtrem-2027) | 2027 | Diamond | 360 to 375 g (12.7 to 13.2 oz) | High | Medium-hard, MLD Black Eva | €349.99 | 83 | 10 | 23 | [product page](https://noxsport.com/products/ventus-attack-12k-xtrem-aimar-goni-2027) |

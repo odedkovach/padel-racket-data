@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-11",
+ "built": "2026-11-13",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 378,
+ "count": 380,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -10771,6 +10771,103 @@
    }
   },
   {
+   "slug": "bullpadel-neuron-02-edge-tf-25",
+   "name": "Bullpadel Neuron 02 Edge TF 25",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-neuron-02-edge-tf-25",
+   "productUrl": "https://www.bullpadel.com/es/6141-pala-bullpadel-neuron-02-edge-tf-25.html",
+   "level": "Profesional",
+   "player": "Fede Chingotto",
+   "ratings": {
+    "power": 70,
+    "control": 26,
+    "handling": 46,
+    "forgiveness": 10,
+    "comfort": 23,
+    "value": 7
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Geométrica / Diamante",
+     "source": "https://www.bullpadel.com/es/6141-pala-bullpadel-neuron-02-edge-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/6141-pala-bullpadel-neuron-02-edge-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26 cm (10.2 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26,
+     "verbatim": "Balance Aprox. 26 cm",
+     "source": "https://www.bullpadel.com/es/6141-pala-bullpadel-neuron-02-edge-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Hard, MultiEVA",
+     "value": "hard",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Duro",
+     "source": "https://www.bullpadel.com/es/6141-pala-bullpadel-neuron-02-edge-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 3K",
+     "material": "X-Tend Carbon 3K",
+     "verbatim": "Composición exterior X-Tend Carbon 3K",
+     "source": "https://www.bullpadel.com/es/6141-pala-bullpadel-neuron-02-edge-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono entrelazado bidireccional",
+     "material": "Carbono entrelazado bidireccional",
+     "verbatim": "marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/6141-pala-bullpadel-neuron-02-edge-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6141-pala-bullpadel-neuron-02-edge-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/6141-pala-bullpadel-neuron-02-edge-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€449.99",
+     "value": 449.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-13",
+     "verbatim": "449.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6141-pala-bullpadel-neuron-02-edge-tf-25.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-neuron-02-edge-world-cup-26",
    "name": "Bullpadel Neuron 02 Edge World Cup 26",
    "brand": "Bullpadel",
@@ -19638,6 +19735,95 @@
      "checkedOn": "2026-10-28",
      "verbatim": "199.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-nextgen-pro-hybrid-12k-nfa-series",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-pro-cup-coorp-2027",
+   "name": "Nox Pro Cup COORP by Miguel Lamperti 2027",
+   "brand": "Nox",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/nox-pro-cup-coorp-2027",
+   "productUrl": "https://noxsport.com/products/pro-cup-coorp-miguel-lamperti-2027",
+   "level": "Avanzado",
+   "player": "Miguel Lamperti",
+   "ratings": {
+    "power": 33,
+    "control": 74,
+    "handling": 48,
+    "forgiveness": 90,
+    "comfort": 75,
+    "value": 31
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "FORMA: Redonda",
+     "source": "https://noxsport.com/products/pro-cup-coorp-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "PESO: 360 - 375g",
+     "source": "https://noxsport.com/products/pro-cup-coorp-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, HR3 EVA",
+     "value": "soft",
+     "material": "HR3 EVA",
+     "verbatim": "TACTO : Suave",
+     "source": "https://noxsport.com/products/pro-cup-coorp-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibra de vidrio plateada",
+     "material": "Fibra de vidrio plateada",
+     "verbatim": "CARA: Fibra de vidrio plateada",
+     "source": "https://noxsport.com/products/pro-cup-coorp-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "MARCO: Carbono",
+     "source": "https://noxsport.com/products/pro-cup-coorp-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/pro-cup-coorp-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "No",
+     "value": false,
+     "verbatim": "SUPERFICIE: Lisa",
+     "source": "https://noxsport.com/products/pro-cup-coorp-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€149.99",
+     "value": 149.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-13",
+     "verbatim": "149.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pro-cup-coorp-miguel-lamperti-2027",
      "sourceType": "manufacturer"
     }
    }
