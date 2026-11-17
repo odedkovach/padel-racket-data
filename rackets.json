@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-13",
+ "built": "2026-11-17",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 380,
+ "count": 381,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -19912,6 +19912,95 @@
      "checkedOn": "2026-10-28",
      "verbatim": "199.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pro-cup-hard-agustin-tapia-2027",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-pro-cup-rough-2027",
+   "name": "Nox Pro Cup ROUGH by Miguel Lamperti 2027",
+   "brand": "Nox",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/nox-pro-cup-rough-2027",
+   "productUrl": "https://noxsport.com/products/pro-cup-rough-miguel-lamperti-2027",
+   "level": "Avanzado",
+   "player": "Miguel Lamperti",
+   "ratings": {
+    "power": 33,
+    "control": 74,
+    "handling": 48,
+    "forgiveness": 90,
+    "comfort": 75,
+    "value": 31
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "FORMA: Redonda",
+     "source": "https://noxsport.com/products/pro-cup-rough-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "PESO: 360 - 375g",
+     "source": "https://noxsport.com/products/pro-cup-rough-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, HR3 EVA",
+     "value": "soft",
+     "material": "HR3 EVA",
+     "verbatim": "TACTO : Suave",
+     "source": "https://noxsport.com/products/pro-cup-rough-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibra de vidrio plateada",
+     "material": "Fibra de vidrio plateada",
+     "verbatim": "CARA: Fibra de vidrio plateada",
+     "source": "https://noxsport.com/products/pro-cup-rough-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "MARCO: Carbono",
+     "source": "https://noxsport.com/products/pro-cup-rough-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/pro-cup-rough-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "SUPERFICIE: Rugosa",
+     "source": "https://noxsport.com/products/pro-cup-rough-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€149.99",
+     "value": 149.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-17",
+     "verbatim": "149.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pro-cup-rough-miguel-lamperti-2027",
      "sourceType": "manufacturer"
     }
    }
