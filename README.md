@@ -65,7 +65,7 @@ Export date: 2026-11-18. An automated job publishes data changes. This date does
     "handling": 48,
     "forgiveness": 90,
     "comfort": 75,
-    "value": 38
+    "value": 41
   }
 }
 ```
