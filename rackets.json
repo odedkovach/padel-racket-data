@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-17",
+ "built": "2026-11-18",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 381,
+ "count": 383,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -12498,6 +12498,101 @@
    }
   },
   {
+   "slug": "bullpadel-vertex-05-mx-2025",
+   "name": "Bullpadel Vertex 05 MX 2025",
+   "brand": "Bullpadel",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-05-mx-2025",
+   "productUrl": "https://www.bullpadel.com/es/5916-pala-bullpadel-vertex-05-mx-25.html",
+   "level": "Profesional",
+   "player": "Juan Tello",
+   "ratings": {
+    "power": 84,
+    "control": 10,
+    "handling": 26,
+    "forgiveness": 24,
+    "comfort": 31,
+    "value": 9
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/5916-pala-bullpadel-vertex-05-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/5916-pala-bullpadel-vertex-05-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High, 25.4 cm (10.0 in)",
+     "value": "high",
+     "mm": null,
+     "cm": 25.4,
+     "verbatim": "Balance Alto Balance Aprox. 25,4 cm",
+     "source": "https://www.bullpadel.com/es/5916-pala-bullpadel-vertex-05-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/5916-pala-bullpadel-vertex-05-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 12K",
+     "material": "X-Tend Carbon 12K",
+     "verbatim": "Composición exterior X-Tend Carbon 12K",
+     "source": "https://www.bullpadel.com/es/5916-pala-bullpadel-vertex-05-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% de Carbono entrelazado bidireccional",
+     "material": "100% de Carbono entrelazado bidireccional",
+     "verbatim": "marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/5916-pala-bullpadel-vertex-05-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/5916-pala-bullpadel-vertex-05-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso Top Spin",
+     "source": "https://www.bullpadel.com/es/5916-pala-bullpadel-vertex-05-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€369.99",
+     "value": 369.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-18",
+     "verbatim": "369.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/5916-pala-bullpadel-vertex-05-mx-25.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-vertex-05-w-2026",
    "name": "Bullpadel Vertex 05 W 2026",
    "brand": "Bullpadel",
@@ -20001,6 +20096,95 @@
      "checkedOn": "2026-11-17",
      "verbatim": "149.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pro-cup-rough-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-pro-cup-silver-2027",
+   "name": "Nox Pro Cup SILVER by Miguel Lamperti 2027",
+   "brand": "Nox",
+   "year": 2027,
+   "url": "https://padeltrue.com/rackets/nox-pro-cup-silver-2027",
+   "productUrl": "https://noxsport.com/products/pro-cup-silver-miguel-lamperti-2027",
+   "level": "Avanzado",
+   "player": "Miguel Lamperti",
+   "ratings": {
+    "power": 30,
+    "control": 74,
+    "handling": 56,
+    "forgiveness": 90,
+    "comfort": 78,
+    "value": 31
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "control",
+    "forgiving",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Round",
+     "value": "round",
+     "verbatim": "FORMA: Redonda",
+     "source": "https://noxsport.com/products/pro-cup-silver-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 365 g (12.3 to 12.9 oz)",
+     "min": 350,
+     "max": 365,
+     "verbatim": "PESO: 350 - 365g",
+     "source": "https://noxsport.com/products/pro-cup-silver-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Soft, HR3 EVA",
+     "value": "soft",
+     "material": "HR3 EVA",
+     "verbatim": "TACTO : Suave",
+     "source": "https://noxsport.com/products/pro-cup-silver-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibra de vidrio plateada",
+     "material": "Fibra de vidrio plateada",
+     "verbatim": "CARA: Fibra de vidrio plateada",
+     "source": "https://noxsport.com/products/pro-cup-silver-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "MARCO: Carbono",
+     "source": "https://noxsport.com/products/pro-cup-silver-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/pro-cup-silver-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "No",
+     "value": false,
+     "verbatim": "SUPERFICIE: Lisa",
+     "source": "https://noxsport.com/products/pro-cup-silver-miguel-lamperti-2027",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€149.99",
+     "value": 149.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-18",
+     "verbatim": "149.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pro-cup-silver-miguel-lamperti-2027",
      "sourceType": "manufacturer"
     }
    }
