@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-18",
+ "built": "2026-11-19",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 383,
+ "count": 385,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -12588,6 +12588,101 @@
      "checkedOn": "2026-11-18",
      "verbatim": "369.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/5916-pala-bullpadel-vertex-05-mx-25.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-vertex-05-tf-2025",
+   "name": "Bullpadel Vertex 05 TF 2025",
+   "brand": "Bullpadel",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-05-tf-2025",
+   "productUrl": "https://www.bullpadel.com/es/6140-pala-bullpadel-vertex-05-tf-25.html",
+   "level": "Profesional",
+   "player": "Juan Tello",
+   "ratings": {
+    "power": 84,
+    "control": 10,
+    "handling": 26,
+    "forgiveness": 24,
+    "comfort": 31,
+    "value": 7
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/6140-pala-bullpadel-vertex-05-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/6140-pala-bullpadel-vertex-05-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High, 25.4 cm (10.0 in)",
+     "value": "high",
+     "mm": null,
+     "cm": 25.4,
+     "verbatim": "Balance Alto Balance Aprox. 25,4 cm",
+     "source": "https://www.bullpadel.com/es/6140-pala-bullpadel-vertex-05-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/6140-pala-bullpadel-vertex-05-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 12K",
+     "material": "X-Tend Carbon 12K",
+     "verbatim": "Composición exterior X-Tend Carbon 12K",
+     "source": "https://www.bullpadel.com/es/6140-pala-bullpadel-vertex-05-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% Carbono entrelazado bidireccional",
+     "material": "100% Carbono entrelazado bidireccional",
+     "verbatim": "marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/6140-pala-bullpadel-vertex-05-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6140-pala-bullpadel-vertex-05-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso Top Spin",
+     "source": "https://www.bullpadel.com/es/6140-pala-bullpadel-vertex-05-tf-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€449.99",
+     "value": 449.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-19",
+     "verbatim": "449.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6140-pala-bullpadel-vertex-05-tf-25.html",
      "sourceType": "manufacturer"
     }
    }
@@ -29439,6 +29534,96 @@
      "checkedOn": "2026-10-28",
      "verbatim": "265.5 EUR (schema.org offer)",
      "source": "https://starvie.com/en/products/triton-power",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-triton-power-plus-2026",
+   "name": "StarVie Tritón Power + 2026",
+   "brand": "StarVie",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/starvie-triton-power-plus-2026",
+   "productUrl": "https://www.starvie.com/products/triton-power-2026",
+   "level": "Alto Nivel",
+   "player": null,
+   "ratings": {
+    "power": 80,
+    "control": 10,
+    "handling": 36,
+    "forgiveness": 32,
+    "comfort": 44,
+    "value": 23
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Pala en forma diamante",
+     "source": "https://www.starvie.com/products/triton-power-2026",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 366 g (12.3 to 12.9 oz)",
+     "min": 350,
+     "max": 366,
+     "verbatim": "358 (+/- 8 g)",
+     "source": "https://www.starvie.com/products/triton-power-2026",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High",
+     "value": "high",
+     "mm": null,
+     "cm": null,
+     "verbatim": "con balance alto",
+     "source": "https://www.starvie.com/products/triton-power-2026",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "H-EVA Power",
+     "value": null,
+     "material": "H-EVA Power",
+     "verbatim": "goma H-Eva Power de alta densidad",
+     "source": "https://www.starvie.com/products/triton-power-2026",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "18K Carbon Hybrid",
+     "material": "18K Carbon Hybrid",
+     "verbatim": "Su superficie en  carbono 18K Hybrid",
+     "source": "https://www.starvie.com/products/triton-power-2026",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "38mm",
+     "source": "https://www.starvie.com/products/triton-power-2026",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Superficie rugosa que facilita el efecto",
+     "source": "https://www.starvie.com/products/triton-power-2026",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€148",
+     "value": 148,
+     "currency": "EUR",
+     "checkedOn": "2026-11-19",
+     "verbatim": "148 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/triton-power-2026",
      "sourceType": "manufacturer"
     }
    }

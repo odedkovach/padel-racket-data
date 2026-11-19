@@ -1,6 +1,6 @@
 # Bullpadel padel rackets: published specifications
 
-87 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+88 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Bullpadel Neuron 25](https://padeltrue.com/rackets/bullpadel-neuron-25) | 2025 | Hybrid | 365 to 375 g (12.9 to 13.2 oz) | Medium | Medium, MultiEva | €139.95 | 46 | 57 | 39 | [product page](https://www.padelnuestro.com/bullpadel-neuron-25-113768-p) |
 | [Bullpadel Vertex 04 2025](https://padeltrue.com/rackets/bullpadel-vertex-04-2025) | 2025 | Diamond | 365 to 375 g (12.9 to 13.2 oz) | High | Hard, MultiEva | €144.95 | 84 | 10 | 15 | [product page](https://www.padelnuestro.com/bullpadel-vertex-04-25-113772-p) |
 | [Bullpadel Vertex 05 MX 2025](https://padeltrue.com/rackets/bullpadel-vertex-05-mx-2025) | 2025 | Diamond | 365 to 375 g (12.9 to 13.2 oz) | High, 25.4 cm (10.0 in) | Medium, MultiEVA | €369.99 | 84 | 10 | 31 | [product page](https://www.bullpadel.com/es/5916-pala-bullpadel-vertex-05-mx-25.html) |
+| [Bullpadel Vertex 05 TF 2025](https://padeltrue.com/rackets/bullpadel-vertex-05-tf-2025) | 2025 | Diamond | 365 to 375 g (12.9 to 13.2 oz) | High, 25.4 cm (10.0 in) | Medium, MultiEVA | €449.99 | 84 | 10 | 31 | [product page](https://www.bullpadel.com/es/6140-pala-bullpadel-vertex-05-tf-25.html) |
 | [Bullpadel XPLO Comfort 25](https://padeltrue.com/rackets/bullpadel-xplo-comfort-25) | 2025 | Diamond | 365 to 375 g (12.9 to 13.2 oz) | High | Medium, Multieva | €99.95 | 84 | 10 | 41 | [product page](https://www.padelnuestro.com/bullpadel-xplo-komfort-25-113778-p) |
 | [Bullpadel Vertex 04 2024](https://padeltrue.com/rackets/bullpadel-vertex-04-2024) | 2024 | Diamond | 365 to 375 g (12.9 to 13.2 oz) | High | Hard, Multieva | €134.95 | 84 | 10 | 15 | [product page](https://www.padelnuestro.com/bullpadel-vertex-04-110865-p) |
 | [Bullpadel Vertex 04 Comfort 2024](https://padeltrue.com/rackets/bullpadel-vertex-04-comfort-2024) | 2024 | Diamond | 360 to 370 g (12.7 to 13.1 oz) | High | Medium, MultiEva | €109.95 | 82 | 10 | 42 | [product page](https://www.padelnuestro.com/bullpadel-vertex-04-comfort-110866-p) |
