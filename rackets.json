@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-19",
+ "built": "2026-11-20",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 385,
+ "count": 386,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -13150,6 +13150,97 @@
      "verbatim": "99.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-vertex-advance",
      "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-vertex-jr-2025",
+   "name": "Bullpadel Vertex JR 2025",
+   "brand": "Bullpadel",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-jr-2025",
+   "productUrl": "https://www.bullpadel.com/es/4920-pala-bullpadel-vertex-jr-25.html",
+   "level": "Junior avanzado",
+   "player": "Juan Tello",
+   "ratings": {
+    "power": 60,
+    "control": 26,
+    "handling": 70,
+    "forgiveness": 40,
+    "comfort": 66,
+    "value": 58
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "core"
+   ],
+   "profile": [
+    "all-round",
+    "easy to move",
+    "arm-friendly"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/4920-pala-bullpadel-vertex-jr-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "335 to 345 g (11.8 to 12.2 oz)",
+     "min": 335,
+     "max": 345,
+     "verbatim": "Peso 335 - 345 g",
+     "source": "https://www.bullpadel.com/es/4920-pala-bullpadel-vertex-jr-25.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Balance Medio",
+     "source": "https://www.bullpadel.com/es/4920-pala-bullpadel-vertex-jr-25.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Evalastic",
+     "value": null,
+     "material": "Evalastic",
+     "verbatim": "Composición interior Evalastic",
+     "source": "https://www.bullpadel.com/es/4920-pala-bullpadel-vertex-jr-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Polyglass",
+     "material": "Polyglass",
+     "verbatim": "Composición exterior Polyglass",
+     "source": "https://www.bullpadel.com/es/4920-pala-bullpadel-vertex-jr-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "fibra de carbono 100%",
+     "material": "fibra de carbono 100%",
+     "verbatim": "Su marco CarbonTube es de fibra de carbono 100%",
+     "source": "https://www.bullpadel.com/es/4920-pala-bullpadel-vertex-jr-25.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "35 mm (1.4 in)",
+     "value": 35,
+     "verbatim": "Perfil 35 mm",
+     "source": "https://www.bullpadel.com/es/4920-pala-bullpadel-vertex-jr-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€64.99",
+     "value": 64.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-20",
+     "verbatim": "64.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/4920-pala-bullpadel-vertex-jr-25.html",
+     "sourceType": "manufacturer"
     }
    }
   },
