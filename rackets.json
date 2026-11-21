@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-20",
+ "built": "2026-11-21",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 386,
+ "count": 388,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -13517,6 +13517,103 @@
    }
   },
   {
+   "slug": "bullpadel-wonder-mx-25",
+   "name": "Bullpadel Wonder MX 25",
+   "brand": "Bullpadel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/bullpadel-wonder-mx-25",
+   "productUrl": "https://www.bullpadel.com/es/5923-pala-bullpadel-wonder-mx-25.html",
+   "level": "Profesional, Avanzado",
+   "player": "Claudia Fernández",
+   "ratings": {
+    "power": 41,
+    "control": 57,
+    "handling": 58,
+    "forgiveness": 55,
+    "comfort": 52,
+    "value": 11
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Forma Híbrida",
+     "source": "https://www.bullpadel.com/es/5923-pala-bullpadel-wonder-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
+     "min": 350,
+     "max": 360,
+     "verbatim": "Peso 350 - 360 g",
+     "source": "https://www.bullpadel.com/es/5923-pala-bullpadel-wonder-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "25.5 cm (10.0 in)",
+     "value": null,
+     "mm": null,
+     "cm": 25.5,
+     "verbatim": "Balance Aprox. 25,5 cm",
+     "source": "https://www.bullpadel.com/es/5923-pala-bullpadel-wonder-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/5923-pala-bullpadel-wonder-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "Composición exterior Fibrix",
+     "source": "https://www.bullpadel.com/es/5923-pala-bullpadel-wonder-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% de Carbono entrelazado bidireccional",
+     "material": "100% de Carbono entrelazado bidireccional",
+     "verbatim": "marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/5923-pala-bullpadel-wonder-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/5923-pala-bullpadel-wonder-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso 3D Grain",
+     "source": "https://www.bullpadel.com/es/5923-pala-bullpadel-wonder-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€299.99",
+     "value": 299.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-21",
+     "verbatim": "299.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/5923-pala-bullpadel-wonder-mx-25.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-xplo-02-fip-world-cup-argentina-26",
    "name": "Bullpadel XPLO 02 FIP World Cup Argentina 26",
    "brand": "Bullpadel",
@@ -14113,6 +14210,96 @@
      "verbatim": "99.95 EUR (schema.org offer)",
      "source": "https://www.padelnuestro.com/bullpadel-xplo-komfort-25-113778-p",
      "sourceType": "retailer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-xplo-mx-25",
+   "name": "Bullpadel XPLO MX 25",
+   "brand": "Bullpadel",
+   "year": 2026,
+   "url": "https://padeltrue.com/rackets/bullpadel-xplo-mx-25",
+   "productUrl": "https://www.bullpadel.com/es/5917-pala-bullpadel-xplo-mx-25.html",
+   "level": "Profesional",
+   "player": "Martín Di Nenno",
+   "ratings": {
+    "power": 52,
+    "control": 50,
+    "handling": 46,
+    "forgiveness": 35,
+    "comfort": 31,
+    "value": 8
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "shape",
+    "balance"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/5917-pala-bullpadel-xplo-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26.5 cm (10.4 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26.5,
+     "verbatim": "Balance Aprox. 26,5 cm",
+     "source": "https://www.bullpadel.com/es/5917-pala-bullpadel-xplo-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, MultiEVA",
+     "value": "medium-hard",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio / Duro",
+     "source": "https://www.bullpadel.com/es/5917-pala-bullpadel-xplo-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 12K",
+     "material": "X-Tend Carbon 12K",
+     "verbatim": "Composición exterior X-Tend Carbon 12K",
+     "source": "https://www.bullpadel.com/es/5917-pala-bullpadel-xplo-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "100% de Carbono entrelazado bidireccional",
+     "material": "100% de Carbono entrelazado bidireccional",
+     "verbatim": "marco de la pala 100% de Carbono entrelazado bidireccional",
+     "source": "https://www.bullpadel.com/es/5917-pala-bullpadel-xplo-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/5917-pala-bullpadel-xplo-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso",
+     "source": "https://www.bullpadel.com/es/5917-pala-bullpadel-xplo-mx-25.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€349.99",
+     "value": 349.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-21",
+     "verbatim": "349.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/5917-pala-bullpadel-xplo-mx-25.html",
+     "sourceType": "manufacturer"
     }
    }
   },

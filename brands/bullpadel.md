@@ -1,6 +1,6 @@
 # Bullpadel padel rackets: published specifications
 
-89 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+91 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -47,8 +47,10 @@
 | [Bullpadel Vertex 05 W 2026](https://padeltrue.com/rackets/bullpadel-vertex-05-w-2026) | 2026 | Diamond | 350 to 360 g (12.3 to 12.7 oz) | Medium, 25.4 cm (10.0 in) | Medium, Multieva | €209.99 | 65 | 26 | 52 | [product page](https://www.bullpadel.com/gb/5681-racket-bullpadel-vertex-05-w.html) |
 | [Bullpadel Vertex JR Boy 2026](https://padeltrue.com/rackets/bullpadel-vertex-jr-boy-2026) | 2026 | Diamond | 335 to 345 g (11.8 to 12.2 oz) | Medium | Evalastic | €89.99 | 60 | 26 | 66 | [product page](https://www.bullpadel.com/es/5700-pala-bullpadel-vertex-jr-boy-26.html) |
 | [Bullpadel Vertex JR Girl 2026](https://padeltrue.com/rackets/bullpadel-vertex-jr-girl-2026) | 2026 | Diamond | 335 to 345 g (11.8 to 12.2 oz) | Medium | Evalastic | €89.99 | 60 | 26 | 66 | [product page](https://www.bullpadel.com/es/5701-pala-bullpadel-vertex-jr-girl-26.html) |
+| [Bullpadel Wonder MX 25](https://padeltrue.com/rackets/bullpadel-wonder-mx-25) | 2026 | Hybrid | 350 to 360 g (12.3 to 12.7 oz) | 25.5 cm (10.0 in) | Medium, MultiEVA | €299.99 | 41 | 57 | 52 | [product page](https://www.bullpadel.com/es/5923-pala-bullpadel-wonder-mx-25.html) |
 | [Bullpadel Xplo 2026](https://padeltrue.com/rackets/bullpadel-xplo-2026) | 2026 |  | 365 to 375 g (12.9 to 13.2 oz) | 26.5 cm (10.4 in) | Medium-hard, MultiEVA | €239.99 | 52 | 50 | 31 | [product page](https://www.bullpadel.com/es/5682-pala-bullpadel-xplo-26.html) |
 | [Bullpadel XPLO COMFORT 2026](https://padeltrue.com/rackets/bullpadel-xplo-comfort-2026) | 2026 |  | 365 to 375 g (12.9 to 13.2 oz) | High, 26.5 cm (10.4 in) | Medium, MultiEVA | €179.99 | 66 | 34 | 41 | [product page](https://www.bullpadel.com/es/5683-pala-bullpadel-xplo-cmf-26.html) |
+| [Bullpadel XPLO MX 25](https://padeltrue.com/rackets/bullpadel-xplo-mx-25) | 2026 |  | 365 to 375 g (12.9 to 13.2 oz) | 26.5 cm (10.4 in) | Medium-hard, MultiEVA | €349.99 | 52 | 50 | 31 | [product page](https://www.bullpadel.com/es/5917-pala-bullpadel-xplo-mx-25.html) |
 | [Bullpadel BP10 Evo 2025](https://padeltrue.com/rackets/bullpadel-bp10-evo-2025) | 2025 | Round | 360 to 370 g (12.7 to 13.1 oz) | Low | SoftEVA | €89.99 | 18 | 90 | 68 | [product page](https://www.bullpadel.com/es/4950-pala-bullpadel-bp10-evo-25.html) |
 | [Bullpadel Game PWR Gris 2025](https://padeltrue.com/rackets/bullpadel-game-pwr-gris-2025) | 2025 | Diamond | 360 to 370 g (12.7 to 13.1 oz) |  | Soft Eva | €49.95 | 68 | 26 | 60 | [product page](https://www.padelnuestro.com/pala-bullpadel-game-pwr-006-494318-smu) |
 | [Bullpadel Hack 04 2025](https://padeltrue.com/rackets/bullpadel-hack-04-2025) | 2025 | Diamond | 365 to 375 g (12.9 to 13.2 oz) | High | Medium, Multieva | €149.95 | 84 | 10 | 31 | [product page](https://www.padelnuestro.com/bullpadel-hack-04-25-113754-p) |
