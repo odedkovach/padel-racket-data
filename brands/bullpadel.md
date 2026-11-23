@@ -1,6 +1,6 @@
 # Bullpadel padel rackets: published specifications
 
-91 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+93 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -74,10 +74,12 @@
 | [Bullpadel Indiga W Mujer 2023](https://padeltrue.com/rackets/bullpadel-indiga-w-mujer-2023) | 2023 | Round |  | Low | Soft, EVA soft | €49.95 | 18 | 90 | 84 | [product page](https://www.padelnuestro.com/bullpadel-indiga-w-mujer-2023-32439-p) |
 | [Bullpadel Discover PWR](https://padeltrue.com/rackets/bullpadel-discover-pwr) |  | Diamond | 360 to 370 g (12.7 to 13.1 oz) | High | Medium-soft, Soft EVA | €54.95 | 82 | 10 | 60 | [product page](https://www.padelnuestro.com/pala-bullpadel-discover-pwr-476580) |
 | [Bullpadel Elite 02 FIP World Cup España 26](https://padeltrue.com/rackets/bullpadel-elite-02-fip-world-cup-espana-26) |  | Hybrid | 350 to 360 g (12.3 to 12.7 oz) | 25.5 cm (10.0 in) | Medium, MultiEVA | €339.99 | 41 | 57 | 52 | [product page](https://www.bullpadel.com/es/6935-elite-02-fip-wc-esp-26.html) |
+| [Bullpadel Elite 02 MX LTD 26](https://padeltrue.com/rackets/bullpadel-elite-02-mx-ltd-26) |  | Hybrid | 350 to 360 g (12.3 to 12.7 oz) | 25.5 cm (10.0 in) | Medium, MultiEVA | €339.99 | 41 | 57 | 52 | [product page](https://www.bullpadel.com/es/6952-elite-02-mx-ltd-26.html) |
 | [Bullpadel Game CTR Negro](https://padeltrue.com/rackets/bullpadel-game-ctr-negro) |  | Round |  | Low | Soft Eva | €49.95 | 18 | 90 | 68 | [product page](https://www.padelnuestro.com/pala-bullpadel-game-ctr-005-494315-smu) |
 | [Bullpadel Game Woman](https://padeltrue.com/rackets/bullpadel-game-woman) |  | Round |  | Low | Soft, Soft Eva | €49.95 | 18 | 90 | 84 | [product page](https://www.padelnuestro.com/pala-bullpadel-game-w-012-494319-smu-mujer) |
 | [Bullpadel Hack 05 FIP World Cup España 26](https://padeltrue.com/rackets/bullpadel-hack-05-fip-world-cup-espana-26) |  | Diamond | 365 to 375 g (12.9 to 13.2 oz) | High, 26.5 cm (10.4 in) | Medium-hard, MultiEVA | €399.99 | 84 | 10 | 23 | [product page](https://www.bullpadel.com/es/6938-hack-05-fip-wc-esp-26.html) |
 | [Bullpadel Hack 05 Milano](https://padeltrue.com/rackets/bullpadel-hack-05-milano) |  | Diamond | 365 to 375 g (12.9 to 13.2 oz) | 26.5 cm (10.4 in) | Medium-hard, MultiEVA | €399.99 | 70 | 26 | 31 | [product page](https://www.bullpadel.com/es/6931-hack-05-milano.html) |
+| [Bullpadel Hack 05 MX LTD 26](https://padeltrue.com/rackets/bullpadel-hack-05-mx-ltd-26) |  | Diamond | 365 to 375 g (12.9 to 13.2 oz) | High, 26.5 cm (10.4 in) | Medium-hard, MultiEVA | €399.99 | 84 | 10 | 23 | [product page](https://www.bullpadel.com/es/6958-hack-05-mx-ltd-26.html) |
 | [Bullpadel Indiga Boy 27](https://padeltrue.com/rackets/bullpadel-indiga-boy-27) |  | Hybrid | 280 g (9.9 oz) | Medium | Evalastic | €69.99 | 37 | 57 | 66 | [product page](https://www.bullpadel.com/es/6856-pala-bullpadel-indiga-boy-27.html) |
 | [Bullpadel Indiga Girl 27](https://padeltrue.com/rackets/bullpadel-indiga-girl-27) |  | Hybrid | 280 g (9.9 oz) | Medium | Evalastic | €69.99 | 37 | 57 | 66 | [product page](https://www.bullpadel.com/es/6857-pala-bullpadel-indiga-girl-27.html) |
 | [Bullpadel Neuron 02 Edge Argentina 26](https://padeltrue.com/rackets/bullpadel-neuron-02-edge-argentina-26) |  | Diamond | 365 to 375 g (12.9 to 13.2 oz) | 26 cm (10.2 in) | Hard, MULTIEVA | €399.99 | 70 | 26 | 23 | [product page](https://www.bullpadel.com/es/6633-pala-bullpadel-neuron-02-edge-argentina-26.html) |
