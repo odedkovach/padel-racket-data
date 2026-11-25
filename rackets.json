@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-24",
+ "built": "2026-11-25",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 391,
+ "count": 393,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -11494,6 +11494,97 @@
    }
   },
   {
+   "slug": "bullpadel-pearl-mx-ltd-26",
+   "name": "Bullpadel Pearl MX LTD 26",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-pearl-mx-ltd-26",
+   "productUrl": "https://www.bullpadel.com/es/6953-pearl-mx-ltd-26.html",
+   "level": "Profesional",
+   "player": "Bea González",
+   "ratings": {
+    "power": 66,
+    "control": 26,
+    "handling": 54,
+    "forgiveness": 32,
+    "comfort": 51,
+    "value": 10
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/6953-pearl-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "355 to 365 g (12.5 to 12.9 oz)",
+     "min": 355,
+     "max": 365,
+     "verbatim": "Peso 355 - 365 g",
+     "source": "https://www.bullpadel.com/es/6953-pearl-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "26.5 cm (10.4 in)",
+     "value": null,
+     "mm": null,
+     "cm": 26.5,
+     "verbatim": "Balance Aprox. 26,5 cm",
+     "source": "https://www.bullpadel.com/es/6953-pearl-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/6953-pearl-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "Composición exterior Fibrix",
+     "source": "https://www.bullpadel.com/es/6953-pearl-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6953-pearl-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "La tecnología 3D Grain incorpora un patrón de rugosidad",
+     "source": "https://www.bullpadel.com/es/6953-pearl-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€339.99",
+     "value": 339.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-25",
+     "verbatim": "339.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6953-pearl-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-pearl-world-cup-26",
    "name": "Bullpadel Pearl World Cup 26",
    "brand": "Bullpadel",
@@ -12857,6 +12948,96 @@
      "checkedOn": "2026-11-18",
      "verbatim": "369.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/5916-pala-bullpadel-vertex-05-mx-25.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-vertex-05-mx-ltd-26",
+   "name": "Bullpadel Vertex 05 MX LTD 26",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-05-mx-ltd-26",
+   "productUrl": "https://www.bullpadel.com/es/6957-vertex-05-mx-ltd-26.html",
+   "level": "Profesional",
+   "player": "Juan Tello",
+   "ratings": {
+    "power": 70,
+    "control": 26,
+    "handling": 46,
+    "forgiveness": 24,
+    "comfort": 39,
+    "value": 8
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/6957-vertex-05-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/6957-vertex-05-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "25.5 cm (10.0 in)",
+     "value": null,
+     "mm": null,
+     "cm": 25.5,
+     "verbatim": "Balance Aprox. 25,5 cm",
+     "source": "https://www.bullpadel.com/es/6957-vertex-05-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/6957-vertex-05-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 12K",
+     "material": "X-Tend Carbon 12K",
+     "verbatim": "Composición exterior X-Tend Carbon 12K",
+     "source": "https://www.bullpadel.com/es/6957-vertex-05-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6957-vertex-05-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Esta superficie rugosa",
+     "source": "https://www.bullpadel.com/es/6957-vertex-05-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€399.99",
+     "value": 399.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-25",
+     "verbatim": "399.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6957-vertex-05-mx-ltd-26.html",
      "sourceType": "manufacturer"
     }
    }
