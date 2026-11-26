@@ -1,6 +1,6 @@
 # Bullpadel padel rackets: published specifications
 
-96 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+98 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -97,7 +97,9 @@
 | [Bullpadel Vertex 05 W 27](https://padeltrue.com/rackets/bullpadel-vertex-05-w-27) |  | Diamond | 350 to 360 g (12.3 to 12.7 oz) | Medium, 25.5 cm (10.0 in) | Medium, MultiEVA | €294.99 | 65 | 26 | 52 | [product page](https://www.bullpadel.com/es/6835-pala-bullpadel-vertex-05-w-27.html) |
 | [Bullpadel Vertex 05 W Argentina 26](https://padeltrue.com/rackets/bullpadel-vertex-05-w-argentina-26) |  | Diamond | 350 to 360 g (12.3 to 12.7 oz) | 25.4 cm (10.0 in) | Medium, MULTIEVA | €319.99 | 65 | 26 | 52 | [product page](https://www.bullpadel.com/es/6637-pala-bullpadel-vertex-05-w-argentina-26.html) |
 | [Bullpadel Vertex 05 W FIP World Cup Argentina 26](https://padeltrue.com/rackets/bullpadel-vertex-05-w-fip-world-cup-argentina-26) |  | Diamond | 350 to 360 g (12.3 to 12.7 oz) | 25.5 cm (10.0 in) | Medium, MultiEVA | €339.99 | 65 | 26 | 52 | [product page](https://www.bullpadel.com/es/6936-vertex-05-w-fip-wc-arg-26.html) |
+| [Bullpadel Vertex 05 W MX LTD 26](https://padeltrue.com/rackets/bullpadel-vertex-05-w-mx-ltd-26) |  | Diamond | 350 to 360 g (12.3 to 12.7 oz) | 25.5 cm (10.0 in) | Medium, MultiEVA | €339.99 | 65 | 26 | 52 | [product page](https://www.bullpadel.com/es/6954-vertex-05-w-mx-ltd-26.html) |
 | [Bullpadel Vertex Advance](https://padeltrue.com/rackets/bullpadel-vertex-advance) |  | Diamond | 365 to 375 g (12.9 to 13.2 oz) | High | Medium | €89.95 | 84 | 10 | 41 | [product page](https://www.padelnuestro.com/bullpadel-vertex-advance) |
+| [Bullpadel Wonder MX LTD 26](https://padeltrue.com/rackets/bullpadel-wonder-mx-ltd-26) |  | Hybrid | 350 to 360 g (12.3 to 12.7 oz) | 25 cm (9.8 in) | Medium, MultiEVA | €339.99 | 41 | 57 | 52 | [product page](https://www.bullpadel.com/es/6951-wonder-mx-ltd-26.html) |
 | [Bullpadel XPLO 02 FIP World Cup Argentina 26](https://padeltrue.com/rackets/bullpadel-xplo-02-fip-world-cup-argentina-26) |  |  | 365 to 375 g (12.9 to 13.2 oz) | 27 cm (10.6 in) | Medium-hard, MultiEVA | €379.99 | 52 | 50 | 31 | [product page](https://www.bullpadel.com/es/6937-xplo-02-fip-wc-arg-26.html) |
 | [Bullpadel XPLO Argentina 26](https://padeltrue.com/rackets/bullpadel-xplo-argentina-26) |  | Diamond | 350 to 360 g (12.3 to 12.7 oz) | High, 25.4 cm (10.0 in) | Medium, MULTIEVA | €359.99 | 79 | 10 | 44 | [product page](https://www.bullpadel.com/es/6636-pala-bullpadel-xplo-argentina-26.html) |
 

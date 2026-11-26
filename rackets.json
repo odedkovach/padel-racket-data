@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-25",
+ "built": "2026-11-26",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 393,
+ "count": 395,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -13507,6 +13507,97 @@
    }
   },
   {
+   "slug": "bullpadel-vertex-05-w-mx-ltd-26",
+   "name": "Bullpadel Vertex 05 W MX LTD 26",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-05-w-mx-ltd-26",
+   "productUrl": "https://www.bullpadel.com/es/6954-vertex-05-w-mx-ltd-26.html",
+   "level": "Profesional",
+   "player": "Delfi Brea",
+   "ratings": {
+    "power": 65,
+    "control": 26,
+    "handling": 58,
+    "forgiveness": 32,
+    "comfort": 52,
+    "value": 10
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/6954-vertex-05-w-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
+     "min": 350,
+     "max": 360,
+     "verbatim": "Peso 350 - 360 g",
+     "source": "https://www.bullpadel.com/es/6954-vertex-05-w-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "25.5 cm (10.0 in)",
+     "value": null,
+     "mm": null,
+     "cm": 25.5,
+     "verbatim": "Balance Aprox. 25,5 cm",
+     "source": "https://www.bullpadel.com/es/6954-vertex-05-w-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/6954-vertex-05-w-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "Composición exterior Fibrix",
+     "source": "https://www.bullpadel.com/es/6954-vertex-05-w-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6954-vertex-05-w-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Esta superficie rugosa",
+     "source": "https://www.bullpadel.com/es/6954-vertex-05-w-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€339.99",
+     "value": 339.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-26",
+     "verbatim": "339.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6954-vertex-05-w-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-vertex-advance",
    "name": "Bullpadel Vertex Advance",
    "brand": "Bullpadel",
@@ -14059,6 +14150,96 @@
      "checkedOn": "2026-11-21",
      "verbatim": "299.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/5923-pala-bullpadel-wonder-mx-25.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-wonder-mx-ltd-26",
+   "name": "Bullpadel Wonder MX LTD 26",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-wonder-mx-ltd-26",
+   "productUrl": "https://www.bullpadel.com/es/6951-wonder-mx-ltd-26.html",
+   "level": "Profesional",
+   "player": "Claudia Fernández",
+   "ratings": {
+    "power": 41,
+    "control": 57,
+    "handling": 58,
+    "forgiveness": 55,
+    "comfort": 52,
+    "value": 9
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "balance",
+    "face"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Hybrid",
+     "value": "hybrid",
+     "verbatim": "Forma Híbrida",
+     "source": "https://www.bullpadel.com/es/6951-wonder-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "350 to 360 g (12.3 to 12.7 oz)",
+     "min": 350,
+     "max": 360,
+     "verbatim": "Peso 350 - 360 g",
+     "source": "https://www.bullpadel.com/es/6951-wonder-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "25 cm (9.8 in)",
+     "value": null,
+     "mm": null,
+     "cm": 25,
+     "verbatim": "Balance Aprox. 25 cm",
+     "source": "https://www.bullpadel.com/es/6951-wonder-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/6951-wonder-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Fibrix",
+     "material": "Fibrix",
+     "verbatim": "Composición exterior Fibrix",
+     "source": "https://www.bullpadel.com/es/6951-wonder-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6951-wonder-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "La tecnología 3D Grain incorpora un patrón de rugosidad",
+     "source": "https://www.bullpadel.com/es/6951-wonder-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€339.99",
+     "value": 339.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-26",
+     "verbatim": "339.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6951-wonder-mx-ltd-26.html",
      "sourceType": "manufacturer"
     }
    }
