@@ -1,6 +1,6 @@
 # StarVie padel rackets: published specifications
 
-18 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+19 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [StarVie Astrum + 2026](https://padeltrue.com/rackets/starvie-astrum-plus-2026) | 2026 | Teardrop | 352 to 368 g (12.4 to 13.0 oz) | Medium | M-EVA BALANCE | €209.30 | 48 | 50 | 41 | [product page](https://www.starvie.com/products/astrum) |
 | [StarVie Raptor + 2026](https://padeltrue.com/rackets/starvie-raptor-plus-2026) | 2026 | Teardrop | 360 to 376 g (12.7 to 13.3 oz) | Medium | M-EVA BALANCE | €220.50 | 51 | 50 | 39 | [product page](https://www.starvie.com/products/raptor) |
 | [StarVie Tritón Power + 2026](https://padeltrue.com/rackets/starvie-triton-power-plus-2026) | 2026 | Diamond | 350 to 366 g (12.3 to 12.9 oz) | High | H-EVA Power | €148 | 80 | 10 | 44 | [product page](https://www.starvie.com/products/triton-power-2026) |
+| [StarVie Drax Soft 2025](https://padeltrue.com/rackets/starvie-drax-soft-2025) | 2025 | Teardrop | 356 to 365 g (12.6 to 12.9 oz) | Medium | goma soft 30 | €110 | 49 | 50 | 51 | [product page](https://www.starvie.com/products/drax-2025) |
 | [StarVie Arkos](https://padeltrue.com/rackets/starvie-arkos) |  | Round | 350 to 366 g (12.3 to 12.9 oz) | Low | Soft, S-EVA FLEX | €105 | 16 | 90 | 86 | [product page](https://www.starvie.com/products/arkos) |
 | [StarVie Black Titan](https://padeltrue.com/rackets/starvie-black-titan) |  | Hybrid | 360 to 376 g (12.7 to 13.3 oz) | High | H-EVA POWER | €224 | 60 | 41 | 31 | [product page](https://www.starvie.com/products/black-titan) |
 | [StarVie Kyra](https://padeltrue.com/rackets/starvie-kyra) |  | Round | 340 to 360 g (12.0 to 12.7 oz) | Low | Soft, EVA (S-Eva Flex) | €99 | 13 | 90 | 88 | [product page](https://starvie.com/en/products/padel-racket-kyra) |

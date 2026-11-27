@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-26",
+ "built": "2026-11-27",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 395,
+ "count": 397,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -14330,6 +14330,95 @@
      "checkedOn": "2026-11-06",
      "verbatim": "379.99 EUR (schema.org offer)",
      "source": "https://www.bullpadel.com/es/6937-xplo-02-fip-wc-arg-26.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "bullpadel-xplo-02-mx-ltd-26",
+   "name": "Bullpadel XPLO 02 MX LTD 26",
+   "brand": "Bullpadel",
+   "year": null,
+   "url": "https://padeltrue.com/rackets/bullpadel-xplo-02-mx-ltd-26",
+   "productUrl": "https://www.bullpadel.com/es/6956-xplo-mx-ltd-26.html",
+   "level": "Profesional",
+   "player": "Martín Di Nenno",
+   "ratings": {
+    "power": 66,
+    "control": 34,
+    "handling": 26,
+    "forgiveness": 35,
+    "comfort": 23,
+    "value": 7
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "shape"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/6956-xplo-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High, 27 cm (10.6 in)",
+     "value": "high",
+     "mm": null,
+     "cm": 27,
+     "verbatim": "Balance Aprox. 27 cm²",
+     "source": "https://www.bullpadel.com/es/6956-xplo-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, MultiEVA",
+     "value": "medium-hard",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio / Duro",
+     "source": "https://www.bullpadel.com/es/6956-xplo-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 3K",
+     "material": "X-Tend Carbon 3K",
+     "verbatim": "Composición exterior X-Tend Carbon 3K",
+     "source": "https://www.bullpadel.com/es/6956-xplo-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "carbono de alta resistencia",
+     "material": "carbono de alta resistencia",
+     "verbatim": "estructura de carbono de alta resistencia",
+     "source": "https://www.bullpadel.com/es/6956-xplo-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/6956-xplo-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "incorpora un patrón de rugosidad",
+     "source": "https://www.bullpadel.com/es/6956-xplo-mx-ltd-26.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€379.99",
+     "value": 379.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-27",
+     "verbatim": "379.99 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/6956-xplo-mx-ltd-26.html",
      "sourceType": "manufacturer"
     }
    }
@@ -29591,6 +29680,75 @@
      "checkedOn": "2026-10-28",
      "verbatim": "198 EUR (schema.org offer)",
      "source": "https://www.starvie.com/products/drax",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "starvie-drax-soft-2025",
+   "name": "StarVie Drax Soft 2025",
+   "brand": "StarVie",
+   "year": 2025,
+   "url": "https://padeltrue.com/rackets/starvie-drax-soft-2025",
+   "productUrl": "https://www.starvie.com/products/drax-2025",
+   "level": "Intermedio",
+   "player": null,
+   "ratings": {
+    "power": 49,
+    "control": 50,
+    "handling": 54,
+    "forgiveness": 50,
+    "comfort": 51,
+    "value": 25
+   },
+   "inputsPublished": 3,
+   "inputsMissing": [
+    "core",
+    "face"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "en forma lágrima",
+     "source": "https://www.starvie.com/products/drax-2025",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "356 to 365 g (12.6 to 12.9 oz)",
+     "min": 356,
+     "max": 365,
+     "verbatim": "356-365 g",
+     "source": "https://www.starvie.com/products/drax-2025",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "Medium",
+     "value": "medium",
+     "mm": null,
+     "cm": null,
+     "verbatim": "Medio",
+     "source": "https://www.starvie.com/products/drax-2025",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "goma soft 30",
+     "value": null,
+     "material": "goma soft 30",
+     "verbatim": "goma soft 30",
+     "source": "https://www.starvie.com/products/drax-2025",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€110",
+     "value": 110,
+     "currency": "EUR",
+     "checkedOn": "2026-11-27",
+     "verbatim": "110 EUR (schema.org offer)",
+     "source": "https://www.starvie.com/products/drax-2025",
      "sourceType": "manufacturer"
     }
    }
