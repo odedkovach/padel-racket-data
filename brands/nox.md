@@ -1,6 +1,6 @@
 # Nox padel rackets: published specifications
 
-49 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+50 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Nox AT10 Luxury GENIUS 12K 2025](https://padeltrue.com/rackets/nox-at10-luxury-genius-12k-2025) | 2025 | Teardrop | 360 to 375 g (12.7 to 13.2 oz) |  | Medium-hard, MLD Black Eva | €159.99 | 51 | 50 | 31 | [product page](https://noxsport.com/products/pala-at10-genius-12k-by-agustin-tapia) |
 | [Nox AT10 Luxury GENIUS 18K Alum 2025 by Agustín Tapia](https://padeltrue.com/rackets/nox-at10-luxury-genius-18k-alum-2025) | 2025 | Teardrop | 360 to 375 g (12.7 to 13.2 oz) |  | Medium, MLD Black Eva | €189.99 | 51 | 50 | 39 | [product page](https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia) |
 | [Nox AT10 Genius 18K Agustín Tapia 2024](https://padeltrue.com/rackets/nox-at10-genius-18k-agustin-tapia-2024) | 2024 | Teardrop |  | Medium | Medium, MLD Black EVA | €151.95 | 50 | 50 | 40 | [product page](https://www.padelnuestro.com/nox-at10-genius-18k-agustin-tapia-2024-110805-p) |
+| [Nox AT10 Luxury GENIUS 18K 2023 by Agustín Tapia](https://padeltrue.com/rackets/nox-at10-luxury-genius-18k-2023) | 2023 | Teardrop | 360 to 375 g (12.7 to 13.2 oz) |  | Medium-hard, HR3 | €159.99 | 51 | 50 | 31 | [product page](https://noxsport.com/products/pala-at10-genius-18k-by-agustin-tapia) |
 | [Nox AT10 Genius 18K Alum Argentina Exclusive Edition](https://padeltrue.com/rackets/nox-at10-genius-18k-alum-argentina-exclusive-edition) |  | Teardrop | 360 to 375 g (12.7 to 13.2 oz) |  | Medium, MLD Black Eva | €389.99 | 51 | 50 | 39 | [product page](https://noxsport.com/products/pala-at10-genius-18k-alum-by-agustin-tapia-bsas) |
 | [Nox NextGen Pro Attack 12K NFA Series](https://padeltrue.com/rackets/nox-nextgen-pro-attack-12k-nfa-series) |  | Diamond | 360 to 375 g (12.7 to 13.2 oz) |  | Medium-hard, MLD BLACK EVA | €199.99 | 69 | 26 | 31 | [product page](https://noxsport.com/products/pala-nextgen-pro-attack-12k-nfa-series) |
 | [Nox NextGen Pro Hybrid 12K NFA Series](https://padeltrue.com/rackets/nox-nextgen-pro-hybrid-12k-nfa-series) |  | Teardrop | 360 to 375 g (12.7 to 13.2 oz) |  | Medium-hard, MLD BLACK EVA | €199.99 | 51 | 50 | 31 | [product page](https://noxsport.com/products/pala-nextgen-pro-hybrid-12k-nfa-series) |

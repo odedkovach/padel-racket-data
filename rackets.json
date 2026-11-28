@@ -2,10 +2,10 @@
  "name": "PadelTrue padel racket dataset",
  "license": "CC BY 4.0",
  "attribution": "PadelTrue, https://padeltrue.com",
- "built": "2026-11-27",
+ "built": "2026-11-28",
  "modelVersion": "1.0",
  "methodology": "https://padeltrue.com/methodology",
- "count": 397,
+ "count": 399,
  "rackets": [
   {
    "slug": "adidas-2026-world-cup-argentina",
@@ -12031,6 +12031,101 @@
    }
   },
   {
+   "slug": "bullpadel-vertex-04-mx-2024",
+   "name": "Bullpadel Vertex 04 MX 2024",
+   "brand": "Bullpadel",
+   "year": 2024,
+   "url": "https://padeltrue.com/rackets/bullpadel-vertex-04-mx-2024",
+   "productUrl": "https://www.bullpadel.com/es/3790-pala-bullpadel-vertex-04-mx-24.html",
+   "level": "Profesional",
+   "player": "Juan Tello",
+   "ratings": {
+    "power": 84,
+    "control": 10,
+    "handling": 26,
+    "forgiveness": 24,
+    "comfort": 31,
+    "value": 13
+   },
+   "inputsPublished": 5,
+   "inputsMissing": [],
+   "profile": [
+    "power",
+    "demanding"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Diamond",
+     "value": "diamond",
+     "verbatim": "Forma Diamante",
+     "source": "https://www.bullpadel.com/es/3790-pala-bullpadel-vertex-04-mx-24.html",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "365 to 375 g (12.9 to 13.2 oz)",
+     "min": 365,
+     "max": 375,
+     "verbatim": "Peso 365 - 375 g",
+     "source": "https://www.bullpadel.com/es/3790-pala-bullpadel-vertex-04-mx-24.html",
+     "sourceType": "manufacturer"
+    },
+    "balance": {
+     "display": "High, 25.4 cm (10.0 in)",
+     "value": "high",
+     "mm": null,
+     "cm": 25.4,
+     "verbatim": "Balance Alto Balance Aprox. 25,4 cm",
+     "source": "https://www.bullpadel.com/es/3790-pala-bullpadel-vertex-04-mx-24.html",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium, MultiEVA",
+     "value": "medium",
+     "material": "MultiEVA",
+     "verbatim": "Tacto Intermedio",
+     "source": "https://www.bullpadel.com/es/3790-pala-bullpadel-vertex-04-mx-24.html",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "X-Tend Carbon 12K",
+     "material": "X-Tend Carbon 12K",
+     "verbatim": "Composición exterior X-Tend Carbon 12K",
+     "source": "https://www.bullpadel.com/es/3790-pala-bullpadel-vertex-04-mx-24.html",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "CarbonTube, 100% carbon fibre",
+     "material": "CarbonTube, 100% carbon fibre",
+     "verbatim": "sumarco CarbonTube de fibra de carbono 100%",
+     "source": "https://www.bullpadel.com/es/3790-pala-bullpadel-vertex-04-mx-24.html",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "Perfil 38 mm",
+     "source": "https://www.bullpadel.com/es/3790-pala-bullpadel-vertex-04-mx-24.html",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "Acabado rugoso Top Spin",
+     "source": "https://www.bullpadel.com/es/3790-pala-bullpadel-vertex-04-mx-24.html",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€244.97",
+     "value": 244.97,
+     "currency": "EUR",
+     "checkedOn": "2026-11-28",
+     "verbatim": "244.97 EUR (schema.org offer)",
+     "source": "https://www.bullpadel.com/es/3790-pala-bullpadel-vertex-04-mx-24.html",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
    "slug": "bullpadel-vertex-05-2026",
    "name": "Bullpadel Vertex 05 2026",
    "brand": "Bullpadel",
@@ -18927,6 +19022,93 @@
      "checkedOn": "2026-11-04",
      "verbatim": "219.99 EUR (schema.org offer)",
      "source": "https://noxsport.com/products/pala-at10-genius-12k-alum-xtrem-lite-2026-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    }
+   }
+  },
+  {
+   "slug": "nox-at10-luxury-genius-18k-2023",
+   "name": "Nox AT10 Luxury GENIUS 18K 2023 by Agustín Tapia",
+   "brand": "Nox",
+   "year": 2023,
+   "url": "https://padeltrue.com/rackets/nox-at10-luxury-genius-18k-2023",
+   "productUrl": "https://noxsport.com/products/pala-at10-genius-18k-by-agustin-tapia",
+   "level": "Profesional",
+   "player": "Agustín Tapia",
+   "ratings": {
+    "power": 51,
+    "control": 50,
+    "handling": 48,
+    "forgiveness": 35,
+    "comfort": 31,
+    "value": 17
+   },
+   "inputsPublished": 4,
+   "inputsMissing": [
+    "balance"
+   ],
+   "profile": [
+    "all-round"
+   ],
+   "specs": {
+    "shape": {
+     "display": "Teardrop",
+     "value": "teardrop",
+     "verbatim": "FORMA: Lágrima",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "weight": {
+     "display": "360 to 375 g (12.7 to 13.2 oz)",
+     "min": 360,
+     "max": 375,
+     "verbatim": "PESO: 360 - 375g",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "core": {
+     "display": "Medium-hard, HR3",
+     "value": "medium-hard",
+     "material": "HR3",
+     "verbatim": "TACTO : Medio-Duro",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "surface": {
+     "display": "Carbon Fiber 18K Alum",
+     "material": "Carbon Fiber 18K Alum",
+     "verbatim": "CARA: Carbon Fiber 18K Alum",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "frame": {
+     "display": "Carbono",
+     "material": "Carbono",
+     "verbatim": "MARCO: Carbono",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "thicknessMm": {
+     "display": "38 mm (1.5 in)",
+     "value": 38,
+     "verbatim": "ANCHO: 38 mm",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "roughSurface": {
+     "display": "Yes",
+     "value": true,
+     "verbatim": "SUPERFICIE: Rugosa",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-by-agustin-tapia",
+     "sourceType": "manufacturer"
+    },
+    "price": {
+     "display": "€159.99",
+     "value": 159.99,
+     "currency": "EUR",
+     "checkedOn": "2026-11-28",
+     "verbatim": "159.99 EUR (schema.org offer)",
+     "source": "https://noxsport.com/products/pala-at10-genius-18k-by-agustin-tapia",
      "sourceType": "manufacturer"
     }
    }

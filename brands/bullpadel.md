@@ -1,6 +1,6 @@
 # Bullpadel padel rackets: published specifications
 
-99 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
+100 rackets. The last column links to the recorded product page. Sources can differ by specification; each field's source URL and recorded wording are in rackets.json. The three ratings are calculated from those figures with the [printed formula](https://padeltrue.com/methodology). They are not court tests.
 
 | Racket | Year | Shape | Weight | Balance | Core | Price | Power | Control | Comfort | Product page |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Bullpadel XPLO Comfort 25](https://padeltrue.com/rackets/bullpadel-xplo-comfort-25) | 2025 | Diamond | 365 to 375 g (12.9 to 13.2 oz) | High | Medium, Multieva | €99.95 | 84 | 10 | 41 | [product page](https://www.padelnuestro.com/bullpadel-xplo-komfort-25-113778-p) |
 | [Bullpadel Vertex 04 2024](https://padeltrue.com/rackets/bullpadel-vertex-04-2024) | 2024 | Diamond | 365 to 375 g (12.9 to 13.2 oz) | High | Hard, Multieva | €119.95 | 84 | 10 | 15 | [product page](https://www.padelnuestro.com/bullpadel-vertex-04-110865-p) |
 | [Bullpadel Vertex 04 Comfort 2024](https://padeltrue.com/rackets/bullpadel-vertex-04-comfort-2024) | 2024 | Diamond | 360 to 370 g (12.7 to 13.1 oz) | High | Medium, MultiEva | €94.95 | 82 | 10 | 42 | [product page](https://www.padelnuestro.com/bullpadel-vertex-04-comfort-110866-p) |
+| [Bullpadel Vertex 04 MX 2024](https://padeltrue.com/rackets/bullpadel-vertex-04-mx-2024) | 2024 | Diamond | 365 to 375 g (12.9 to 13.2 oz) | High, 25.4 cm (10.0 in) | Medium, MultiEVA | €244.97 | 84 | 10 | 31 | [product page](https://www.bullpadel.com/es/3790-pala-bullpadel-vertex-04-mx-24.html) |
 | [Bullpadel Elite Light W Mujer 2023](https://padeltrue.com/rackets/bullpadel-elite-light-w-mujer-2023) | 2023 | Teardrop | 350 to 360 g (12.3 to 12.7 oz) | Medium | MultiEVA | €74.95 | 47 | 50 | 52 | [product page](https://www.padelnuestro.com/bullpadel-elite-light-w-mujer-2023-32433-p) |
 | [Bullpadel Indiga W Mujer 2023](https://padeltrue.com/rackets/bullpadel-indiga-w-mujer-2023) | 2023 | Round |  | Low | Soft, EVA soft | €49.95 | 18 | 90 | 84 | [product page](https://www.padelnuestro.com/bullpadel-indiga-w-mujer-2023-32439-p) |
 | [Bullpadel Discover PWR](https://padeltrue.com/rackets/bullpadel-discover-pwr) |  | Diamond | 360 to 370 g (12.7 to 13.1 oz) | High | Medium-soft, Soft EVA | €48.95 | 82 | 10 | 60 | [product page](https://www.padelnuestro.com/pala-bullpadel-discover-pwr-476580) |
